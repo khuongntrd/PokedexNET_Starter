@@ -1,0 +1,523 @@
+{
+  "names": {
+    "fr": "Manzaï",
+    "de": "Mobai",
+    "it": "Bonsly",
+    "en": "Bonsly"
+  },
+  "national_id": 438,
+  "types": [
+    "Rock"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy"
+    },
+    {
+      "name": "Rattled",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "33.1 lbs.",
+  "weight_eu": "15.0 kg",
+  "base_exp_yield": 58,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 80,
+    "def": 95,
+    "sp_atk": 10,
+    "sp_def": 45,
+    "speed": 10
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Fake Tears"
+    },
+    {
+      "level": 0,
+      "move": "Copycat"
+    },
+    {
+      "level": 5,
+      "move": "Flail"
+    },
+    {
+      "level": 8,
+      "move": "Low Kick"
+    },
+    {
+      "level": 12,
+      "move": "Rock Throw"
+    },
+    {
+      "level": 15,
+      "move": "Mimic"
+    },
+    {
+      "level": 19,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 22,
+      "move": "Rock Tomb"
+    },
+    {
+      "level": 26,
+      "move": "Block"
+    },
+    {
+      "level": 29,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 33,
+      "move": "Counter"
+    },
+    {
+      "level": 36,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 40,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Onix",
+      "move": "Curse"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Curse"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Golem",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Endure"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Endure"
+    },
+    {
+      "parent": "Onix",
+      "move": "Harden"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Harden"
+    },
+    {
+      "parent": "Nosepass",
+      "move": "Harden"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Harden"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Harden"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Harden"
+    },
+    {
+      "parent": "Vanillite",
+      "move": "Harden"
+    },
+    {
+      "parent": "Vanillish",
+      "move": "Harden"
+    },
+    {
+      "parent": "Vanilluxe",
+      "move": "Harden"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Harden"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Harden"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Glalie",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Golem",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Onix",
+      "move": "Sand Tomb"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Golem",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Golem",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Onix",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Stealth Rock"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Sudowoodo",
+      "move_learned": "Mimic"
+    }
+  ],
+  "alola_id": 30,
+  "categories": {
+    "en": "Bonsai Pokémon",
+    "de": "Bonsai"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": 92,
+  "unova_id": null,
+  "kalos_id": 129,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "It looks as if it is always crying. It is actually adjusting its body's fluid levels by eliminating excess.",
+      "de": "Es sieht aus, als würde es immer weinen. Dabei reguliert es nur seinen Wasserhaushalt."
+    },
+    "Pearl": {
+      "en": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
+      "de": "Es bevorzugt trockene Gebiete. Es gibt über die Augen Wasser ab, um den Wasserhaushalt zu regulieren."
+    },
+    "Platinum": {
+      "en": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+      "de": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus, entweicht ihm Wasser, das wie Tränen geformt ist."
+    },
+    "HeartGold": {
+      "en": "In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying.",
+      "de": "Es sieht aus, als würde es immer weinen. Dabei reguliert es nur seinen Wasserhaushalt."
+    },
+    "SoulSilver": {
+      "en": "In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying.",
+      "de": "Es sieht aus, als würde es immer weinen. Dabei reguliert es nur seinen Wasserhaushalt."
+    },
+    "Black": {
+      "en": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+      "de": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus, entweicht ihm Wasser, das wie Tränen geformt ist."
+    },
+    "White": {
+      "en": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+      "de": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus, entweicht ihm Wasser, das wie Tränen geformt ist."
+    },
+    "Black 2": {
+      "en": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+      "de": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus, entweicht ihm Wasser, das wie Tränen geformt ist."
+    },
+    "White 2": {
+      "en": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+      "de": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus, entweicht ihm Wasser, das wie Tränen geformt ist."
+    },
+    "X": {
+      "en": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
+      "de": "Es bevorzugt trockene Gebiete. Es gibt über die Augen Wasser ab, um den Wasserhaushalt zu regulieren."
+    },
+    "Y": {
+      "en": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+      "de": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus, entweicht ihm Wasser, das wie Tränen geformt ist."
+    },
+    "Omega Ruby": {
+      "en": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
+      "de": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus, entweicht ihm Wasser, das wie Tränen geformt ist."
+    },
+    "Alpha Sapphire": {
+      "en": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+      "de": "Mag es trocken. Gleicht es seinen Wasserhaushalt aus, entweicht ihm Wasser, das wie Tränen geformt ist."
+    },
+    "Sun": {
+      "en": "It does not deal well with water, so it lives in dry locales. Since its surroundings tend to lack greenery, it stands out noticeably.",
+      "de": "Es mag kein Wasser und lebt an trockenen Orten. Da es in seiner Umgebung nur wenig grüne Pflanzen gibt, sticht es deutlich heraus."
+    },
+    "Moon": {
+      "en": "From its eyes, it can expel excess moisture from its body. This liquid is similar in composition to human sweat.",
+      "de": "Überschüssiges Wasser in seinem Körper scheidet es über die Augen aus. Dieses ist vergleichbar mit dem Schweiß des Menschen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      3,
+      3
+    ],
+    "stamina": [
+      4,
+      4
+    ],
+    "skill": [
+      1,
+      3
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

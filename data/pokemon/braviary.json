@@ -1,0 +1,376 @@
+{
+  "names": {
+    "fr": "Gueriaigle",
+    "de": "Washakwil",
+    "it": "Braviary",
+    "en": "Braviary"
+  },
+  "national_id": 628,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye"
+    },
+    {
+      "name": "Defiant",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 100.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "90.4 lbs.",
+  "weight_eu": "41.0 kg",
+  "base_exp_yield": 179,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 100,
+    "atk": 123,
+    "def": 75,
+    "sp_atk": 57,
+    "sp_def": 75,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Thrash"
+    },
+    {
+      "level": 0,
+      "move": "Brave Bird"
+    },
+    {
+      "level": 0,
+      "move": "Whirlwind"
+    },
+    {
+      "level": 0,
+      "move": "Superpower"
+    },
+    {
+      "level": 0,
+      "move": "Peck"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 0,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 5,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 10,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 14,
+      "move": "Hone Claws"
+    },
+    {
+      "level": 19,
+      "move": "Scary Face"
+    },
+    {
+      "level": 23,
+      "move": "Aerial Ace"
+    },
+    {
+      "level": 28,
+      "move": "Slash"
+    },
+    {
+      "level": 32,
+      "move": "Defog"
+    },
+    {
+      "level": 37,
+      "move": "Tailwind"
+    },
+    {
+      "level": 41,
+      "move": "Air Slash"
+    },
+    {
+      "level": 46,
+      "move": "Crush Claw"
+    },
+    {
+      "level": 50,
+      "move": "Sky Drop"
+    },
+    {
+      "level": 51,
+      "move": "Superpower"
+    },
+    {
+      "level": 57,
+      "move": "Whirlwind"
+    },
+    {
+      "level": 63,
+      "move": "Brave Bird"
+    },
+    {
+      "level": 70,
+      "move": "Thrash"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM58",
+      "move": "Sky Drop"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ],
+  "evolution_from": "Rufflet",
+  "alola_id": 76,
+  "categories": {
+    "en": "Valiant Pokémon",
+    "de": "Kühnheit"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": 134,
+  "kalos_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+      "de": "Für Freunde stürzt es sich selbstlos in den Kampf. Es kann mit seinen Krallen Autos durch die Lüfte tragen."
+    },
+    "White": {
+      "en": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
+      "de": "Ein tapferer Krieger der Lüfte. Je mehr Narben es vorweisen kann, desto mehr Respekt zollen ihm seine Artgenossen."
+    },
+    "Black 2": {
+      "en": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+      "de": "Ein tapferer Krieger der Lüfte, der zum Schutz seiner Kameraden auch mit Verletzungen immer weiterkämpft."
+    },
+    "White 2": {
+      "en": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+      "de": "Ein tapferer Krieger der Lüfte, der zum Schutz seiner Kameraden auch mit Verletzungen immer weiterkämpft."
+    },
+    "X": {
+      "en": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+      "de": "Ein tapferer Krieger der Lüfte, der zum Schutz seiner Kameraden auch mit Verletzungen immer weiterkämpft."
+    },
+    "Y": {
+      "en": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+      "de": "Für Freunde stürzt es sich selbstlos in den Kampf. Es kann mit seinen Krallen Autos durch die Lüfte tragen."
+    },
+    "Omega Ruby": {
+      "en": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+      "de": "Für Freunde stürzt es sich selbstlos in den Kampf. Es kann mit seinen Krallen Autos durch die Lüfte tragen."
+    },
+    "Alpha Sapphire": {
+      "en": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+      "de": "Für Freunde stürzt es sich selbstlos in den Kampf. Es kann mit seinen Krallen Autos durch die Lüfte tragen."
+    },
+    "Sun": {
+      "en": "With its brave disposition, it fears nothing—not even death. Ancient Alolan people respected it, referring to it as \"the hero of the sky.\"",
+      "de": "Dieses tapfere Pokémon fürchtet nicht einmal den Tod. Die Bewohner von Alola nannten es in grauer Vorzeit ehrfürchtig „Krieger der Lüfte“."
+    },
+    "Moon": {
+      "en": "It's thought that people disturbed their habitats in the past, so Braviary banded together to fight back.",
+      "de": "Als die Menschen einst ihren Lebensraum bedrohten, schlossen sich alle Washakwil zusammen und bekämpften sie."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "names": {
+    "fr": "Galekid",
+    "de": "Stollunior",
+    "it": "Aron",
+    "en": "Aron"
+  },
+  "national_id": 304,
+  "types": [
+    "Steel",
+    "Rock"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy"
+    },
+    {
+      "name": "Heavy Metal",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 180,
+  "egg_groups": [
+    "Monster"
+  ],
+  "hatch_time": [
+    9180,
+    9434
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "132.3 lbs.",
+  "weight_eu": "60.0 kg",
+  "base_exp_yield": 66,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 50,
+    "atk": 70,
+    "def": 100,
+    "sp_atk": 40,
+    "sp_def": 40,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 4,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 7,
+      "move": "Headbutt"
+    },
+    {
+      "level": 10,
+      "move": "Metal Claw"
+    },
+    {
+      "level": 13,
+      "move": "Rock Tomb"
+    },
+    {
+      "level": 16,
+      "move": "Protect"
+    },
+    {
+      "level": 19,
+      "move": "Roar"
+    },
+    {
+      "level": 22,
+      "move": "Iron Head"
+    },
+    {
+      "level": 25,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 28,
+      "move": "Take Down"
+    },
+    {
+      "level": 31,
+      "move": "Metal Sound"
+    },
+    {
+      "level": 34,
+      "move": "Iron Tail"
+    },
+    {
+      "level": 37,
+      "move": "Iron Defense"
+    },
+    {
+      "level": 40,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 43,
+      "move": "Autotomize"
+    },
+    {
+      "level": 46,
+      "move": "Heavy Slam"
+    },
+    {
+      "level": 49,
+      "move": "Metal Burst"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Curse"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Curse"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gible",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gabite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Head Smash"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Head Smash"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Head Smash"
+    },
+    {
+      "parent": "Aron",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Screech"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Screech"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Screech"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Screech"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Screech"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Treecko",
+      "move": "Screech"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Screech"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Screech"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Screech"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Screech"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Screech"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Screech"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Screech"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Smelling Salts"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Smelling Salts"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Smelling Salts"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Smelling Salts"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Smelling Salts"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Superpower"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Lairon",
+      "level": 32
+    }
+  ],
+  "categories": {
+    "en": "Iron Armor Pokémon",
+    "de": "Eisenpanzer"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 72,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 99,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "This Pokémon has a body of steel. To make its body, Aron feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails.",
+      "de": "Dieses Pokémon hat einen Körper aus Stahl. Stollunior ernährt sich von Eisenerz aus den Bergen. Zuweilen richtet es großen Schaden an, weil es Brücken und Bahngleise auffrisst."
+    },
+    "Sapphire": {
+      "en": "Aron has a body of steel. With one all-out charge, this Pokémon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pokémon.",
+      "de": "Stolluniors Körper besteht aus Stahl. Mit 1 Schlag kann dieses Pokémon einen Schwerlasttransporter demolieren. Der Lastwagen stellt danach eine handliche Mahlzeit für dieses Pokémon dar."
+    },
+    "Emerald": {
+      "en": "A Pokémon that is clad in steel armor. A new suit of armor is made when it evolves. The old, discarded armor is salvaged as metal for making iron products.",
+      "de": "Es steckt in einem Stahlpanzer. Bei der Entwicklung entsteht ein neuer Panzer. Der abgeworfene Panzer wird eingesammelt, um aus ihm Eisenwaren herzustellen."
+    },
+    "FireRed": {
+      "en": "It eats iron to build its steel body. It is a pest that descends from mountains to eat bridges and train tracks.",
+      "de": "Es frisst Eisen, um seinen stählernen Körper zu nähren. Diese Plage kommt aus den Bergen und frisst Brücken und Eisenbahngleise."
+    },
+    "LeafGreen": {
+      "en": "It eats iron to build its steel body. It is a pest that descends from mountains to eat bridges and train tracks.",
+      "de": "Es frisst Eisen, um seinen stählernen Körper zu nähren. Diese Plage kommt aus den Bergen und frisst Brücken und Eisenbahngleise."
+    },
+    "Diamond": {
+      "en": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+      "de": "Normalerweise lebt es in dunklen Bergen. Ist es hungrig, frisst es auch Eisenbahnschienen und Autos."
+    },
+    "Pearl": {
+      "en": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+      "de": "Normalerweise lebt es in dunklen Bergen. Ist es hungrig, frisst es auch Eisenbahnschienen und Autos."
+    },
+    "Platinum": {
+      "en": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+      "de": "Normalerweise lebt es in dunklen Bergen. Ist es hungrig, frisst es auch Eisenbahnschienen und Autos."
+    },
+    "HeartGold": {
+      "en": "When it evolves, it sheds the steel carapace that covered its whole body and develops a new one.",
+      "de": "Normalerweise lebt es in dunklen Bergen. Ist es hungrig, frisst es auch Eisenbahnschienen und Autos."
+    },
+    "SoulSilver": {
+      "en": "When it evolves, it sheds the steel carapace that covered its whole body and develops a new one.",
+      "de": "Normalerweise lebt es in dunklen Bergen. Ist es hungrig, frisst es auch Eisenbahnschienen und Autos."
+    },
+    "Black": {
+      "en": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+      "de": "Normalerweise lebt es in dunklen Bergen. Ist es hungrig, frisst es auch Eisenbahnschienen und Autos."
+    },
+    "White": {
+      "en": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+      "de": "Normalerweise lebt es in dunklen Bergen. Ist es hungrig, frisst es auch Eisenbahnschienen und Autos."
+    },
+    "Black 2": {
+      "en": "In order to build up its steel body, it eats iron ore. This pesky Pokémon is known to eat railroad tracks.",
+      "de": "Es baut sich einen Körper aus Stahl auf, indem es Eisenerz verzehrt. Gelegentlich frisst es auch Schienenteile auf."
+    },
+    "White 2": {
+      "en": "In order to build up its steel body, it eats iron ore. This pesky Pokémon is known to eat railroad tracks.",
+      "de": "Es baut sich einen Körper aus Stahl auf, indem es Eisenerz verzehrt. Gelegentlich frisst es auch Schienenteile auf."
+    },
+    "X": {
+      "en": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+      "de": "Normalerweise lebt es in dunklen Bergen. Ist es hungrig, frisst es auch Eisenbahnschienen und Autos."
+    },
+    "Y": {
+      "en": "When it evolves, it sheds the steel carapace that covered its whole body and develops a new one.",
+      "de": "Entwickelt es sich, wirft es seinen alten Stahlpanzer ab und bildet einen neuen aus."
+    },
+    "Omega Ruby": {
+      "en": "This Pokémon has a body of steel. To make its body, Aron feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails.",
+      "de": "Dieses Pokémon hat einen Körper aus Stahl. Stollunior ernährt sich von Eisenerz aus den Bergen. Zuweilen richtet es großen Schaden an, weil es Brücken und Bahngleise auffrisst."
+    },
+    "Alpha Sapphire": {
+      "en": "Aron has a body of steel. With one all-out charge, this Pokémon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pokémon.",
+      "de": "Stolluniors Körper besteht aus Stahl. Mit einem Schlag kann dieses Pokémon einen Schwerlasttransporter demolieren. Der Lastwagen stellt danach eine handliche Mahlzeit für dieses Pokémon dar."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      4,
+      4
+    ],
+    "stamina": [
+      3,
+      3
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

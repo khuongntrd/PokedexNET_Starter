@@ -1,0 +1,637 @@
+{
+  "names": {
+    "fr": "Lanturn",
+    "de": "Lanturn",
+    "it": "Lanturn",
+    "en": "Lanturn"
+  },
+  "national_id": 171,
+  "types": [
+    "Water",
+    "Electric"
+  ],
+  "abilities": [
+    {
+      "name": "Volt Absorb"
+    },
+    {
+      "name": "Water Absorb",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "49.6 lbs.",
+  "weight_eu": "22.5 kg",
+  "base_exp_yield": 161,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 125,
+    "atk": 58,
+    "def": 58,
+    "sp_atk": 76,
+    "sp_def": 76,
+    "speed": 67
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Eerie Impulse"
+    },
+    {
+      "level": 0,
+      "move": "Bubble"
+    },
+    {
+      "level": 0,
+      "move": "Supersonic"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 0,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 6,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 9,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 12,
+      "move": "Water Gun"
+    },
+    {
+      "level": 17,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 20,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 23,
+      "move": "Spark"
+    },
+    {
+      "level": 27,
+      "move": "Stockpile"
+    },
+    {
+      "level": 27,
+      "move": "Spit Up"
+    },
+    {
+      "level": 27,
+      "move": "Swallow"
+    },
+    {
+      "level": 29,
+      "move": "Signal Beam"
+    },
+    {
+      "level": 33,
+      "move": "Flail"
+    },
+    {
+      "level": 37,
+      "move": "Discharge"
+    },
+    {
+      "level": 43,
+      "move": "Take Down"
+    },
+    {
+      "level": 47,
+      "move": "Aqua Ring"
+    },
+    {
+      "level": 51,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 54,
+      "move": "Ion Deluge"
+    },
+    {
+      "level": 58,
+      "move": "Charge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Agility"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Agility"
+    },
+    {
+      "parent": "Carvanha",
+      "move": "Agility"
+    },
+    {
+      "parent": "Sharpedo",
+      "move": "Agility"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Agility"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Flail"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Magikarp",
+      "move": "Flail"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Flail"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Flail"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Flail"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Flail"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Mist"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Inkay",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Malamar",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Carvanha",
+      "move": "Screech"
+    },
+    {
+      "parent": "Sharpedo",
+      "move": "Screech"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Soak"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Soak"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Soak"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Soak"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Soak"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Soak"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Soak"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Soak"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Whirlpool"
+    }
+  ],
+  "evolution_from": "Chinchou",
+  "alola_id": 202,
+  "categories": {
+    "en": "Light Pokémon",
+    "de": "Leuchte"
+  },
+  "kanto_id": null,
+  "johto_id": 177,
+  "hoenn_id": 191,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 148,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+      "de": "Sein Licht ist so hell, dass es selbst vom Meeresgrund aus 5000 Metern Tiefe an die Oberfläche dringt."
+    },
+    "Silver": {
+      "en": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
+      "de": "Es blendet seine Beute mit einem starken Blitz und verschlingt die gelähmte Beute mit einem Schluck."
+    },
+    "Crystal": {
+      "en": "This Pokémon uses the bright part of its body, which changed from a dorsal fin, to lure prey.",
+      "de": "Dieses Pokémon nutzt das helle Licht, das aus einer Rückenflosse entstanden ist, um Beute anzulocken."
+    },
+    "Ruby": {
+      "en": "Lanturn is nicknamed \"the deep-sea star\" for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+      "de": "Lanturn wird auch \"Tiefseestern\" genannt, da es leuchtende Antennen besitzt. Dieses Pokémon erzeugt Licht, indem es in den Antennen eine chemische Reaktion zwischen Bakterien und seinen Körperflüssigkeiten erzeugt."
+    },
+    "Sapphire": {
+      "en": "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon's light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
+      "de": "Lanturn strahlt Licht ab. Wenn du nachts aufs dunkle Meer hinausblickst, kannst du vielleicht das Licht dieses Pkmn aus der Tiefe, in der es schwimmt, heraufschimmern sehen. Es lässt das Meer wie eine sternklare Nacht wirken."
+    },
+    "Emerald": {
+      "en": "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pokémon illuminates the inky darkness of deep seas.",
+      "de": "Seine Leuchten sind sehr stark. Sie wurden aus Teilen seiner Rückenflosse gebildet. LANTURN erhellt die finstersten Meeresgründe."
+    },
+    "FireRed": {
+      "en": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
+      "de": "Es blendet seine Beute mit einem starken Blitz und verschlingt die gelähmte Beute mit einem Schluck."
+    },
+    "LeafGreen": {
+      "en": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+      "de": "Sein Licht ist so hell, dass es selbst vom Meeresgrund aus 5000 Metern Tiefe an die Oberfläche dringt."
+    },
+    "Diamond": {
+      "en": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+      "de": "LANTURNs Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch “Tiefseestern”."
+    },
+    "Pearl": {
+      "en": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+      "de": "LANTURNs Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch “Tiefseestern”."
+    },
+    "Platinum": {
+      "en": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+      "de": "LANTURNs Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch Tiefseestern."
+    },
+    "HeartGold": {
+      "en": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+      "de": "LANTURNs Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch “Tiefseestern”."
+    },
+    "SoulSilver": {
+      "en": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.",
+      "de": "LANTURNs Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch “Tiefseestern”."
+    },
+    "Black": {
+      "en": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+      "de": "Lanturns Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch „Tiefseestern“."
+    },
+    "White": {
+      "en": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+      "de": "Lanturns Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch „Tiefseestern“."
+    },
+    "Black 2": {
+      "en": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+      "de": "Lanturns Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch „Tiefseestern“."
+    },
+    "White 2": {
+      "en": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+      "de": "Lanturns Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch „Tiefseestern“."
+    },
+    "X": {
+      "en": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+      "de": "Lanturns Licht kann aus großen Tiefen heraufscheinen. Man nennt es auch „Tiefseestern“."
+    },
+    "Y": {
+      "en": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.",
+      "de": "Es blendet seine Beute mit einem starken Blitz und verschlingt die gelähmte Beute mit einem Schluck."
+    },
+    "Omega Ruby": {
+      "en": "Lanturn is nicknamed \"the deep-sea star\" for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+      "de": "Lanturn wird auch ''Tiefseestern'' genannt, da es eine leuchtende Antenne besitzt. Dieses Pokémon erzeugt Licht, indem es in der Antenne eine chemische Reaktion zwischen Bakterien und seinen Körperflüssigkeiten erzeugt."
+    },
+    "Alpha Sapphire": {
+      "en": "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon's light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
+      "de": "Lanturn strahlt Licht ab. Wenn du nachts aufs dunkle Meer hinausblickst, kannst du vielleicht das Licht dieses Pokémon aus der Tiefe, in der es schwimmt, heraufschimmern sehen. Es lässt das Meer wie eine sternklare Nacht wirken."
+    },
+    "Sun": {
+      "en": "Should you peer into the ocean at night and see a light shining like the stars, that is Lanturn.",
+      "de": "Blickt man nachts in die Tiefen des Meeres hinab und sieht am Grund ein helles Licht, handelt es sich dabei um ein Lanturn."
+    },
+    "Moon": {
+      "en": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+      "de": "Es blendet seine Beute mit einem starken Blitz. Sieht es eine Chance zuzuschlagen, greift es sie mit Elektrizität an."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      4,
+      4
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      3,
+      4
+    ]
+  }
+}

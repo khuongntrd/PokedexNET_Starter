@@ -1,0 +1,377 @@
+{
+  "names": {
+    "fr": "Créhelf",
+    "de": "Selfe",
+    "it": "Uxie",
+    "en": "Uxie"
+  },
+  "national_id": 480,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 3,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    20655,
+    20909
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "0.7 lbs.",
+  "weight_eu": "0.3 kg",
+  "base_exp_yield": 261,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 140,
+  "base_stats": {
+    "hp": 75,
+    "atk": 75,
+    "def": 130,
+    "sp_atk": 75,
+    "sp_def": 130,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Memento"
+    },
+    {
+      "level": 0,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 0,
+      "move": "Flail"
+    },
+    {
+      "level": 0,
+      "move": "Rest"
+    },
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 6,
+      "move": "Imprison"
+    },
+    {
+      "level": 16,
+      "move": "Endure"
+    },
+    {
+      "level": 21,
+      "move": "Swift"
+    },
+    {
+      "level": 31,
+      "move": "Yawn"
+    },
+    {
+      "level": 36,
+      "move": "Future Sight"
+    },
+    {
+      "level": 46,
+      "move": "Amnesia"
+    },
+    {
+      "level": 50,
+      "move": "Extrasensory"
+    },
+    {
+      "level": 61,
+      "move": "Flail"
+    },
+    {
+      "level": 66,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 76,
+      "move": "Memento"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "categories": {
+    "en": "Knowledge Pokémon",
+    "de": "Wissen"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": 146,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "Known as \"The Being of Knowledge.\" It is said that it can wipe out the memory of those who see its eyes.",
+      "de": "“Das wissende Wesen”. Es soll die Erinnerungen derer löschen, die ihm in die Augen sehen."
+    },
+    "Pearl": {
+      "en": "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+      "de": "Man sagt, dass durch sein Auf- tauchen Menschen die Intelligenz erhielten, ihr Leben zu verbessern."
+    },
+    "Platinum": {
+      "en": "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.",
+      "de": "Als SELFE flog, erlangten Menschen die Fähigkeit Probleme zu lösen. Es war die Geburt des Wissens."
+    },
+    "HeartGold": {
+      "en": "According to some sources, this Pokémon provided people with the intelligence necessary to solve various problems.",
+      "de": "“Das wissende Wesen”. Es soll die Erinnerungen derer löschen, die ihm in die Augen sehen."
+    },
+    "SoulSilver": {
+      "en": "According to some sources, this Pokémon provided people with the intelligence necessary to solve various problems.",
+      "de": "“Das wissende Wesen”. Es soll die Erinnerungen derer löschen, die ihm in die Augen sehen."
+    },
+    "Black": {
+      "en": "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.",
+      "de": "Als Selfe flog, erlangten Menschen die Fähigkeit, Probleme zu lösen. Es war die Geburt des Wissens."
+    },
+    "White": {
+      "en": "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.",
+      "de": "Als Selfe flog, erlangten Menschen die Fähigkeit, Probleme zu lösen. Es war die Geburt des Wissens."
+    },
+    "Black 2": {
+      "en": "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.",
+      "de": "Als Selfe flog, erlangten Menschen die Fähigkeit, Probleme zu lösen. Es war die Geburt des Wissens."
+    },
+    "White 2": {
+      "en": "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.",
+      "de": "Als Selfe flog, erlangten Menschen die Fähigkeit, Probleme zu lösen. Es war die Geburt des Wissens."
+    },
+    "X": {
+      "en": "Known as \"The Being of Knowledge.\" It is said that it can wipe out the memory of those who see its eyes.",
+      "de": "„Das wissende Wesen“. Es soll die Erinnerungen derer löschen, die ihm in die Augen sehen."
+    },
+    "Y": {
+      "en": "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+      "de": "Man sagt, dass durch sein Auftauchen Menschen die Intelligenz erhielten, ihr Leben zu verbessern."
+    },
+    "Omega Ruby": {
+      "en": "Known as \"The Being of Knowledge.\" It is said that it can wipe out the memory of those who see its eyes.",
+      "de": "Man sagt, dass durch sein Auftauchen Menschen die Intelligenz erhielten, ihr Leben zu verbessern."
+    },
+    "Alpha Sapphire": {
+      "en": "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+      "de": "Man sagt, dass durch sein Auftauchen Menschen die Intelligenz erhielten, ihr Leben zu verbessern."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      3,
+      4
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      4,
+      5
+    ]
+  }
+}

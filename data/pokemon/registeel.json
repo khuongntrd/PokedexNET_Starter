@@ -1,0 +1,433 @@
+{
+  "names": {
+    "fr": "Registeel",
+    "de": "Registeel",
+    "it": "Registeel",
+    "en": "Registeel"
+  },
+  "national_id": 379,
+  "types": [
+    "Steel"
+  ],
+  "abilities": [
+    {
+      "name": "Clear Body"
+    },
+    {
+      "name": "Light Metal",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 3,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    20655,
+    20909
+  ],
+  "height_us": "6'03\"",
+  "height_eu": "1.9 m",
+  "weight_us": "451.9 lbs.",
+  "weight_eu": "205.0 kg",
+  "base_exp_yield": 261,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 80,
+    "atk": 75,
+    "def": 150,
+    "sp_atk": 75,
+    "sp_def": 150,
+    "speed": 50
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Hammer Arm"
+    },
+    {
+      "level": 0,
+      "move": "Iron Head"
+    },
+    {
+      "level": 0,
+      "move": "Zap Cannon"
+    },
+    {
+      "level": 0,
+      "move": "Lock-On"
+    },
+    {
+      "level": 0,
+      "move": "Explosion"
+    },
+    {
+      "level": 0,
+      "move": "Stomp"
+    },
+    {
+      "level": 0,
+      "move": "Metal Claw"
+    },
+    {
+      "level": 0,
+      "move": "Charge Beam"
+    },
+    {
+      "level": 0,
+      "move": "Bulldoze"
+    },
+    {
+      "level": 7,
+      "move": "Metal Claw"
+    },
+    {
+      "level": 13,
+      "move": "Charge Beam"
+    },
+    {
+      "level": 19,
+      "move": "Bulldoze"
+    },
+    {
+      "level": 25,
+      "move": "Curse"
+    },
+    {
+      "level": 31,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 37,
+      "move": "Iron Defense"
+    },
+    {
+      "level": 37,
+      "move": "Amnesia"
+    },
+    {
+      "level": 43,
+      "move": "Iron Head"
+    },
+    {
+      "level": 43,
+      "move": "Flash Cannon"
+    },
+    {
+      "level": 49,
+      "move": "Hammer Arm"
+    },
+    {
+      "level": 55,
+      "move": "Lock-On"
+    },
+    {
+      "level": 55,
+      "move": "Zap Cannon"
+    },
+    {
+      "level": 61,
+      "move": "Superpower"
+    },
+    {
+      "level": 67,
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ],
+  "categories": {
+    "en": "Iron Pokémon",
+    "de": "Eisen"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 204,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats.",
+      "de": "Registeel hat einen Körper, der härter ist als jede Art von Metall. Sein Körper scheint hohl zu sein. Niemand hat eine Ahnung, was dieses Pokémon wohl frisst."
+    },
+    "Sapphire": {
+      "en": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
+      "de": "Registeel wurde in der Antike von den Menschen eingesperrt. Das Metall, aus dem sein Körper besteht, ist eine seltsame Substanz, die nicht von dieser Welt sein soll."
+    },
+    "Emerald": {
+      "en": "Its body is harder than any other kind of metal. The body metal is composed of a mysterious substance. Not only is it hard, it shrinks and stretches flexibly.",
+      "de": "Sein Körper ist härter als jede andere Art Metall, da das Metall aus geheimnisvollen Substanzen besteht. Es ist nicht nur fest, sondern schrumpft und dehnt sich auch."
+    },
+    "FireRed": {
+      "en": "It is sturdier than any kind of metal. It hardened due to pressure underground over tens of thousands of years.",
+      "de": "Es ist härter als jede Form von Metall. Durch den enormen Druck unter der Erde ist es im Laufe von zehntausenden von Jahren so hart geworden."
+    },
+    "LeafGreen": {
+      "en": "It is sturdier than any kind of metal. It hardened due to pressure underground over tens of thousands of years.",
+      "de": "Es ist härter als jede Form von Metall. Durch den enormen Druck unter der Erde ist es im Laufe von zehntausenden von Jahren so hart geworden."
+    },
+    "Diamond": {
+      "en": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck u. Wärme hart."
+    },
+    "Pearl": {
+      "en": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck u. Wärme hart."
+    },
+    "Platinum": {
+      "en": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck und Wärme hart."
+    },
+    "HeartGold": {
+      "en": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck u. Wärme hart."
+    },
+    "SoulSilver": {
+      "en": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck u. Wärme hart."
+    },
+    "Black": {
+      "en": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck und Wärme hart."
+    },
+    "White": {
+      "en": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck und Wärme hart."
+    },
+    "Black 2": {
+      "en": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck und Wärme hart."
+    },
+    "White 2": {
+      "en": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck und Wärme hart."
+    },
+    "X": {
+      "en": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+      "de": "Im Laufe der Jahrtausende, die es unterirdisch lebte, wurde sein Körper durch Druck und Wärme hart."
+    },
+    "Y": {
+      "en": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
+      "de": "Sein Körper ist härter als jedes andere Metall. Untersuchungen zufolge ist es innen hohl."
+    },
+    "Omega Ruby": {
+      "en": "Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats.",
+      "de": "Registeel hat einen Körper, der härter ist als jede Art von Metall. Sein Körper scheint hohl zu sein. Niemand hat eine Ahnung, was dieses Pokémon wohl frisst."
+    },
+    "Alpha Sapphire": {
+      "en": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
+      "de": "Registeel wurde vor langer Zeit von den Menschen eingesperrt. Das Metall, aus dem sein Körper besteht, ist eine seltsame Substanz, die nicht von dieser Welt sein soll."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      2
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      5,
+      5
+    ],
+    "skill": [
+      5,
+      5
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

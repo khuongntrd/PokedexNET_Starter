@@ -1,0 +1,616 @@
+{
+  "names": {
+    "fr": "Avaltout",
+    "de": "Schlukwech",
+    "it": "Swalot",
+    "en": "Swalot"
+  },
+  "national_id": 317,
+  "types": [
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Liquid Ooze"
+    },
+    {
+      "name": "Gluttony",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "5'07\"",
+  "height_eu": "1.7 m",
+  "weight_us": "176.4 lbs.",
+  "weight_eu": "80.0 kg",
+  "base_exp_yield": 163,
+  "leveling_rate": "Fluctuating",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 100,
+    "atk": 73,
+    "def": 83,
+    "sp_atk": 73,
+    "sp_def": 83,
+    "speed": 55
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Gunk Shot"
+    },
+    {
+      "level": 0,
+      "move": "Wring Out"
+    },
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 0,
+      "move": "Yawn"
+    },
+    {
+      "level": 0,
+      "move": "Poison Gas"
+    },
+    {
+      "level": 0,
+      "move": "Sludge"
+    },
+    {
+      "level": 5,
+      "move": "Yawn"
+    },
+    {
+      "level": 8,
+      "move": "Poison Gas"
+    },
+    {
+      "level": 10,
+      "move": "Sludge"
+    },
+    {
+      "level": 12,
+      "move": "Amnesia"
+    },
+    {
+      "level": 17,
+      "move": "Acid Spray"
+    },
+    {
+      "level": 20,
+      "move": "Encore"
+    },
+    {
+      "level": 25,
+      "move": "Toxic"
+    },
+    {
+      "level": 26,
+      "move": "Body Slam"
+    },
+    {
+      "level": 30,
+      "move": "Stockpile"
+    },
+    {
+      "level": 30,
+      "move": "Spit Up"
+    },
+    {
+      "level": 30,
+      "move": "Swallow"
+    },
+    {
+      "level": 37,
+      "move": "Sludge Bomb"
+    },
+    {
+      "level": 42,
+      "move": "Gastro Acid"
+    },
+    {
+      "level": 49,
+      "move": "Belch"
+    },
+    {
+      "level": 54,
+      "move": "Wring Out"
+    },
+    {
+      "level": 61,
+      "move": "Gunk Shot"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Muk",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Curse"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Curse"
+    },
+    {
+      "parent": "Banette",
+      "move": "Curse"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Curse"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Curse"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Curse"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Curse"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Curse"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Wobbuffet",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Muk",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Muk",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Smog"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Smog"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Smog"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Smog"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Smog"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Smog"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Venom Drench"
+    }
+  ],
+  "evolution_from": "Gulpin",
+  "categories": {
+    "en": "Poison Bag Pokémon",
+    "de": "Giftbeutel"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 101,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 99,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pokémon gulps it down whole with its cavernous mouth.",
+      "de": "Wenn Schlukwech Beute sichtet, verspritzt es eine höchst giftige Substanz aus seinen Poren und besprüht damit sein Ziel. Wenn die Beute geschwächt ist, schluckt es sie mit seinem riesigen Maul im Ganzen herunter."
+    },
+    "Sapphire": {
+      "en": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon's mouth.",
+      "de": "Schlukwech hat keine Zähne. Alles was es isst, schluckt es im Ganzen herunter. Sein Maul ist so riesig, dass mit Leichtigkeit ein Autoreifen hinein- passen würde."
+    },
+    "Emerald": {
+      "en": "Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a Swalot can't digest is its own stomach.",
+      "de": "Seine starke Magensäure zersetzt fast alles. Das Einzige auf der Welt, das ein SCHLUKWECH nicht verdauen kann, ist sein eigener Magen."
+    },
+    "FireRed": {
+      "en": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+      "de": "Es kann einen ganzen Reifen auf einmal verschlingen. Seine Poren sondern eine schreckliche, giftige Flüssigkeit ab."
+    },
+    "LeafGreen": {
+      "en": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+      "de": "Es kann einen ganzen Reifen auf einmal verschlingen. Seine Poren sondern eine schreckliche, giftige Flüssigkeit ab."
+    },
+    "Diamond": {
+      "en": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "Pearl": {
+      "en": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "Platinum": {
+      "en": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "HeartGold": {
+      "en": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "SoulSilver": {
+      "en": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "Black": {
+      "en": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "White": {
+      "en": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "Black 2": {
+      "en": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "White 2": {
+      "en": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "X": {
+      "en": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "de": "Es verschluckt alles in einem Stück und sondert giftige Stoffe ab, mit denen es Gegner besprüht."
+    },
+    "Y": {
+      "en": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+      "de": "Es verschluckt, was in sein Maul passt, und verdaut es mit seiner alles zersetzenden Magensäure."
+    },
+    "Omega Ruby": {
+      "en": "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pokémon gulps it down whole with its cavernous mouth.",
+      "de": "Wenn Schluckwech Beute sichtet, verspritzt es eine höchst giftige Substanz aus seinen Poren und besprüht damit sein Ziel. Wenn die Beute geschwächt ist, schluckt es sie mit seinem riesigen Maul im Ganzen herunter."
+    },
+    "Alpha Sapphire": {
+      "en": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
+      "de": "Schlukwech hat keine Zähne. Alles was es isst, schluckt es im Ganzen herunter. Sein Maul ist so riesig, dass mit Leichtigkeit ein Autoreifen hineinpassen würde."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      1,
+      2
+    ],
+    "power": [
+      3,
+      4
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

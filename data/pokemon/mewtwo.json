@@ -1,0 +1,565 @@
+{
+  "names": {
+    "fr": "Mewtwo",
+    "de": "Mewtu",
+    "it": "Mewtwo",
+    "en": "Mewtwo"
+  },
+  "national_id": 150,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Pressure"
+    },
+    {
+      "name": "Unnerve",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 3,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    30855,
+    31109
+  ],
+  "height_us": "6'07\"",
+  "height_eu": "2.0 m",
+  "weight_us": "269.0 lbs.",
+  "weight_eu": "122.0 kg",
+  "base_exp_yield": 306,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 3,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 0,
+  "base_stats": {
+    "hp": 106,
+    "atk": 110,
+    "def": 90,
+    "sp_atk": 154,
+    "sp_def": 90,
+    "speed": 130
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 0,
+      "move": "Disable"
+    },
+    {
+      "level": 0,
+      "move": "Safeguard"
+    },
+    {
+      "level": 8,
+      "move": "Swift"
+    },
+    {
+      "level": 15,
+      "move": "Future Sight"
+    },
+    {
+      "level": 22,
+      "move": "Psych Up"
+    },
+    {
+      "level": 29,
+      "move": "Miracle Eye"
+    },
+    {
+      "level": 36,
+      "move": "Psycho Cut"
+    },
+    {
+      "level": 43,
+      "move": "Power Swap"
+    },
+    {
+      "level": 43,
+      "move": "Guard Swap"
+    },
+    {
+      "level": 50,
+      "move": "Recover"
+    },
+    {
+      "level": 57,
+      "move": "Psychic"
+    },
+    {
+      "level": 64,
+      "move": "Barrier"
+    },
+    {
+      "level": 70,
+      "move": "Aura Sphere"
+    },
+    {
+      "level": 79,
+      "move": "Amnesia"
+    },
+    {
+      "level": 86,
+      "move": "Mist"
+    },
+    {
+      "level": 93,
+      "move": "Me First"
+    },
+    {
+      "level": 100,
+      "move": "Psystrike"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM47",
+      "move": "Low Sweep"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    }
+  ],
+  "categories": {
+    "en": "Genetic Pokémon",
+    "de": "Genmutant"
+  },
+  "kanto_id": 150,
+  "johto_id": 254,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 151,
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "ability": "Steadfast",
+      "mega_stone": "Mewtwonite X",
+      "height_us": "7'07\"",
+      "height_eu": "2.3 m",
+      "weight_us": "280.0 lbs.",
+      "weight_eu": "127.0 kg",
+      "image_suffix": "megax",
+      "base_stats": {
+        "hp": 106,
+        "atk": 190,
+        "def": 100,
+        "sp_atk": 154,
+        "sp_def": 100,
+        "speed": 130
+      }
+    },
+    {
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Insomnia",
+      "mega_stone": "Mewtwonite Y",
+      "height_us": "4'11\"",
+      "height_eu": "1.5 m",
+      "weight_us": "72.8 lbs.",
+      "weight_eu": "33.0 kg",
+      "image_suffix": "megay",
+      "base_stats": {
+        "hp": 106,
+        "atk": 150,
+        "def": 70,
+        "sp_atk": 194,
+        "sp_def": 120,
+        "speed": 140
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+      "de": "Dieses Pokémon ist das Resultat eines jahrelangen und skrupellosen Experimentes."
+    },
+    "Blue": {
+      "en": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+      "de": "Dieses Pokémon ist das Resultat eines jahrelangen und skrupellosen Experimentes."
+    },
+    "Yellow": {
+      "en": "Its DNA is almost the same as Mew's. However, its size and disposition are vastly different.",
+      "de": "Die DNS von Mewtu ist fast mit der von Mew identisch, dich der Charakter unterscheidet sich erheblich."
+    },
+    "Gold": {
+      "en": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+      "de": "Da seine Kampffähigkeit uns Unermessliche erhöht wurde, denkt es daran, seine Feinde zu besiegen."
+    },
+    "Silver": {
+      "en": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
+      "de": "Gewöhnlich bewegt es sich nicht, um Energie zu sparen, damit es im Kampf seine volle Kraft entfalten kann."
+    },
+    "Crystal": {
+      "en": "Said to rest quietly in an undiscovered cave, this Pokémon was created solely for battling.",
+      "de": "Man sagt, es lebe allein in einer unentdeckten Höhle und dass es nur für den Kampf geschaffen wurde."
+    },
+    "Ruby": {
+      "en": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+      "de": "Mewtu ist ein Pokémon, das durch Genmanipulation entstanden ist. Die Menschen haben es zwar mit ihrem wissenschaftlichen Sachverstand erzeugt, aber nicht mit einem mitfühlenden Herzen ausgestattet."
+    },
+    "Sapphire": {
+      "en": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+      "de": "Mewtu ist ein Pokémon, das durch Genmanipulation entstanden ist. Die Menschen haben es zwar mit ihrem wissenschaftlichen Sachverstand erzeugt, aber nicht mit einem mitfühlenden Herzen ausgestattet."
+    },
+    "Emerald": {
+      "en": "A Pokémon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
+      "de": "Es ist durch Genmanipulation entstanden. Die Menschen haben es zwar mit ihrem Sachverstand erzeugt, aber nicht mit einem mitfühlenden Herzen ausgestattet."
+    },
+    "FireRed": {
+      "en": "A Pokémon whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
+      "de": "Der genetische Code dieses Pokémon wurde wiederholt aus Forschungsgründen umstrukturiert. Daher ist es so bösartig."
+    },
+    "LeafGreen": {
+      "en": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+      "de": "Dieses Pokémon ist das Resultat eines jahrelangen und skrupellosen Experimentes."
+    },
+    "Diamond": {
+      "en": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+      "de": "Die Gene von MEW wurden neu angeordnet, wodurch dieses PKMN entstand. Es hat ein wildes Herz."
+    },
+    "Pearl": {
+      "en": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+      "de": "Die Gene von MEW wurden neu angeordnet, wodurch dieses PKMN entstand. Es hat ein wildes Herz."
+    },
+    "Platinum": {
+      "en": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+      "de": "Die Gene von MEW wurden neu angeordnet, wodurch dieses PKMN entstand. Es hat ein Wildes Herz."
+    },
+    "HeartGold": {
+      "en": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+      "de": "Die Gene von MEW wurden neu angeordnet, wodurch dieses PKMN entstand. Es hat ein wildes Herz."
+    },
+    "SoulSilver": {
+      "en": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
+      "de": "Die Gene von MEW wurden neu angeordnet, wodurch dieses PKMN entstand. Es hat ein wildes Herz."
+    },
+    "Black": {
+      "en": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+      "de": "Die Gene von Mew wurden neu angeordnet, wodurch dieses Pokémon entstand. Es hat ein wildes Herz."
+    },
+    "White": {
+      "en": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+      "de": "Die Gene von Mew wurden neu angeordnet, wodurch dieses Pokémon entstand. Es hat ein wildes Herz."
+    },
+    "Black 2": {
+      "en": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+      "de": "Die Gene von Mew wurden neu angeordnet, wodurch dieses Pokémon entstand. Es hat ein wildes Herz."
+    },
+    "White 2": {
+      "en": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+      "de": "Die Gene von Mew wurden neu angeordnet, wodurch dieses Pokémon entstand. Es hat ein wildes Herz."
+    },
+    "X": {
+      "en": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+      "de": "Dieses Pokémon ist das Resultat eines jahrelangen und skrupellosen Experimentes."
+    },
+    "Y": {
+      "en": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+      "de": "Die Gene von Mew wurden neu angeordnet, wodurch dieses Pokémon entstand. Es hat ein wildes Herz."
+    },
+    "Omega Ruby": {
+      "en": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+      "de": "Mewtu ist ein Pokémon, das durch Genmanipulation entstanden ist. Die Menschen haben es zwar mit ihrem wissenschaftlichen Sachverstand erzeugt, aber nicht mit einem mitfühlenden Herzen ausgestattet."
+    },
+    "Alpha Sapphire": {
+      "en": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+      "de": "Mewtu ist ein Pokémon, das durch Genmanipulation entstanden ist. Die Menschen haben es zwar mit ihrem wissenschaftlichen Sachverstand erzeugt, aber nicht mit einem mitfühlenden Herzen ausgestattet."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      5,
+      5
+    ],
+    "power": [
+      3,
+      5
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      5,
+      5
+    ],
+    "jump": [
+      3,
+      4
+    ]
+  }
+}

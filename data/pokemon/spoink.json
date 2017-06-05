@@ -1,0 +1,619 @@
+{
+  "names": {
+    "fr": "Spoink",
+    "de": "Spoink",
+    "it": "Spoink",
+    "en": "Spoink"
+  },
+  "national_id": 325,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat"
+    },
+    {
+      "name": "Gluttony",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "67.5 lbs.",
+  "weight_eu": "30.6 kg",
+  "base_exp_yield": 66,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Black",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 25,
+    "def": 35,
+    "sp_atk": 70,
+    "sp_def": 80,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Splash"
+    },
+    {
+      "level": 7,
+      "move": "Psywave"
+    },
+    {
+      "level": 10,
+      "move": "Odor Sleuth"
+    },
+    {
+      "level": 14,
+      "move": "Psybeam"
+    },
+    {
+      "level": 15,
+      "move": "Psych Up"
+    },
+    {
+      "level": 18,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 21,
+      "move": "Magic Coat"
+    },
+    {
+      "level": 26,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 29,
+      "move": "Power Gem"
+    },
+    {
+      "level": 29,
+      "move": "Rest"
+    },
+    {
+      "level": 33,
+      "move": "Snore"
+    },
+    {
+      "level": 38,
+      "move": "Psyshock"
+    },
+    {
+      "level": 40,
+      "move": "Payback"
+    },
+    {
+      "level": 44,
+      "move": "Psychic"
+    },
+    {
+      "level": 50,
+      "move": "Bounce"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Furret",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Numel",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Heatmor",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Endure"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Endure"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Endure"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Endure"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Endure"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Endure"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Endure"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Endure"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Endure"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Endure"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Extrasensory"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Extrasensory"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Absol",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Munna",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Delphox",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Munna",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Musharna",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Fennekin",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Braixen",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Delphox",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Mirror Coat"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Mirror Coat"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Simple Beam"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Trick"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Tauros",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Spoink",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Grumpig",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Munna",
+      "move": "Zen Headbutt"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Grumpig",
+      "level": 32
+    }
+  ],
+  "categories": {
+    "en": "Bounce Pokémon",
+    "de": "Sprungfeder"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 115,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 7,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing - if it stops, its heart will stop.",
+      "de": "Spoink hüpft auf seinem Schweif durch die Gegend. Die Erschütterung des Hüpfens bringt sein Herz zum Schlagen. Deshalb kann dieses Pokémon das Hüpfen nicht sein lassen, ansonsten würde sein Herz aufhören zu schlagen."
+    },
+    "Sapphire": {
+      "en": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon's psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+      "de": "Spoink trägt eine Perle auf seinem Kopf, die seine psychokinetische Energie verstärkt. Deshalb ist es dauernd auf der Suche nach einer größeren Perle."
+    },
+    "Emerald": {
+      "en": "A Pokémon that manipulates psychic power at will. It doesn't stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.",
+      "de": "SPOINK kann nach Belieben Psykräfte manipulieren. Selbst wenn es schläft, hüpft es. Am liebsten isst es Pilze, die unter der Erde wachsen."
+    },
+    "FireRed": {
+      "en": "It apparently dies if it stops bouncing about. It carries a pearl from Clamperl on its head.",
+      "de": "Offensichtlich stirbt es, wenn es nicht mehr umherspringt. Es trägt eine Perle von Perlu auf seinem Kopf."
+    },
+    "LeafGreen": {
+      "en": "It apparently dies if it stops bouncing about. It carries a pearl from Clamperl on its head.",
+      "de": "Offensichtlich stirbt es, wenn es nicht mehr umherspringt. Es trägt eine Perle von Perlu auf seinem Kopf."
+    },
+    "Diamond": {
+      "en": "It bounces constantly, using its tail as a spring. The shock of bouncing keeps its heart beating.",
+      "de": "Es hüpft beständig umher, wobei es seinen Schweif als Feder verwendet. Nur so bleibt sein Herz aktiv."
+    },
+    "Pearl": {
+      "en": "It bounces constantly, using its tail as a spring. The shock of bouncing keeps its heart beating.",
+      "de": "Es hüpft beständig umher, wobei es seinen Schweif als Feder verwendet. Nur so bleibt sein Herz aktiv."
+    },
+    "Platinum": {
+      "en": "It bounces constantly, using its tail as a spring. The shock of bouncing keeps its heart beating.",
+      "de": "Es hüpft beständig umher, wobei es seinen Schweif als Feder verwendet. Nur so bleibt sein Herz aktiv."
+    },
+    "HeartGold": {
+      "en": "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.",
+      "de": "Es hüpft beständig umher, wobei es seinen Schweif als Feder verwendet. Nur so bleibt sein Herz aktiv."
+    },
+    "SoulSilver": {
+      "en": "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.",
+      "de": "Es hüpft beständig umher, wobei es seinen Schweif als Feder verwendet. Nur so bleibt sein Herz aktiv."
+    },
+    "Black": {
+      "en": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+      "de": "Es hüpft beständig umher, wobei es seinen Schweif als Feder verwendet. Nur so bleibt sein Herz aktiv."
+    },
+    "White": {
+      "en": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+      "de": "Es hüpft beständig umher, wobei es seinen Schweif als Feder verwendet. Nur so bleibt sein Herz aktiv."
+    },
+    "Black 2": {
+      "en": "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.",
+      "de": "Es nutzt seinen Schweif als Sprungfeder, um sein Herz am Pumpen zu halten. Hört es auf zu springen, stirbt es."
+    },
+    "White 2": {
+      "en": "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.",
+      "de": "Es nutzt seinen Schweif als Sprungfeder, um sein Herz am Pumpen zu halten. Hört es auf zu springen, stirbt es."
+    },
+    "X": {
+      "en": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+      "de": "Es hüpft beständig umher, wobei es seinen Schweif als Feder verwendet. Nur so bleibt sein Herz aktiv."
+    },
+    "Y": {
+      "en": "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.",
+      "de": "Seine Hüpfbewegungen bringen sein Herz zum Schlagen. Es trägt eine Perle von Perlu auf dem Kopf."
+    },
+    "Omega Ruby": {
+      "en": "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing—if it stops, its heart will stop.",
+      "de": "Spoink hüpft auf seinem Schweif durch die Gegend. Die Erschütterung des Hüpfens bringt sein Herz zum Schlagen. Deshalb kann dieses Pokémon das Hüpfen nicht sein lassen, ansonsten würde sein Herz auhören zu schlagen."
+    },
+    "Alpha Sapphire": {
+      "en": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon’s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+      "de": "Spoink trägt eine Perle auf seinem Kopf, die seine psychokinetische Energie verstärkt. Deshalb ist es dauernd auf der Suche nach einer größeren Perle."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      3
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      4,
+      4
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      4,
+      5
+    ]
+  }
+}

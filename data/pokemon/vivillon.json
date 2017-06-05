@@ -1,0 +1,632 @@
+{
+  "names": {
+    "fr": "Prismillon",
+    "de": "Vivillon",
+    "it": "Vivillon",
+    "en": "Vivillon"
+  },
+  "national_id": 666,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Shield Dust"
+    },
+    {
+      "name": "Friend Guard",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "37.5 lbs.",
+  "weight_eu": "17.0 kg",
+  "base_exp_yield": 185,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Black",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "atk": 52,
+    "def": 50,
+    "sp_atk": 90,
+    "sp_def": 50,
+    "speed": 89
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 0,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 0,
+      "move": "Light Screen"
+    },
+    {
+      "level": 0,
+      "move": "Powder"
+    },
+    {
+      "level": 0,
+      "move": "Sleep Powder"
+    },
+    {
+      "level": 12,
+      "move": "Struggle Bug"
+    },
+    {
+      "level": 17,
+      "move": "Psybeam"
+    },
+    {
+      "level": 21,
+      "move": "Supersonic"
+    },
+    {
+      "level": 25,
+      "move": "Draining Kiss"
+    },
+    {
+      "level": 31,
+      "move": "Aromatherapy"
+    },
+    {
+      "level": 35,
+      "move": "Bug Buzz"
+    },
+    {
+      "level": 41,
+      "move": "Safeguard"
+    },
+    {
+      "level": 45,
+      "move": "Quiver Dance"
+    },
+    {
+      "level": 50,
+      "move": "Hurricane"
+    },
+    {
+      "level": 55,
+      "move": "Powder"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Paras",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Paras",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Paras",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Stun Spore"
+    }
+  ],
+  "evolution_from": "Spewpa",
+  "categories": {
+    "en": "Scale Pokémon",
+    "de": "Flügelstaub"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 22,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variation_names": {
+    "en": "Archipelago",
+    "de": "Archipelmuster"
+  },
+  "variations": [
+    {
+      "condition": "Player's Location",
+      "image_suffix": "continental",
+      "names": {
+        "en": "Continental",
+        "de": "Kontinentalmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "elegant",
+      "names": {
+        "en": "Elegant",
+        "de": "Prunkmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "garden",
+      "names": {
+        "en": "Garden",
+        "de": "Ziergartenmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "plains",
+      "names": {
+        "en": "High Plains",
+        "de": "Dürremuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "snow",
+      "names": {
+        "en": "Icy Snow",
+        "de": "Frostmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "jungle",
+      "names": {
+        "en": "Jungle",
+        "de": "Dschungelmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "marine",
+      "names": {
+        "en": "Marine",
+        "de": "Aquamarinmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "meadow",
+      "names": {
+        "en": "Meadow",
+        "de": "Blumenmeermuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "modern",
+      "names": {
+        "en": "Modern",
+        "de": "Innovationsmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "monsoon",
+      "names": {
+        "en": "Monsoon",
+        "de": "Monsunmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "ocean",
+      "names": {
+        "en": "Ocean",
+        "de": "Ozeanmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "polar",
+      "names": {
+        "en": "Polar",
+        "de": "Schneefeldmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "river",
+      "names": {
+        "en": "River",
+        "de": "Flussdeltamuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "sandstorm",
+      "names": {
+        "en": "Sandstorm",
+        "de": "Sandmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "savanna",
+      "names": {
+        "en": "Savanna",
+        "de": "Savannenmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "sun",
+      "names": {
+        "en": "Sun",
+        "de": "Sonnenmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Player's Location",
+      "image_suffix": "tundra",
+      "names": {
+        "en": "Tundra",
+        "de": "Flockenmuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "Paris Event",
+      "image_suffix": "ball",
+      "names": {
+        "en": "Poké Ball",
+        "de": "Pokéball-Muster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    },
+    {
+      "condition": "GTS 100 millionth trade Event",
+      "image_suffix": "fancy",
+      "names": {
+        "en": "Fancy",
+        "de": "Fantasiemuster"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ]
+    }
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+      "de": "Vivillon kommen weltweit mit den unterschiedlichsten Musterungen vor. Das Klima ihres Habitats hat Einfluss auf ihre Flügelmusterung."
+    },
+    "Y": {
+      "en": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
+      "de": "Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub."
+    },
+    "Omega Ruby": {
+      "en": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+      "de": "Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub."
+    },
+    "Alpha Sapphire": {
+      "en": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
+      "de": "Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

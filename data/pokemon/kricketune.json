@@ -1,0 +1,356 @@
+{
+  "names": {
+    "fr": "Mélokrik",
+    "de": "Zirpeise",
+    "it": "Kricketune",
+    "en": "Kricketune"
+  },
+  "national_id": 402,
+  "types": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm"
+    },
+    {
+      "name": "Technician",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "56.2 lbs.",
+  "weight_eu": "25.5 kg",
+  "base_exp_yield": 134,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 77,
+    "atk": 85,
+    "def": 51,
+    "sp_atk": 55,
+    "sp_def": 51,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Bide"
+    },
+    {
+      "level": 10,
+      "move": "Fury Cutter"
+    },
+    {
+      "level": 14,
+      "move": "Leech Life"
+    },
+    {
+      "level": 18,
+      "move": "Sing"
+    },
+    {
+      "level": 22,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 26,
+      "move": "Slash"
+    },
+    {
+      "level": 30,
+      "move": "X-Scissor"
+    },
+    {
+      "level": 34,
+      "move": "Screech"
+    },
+    {
+      "level": 36,
+      "move": "Fell Stinger"
+    },
+    {
+      "level": 38,
+      "move": "Taunt"
+    },
+    {
+      "level": 42,
+      "move": "Night Slash"
+    },
+    {
+      "level": 44,
+      "move": "Sticky Web"
+    },
+    {
+      "level": 46,
+      "move": "Bug Buzz"
+    },
+    {
+      "level": 50,
+      "move": "Perish Song"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ],
+  "evolution_from": "Kricketot",
+  "categories": {
+    "en": "Cricket Pokémon",
+    "de": "Zirper"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": 16,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+      "de": "Wenn es ruft, verschränkt es seine messerartigen Arme vor der Brust. Es komponiert aus dem Stegreif."
+    },
+    "Pearl": {
+      "en": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+      "de": "Über seine Melodien teilt es seine Gefühle mit. Wissenschaftler unter- suchen das Muster der Melodien."
+    },
+    "Platinum": {
+      "en": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "de": "Es gibt ein Dorf, das basierend auf den imposanten Rufen dieses PKMN einen Wettbewerb veranstaltet."
+    },
+    "HeartGold": {
+      "en": "By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.",
+      "de": "Wenn es ruft, verschränkt es seine messerartigen Arme vor der Brust. Es komponiert aus dem Stegreif."
+    },
+    "SoulSilver": {
+      "en": "By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.",
+      "de": "Wenn es ruft, verschränkt es seine messerartigen Arme vor der Brust. Es komponiert aus dem Stegreif."
+    },
+    "Black": {
+      "en": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "de": "Es gibt ein Dorf, das basierend auf den imposanten Rufen dieses Pokémon einen Wettbewerb veranstaltet."
+    },
+    "White": {
+      "en": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "de": "Es gibt ein Dorf, das basierend auf den imposanten Rufen dieses Pokémon einen Wettbewerb veranstaltet."
+    },
+    "Black 2": {
+      "en": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "de": "Es gibt ein Dorf, das basierend auf den imposanten Rufen dieses Pokémon einen Wettbewerb veranstaltet."
+    },
+    "White 2": {
+      "en": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "de": "Es gibt ein Dorf, das basierend auf den imposanten Rufen dieses Pokémon einen Wettbewerb veranstaltet."
+    },
+    "X": {
+      "en": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+      "de": "Wenn es ruft, verschränkt es seine messerartigen Arme vor der Brust. Es komponiert aus dem Stegreif."
+    },
+    "Y": {
+      "en": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+      "de": "Über seine Melodien teilt es seine Gefühle mit. Wissenschaftler untersuchen das Muster der Melodien."
+    },
+    "Omega Ruby": {
+      "en": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+      "de": "Über seine Melodien teilt es seine Gefühle mit. Wissenschaftler untersuchen das Muster der Melodien."
+    },
+    "Alpha Sapphire": {
+      "en": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+      "de": "Über seine Melodien teilt es seine Gefühle mit. Wissenschaftler untersuchen das Muster der Melodien."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      3
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

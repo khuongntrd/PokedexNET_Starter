@@ -1,0 +1,1097 @@
+{
+  "names": {
+    "fr": "Rhinocorne",
+    "de": "Rihorn",
+    "it": "Rhyhorn",
+    "en": "Rhyhorn"
+  },
+  "national_id": 111,
+  "types": [
+    "Ground",
+    "Rock"
+  ],
+  "abilities": [
+    {
+      "name": "Lightning Rod"
+    },
+    {
+      "name": "Reckless",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 120,
+  "egg_groups": [
+    "Monster",
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "253.5 lbs.",
+  "weight_eu": "115.0 kg",
+  "base_exp_yield": 69,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "atk": 85,
+    "def": 95,
+    "sp_atk": 30,
+    "sp_def": 30,
+    "speed": 25
+  },
+  "learnset": [
+    {
+      "level": 1,
+      "move": "Horn Attack"
+    },
+    {
+      "level": 1,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 5,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 9,
+      "move": "Scary Face"
+    },
+    {
+      "level": 13,
+      "move": "Smack Down"
+    },
+    {
+      "level": 17,
+      "move": "Stomp"
+    },
+    {
+      "level": 21,
+      "move": "Bulldoze"
+    },
+    {
+      "level": 25,
+      "move": "Chip Away"
+    },
+    {
+      "level": 29,
+      "move": "Rock Blast"
+    },
+    {
+      "level": 33,
+      "move": "Drill Run"
+    },
+    {
+      "level": 37,
+      "move": "Take Down"
+    },
+    {
+      "level": 41,
+      "move": "Stone Edge"
+    },
+    {
+      "level": 45,
+      "move": "Earthquake"
+    },
+    {
+      "level": 49,
+      "move": "Megahorn"
+    },
+    {
+      "level": 53,
+      "move": "Horn Drill"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Counter"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Counter"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Counter"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Counter"
+    },
+    {
+      "parent": "Rattata",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Raticate",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Poochyena",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Mightyena",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Shinx",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Luxio",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Luxray",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Hippopotas",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Pansage",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Panpour",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Sandile",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Krokorok",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Krookodile",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Litleo",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Pyroar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Pancham",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Pangoro",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Crush Claw"
+    },
+    {
+      "parent": "Zangoose",
+      "move": "Crush Claw"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Curse"
+    },
+    {
+      "parent": "Numel",
+      "move": "Curse"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Curse"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Curse"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gible",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gabite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Charmander",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Charmeleon",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Charizard",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Arcanine",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Darmanitan",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Litleo",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Pyroar",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Guard Split"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Aron",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Sandshrew",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Diglett",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Numel",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Aron",
+      "move": "Metal Burst"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Metal Burst"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Metal Burst"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Metal Burst"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Metal Burst"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Rototiller"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Rototiller"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Rototiller"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Rototiller"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Rototiller"
+    },
+    {
+      "parent": "Excadrill",
+      "move": "Rototiller"
+    },
+    {
+      "parent": "Diggersby",
+      "move": "Rototiller"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Bouffalant",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Arcanine",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Electrike",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Shinx",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Luxio",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Luxray",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Thunder Fang"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Rhydon",
+      "level": 42
+    }
+  ],
+  "categories": {
+    "en": "Spikes Pokémon",
+    "de": "Stachler"
+  },
+  "kanto_id": 111,
+  "johto_id": 211,
+  "hoenn_id": 176,
+  "sinnoh_id": 186,
+  "unova_id": null,
+  "kalos_id": 50,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+      "de": "Der Knochenbau dieses Pokémon ist tausendmal härter als der eines Menschen."
+    },
+    "Blue": {
+      "en": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+      "de": "Der Knochenbau dieses Pokémon ist tausendmal härter als der eines Menschen."
+    },
+    "Yellow": {
+      "en": "A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
+      "de": "Rihorn steigert sich so in einen Kampf hinein, dass es kämpft bis es ermattet einschläft."
+    },
+    "Gold": {
+      "en": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+      "de": "Aufgrund seiner kurzen Beine kann es sich nicht umdrehen. Es kann immer nur in eine Richtung laufen."
+    },
+    "Silver": {
+      "en": "It doesn't care if there is anything in its way. It just charges and destroys all obstacles.",
+      "de": "Es schert sich nicht um Hindernisse in seinem Weg. Es greift an und zerstört alles in seinem Weg."
+    },
+    "Crystal": {
+      "en": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+      "de": "Es kann sich immer nur eine Sache merken. Hat es erst angefangen zu laufen, hat es vergessen warum."
+    },
+    "Ruby": {
+      "en": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
+      "de": "Rihorn läuft immer geradeaus und zerstampft alles, was ihm in die Quere kommt. Es macht ihm auch nichts aus, wenn es mit dem Kopf voran gegen einen Stahlklotz rennt. Am nächsten Tag allerdings könnte es Schmerzen haben."
+    },
+    "Sapphire": {
+      "en": "Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
+      "de": "Rihorns Hirn ist sehr klein. Es ist so beschränkt, dass es während des Laufens vergisst, warum es überhaupt losgelaufen ist. Manchmal erinnert es sich aber daran, dass es etwas zerstört hat."
+    },
+    "Emerald": {
+      "en": "Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.",
+      "de": "Wenn es rennt, kann es nicht mehr aufhören. Da sein Gehirn so klein ist, kann es sich nicht mehr daran erinnern, warum es gerannt ist."
+    },
+    "FireRed": {
+      "en": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
+      "de": "Stark, aber nicht allzu klug, kann dieses Pokémon sogar Hochhäuser mit seinem Tackle-Angriff zum Einsturz bringen."
+    },
+    "LeafGreen": {
+      "en": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+      "de": "Der Knochenbau dieses Pokémon ist tausendmal härter als der eines Menschen. Mit seinem Tackle-Angriff kann es sogar Anhänger durch die Luft wirbeln."
+    },
+    "Diamond": {
+      "en": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+      "de": "Sein Körper ist von einer dicken Haut umgeben und es kann wackelige Gebäude zum Einsturz bringen."
+    },
+    "Pearl": {
+      "en": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+      "de": "Sein Körper ist von einer dicken Haut umgeben und es kann wackelige Gebäude zum Einsturz bringen."
+    },
+    "Platinum": {
+      "en": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "de": "Seine mächtigen Tackles zerstören alles. Leider ist es aber nicht das hellste Licht im Lampengeschäft."
+    },
+    "HeartGold": {
+      "en": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+      "de": "Sein Körper ist von einer dicken Haut umgeben und es kann wackelige Gebäude zum Einsturz bringen."
+    },
+    "SoulSilver": {
+      "en": "It doesn't care if there is anything in its way. It just charges and destroys all obstacles.",
+      "de": "Sein Körper ist von einer dicken Haut umgeben und es kann wackelige Gebäude zum Einsturz bringen."
+    },
+    "Black": {
+      "en": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "de": "Seine mächtigen Tackles zerstören alles. Leider ist es aber nicht das hellste Licht im Lampengeschäft."
+    },
+    "White": {
+      "en": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "de": "Seine mächtigen Tackles zerstören alles. Leider ist es aber nicht das hellste Licht im Lampengeschäft."
+    },
+    "Black 2": {
+      "en": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "de": "Seine mächtigen Tackles zerstören alles. Leider ist es etwas schwer von Begriff."
+    },
+    "White 2": {
+      "en": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+      "de": "Seine mächtigen Tackles zerstören alles. Leider ist es etwas schwer von Begriff."
+    },
+    "X": {
+      "en": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.",
+      "de": "Stark, aber nicht allzu klug, kann dieses Pokémon sogar Hochhäuser mit seinem Tackle-Angriff zum Einsturz bringen."
+    },
+    "Y": {
+      "en": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+      "de": "Aufgrund seiner kurzen Beine kann es sich nicht umdrehen. Es kann immer nur in eine Richtung laufen."
+    },
+    "Omega Ruby": {
+      "en": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
+      "de": "Rihorn läuft immer geradeaus und zerstampft alles, was ihm in die Quere kommt. Es macht ihm auch nichts aus, wenn es mit dem Kopf voran gegen einen Stahlklotz rennt. Am nächsten Tag allerdings könnte es Schmerzen haben."
+    },
+    "Alpha Sapphire": {
+      "en": "Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
+      "de": "Rihorns Hirn ist sehr klein. Es ist so beschränkt, dass es während des Laufens vergisst, warum es überhaupt losgelaufen ist. Manchmal erinnert es sich aber daran, dass es etwas zerstört hat."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      5
+    ],
+    "power": [
+      3,
+      5
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      1,
+      2
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

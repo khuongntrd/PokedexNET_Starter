@@ -1,0 +1,586 @@
+{
+  "names": {
+    "fr": "Alakazam",
+    "de": "Simsala",
+    "it": "Alakazam",
+    "en": "Alakazam"
+  },
+  "national_id": 65,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize"
+    },
+    {
+      "name": "Magic Guard",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 75.0,
+    "female": 25.0
+  },
+  "catch_rate": 50,
+  "egg_groups": [
+    "Human-Like"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "105.8 lbs.",
+  "weight_eu": "48.0 kg",
+  "base_exp_yield": 221,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 3,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 55,
+    "atk": 50,
+    "def": 45,
+    "sp_atk": 135,
+    "sp_def": 85,
+    "speed": 120
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Teleport"
+    },
+    {
+      "level": 0,
+      "move": "Kinesis"
+    },
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 16,
+      "move": "Confusion"
+    },
+    {
+      "level": 18,
+      "move": "Disable"
+    },
+    {
+      "level": 21,
+      "move": "Psybeam"
+    },
+    {
+      "level": 23,
+      "move": "Miracle Eye"
+    },
+    {
+      "level": 26,
+      "move": "Reflect"
+    },
+    {
+      "level": 28,
+      "move": "Psycho Cut"
+    },
+    {
+      "level": 31,
+      "move": "Recover"
+    },
+    {
+      "level": 33,
+      "move": "Telekinesis"
+    },
+    {
+      "level": 36,
+      "move": "Ally Switch"
+    },
+    {
+      "level": 38,
+      "move": "Psychic"
+    },
+    {
+      "level": 41,
+      "move": "Calm Mind"
+    },
+    {
+      "level": 43,
+      "move": "Future Sight"
+    },
+    {
+      "level": 46,
+      "move": "Trick"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Ally Switch"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Ally Switch"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Barrier"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Encore"
+    },
+    {
+      "parent": "Hawlucha",
+      "move": "Encore"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Electivire",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Magmar",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Magmortar",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Elgyem",
+      "move": "Guard Split"
+    },
+    {
+      "parent": "Beheeyem",
+      "move": "Guard Split"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Guard Swap"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Ice Punch"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Ice Punch"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Sableye",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Meditite",
+      "move": "Power Trick"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Power Trick"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Abra",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Drowzee",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Hypno",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Electabuzz",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Electivire",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Magmortar",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Thunder Punch"
+    }
+  ],
+  "evolution_from": "Kadabra",
+  "alola_id": 44,
+  "categories": {
+    "en": "Psi Pokémon",
+    "de": "Psi"
+  },
+  "kanto_id": 65,
+  "johto_id": 91,
+  "hoenn_id": 42,
+  "sinnoh_id": 22,
+  "unova_id": null,
+  "kalos_id": 104,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Trace",
+      "mega_stone": "Alakazite",
+      "height_us": "3'11\"",
+      "height_eu": "1.2 m",
+      "weight_us": "105.8 lbs.",
+      "weight_eu": "48.0 kg",
+      "base_stats": {
+        "hp": 55,
+        "atk": 50,
+        "def": 65,
+        "sp_atk": 175,
+        "sp_def": 105,
+        "speed": 150
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Its brain can outperform a super-computer. Its intelligence quotient is said to be 5,000.",
+      "de": "Das Gehirn dieses Pokémon ist leistungsfähiger als ein Computer. Sein IQ soll bei etwa 5000 liegen."
+    },
+    "Blue": {
+      "en": "Its brain can outperform a super-computer. Its intelligence quotient is said to be 5,000.",
+      "de": "Das Gehirn dieses Pokémon ist leistungsfähiger als ein Computer. Sein IQ soll bei etwa 5000 liegen."
+    },
+    "Yellow": {
+      "en": "A Pokémon that can memorize anything. It never forgets what it learns—that's why this Pokémon is smart.",
+      "de": "Dieses Pokémon hat ein sehr gutes Gedächtnis. Simsala ist daher ein allwissendes, kluges Pokémon."
+    },
+    "Gold": {
+      "en": "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
+      "de": "Schließt es die Augen, schärfen sich seine anderen Sinne. Dadurch perfektioniert es seine Fähigkeiten."
+    },
+    "Silver": {
+      "en": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
+      "de": "Seine Gehirnzellen vervielfachen sich sein ganzes Leben lang. Daher kann es sich immer an alles erinnern."
+    },
+    "Crystal": {
+      "en": "It has an IQ of 5000. It calculates many things in order to gain the edge in every battle.",
+      "de": "Sein IQ ist 5000. Es berechnet sehr viele Dinge, um im Kampf das Letzte aus sich herauszuholen."
+    },
+    "Ruby": {
+      "en": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
+      "de": "Simsalas Gehirn hört nicht auf zu wachsen, so dass sein Kopf zu schwer für seine Nackenmuskulatur wird. Dieses Pokémon hält seinen Kopf mit psychokinetischer Energie aufrecht."
+    },
+    "Sapphire": {
+      "en": "Alakazam's brain continually grows, infinitely multiplying brain cells. This amazing brain gives this Pokémon an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
+      "de": "Simsalas Hirn wächst stetig weiter und seine Gehirnzellen werden unendlich vervielfacht. Durch sein verblüffendes Gehirn erreicht dieses Pokémon einen IQ von 5.000. Es erinnert sich an alles, was in der Welt passiert ist."
+    },
+    "Emerald": {
+      "en": "While it has strong psychic abilities and high intelligence, an Alakazam's muscles are very weak. It uses psychic power to move its body.",
+      "de": "Im Gegensatz zu seinen enormen Psy kräften und seiner hohen Intelligenz, sind seine Muskeln unterentwickelt. Es bewegt sich mittels Psykraft."
+    },
+    "FireRed": {
+      "en": "It does not like physical attacks very much. Instead, it freely uses extra-sensory powers to defeat foes.",
+      "de": "Es mag physische Attacken nicht besonders. Vielmehr bevorzugt es seine zusätzlichen sensorischen Kräfte, um Gegner zu besiegen."
+    },
+    "LeafGreen": {
+      "en": "Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000.",
+      "de": "Das Gehirn dieses Pokémon ist leistungsfähiger als ein Computer. Sein IQ soll bei etwa 5000 liegen."
+    },
+    "Diamond": {
+      "en": "Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5,000.",
+      "de": "Es besitzt ein fantastisches Ge- dächtnis und erinnert sich an alles seit seiner Geburt. IQ: Über 5 000."
+    },
+    "Pearl": {
+      "en": "Its highly developed brain is on par with a supercomputer. It can use all forms of psychic abilities.",
+      "de": "Sein hoch entwickeltes Gehirn ist vergleichbar mit einem Supercompu- ter. Es verfügt über Psycho-Fähig."
+    },
+    "Platinum": {
+      "en": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+      "de": "Man sagt, dass es die Löffel in seinen Händen durch Psycho-Kräfte selbst erzeugt habe."
+    },
+    "HeartGold": {
+      "en": "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
+      "de": "Es besitzt ein fantastisches Ge- dächtnis und erinnert sich an alles seit seiner Geburt. IQ: Über 5 000."
+    },
+    "SoulSilver": {
+      "en": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
+      "de": "Es besitzt ein fantastisches Ge- dächtnis und erinnert sich an alles seit seiner Geburt. IQ: Über 5 000."
+    },
+    "Black": {
+      "en": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+      "de": "Man sagt, dass es die Löffel in seinen Händen durch Psycho-Kräfte selbst erzeugt habe."
+    },
+    "White": {
+      "en": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+      "de": "Man sagt, dass es die Löffel in seinen Händen durch Psycho-Kräfte selbst erzeugt habe."
+    },
+    "Black 2": {
+      "en": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+      "de": "Man sagt, dass es die Löffel in seinen Händen durch Psycho-Kräfte selbst erzeugt habe."
+    },
+    "White 2": {
+      "en": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+      "de": "Man sagt, dass es die Löffel in seinen Händen durch Psycho-Kräfte selbst erzeugt habe."
+    },
+    "X": {
+      "en": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
+      "de": "Seine Gehirnzellen vervielfachen sich sein ganzes Leben lang. Daher kann es sich immer an alles erinnern."
+    },
+    "Y": {
+      "en": "Its brain can outperform a super-computer. Its intelligence quotient is said to be 5,000.",
+      "de": "Das Gehirn dieses Pokémon ist leistungsfähiger als ein Computer. Sein IQ soll bei etwa 5 000 liegen."
+    },
+    "Omega Ruby": {
+      "en": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
+      "de": "Simsalas Gehirn hört nicht auf zu wachsen, sodass sein Kopf zu schwer für seine Nackenmuskulatur wird. Dieses Pokémon hält seinen Kopf mit psychokinetischer Energie aufrecht."
+    },
+    "Alpha Sapphire": {
+      "en": "Alakazam's brain continually grows, infinitely multiplying brain cells. This amazing brain gives this Pokémon an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
+      "de": "Simsalas Hirn wächst stetig weiter und seine Gehirnzellen werden unendlich vervielfacht. Durch sein verblüffendes Gehirn erreicht dieses Pokémon einen IQ von 5.000. Es erinnert sich an alles, was in der Welt passiert ist."
+    },
+    "Sun": {
+      "en": "It is said to have an IQ of approximately 5,000. Its overflowing psychokinetic powers cause headaches to anyone nearby.",
+      "de": "Es hat einen IQ von 5 000. Seine Psycho-Kräfte sind so stark ausgeprägt, dass man Kopfweh bekommt, wenn man nur neben ihm steht."
+    },
+    "Moon": {
+      "en": "Its brain cells continue to increase in number until its death. The older the Alakazam, the larger its head.",
+      "de": "Seine Gehirnzellen vervielfachen sich sein ganzes Leben lang. Je älter ein Simsala ist, desto größer ist demzufolge auch sein Kopf."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      1,
+      1
+    ],
+    "stamina": [
+      1,
+      1
+    ],
+    "skill": [
+      5,
+      5
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

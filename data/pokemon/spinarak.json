@@ -1,0 +1,596 @@
+{
+  "names": {
+    "fr": "Mimigal",
+    "de": "Webarak",
+    "it": "Spinarak",
+    "en": "Spinarak"
+  },
+  "national_id": 167,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm"
+    },
+    {
+      "name": "Sniper",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "18.7 lbs.",
+  "weight_eu": "8.5 kg",
+  "base_exp_yield": 50,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "atk": 60,
+    "def": 40,
+    "sp_atk": 40,
+    "sp_def": 40,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Poison Sting"
+    },
+    {
+      "level": 0,
+      "move": "String Shot"
+    },
+    {
+      "level": 5,
+      "move": "Scary Face"
+    },
+    {
+      "level": 8,
+      "move": "Constrict"
+    },
+    {
+      "level": 12,
+      "move": "Leech Life"
+    },
+    {
+      "level": 15,
+      "move": "Night Shade"
+    },
+    {
+      "level": 19,
+      "move": "Shadow Sneak"
+    },
+    {
+      "level": 22,
+      "move": "Fury Swipes"
+    },
+    {
+      "level": 26,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 29,
+      "move": "Spider Web"
+    },
+    {
+      "level": 33,
+      "move": "Agility"
+    },
+    {
+      "level": 36,
+      "move": "Pin Missile"
+    },
+    {
+      "level": 40,
+      "move": "Psychic"
+    },
+    {
+      "level": 43,
+      "move": "Poison Jab"
+    },
+    {
+      "level": 47,
+      "move": "Cross Poison"
+    },
+    {
+      "level": 50,
+      "move": "Sticky Web"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Disable"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Disable"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Electroweb"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Electroweb"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Megahorn"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Megahorn"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Paras",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Sonic Boom"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Sonic Boom"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Sonic Boom"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Sonic Boom"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Twineedle"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Twineedle"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Ariados",
+      "level": 22
+    }
+  ],
+  "alola_id": 22,
+  "categories": {
+    "en": "String Spit Pokémon",
+    "de": "Fadenwurf"
+  },
+  "kanto_id": null,
+  "johto_id": 32,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 107,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+      "de": "Leuchten die Sterne am Nachthimmel, schwirrt es umher und verstreut einen strahlenden, leuchtenden Puder."
+    },
+    "Silver": {
+      "en": "It spins a web using fine—but durable—thread. It then waits patiently for prey to be trapped.",
+      "de": "Die Größe des Sternenmusters, hängt direkt mit der Anzahl der Sterne am Firmament zusammen."
+    },
+    "Crystal": {
+      "en": "If prey becomes ensnared in its nest of spun string, it waits motionlessly until it becomes dark.",
+      "de": "Wenn es tagsüber warm wird, rollt es sich in einem großen Blatt ein und fällt in einen tiefen Schlaf."
+    },
+    "Ruby": {
+      "en": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+      "de": "In Ländern mit frischer Luft und Sternen am Himmel leben unzählig viele Ledian. Dafür gibt es einen guten Grund: Dieses Pokémon nutzt das Licht der Sterne als Energie."
+    },
+    "Sapphire": {
+      "en": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+      "de": "In Ländern mit frischer Luft und Sternen am Himmel leben unzählig viele Ledian. Dafür gibt es einen guten Grund: Dieses Pokémon nutzt das Licht der Sterne als Energie."
+    },
+    "Emerald": {
+      "en": "The web it spins can be considered its second nervous system. It is said that a Spinarak determines its prey by the tiny vibrations it feels through the web.",
+      "de": "Das von WEBARAK gesponnene Netz ist sein zweites Nervensystem. Es kann anhand der feinen Vibrationen der Netzfäden bestim men, welche Beute sich darauf befindet."
+    },
+    "FireRed": {
+      "en": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped.",
+      "de": "Es spinnt ein Netz aus feinem, aber reißfestem Faden. Dann wartet es auf Beute, die im Netz zappelt."
+    },
+    "LeafGreen": {
+      "en": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+      "de": "Es sitzt tagelang regungslos in seinem Netz und lauert unvorsichtiger Beute auf, die ihm zu nahe kommt."
+    },
+    "Diamond": {
+      "en": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+      "de": "Es baut eine Falle, indem es ein Netz mit dünner, starker Seide spinnt. Es wartet still auf Beute."
+    },
+    "Pearl": {
+      "en": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+      "de": "Es baut eine Falle, indem es ein Netz mit dünner, starker Seide spinnt. Es wartet still auf Beute."
+    },
+    "Platinum": {
+      "en": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+      "de": "Es baut eine Falle, indem es ein Netz mit dünner, starker Seide spinnt. Es wartet still auf Beute."
+    },
+    "HeartGold": {
+      "en": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+      "de": "Es baut eine Falle, indem es ein Netz mit dünner, starker Seide spinnt. Es wartet still auf Beute."
+    },
+    "SoulSilver": {
+      "en": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped.",
+      "de": "Es baut eine Falle, indem es ein Netz mit dünner, starker Seide spinnt. Es wartet still auf Beute."
+    },
+    "Black": {
+      "en": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+      "de": "Es baut eine Falle, indem es ein Netz mit dünner, starker Seide spinnt. Es wartet still auf Beute."
+    },
+    "White": {
+      "en": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+      "de": "Es baut eine Falle, indem es ein Netz mit dünner, starker Seide spinnt. Es wartet still auf Beute."
+    },
+    "Black 2": {
+      "en": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+      "de": "Es baut eine Falle, indem es ein Netz mit dünner, starker Seide spinnt. Es wartet still auf Beute."
+    },
+    "White 2": {
+      "en": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+      "de": "Es baut eine Falle, indem es ein Netz mit dünner, starker Seide spinnt. Es wartet still auf Beute."
+    },
+    "X": {
+      "en": "It spins a web using fine—but durable—thread. It then waits patiently for prey to be trapped.",
+      "de": "Es spinnt ein Netz aus feinem, aber reißfestem Faden. Dann wartet es auf Beute, die im Netz zappelt."
+    },
+    "Y": {
+      "en": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+      "de": "Es sitzt tagelang regungslos in seinem Netz und lauert unvorsichtiger Beute auf, die ihm zu nahe kommt."
+    },
+    "Omega Ruby": {
+      "en": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+      "de": "Das von Webarak gesponnene Netz ist sein zweites Nervensystem. Dieses Pokémon kann anhand der feinen Vibrationen der Netzfäden bestimmen, welche Art Beute sich darauf befindet."
+    },
+    "Alpha Sapphire": {
+      "en": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+      "de": "Das von Webarak gesponnene Netz ist sein zweites Nervensystem. Dieses Pokémon kann anhand der feinen Vibrationen der Netzfäden bestimmen, welche Art Beute sich darauf befindet."
+    },
+    "Sun": {
+      "en": "It waits intently until its preferred prey, Cutiefly, gets caught in its web. In fact, it's quite a patient Pokémon.",
+      "de": "Ein sehr geduldiges Pokémon, das besonders gern Wommel frisst. Es wartet beharrlich darauf, dass sich welche in seinem Netz verfangen."
+    },
+    "Moon": {
+      "en": "Some fishermen weave its sturdy thread into nets to catch fish Pokémon.",
+      "de": "Einige Fischer knüpfen sich aus seinem robusten Faden Netze, mit denen sie dann Fisch-Pokémon fangen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      1,
+      4
+    ],
+    "skill": [
+      4,
+      4
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

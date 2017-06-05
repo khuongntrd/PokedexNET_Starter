@@ -1,0 +1,628 @@
+{
+  "names": {
+    "fr": "Toudoudou",
+    "de": "Fluffeluff",
+    "it": "Igglybuff",
+    "en": "Igglybuff"
+  },
+  "national_id": 174,
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Cute Charm"
+    },
+    {
+      "name": "Friend Guard",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 25.0,
+    "female": 75.0
+  },
+  "catch_rate": 170,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "2.2 lbs.",
+  "weight_eu": "1.0 kg",
+  "base_exp_yield": 42,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 90,
+    "atk": 30,
+    "def": 15,
+    "sp_atk": 40,
+    "sp_def": 20,
+    "speed": 15
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Sing"
+    },
+    {
+      "level": 0,
+      "move": "Charm"
+    },
+    {
+      "level": 3,
+      "move": "Defense Curl"
+    },
+    {
+      "level": 5,
+      "move": "Pound"
+    },
+    {
+      "level": 9,
+      "move": "Sweet Kiss"
+    },
+    {
+      "level": 11,
+      "move": "Copycat"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Covet"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Minun",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Gravity"
+    },
+    {
+      "parent": "Audino",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Audino",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Marill",
+      "move": "Perish Song"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Present"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Present"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Present"
+    },
+    {
+      "parent": "Marill",
+      "move": "Present"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Present"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Raichu",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Clefable",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Togekiss",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Marill",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Minun",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Castform",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Glalie",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Audino",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Whimsicott",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Wish"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Wish"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Wish"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Jigglypuff",
+      "happiness": true
+    }
+  ],
+  "alola_id": 134,
+  "categories": {
+    "en": "Balloon Pokémon",
+    "de": "Ballon"
+  },
+  "kanto_id": null,
+  "johto_id": 43,
+  "hoenn_id": 142,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 119,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+      "de": "Sein Körper ist sehr weich. Kommt es ins Rollen, hüpft es herum und man kann es nicht aufhalten."
+    },
+    "Silver": {
+      "en": "Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.",
+      "de": "Aufgrund seines extrem flexiblen und elastischen Körpers springt es ständig überall umher."
+    },
+    "Crystal": {
+      "en": "Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.",
+      "de": "Anstatt mit seinen kurzen Beinen zu laufen, hüpft es mit seinem weichen und kuscheligen Körper."
+    },
+    "Ruby": {
+      "en": "Igglybuff's vocal chords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream.",
+      "de": "Fluffeluffs Stimmbänder sind noch nicht voll entwickelt. Wenn es zu viel singt, schmerzt ihm die Kehle. Dieses Pokémon gurgelt mit Süßwasser aus einem sauberen Fluss."
+    },
+    "Sapphire": {
+      "en": "Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.",
+      "de": "Fluffeluff hat einen weichen Körper, der sich anfühlt wie ein Marshmallow. Es verströmt einen süßlichen Duft, der die Emotionen seiner Gegner beruhigt."
+    },
+    "Emerald": {
+      "en": "Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.",
+      "de": "Sein weicher und elastischer Körper ist sehr federnd. Singt es mit voller Stimme, ändert sich seine Körperfarbe zu einem intensiven Pink."
+    },
+    "FireRed": {
+      "en": "Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.",
+      "de": "Aufgrund seines extrem flexiblen und elastischen Körpers springt es ständig überall umher."
+    },
+    "LeafGreen": {
+      "en": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+      "de": "Sein Körper ist sehr weich. Kommt es ins Rollen, hüpft es herum und man kann es nicht aufhalten."
+    },
+    "Diamond": {
+      "en": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+      "de": "Es hat einen weichen, elastischen Körper. Hat es einmal angefangen zu hüpfen, ist es nicht zu stoppen."
+    },
+    "Pearl": {
+      "en": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+      "de": "Es hat einen weichen, elastischen Körper. Hat es einmal angefangen zu hüpfen, ist es nicht zu stoppen."
+    },
+    "Platinum": {
+      "en": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+      "de": "Es hat einen weichen, elastischen Körper. Hat es einmal angefangen zu hüpfen, ist es nicht zu stoppen."
+    },
+    "HeartGold": {
+      "en": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+      "de": "Es hat einen weichen, elastischen Körper. Hat es einmal angefangen zu hüpfen, ist es nicht zu stoppen."
+    },
+    "SoulSilver": {
+      "en": "Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.",
+      "de": "Es hat einen weichen, elastischen Körper. Hat es einmal angefangen zu hüpfen, ist es nicht zu stoppen."
+    },
+    "Black": {
+      "en": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+      "de": "Es hat einen weichen, elastischen Körper. Hat es einmal angefangen zu hüpfen, ist es nicht zu stoppen."
+    },
+    "White": {
+      "en": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+      "de": "Es hat einen weichen, elastischen Körper. Hat es einmal angefangen zu hüpfen, ist es nicht zu stoppen."
+    },
+    "Black 2": {
+      "en": "Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.",
+      "de": "Es duftet süßlich. Fängt sein weicher, elastischer Körper einmal an zu hüpfen, ist es nicht mehr zu stoppen."
+    },
+    "White 2": {
+      "en": "Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.",
+      "de": "Es duftet süßlich. Fängt sein weicher, elastischer Körper einmal an zu hüpfen, ist es nicht mehr zu stoppen."
+    },
+    "X": {
+      "en": "Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.",
+      "de": "Anstatt mit seinen kurzen Beinen zu laufen, hüpft es mit seinem weichen und kuscheligen Körper."
+    },
+    "Y": {
+      "en": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+      "de": "Sein Körper ist sehr weich. Kommt es ins Rollen, hüpft es herum und man kann es nicht aufhalten."
+    },
+    "Omega Ruby": {
+      "en": "Igglybuff's vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream.",
+      "de": "Fluffellufs Stimmbänder sind noch nicht voll entwickelt. Wenn es zu viel singt, schmerzt ihm die Kehle. Dieses Pokémon gurgelt mit Süßwasser aus einem sauberen Fluss."
+    },
+    "Alpha Sapphire": {
+      "en": "Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.",
+      "de": "Fluffeluff hat einen weichen Körper, der sich anfühlt wie ein Marshmallow. Es verströmt einen süßlichen Duft, der die Emotionen seiner Gegner beruhigt."
+    },
+    "Sun": {
+      "en": "It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little.",
+      "de": "Es liebt das Singen, ist aber noch nicht sehr gut darin. Lobt man es regelmäßig, verbessern sich seine Gesangskünste jedoch nach und nach."
+    },
+    "Moon": {
+      "en": "It moves by bouncing along. As it moves a lot, it sweats, and its body gives off a sweet aroma.",
+      "de": "Es bewegt sich hüpfend umher. Gerät es dabei ins Schwitzen, sondert es einen süßlichen Duft ab."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      1,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      3,
+      4
+    ]
+  }
+}

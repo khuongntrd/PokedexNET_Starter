@@ -1,0 +1,877 @@
+{
+  "names": {
+    "fr": "Herbizarre",
+    "de": "Bisaknosp",
+    "it": "Ivysaur",
+    "en": "Ivysaur"
+  },
+  "national_id": 2,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow"
+    },
+    {
+      "name": "Chlorophyll",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster",
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "28.7 lbs.",
+  "weight_eu": "13.0 kg",
+  "base_exp_yield": 142,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 63,
+    "sp_atk": 80,
+    "sp_def": 80,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 3,
+      "move": "Growl"
+    },
+    {
+      "level": 7,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 9,
+      "move": "Vine Whip"
+    },
+    {
+      "level": 13,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 13,
+      "move": "Sleep Powder"
+    },
+    {
+      "level": 15,
+      "move": "Take Down"
+    },
+    {
+      "level": 20,
+      "move": "Razor Leaf"
+    },
+    {
+      "level": 23,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 28,
+      "move": "Growth"
+    },
+    {
+      "level": 31,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 36,
+      "move": "Worry Seed"
+    },
+    {
+      "level": 39,
+      "move": "Synthesis"
+    },
+    {
+      "level": 44,
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Charm"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Charm"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Curse"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Curse"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Curse"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Curse"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Endure"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Endure"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Paras",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Treecko",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Servine",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Snover",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Snover",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Servine",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Amaura",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Aurorus",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Sludge"
+    }
+  ],
+  "evolution_from": "Bulbasaur",
+  "evolutions": [
+    {
+      "to": "Venusaur",
+      "level": 32
+    }
+  ],
+  "categories": {
+    "en": "Seed Pokémon",
+    "de": "Samen"
+  },
+  "kanto_id": 2,
+  "johto_id": 232,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 81,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "de": "Sobald die Knospe auf seinem Rücken aufgeht, kann Bisaknosp nicht mehr auf zwei Beinen stehen."
+    },
+    "Blue": {
+      "en": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "de": "Sobald die Knospe auf seinem Rücken aufgeht, kann Bisaknosp nicht mehr auf zwei Beinen stehen."
+    },
+    "Yellow": {
+      "en": "The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
+      "de": "Die Knospe auf dem Rücken wächst durch absorbierte Energie. Kurz vor der Blüte sondert sie einen Duft ab."
+    },
+    "Gold": {
+      "en": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+      "de": "Die Sonne macht es stärker. Die Knospe auf seinem Rücken wächst unter dem Einfluss von Sonnenlicht."
+    },
+    "Silver": {
+      "en": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom.",
+      "de": "Verbreitet die Knospe auf seinem Rücken einen süßen Duft, ist das ein Anzeichen, dass sie bald blüht."
+    },
+    "Crystal": {
+      "en": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms.",
+      "de": "Nimmt es Nährstoffe zu sich, wächst seine Knospe. Blüht sie, verströmt sie einen angenehmen Duft."
+    },
+    "Ruby": {
+      "en": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+      "de": "Bisaknosp hat eine Knospe auf seinem Rücken. Beine und Rumpf sind kräftig genug, um sein Gewicht zu tragen. Wenn es lange in der Sonne liegt, ist das ein Anzeichen dafür, dass die Knospe bald blüht."
+    },
+    "Sapphire": {
+      "en": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+      "de": "Bisaknosp hat eine Knospe auf seinem Rücken. Seine Beine und sein Stamm sind kräftig genug, um sein Gewicht zu tragen. Wenn es lange in der Sonne liegt, ist das ein Anzeichen dafür, dass die Knospe bald blüht."
+    },
+    "Emerald": {
+      "en": "To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.",
+      "de": "Die Beine von BISAKNOSP sind kräftig im Wuchs, da sie die Knospe tragen müssen. Wenn es lange in der Sonne liegt, beginnt die Knospe bald zu blühen."
+    },
+    "FireRed": {
+      "en": "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
+      "de": "Es trägt eine Knospe auf seinem Rücken. Nimmt es Nahrung zu sich, soll aus der Knospe eine große blühende Blume werden."
+    },
+    "LeafGreen": {
+      "en": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "de": "Sobald die Knospe auf seinem Rücken aufgeht, kann Bisaknosp nicht mehr auf zwei Beinen stehen."
+    },
+    "Diamond": {
+      "en": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "Pearl": {
+      "en": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "Platinum": {
+      "en": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "HeartGold": {
+      "en": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "SoulSilver": {
+      "en": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "Black": {
+      "en": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "White": {
+      "en": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "Black 2": {
+      "en": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "White 2": {
+      "en": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "X": {
+      "en": "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
+      "de": "Es trägt eine Knospe auf seinem Rücken. Nimmt es Nahrung zu sich, soll aus der Knospe eine große blühende Blume werden."
+    },
+    "Y": {
+      "en": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+      "de": "Sobald die Knospe auf seinem Rücken ein süßes Aroma abgibt, steht die Blüte kurz bevor."
+    },
+    "Omega Ruby": {
+      "en": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
+      "de": "Bisaknosp hat eine Knospe auf seinem Rücken. Beine und Rumpf sind kräftig genug, um sein Gewicht zu tragen. Wenn es lange in der Sonne liegt, ist das ein Anzeichen dafür, dass die Knospe bald blüht."
+    },
+    "Alpha Sapphire": {
+      "en": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
+      "de": "Bisaknosp hat eine Knospe auf seinem Rücken. Seine Beine und sein kräftig genug, um sein Gewicht zu tragen. Wenn es lange in der Sonne liegt, ist das ein Anzeichen dafür, dass die Knospe bald blüht."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      2
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

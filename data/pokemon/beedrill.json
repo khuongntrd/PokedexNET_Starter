@@ -1,0 +1,424 @@
+{
+  "names": {
+    "fr": "Dardargnan",
+    "de": "Bibor",
+    "it": "Beedrill",
+    "en": "Beedrill"
+  },
+  "national_id": 15,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm"
+    },
+    {
+      "name": "Sniper",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    2805,
+    3059
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "65.0 lbs.",
+  "weight_eu": "29.5 kg",
+  "base_exp_yield": 173,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "atk": 80,
+    "def": 40,
+    "sp_atk": 45,
+    "sp_def": 80,
+    "speed": 75
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 10,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 13,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 16,
+      "move": "Twineedle"
+    },
+    {
+      "level": 19,
+      "move": "Rage"
+    },
+    {
+      "level": 22,
+      "move": "Pursuit"
+    },
+    {
+      "level": 25,
+      "move": "Toxic Spikes"
+    },
+    {
+      "level": 28,
+      "move": "Pin Missile"
+    },
+    {
+      "level": 31,
+      "move": "Agility"
+    },
+    {
+      "level": 34,
+      "move": "Assurance"
+    },
+    {
+      "level": 37,
+      "move": "Poison Jab"
+    },
+    {
+      "level": 40,
+      "move": "Endeavor"
+    },
+    {
+      "level": 45,
+      "move": "Fell Stinger"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ],
+  "evolution_from": "Kakuna",
+  "categories": {
+    "en": "Poison Bee Pokémon",
+    "de": "Giftbiene"
+  },
+  "kanto_id": 15,
+  "johto_id": 29,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 28,
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Adaptability",
+      "mega_stone": "Beedrillite",
+      "height_us": "4'07\"",
+      "height_eu": "1.4 m",
+      "weight_us": "89.3 lbs.",
+      "weight_eu": "40.5 kg",
+      "base_stats": {
+        "hp": 65,
+        "atk": 150,
+        "def": 40,
+        "sp_atk": 15,
+        "sp_def": 80,
+        "speed": 145
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+      "de": "Dieses Pokémon ist sehr schnell. Es verfügt an den Vorderbeinen und am Schwanz über Giftstacheln."
+    },
+    "Blue": {
+      "en": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+      "de": "Dieses Pokémon ist sehr schnell. Es verfügt an den Vorderbeinen und am Schwanz über Giftstacheln."
+    },
+    "Yellow": {
+      "en": "It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+      "de": "Dieses Pokémon verfügt über drei Giftstachel. Es kann seine Gegner damit wiederholt stechen."
+    },
+    "Gold": {
+      "en": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+      "de": "Mit seinen gefährlichen Stacheln kann es jeden Gegner besiegen. Es tritt auch in Schwärmen auf."
+    },
+    "Silver": {
+      "en": "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
+      "de": "Es besitzt drei Giftstacheln. Mit dem Stachel an seinem Hinterleib injiziert es das wirksamste Gift."
+    },
+    "Crystal": {
+      "en": "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.",
+      "de": "Mit seinen Giftstacheln überwältigt es seine Beute, die es dann zu seinem Stock trägt."
+    },
+    "Ruby": {
+      "en": "Beedrill is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
+      "de": "Bibor sind sehr wehrhaft. Es sollte sich besser niemand ihrem Nest nähern. Wenn man sie ärgert, greifen sie in Schwärmen an."
+    },
+    "Sapphire": {
+      "en": "Beedrill is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
+      "de": "Bibor ist sehr wehrhaft. Es sollte sich besser niemand seinem Nest nähern. Wenn man sie ärgert, greifen sie in Schwärmen an."
+    },
+    "Emerald": {
+      "en": "A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
+      "de": "BIBOR sind sehr wehrhaft. Es sollte sich besser niemand ihrem Nest nähern. Wenn man sie ärgert, greifen sie in Schwärmen an."
+    },
+    "FireRed": {
+      "en": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+      "de": "Es kann in Schwärmen auftauchen. Während seines rasanten Fluges sticht es, mit dem Giftstachel an seinem Hinterteil, zu."
+    },
+    "LeafGreen": {
+      "en": "It flies at high speed and attacks using the large venomous stingers on its forelegs and tail.",
+      "de": "Dieses Pokémon ist sehr schnell. Es verfügt an den Vorderbeinen und am Schwanz über Giftstacheln."
+    },
+    "Diamond": {
+      "en": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "de": "Sein bester Angriff: Schnell auf den Gegner zufliegen, mit Giftstacheln zustechen und davonfliegen."
+    },
+    "Pearl": {
+      "en": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "de": "Sein bester Angriff: Schnell auf den Gegner zufliegen, mit Giftstacheln zustechen und davonfliegen."
+    },
+    "Platinum": {
+      "en": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "de": "Sein bester Angriff: Schnell auf den Gegner zufliegen, mit Giftstacheln zustechen und davonfliegen."
+    },
+    "HeartGold": {
+      "en": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+      "de": "Sein bester Angriff: Schnell auf den Gegner zufliegen, mit Giftstacheln zustechen und davonfliegen."
+    },
+    "SoulSilver": {
+      "en": "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
+      "de": "Sein bester Angriff: Schnell auf den Gegner zufliegen, mit Giftstacheln zustechen und davonfliegen."
+    },
+    "Black": {
+      "en": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "de": "Sein bester Angriff: Schnell auf den Gegner zufliegen, mit Giftstacheln zustechen und davonfliegen."
+    },
+    "White": {
+      "en": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "de": "Sein bester Angriff: Schnell auf den Gegner zufliegen, mit Giftstacheln zustechen und davonfliegen."
+    },
+    "Black 2": {
+      "en": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "de": "Sein bester Angriff: schnell auf den Gegner zufliegen, mit Giftstacheln zustechen und davonfliegen."
+    },
+    "White 2": {
+      "en": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "de": "Sein bester Angriff: schnell auf den Gegner zufliegen, mit Giftstacheln zustechen und davonfliegen."
+    },
+    "X": {
+      "en": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+      "de": "Dieses Pokémon verfügt über drei Giftstachel. Es kann seine Gegner damit wiederholt stechen."
+    },
+    "Y": {
+      "en": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+      "de": "Es kann in Schwärmen auftauchen. Während seines rasanten Fluges sticht es mit dem Giftstachel an seinem Hinterteil zu."
+    },
+    "Omega Ruby": {
+      "en": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+      "de": "Bibor sind sehr wehrhaft. Es sollte sich besser niemand ihrem Nest nähern. Wenn man sie ärgert, greifen sie in Schwärmen an."
+    },
+    "Alpha Sapphire": {
+      "en": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+      "de": "Bibor ist sehr wehrhaft. Es sollte sich besser niemand seinem nest nähern. Wenn man sie ärgert, greifen sie in Schwärmen an."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      1,
+      4
+    ],
+    "stamina": [
+      2,
+      2
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

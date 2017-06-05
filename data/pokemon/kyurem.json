@@ -1,0 +1,477 @@
+{
+  "names": {
+    "fr": "Kyurem",
+    "de": "Kyurem",
+    "it": "Kyurem",
+    "en": "Kyurem"
+  },
+  "national_id": 646,
+  "types": [
+    "Dragon",
+    "Ice"
+  ],
+  "abilities": [
+    {
+      "name": "Pressure"
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 3,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    30855,
+    31109
+  ],
+  "height_us": "9'10\"",
+  "height_eu": "3.0 m",
+  "weight_us": "716.5 lbs.",
+  "weight_eu": "325.0 kg",
+  "base_exp_yield": 297,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 0,
+  "base_stats": {
+    "hp": 125,
+    "atk": 130,
+    "def": 90,
+    "sp_atk": 130,
+    "sp_def": 90,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "level": 1,
+      "move": "Icy Wind"
+    },
+    {
+      "level": 1,
+      "move": "Dragon Rage"
+    },
+    {
+      "level": 8,
+      "move": "Imprison"
+    },
+    {
+      "level": 15,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 22,
+      "move": "Ice Beam"
+    },
+    {
+      "level": 29,
+      "move": "Dragon Breath"
+    },
+    {
+      "level": 36,
+      "move": "Slash"
+    },
+    {
+      "level": 43,
+      "move": "Scary Face",
+      "variations": [
+        "default"
+      ]
+    },
+    {
+      "level": 43,
+      "move": "Fusion Flare",
+      "variations": [
+        "White Kyurem"
+      ]
+    },
+    {
+      "level": 43,
+      "move": "Fusion Bolt",
+      "variations": [
+        "Black Kyurem"
+      ]
+    },
+    {
+      "level": 50,
+      "move": "Glaciate",
+      "variations": [
+        "default"
+      ]
+    },
+    {
+      "level": 50,
+      "move": "Ice Burn",
+      "variations": [
+        "White Kyurem"
+      ]
+    },
+    {
+      "level": 50,
+      "move": "Freeze Shock",
+      "variations": [
+        "Black Kyurem"
+      ]
+    },
+    {
+      "level": 57,
+      "move": "Dragon Pulse"
+    },
+    {
+      "level": 64,
+      "move": "Imprison"
+    },
+    {
+      "level": 71,
+      "move": "Endeavor"
+    },
+    {
+      "level": 78,
+      "move": "Blizzard"
+    },
+    {
+      "level": 85,
+      "move": "Outrage"
+    },
+    {
+      "level": 92,
+      "move": "Hyper Voice"
+    }
+  ],
+  "categories": {
+    "en": "Boundary Pokémon",
+    "de": "Schwelle"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": 152,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Kyurem",
+    "de": "Kyurem"
+  },
+  "variations": [
+    {
+      "condition": "using DNA Splicers",
+      "image_suffix": "white",
+      "names": {
+        "en": "White Kyurem",
+        "de": "Weißes Kyurem"
+      },
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "height_us": "11'10\"",
+      "height_eu": "3.6 m",
+      "abilities": [
+        {
+          "name": "Turboblaze"
+        }
+      ],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 3,
+        "sp_def": 0,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 125,
+        "atk": 120,
+        "def": 90,
+        "sp_atk": 170,
+        "sp_def": 100,
+        "speed": 95
+      }
+    },
+    {
+      "condition": "using DNA Splicers",
+      "image_suffix": "black",
+      "names": {
+        "en": "Black Kyurem",
+        "de": " Schwarzes Kyurem"
+      },
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "height_us": "10'10\"",
+      "height_eu": "3.3 m",
+      "abilities": [
+        {
+          "name": "Teravolt"
+        }
+      ],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 125,
+        "atk": 170,
+        "def": 100,
+        "sp_atk": 120,
+        "sp_def": 90,
+        "speed": 95
+      }
+    }
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+      "de": "Sein Körper erzeugt in seinem Inneren gewaltige Mengen an Kälteenergie. Tritt diese jedoch aus, gefriert sein Körper."
+    },
+    "White": {
+      "en": "It can produce ultracold air. Its body is frozen.",
+      "de": "Es besitzt die Fähigkeit, eisige Kälte heraufzubeschwören, doch dabei gefriert auch sein eigener Körper."
+    },
+    "Black 2": {
+      "en": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "de": "Ein Legendäres Eis-Pokémon, das auf den Helden wartet, der seinen verstümmelten Körper mit Wunsch und Wirklichkeit heilt."
+    },
+    "White 2": {
+      "en": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "de": "Ein Legendäres Eis-Pokémon, das auf den Helden wartet, der seinen verstümmelten Körper mit Wunsch und Wirklichkeit heilt."
+    },
+    "X": {
+      "en": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "de": "Ein Legendäres Eis-Pokémon, das auf den Helden wartet, der seinen verstümmelten Körper mit Wunsch und Wirklichkeit heilt."
+    },
+    "Y": {
+      "en": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+      "de": "Sein Körper erzeugt in seinem Inneren gewaltige Mengen an Kälteenergie. Tritt diese jedoch aus, gefriert sein Körper."
+    },
+    "Omega Ruby": {
+      "en": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "de": "Sein Körper erzeugt in seinem Inneren gewaltige Mengen an Kälteenergie. Tritt diese jedoch aus, gefriert sein Körper."
+    },
+    "Alpha Sapphire": {
+      "en": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+      "de": "Sein Körper erzeugt in seinem Inneren gewaltige Mengen an Kälteenergie. Tritt diese jedoch aus, gefriert sein Körper."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

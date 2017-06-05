@@ -1,0 +1,664 @@
+{
+  "names": {
+    "fr": "Spectrum",
+    "de": "Alpollo",
+    "it": "Haunter",
+    "en": "Haunter"
+  },
+  "national_id": 93,
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 90,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "5'03\"",
+  "height_eu": "1.6 m",
+  "weight_us": "0.2 lbs.",
+  "weight_eu": "0.1 kg",
+  "base_exp_yield": 142,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 2,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 45,
+    "sp_atk": 115,
+    "sp_def": 55,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Hypnosis"
+    },
+    {
+      "level": 0,
+      "move": "Lick"
+    },
+    {
+      "level": 0,
+      "move": "Spite"
+    },
+    {
+      "level": 5,
+      "move": "Spite"
+    },
+    {
+      "level": 8,
+      "move": "Mean Look"
+    },
+    {
+      "level": 12,
+      "move": "Curse"
+    },
+    {
+      "level": 15,
+      "move": "Night Shade"
+    },
+    {
+      "level": 19,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 22,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 25,
+      "move": "Shadow Punch"
+    },
+    {
+      "level": 28,
+      "move": "Payback"
+    },
+    {
+      "level": 33,
+      "move": "Shadow Ball"
+    },
+    {
+      "level": 39,
+      "move": "Dream Eater"
+    },
+    {
+      "level": 44,
+      "move": "Dark Pulse"
+    },
+    {
+      "level": 50,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 55,
+      "move": "Hex"
+    },
+    {
+      "level": 61,
+      "move": "Nightmare"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Chimecho",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Disable"
+    },
+    {
+      "parent": "Muk",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Banette",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Haze"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Haze"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Ice Punch"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Ice Punch"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Perish Song"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Chimecho",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Reflect Type"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Smog"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Smog"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Smog"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Smog"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Smog"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Smog"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Thunder Punch"
+    }
+  ],
+  "evolution_from": "Gastly",
+  "evolutions": [
+    {
+      "to": "Gengar",
+      "trade": true
+    }
+  ],
+  "alola_id": 62,
+  "categories": {
+    "en": "Gas Pokémon",
+    "de": "Gas"
+  },
+  "kanto_id": 93,
+  "johto_id": 59,
+  "hoenn_id": null,
+  "sinnoh_id": 70,
+  "unova_id": null,
+  "kalos_id": 31,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+      "de": "Dieses Pokémon stammt angeblich aus einer anderen Dimension, da es durch Wände gehen kann."
+    },
+    "Blue": {
+      "en": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+      "de": "Dieses Pokémon stammt angeblich aus einer anderen Dimension, da es durch Wände gehen kann."
+    },
+    "Yellow": {
+      "en": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
+      "de": "Dieses Pokémon saugt seinen bemitleidenswerten Opfern ohne Gnade die Seele aus dem Leib."
+    },
+    "Gold": {
+      "en": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+      "de": "Alpollo wartet in der Finsternis auf seine Opfer. Es lauert ihnen auf und stellt ihnen nach."
+    },
+    "Silver": {
+      "en": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+      "de": "Seine Zunge ist aus Gas. Leckt es an einem Gegner, zittert er und verliert eventuell das Bewusstsein."
+    },
+    "Crystal": {
+      "en": "It hides in the dark, planning to take the life of the next living thing that wanders close by.",
+      "de": "Es versteckt sich im Dunkeln und wartet nur darauf, dem nächsten Lebewesen sein Leben auszuhauchen."
+    },
+    "Ruby": {
+      "en": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+      "de": "Alpollo ist ein gefährliches Pokémon. Wenn es dich zu sich lockt, während es durch die Dunkelheit schwebt, darfst du ihm keinesfalls zu nahe kommen. Dieses Pokémon wird versuchen, an dir zu lecken und dein Leben zu stehlen."
+    },
+    "Sapphire": {
+      "en": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+      "de": "Alpollo ist ein gefährliches Pokémon. Wenn es dir ein Zeichen gibt, während es durch die Dunkelheit schwebt, darfst du es nicht berühren. Dieses Pokémon wird versuchen, an dir zu lecken und dein Leben zu stehlen."
+    },
+    "Emerald": {
+      "en": "If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+      "de": "Wenn ALPOLLO dich zu sich lockt, während es durch die Dunkelheit schwebt, darfst du ihm nicht zu nahe kommen. Es wird an dir lecken und dein Leben stehlen."
+    },
+    "FireRed": {
+      "en": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+      "de": "Falls du im Dunkeln das Gefühl hast, beobachtet zu werden und niemand ist zu sehen, ist es bestimmt Alpollo."
+    },
+    "LeafGreen": {
+      "en": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+      "de": "Dieses Pokémon stammt angeblich aus einer anderen Dimension, da es durch Wände gehen kann."
+    },
+    "Diamond": {
+      "en": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
+      "de": "Es kann sich durch jedes Hindernis bewegen. Es versteckt sich in Wänden, um Gegner zu beobachten."
+    },
+    "Pearl": {
+      "en": "It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.",
+      "de": "Es beleckt seine Opfer mit seiner Zunge und stiehlt ihnen so Lebens- kraft. Es lauert im Dunkeln auf sie."
+    },
+    "Platinum": {
+      "en": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+      "de": "Lauert in der Dunkelheit. Die Berührung seiner gasförmigen Hand erzeugt endloses Schaudern."
+    },
+    "HeartGold": {
+      "en": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+      "de": "Es kann sich durch jedes Hindernis bewegen. Es versteckt sich in Wänden, um Gegner zu beobachten."
+    },
+    "SoulSilver": {
+      "en": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+      "de": "Es kann sich durch jedes Hindernis bewegen. Es versteckt sich in Wänden, um Gegner zu beobachten."
+    },
+    "Black": {
+      "en": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+      "de": "Lauert in der Dunkelheit. Die Berührung seiner gasförmigen Hand erzeugt endloses Schaudern.|"
+    },
+    "White": {
+      "en": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+      "de": "Lauert in der Dunkelheit. Die Berührung seiner gasförmigen Hand erzeugt endloses Schaudern.|"
+    },
+    "Black 2": {
+      "en": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+      "de": "Lauert in der Dunkelheit. Die Berührung seiner gasförmigen Hand erzeugt endloses Schaudern."
+    },
+    "White 2": {
+      "en": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+      "de": "Lauert in der Dunkelheit. Die Berührung seiner gasförmigen Hand erzeugt endloses Schaudern."
+    },
+    "X": {
+      "en": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+      "de": "Falls du im Dunkeln das Gefühl hast, beobachtet zu werden und niemand ist zu sehen, ist es bestimmt Alpollo."
+    },
+    "Y": {
+      "en": "It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.",
+      "de": "Es beleckt seine Opfer mit seiner Zunge und stiehlt ihnen so Lebenskraft. Es lauert im Dunkeln auf sie."
+    },
+    "Omega Ruby": {
+      "en": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+      "de": "Alpollo ist ein gefährliches Pokémon. Wenn es dir ein Zeichen gibt, während es durch die Dunkelheit schwebt, darfst du es nicht berühren. Dieses Pokémon wird versuchen, an dir zu lecken und dein Leben zu stehlen."
+    },
+    "Alpha Sapphire": {
+      "en": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+      "de": "Alpollo ist ein gefährliches Pokémon. Wenn es dir ein Zeichen gibt, während es durch die Dunkelheit schwebt, darfst du es nicht berühren. Dieses Pokémon wird versuchen, an dir zu lecken und dein Leben zu stehlen."
+    },
+    "Sun": {
+      "en": "It strikes at humans from total darkness. Those licked by its cold tongue grow weaker with each passing day until they die.",
+      "de": "Es lauert Menschen im Dunkeln auf und leckt sie mit seiner kalten Zunge. Danach werden sie von Tag zu Tag schwächer, bis sie dahinscheiden."
+    },
+    "Moon": {
+      "en": "It fears the light and revels in the dark. It may be on the verge of extinction in cities that stay brightly lit at night.",
+      "de": "Es ist lichtscheu und bevorzugt die Dunkelheit. Aufgrund der hellen Lichter der Großstädte ist es dort vom Aussterben bedroht."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      1,
+      1
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      3,
+      4
+    ]
+  }
+}

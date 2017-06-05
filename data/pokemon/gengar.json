@@ -1,0 +1,720 @@
+{
+  "names": {
+    "fr": "Ectoplasma",
+    "de": "Gengar",
+    "it": "Gengar",
+    "en": "Gengar"
+  },
+  "national_id": 94,
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "89.3 lbs.",
+  "weight_eu": "40.5 kg",
+  "base_exp_yield": 225,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 3,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 60,
+    "sp_atk": 130,
+    "sp_def": 75,
+    "speed": 110
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Hypnosis"
+    },
+    {
+      "level": 0,
+      "move": "Lick"
+    },
+    {
+      "level": 0,
+      "move": "Spite"
+    },
+    {
+      "level": 5,
+      "move": "Spite"
+    },
+    {
+      "level": 8,
+      "move": "Mean Look"
+    },
+    {
+      "level": 12,
+      "move": "Curse"
+    },
+    {
+      "level": 15,
+      "move": "Night Shade"
+    },
+    {
+      "level": 19,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 22,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 25,
+      "move": "Shadow Punch"
+    },
+    {
+      "level": 28,
+      "move": "Payback"
+    },
+    {
+      "level": 33,
+      "move": "Shadow Ball"
+    },
+    {
+      "level": 39,
+      "move": "Dream Eater"
+    },
+    {
+      "level": 44,
+      "move": "Dark Pulse"
+    },
+    {
+      "level": 50,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 55,
+      "move": "Hex"
+    },
+    {
+      "level": 61,
+      "move": "Nightmare"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Chimecho",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Disable"
+    },
+    {
+      "parent": "Muk",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Banette",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Haze"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Haze"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Ice Punch"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Ice Punch"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Perish Song"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Chimecho",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Reflect Type"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Smog"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Smog"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Smog"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Smog"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Smog"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Smog"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Thunder Punch"
+    }
+  ],
+  "evolution_from": "Haunter",
+  "alola_id": 63,
+  "categories": {
+    "en": "Shadow Pokémon",
+    "de": "Schatten"
+  },
+  "kanto_id": 94,
+  "johto_id": 60,
+  "hoenn_id": null,
+  "sinnoh_id": 71,
+  "unova_id": null,
+  "kalos_id": 32,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "ability": "Shadow Tag",
+      "mega_stone": "Gengarite",
+      "height_us": "4'07\"",
+      "height_eu": "1.4 m",
+      "weight_us": "89.3 lbs.",
+      "weight_eu": "40.5 kg",
+      "base_stats": {
+        "hp": 60,
+        "atk": 65,
+        "def": 80,
+        "sp_atk": 170,
+        "sp_def": 95,
+        "speed": 130
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+      "de": "Dieses Pokémon erschreckt bei Vollmond gerne Passanten mit furchterregenden Schattenspielen."
+    },
+    "Blue": {
+      "en": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+      "de": "Dieses Pokémon erschreckt bei Vollmond gerne Passanten mit furchterregenden Schattenspielen."
+    },
+    "Yellow": {
+      "en": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+      "de": "Ein plötzlicher Luftzug kündigt Gengars Besuch an. Es belegt seine Opfer mit furchtbaren Flüchen."
+    },
+    "Gold": {
+      "en": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
+      "de": "Es entzieht seiner Umgebung Wärme. Wird dir plötzlich kalt, ist bestimmt ein Gengar in der Nähe."
+    },
+    "Silver": {
+      "en": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+      "de": "Um den Gegner zu besiegen, stellt es sich in deren Schatten und wartet auf eine günstige Gelegenheit."
+    },
+    "Crystal": {
+      "en": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+      "de": "Es versteckt sich im Schatten der Menschen und absorbiert deren Wärme, so dass die Menschen frieren."
+    },
+    "Ruby": {
+      "en": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+      "de": "Nachts kann es passieren, dass dich dein Schatten im Licht einer Straßenlaterne plötzlich überholt. Dann ist es ein Gengar, das an dir vorbeiläuft und sich als dein Schatten ausgibt."
+    },
+    "Sapphire": {
+      "en": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+      "de": "Nachts kann es passieren, dass dich dein Schatten im Licht einer Straßenlaterne plötzlich überholt. Dann ist es ein Gengar, das an dir vorbeiläuft und sich als dein Schatten ausgibt."
+    },
+    "Emerald": {
+      "en": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+      "de": "Nachts kann es passieren, dass dich dein Schatten im Licht einer Laterne überholt. Dann ist es ein GENGAR, das dich passiert und sich als dein Schatten ausgibt."
+    },
+    "FireRed": {
+      "en": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+      "de": "Man sagt, es ist aus Dunkelheit entstanden, um denjenigen, die sich in den Bergen verirrt haben, das Leben zu rauben."
+    },
+    "LeafGreen": {
+      "en": "On the night of the full moon, if shadows move on their own and laugh, it must be Gengar's doing.",
+      "de": "Dieses Pokémon erschreckt bei Vollmond gerne Passanten mit Furcht erregenden Schattenspielen."
+    },
+    "Diamond": {
+      "en": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees F.",
+      "de": "Es versteckt sich im Schatten. Man sagt, wenn sich ein GENGAR ver- steckt, kühlt es sich um 5 Grad ab."
+    },
+    "Pearl": {
+      "en": "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey's life force.",
+      "de": "Es lauert im Schatten von Räumen und wartet auf Beute, der es die Lebenskraft rauben kann."
+    },
+    "Platinum": {
+      "en": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "de": "Der heimtückische Blick im Dunkel gehört einem GENGAR, das sich freut, Flüche auszustoßen."
+    },
+    "HeartGold": {
+      "en": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
+      "de": "Es versteckt sich im Schatten. Man sagt, wenn sich ein GENGAR ver- steckt, kühlt es sich um 5 Grad ab."
+    },
+    "SoulSilver": {
+      "en": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+      "de": "Es versteckt sich im Schatten. Man sagt, wenn sich ein GENGAR ver- steckt, kühlt es sich um 5 Grad ab."
+    },
+    "Black": {
+      "en": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "de": "Der heimtückische Blick im Dunkel gehört einem Gengar, das sich freut, Flüche auszustoßen."
+    },
+    "White": {
+      "en": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "de": "Der heimtückische Blick im Dunkel gehört einem Gengar, das sich freut, Flüche auszustoßen."
+    },
+    "Black 2": {
+      "en": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "de": "Der heimtückische Blick im Dunkel gehört einem Gengar, das sich freut, Flüche auszustoßen."
+    },
+    "White 2": {
+      "en": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "de": "Der heimtückische Blick im Dunkel gehört einem Gengar, das sich freut, Flüche auszustoßen."
+    },
+    "X": {
+      "en": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
+      "de": "Es versteckt sich im Schatten. Man sagt, wenn sich ein Gengar versteckt, kühlt es sich um 5 °C ab."
+    },
+    "Y": {
+      "en": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+      "de": "Es versteckt sich im Schatten der Menschen und absorbiert deren Wärme, sodass die Menschen frieren."
+    },
+    "Omega Ruby": {
+      "en": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+      "de": "Nachts kann es passieren, dass dich dein Schatten im Licht einer Straßenlaterne plötzlich überholt. Dann ist es ein Gengar, das an dir vorbeiläuft und sich als dein Schatten ausgibt."
+    },
+    "Alpha Sapphire": {
+      "en": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+      "de": "Nachts kann es passieren, dass dich dein Schatten im Licht einer Straßenlaterne plötzlich überholt. Dann ist es ein Gengar, das an dir vorbeiläuft und sich als dein Schatten ausgibt."
+    },
+    "Sun": {
+      "en": "Should you feel yourself attacked by a sudden chill, it is evidence of an approaching Gengar. There is no escaping it. Give up.",
+      "de": "Läuft es einem plötzlich eiskalt den Rücken hinunter, wurde man von Gengar als nächstes Opfer auserkoren. Widerstand ist zwecklos."
+    },
+    "Moon": {
+      "en": "It apparently wishes for a traveling companion. Since it was once human itself, it tries to create one by taking the lives of other humans.",
+      "de": "Gengar raubt den Menschen das Leben, um einen Begleiter an seiner Seite zu haben, der wie es selbst einmal ein Mensch war."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      3
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      4,
+      4
+    ],
+    "skill": [
+      5,
+      5
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

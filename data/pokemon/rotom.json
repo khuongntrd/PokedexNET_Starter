@@ -1,0 +1,547 @@
+{
+  "names": {
+    "fr": "Motisma",
+    "de": "Rotom",
+    "it": "Rotom",
+    "en": "Rotom"
+  },
+  "national_id": 479,
+  "types": [
+    "Electric",
+    "Ghost"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 45,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "0.7 lbs.",
+  "weight_eu": "0.3 kg",
+  "base_exp_yield": 154,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 77,
+    "sp_atk": 95,
+    "sp_def": 77,
+    "speed": 91
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Discharge"
+    },
+    {
+      "level": 0,
+      "move": "Charge"
+    },
+    {
+      "level": 0,
+      "move": "Trick"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 0,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 8,
+      "move": "Uproar"
+    },
+    {
+      "level": 15,
+      "move": "Double Team"
+    },
+    {
+      "level": 22,
+      "move": "Shock Wave"
+    },
+    {
+      "level": 29,
+      "move": "Ominous Wind"
+    },
+    {
+      "level": 36,
+      "move": "Substitute"
+    },
+    {
+      "level": 43,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 50,
+      "move": "Hex"
+    },
+    {
+      "level": 57,
+      "move": "Charge"
+    },
+    {
+      "level": 64,
+      "move": "Discharge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "categories": {
+    "en": "Plasma Pokémon",
+    "de": "Plasma"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": 152,
+  "unova_id": null,
+  "kalos_id": 68,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Normal Rotom",
+    "de": "Normal"
+  },
+  "variations": [
+    {
+      "condition": "possesses microwave oven",
+      "image_suffix": "heat",
+      "names": {
+        "en": "Heat Rotom",
+        "de": "Hitze-Rotom"
+      },
+      "types": [
+        "Electric",
+        "Fire"
+      ],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      },
+      "pokeathlon_stats": {
+        "speed": [
+          3,
+          4
+        ],
+        "power": [
+          4,
+          4
+        ],
+        "stamina": [
+          3,
+          4
+        ],
+        "skill": [
+          3,
+          4
+        ],
+        "jump": [
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "condition": "possesses washing machine",
+      "image_suffix": "wash",
+      "names": {
+        "en": "Wash Rotom",
+        "de": "Wasch-Rotom"
+      },
+      "types": [
+        "Electric",
+        "Water"
+      ],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      },
+      "pokeathlon_stats": {
+        "speed": [
+          3,
+          3
+        ],
+        "power": [
+          3,
+          3
+        ],
+        "stamina": [
+          4,
+          4
+        ],
+        "skill": [
+          3,
+          4
+        ],
+        "jump": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "condition": "possesses refrigerator",
+      "image_suffix": "frost",
+      "names": {
+        "en": "Frost Rotom",
+        "de": "Frost-Rotom"
+      },
+      "types": [
+        "Electric",
+        "Ice"
+      ],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      },
+      "pokeathlon_stats": {
+        "speed": [
+          3,
+          4
+        ],
+        "power": [
+          2,
+          3
+        ],
+        "stamina": [
+          3,
+          3
+        ],
+        "skill": [
+          4,
+          5
+        ],
+        "jump": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "condition": "possesses electric fan",
+      "image_suffix": "fan",
+      "names": {
+        "en": "Fan Rotom",
+        "de": " Wirbel-Rotom"
+      },
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      },
+      "pokeathlon_stats": {
+        "speed": [
+          3,
+          5
+        ],
+        "power": [
+          3,
+          5
+        ],
+        "stamina": [
+          2,
+          3
+        ],
+        "skill": [
+          3,
+          3
+        ],
+        "jump": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "condition": "possesses lawnmower",
+      "image_suffix": "mow",
+      "names": {
+        "en": "Mow Rotom",
+        "de": " Schneid-Rotom"
+      },
+      "types": [
+        "Electric",
+        "Grass"
+      ],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      },
+      "pokeathlon_stats": {
+        "speed": [
+          3,
+          3
+        ],
+        "power": [
+          3,
+          3
+        ],
+        "stamina": [
+          3,
+          4
+        ],
+        "skill": [
+          5,
+          5
+        ],
+        "jump": [
+          2,
+          4
+        ]
+      }
+    }
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+      "de": "Sein Körper besteht aus Plasma. Mit ihm kann es in elektrische Geräte eindringen und für Chaos sorgen."
+    },
+    "Pearl": {
+      "en": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+      "de": "Sein Körper besteht aus Plasma. Mit ihm kann es in elektrische Geräte eindringen und für Chaos sorgen."
+    },
+    "Platinum": {
+      "en": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+      "de": "Es kann mit seinem Körper in elektrische Geräte eindringen und dann für Chaos sorgen."
+    },
+    "HeartGold": {
+      "en": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+      "de": "Sein Körper besteht aus Plasma. Mit ihm kann es in elektrische Geräte eindringen und für Chaos sorgen."
+    },
+    "SoulSilver": {
+      "en": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+      "de": "Sein Körper besteht aus Plasma. Mit ihm kann es in elektrische Geräte eindringen und für Chaos sorgen."
+    },
+    "Black": {
+      "en": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+      "de": "Es kann mit seinem Körper in elektrische Geräte eindringen und dann für Chaos sorgen."
+    },
+    "White": {
+      "en": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+      "de": "Es kann mit seinem Körper in elektrische Geräte eindringen und dann für Chaos sorgen."
+    },
+    "Black 2": {
+      "en": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+      "de": "Es kann mit seinem Körper in elektrische Geräte eindringen und dann für Chaos sorgen."
+    },
+    "White 2": {
+      "en": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+      "de": "Es kann mit seinem Körper in elektrische Geräte eindringen und dann für Chaos sorgen."
+    },
+    "X": {
+      "en": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+      "de": "Dieses Pokémon wurde lange Zeit erforscht, um als Energiequelle für einen besonderen Motor zu dienen."
+    },
+    "Y": {
+      "en": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+      "de": "Sein Körper besteht aus Plasma. Mit ihm kann es in elektrische Geräte eindringen und für Chaos sorgen."
+    },
+    "Omega Ruby": {
+      "en": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+      "de": "Sein Körper besteht aus Plasma. Mit ihm kann es in elektrische Geräte eindringen und für Chaos sorgen."
+    },
+    "Alpha Sapphire": {
+      "en": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+      "de": "Sein Körper besteht aus Plasma. Mit ihm kann es in elektrische Geräte eindringen und für Chaos sorgen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      5
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      3,
+      5
+    ],
+    "jump": [
+      4,
+      5
+    ]
+  }
+}

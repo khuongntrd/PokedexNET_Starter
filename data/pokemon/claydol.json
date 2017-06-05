@@ -1,0 +1,446 @@
+{
+  "names": {
+    "fr": "Kaorine",
+    "de": "Lepumentas",
+    "it": "Claydol",
+    "en": "Claydol"
+  },
+  "national_id": 344,
+  "types": [
+    "Ground",
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 90,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "238.0 lbs.",
+  "weight_eu": "107.9 kg",
+  "base_exp_yield": 175,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "color": "Black",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 70,
+    "def": 105,
+    "sp_atk": 70,
+    "sp_def": 120,
+    "speed": 75
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Teleport"
+    },
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 0,
+      "move": "Rapid Spin"
+    },
+    {
+      "level": 4,
+      "move": "Rapid Spin"
+    },
+    {
+      "level": 7,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 10,
+      "move": "Heal Block"
+    },
+    {
+      "level": 13,
+      "move": "Rock Tomb"
+    },
+    {
+      "level": 16,
+      "move": "Psybeam"
+    },
+    {
+      "level": 19,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 22,
+      "move": "Cosmic Power"
+    },
+    {
+      "level": 25,
+      "move": "Power Trick"
+    },
+    {
+      "level": 28,
+      "move": "Self-Destruct"
+    },
+    {
+      "level": 31,
+      "move": "Extrasensory"
+    },
+    {
+      "level": 34,
+      "move": "Guard Split"
+    },
+    {
+      "level": 34,
+      "move": "Power Split"
+    },
+    {
+      "level": 36,
+      "move": "Hyper Beam"
+    },
+    {
+      "level": 40,
+      "move": "Earth Power"
+    },
+    {
+      "level": 46,
+      "move": "Sandstorm"
+    },
+    {
+      "level": 52,
+      "move": "Imprison"
+    },
+    {
+      "level": 58,
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ],
+  "evolution_from": "Baltoy",
+  "categories": {
+    "en": "Clay Doll Pokémon",
+    "de": "Lehmpuppe"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 137,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This Pokémon moves about while levitating.",
+      "de": "Lepumentas sind aus Schlamm gefertigte Puppen, die von primitiven Menschen hergestellt und durch mysteriöse Strahlen zum Leben erweckt wurden. Diese Pokémon bewegen sich schwebend fort."
+    },
+    "Sapphire": {
+      "en": "Claydol is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This Pokémon shoots beams from both its hands.",
+      "de": "Lepumentas ist ein Rätsel um eine Tonstatue, die vor 20.000 Jahren von einer antiken Zivilisation geschaffen wurde. Dieses Pokémon verschießt Strahlen aus beiden Händen."
+    },
+    "Emerald": {
+      "en": "A Claydol sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the Pokémon's manipulation of psychic power.",
+      "de": "LEPUMENTAS schläft schwebend. Seine Arme sind nicht an seinem Körper befestigt. Die Manipulation durch Psykräfte lässt sie schweben."
+    },
+    "FireRed": {
+      "en": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
+      "de": "Es scheint, sein Ursprung geht auf altertümliche Tonpuppen zurück. Durch Telekinese kann es schweben und sich bewegen."
+    },
+    "LeafGreen": {
+      "en": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
+      "de": "Es scheint, sein Ursprung geht auf altertümliche Tonpuppen zurück. Durch Telekinese kann es schweben und sich bewegen."
+    },
+    "Diamond": {
+      "en": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+      "de": "Eine antike Lehmstatue, die durch ein mysteriöses Licht zum Leben erwacht ist."
+    },
+    "Pearl": {
+      "en": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+      "de": "Eine antike Lehmstatue, die durch ein mysteriöses Licht zum Leben erwacht ist."
+    },
+    "Platinum": {
+      "en": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+      "de": "Eine antike Lehmstatue, die durch ein mysteriöses Licht zum Leben erwacht ist."
+    },
+    "HeartGold": {
+      "en": "It is said that it originates from clay dolls made by an ancient civilization.",
+      "de": "Eine antike Lehmstatue, die durch ein mysteriöses Licht zum Leben erwacht ist."
+    },
+    "SoulSilver": {
+      "en": "It is said that it originates from clay dolls made by an ancient civilization.",
+      "de": "Eine antike Lehmstatue, die durch ein mysteriöses Licht zum Leben erwacht ist."
+    },
+    "Black": {
+      "en": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+      "de": "Eine antike Lehmstatue, die durch ein mysteriöses Licht zum Leben erwacht ist."
+    },
+    "White": {
+      "en": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+      "de": "Eine antike Lehmstatue, die durch ein mysteriöses Licht zum Leben erwacht ist."
+    },
+    "Black 2": {
+      "en": "This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago.",
+      "de": "Dieses rätselhafte Pokémon ist aus einer Lehmpuppe entstanden, die vor 20 000 Jahren angefertigt wurde."
+    },
+    "White 2": {
+      "en": "This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago.",
+      "de": "Dieses rätselhafte Pokémon ist aus einer Lehmpuppe entstanden, die vor 20 000 Jahren angefertigt wurde."
+    },
+    "X": {
+      "en": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+      "de": "Eine antike Lehmstatue, die durch ein mysteriöses Licht zum Leben erwacht ist."
+    },
+    "Y": {
+      "en": "It is said that it originates from clay dolls made by an ancient civilization.",
+      "de": "In die Puppe, die Menschen vor 20 000 Jahren aus Lehm formten, ist anscheinend Leben eingefahren."
+    },
+    "Omega Ruby": {
+      "en": "Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This Pokémon moves about while levitating.",
+      "de": "Lepumentas sind aus Schlamm gefertigte Puppen, die von primitiven Menschen hergestellt und durch mysteriöse Strahlen zum Leben erweckt wurden. Diese Pokémon bewegen sich schwebend fort."
+    },
+    "Alpha Sapphire": {
+      "en": "Claydol is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This Pokémon shoots beams from both its hands.",
+      "de": "Lepumentas ist auf mysteriöse Weise aus einer Tonstatue entstanden, die vor 20 000 Jahren von einer antiken Zivilisation geschaffen wurde. Dieses Pokémon verschießt Strahlen aus beiden Händen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      3
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      4,
+      4
+    ]
+  }
+}

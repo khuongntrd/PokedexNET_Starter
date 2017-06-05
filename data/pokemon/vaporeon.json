@@ -1,0 +1,780 @@
+{
+  "names": {
+    "fr": "Aquali",
+    "de": "Aquana",
+    "it": "Vaporeon",
+    "en": "Vaporeon"
+  },
+  "national_id": 134,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Water Absorb"
+    },
+    {
+      "name": "Hydration",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    9180,
+    9434
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "63.9 lbs.",
+  "weight_eu": "29.0 kg",
+  "base_exp_yield": 184,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 130,
+    "atk": 65,
+    "def": 60,
+    "sp_atk": 110,
+    "sp_def": 95,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Helping Hand"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 5,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 9,
+      "move": "Water Gun"
+    },
+    {
+      "level": 13,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 17,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 20,
+      "move": "Aurora Beam"
+    },
+    {
+      "level": 25,
+      "move": "Aqua Ring"
+    },
+    {
+      "level": 29,
+      "move": "Acid Armor"
+    },
+    {
+      "level": 33,
+      "move": "Haze"
+    },
+    {
+      "level": 37,
+      "move": "Muddy Water"
+    },
+    {
+      "level": 41,
+      "move": "Last Resort"
+    },
+    {
+      "level": 45,
+      "move": "Hydro Pump"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Charm"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Charm"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Charm"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Charm"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Charm"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Charm"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Charm"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Charm"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Charm"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Charm"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Covet"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Covet"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Covet"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Covet"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Covet"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Covet"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Covet"
+    },
+    {
+      "parent": "Numel",
+      "move": "Curse"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Curse"
+    },
+    {
+      "parent": "Zangoose",
+      "move": "Detect"
+    },
+    {
+      "parent": "Absol",
+      "move": "Detect"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Detect"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Detect"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Detect"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Detect"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Detect"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Endure"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Endure"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Endure"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Endure"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Endure"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Endure"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Endure"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Endure"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Flail"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Flail"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Flail"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Flail"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Flail"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Flail"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Flail"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Pansage",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Panpour",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Munna",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Munna",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Wish"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Wish"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Numel",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Hippopotas",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Munna",
+      "move": "Yawn"
+    }
+  ],
+  "evolution_from": "Eevee",
+  "alola_id": 124,
+  "categories": {
+    "en": "Bubble Jet Pokémon",
+    "de": "Blubblase"
+  },
+  "kanto_id": 134,
+  "johto_id": 185,
+  "hoenn_id": null,
+  "sinnoh_id": 164,
+  "unova_id": null,
+  "kalos_id": 78,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+      "de": "Dieses Pokémon lebt nahe an Gewässern. Seine Schwanzflosse ähnelt der einer Meerjungfrau."
+    },
+    "Blue": {
+      "en": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+      "de": "Dieses Pokémon lebt nahe an Gewässern. Seine Schwanzflosse ähnelt der einer Meerjungfrau."
+    },
+    "Yellow": {
+      "en": "Its cell structure is similar to water molecules. It will melt away and become invisible in water.",
+      "de": "Die Zellstruktur dieses Pokémon ähnelt der von Wassermolekülen. Im Wasser ist es daher unsichtbar."
+    },
+    "Gold": {
+      "en": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
+      "de": "Vibrieren die Flossen Aquanas, bedeutet dies, dass es in den nächsten Stunden zu regnen beginnt."
+    },
+    "Silver": {
+      "en": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+      "de": "Es liebt schöne Ufer. Da seine Zellstruktur Wassermolekülen ähnlich ist, schmilzt es im Wasser."
+    },
+    "Crystal": {
+      "en": "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.",
+      "de": "Da es die Flossen an seinem Schwanzende zum Schwimmen einsetzt, verschmilzt es mit dem Wasser."
+    },
+    "Ruby": {
+      "en": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+      "de": "Aquana hat eine spontane Mutation durchgemacht und ihm sind Flossen und Kiemen gewachsen. Dadurch kann es unter Wasser leben. Dieses Pokémon kann Wasser nach Belieben manipulieren."
+    },
+    "Sapphire": {
+      "en": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+      "de": "Aquana hat eine spontane Mutation durchlaufen. Ihm sind Flossen und Kiemen gewachsen. Dadurch kann es unter Wasser leben. Dieses Pokémon kann Wasser nach Belieben manipulieren."
+    },
+    "Emerald": {
+      "en": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
+      "de": "AQUANA hat eine spontane Mutation durch gemacht und ihm sind Flossen und Kiemen gewachsen. Dadurch kann es unter Wasser leben. Es kann Wasser beliebig ändern."
+    },
+    "FireRed": {
+      "en": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+      "de": "Die Zellstruktur seines Körpers ähnelt der molekularen Zusammensetzung von Wasser. Daher kann es mit Wasser verschmelzen und wird so unsichtbar."
+    },
+    "LeafGreen": {
+      "en": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+      "de": "Dieses Pokémon lebt nahe an Gewässern. Seine Schwanzflosse ähnelt der einer Meerjungfrau."
+    },
+    "Diamond": {
+      "en": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+      "de": "Es hat sich so entwickelt, dass es im Wasser leben kann. Im Wasser selbst wird es unsichtbar."
+    },
+    "Pearl": {
+      "en": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+      "de": "Es hat sich so entwickelt, dass es im Wasser leben kann. Im Wasser selbst wird es unsichtbar."
+    },
+    "Platinum": {
+      "en": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+      "de": "Seine Zellstruktur ist der von Wassermolekülen ähnlich. Daher kann es mit Wasser eins werden."
+    },
+    "HeartGold": {
+      "en": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
+      "de": "Es hat sich so entwickelt, dass es im Wasser leben kann. Im Wasser selbst wird es unsichtbar."
+    },
+    "SoulSilver": {
+      "en": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+      "de": "Es hat sich so entwickelt, dass es im Wasser leben kann. Im Wasser selbst wird es unsichtbar."
+    },
+    "Black": {
+      "en": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+      "de": "Seine Zellstruktur ist der von Wassermolekülen ähnlich. Daher kann es mit Wasser eins werden."
+    },
+    "White": {
+      "en": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+      "de": "Seine Zellstruktur ist der von Wassermolekülen ähnlich. Daher kann es mit Wasser eins werden."
+    },
+    "Black 2": {
+      "en": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.",
+      "de": "Seine Zellstruktur ist der von Wassermolekülen ähnlich. Daher kann es mit Wasser eins werden."
+    },
+    "White 2": {
+      "en": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.",
+      "de": "Seine Zellstruktur ist der von Wassermolekülen ähnlich. Daher kann es mit Wasser eins werden."
+    },
+    "X": {
+      "en": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+      "de": "Es liebt schöne Ufer. Da seine Zellstruktur Wassermolekülen ähnlich ist, kann es mit Wasser verschmelzen."
+    },
+    "Y": {
+      "en": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+      "de": "Es hat sich so entwickelt, dass es im Wasser leben kann. Im Wasser selbst wird es unsichtbar."
+    },
+    "Omega Ruby": {
+      "en": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+      "de": "Aquana hat eine spontane Mutation durchlaufen. Ihm sind Flossen und Kiemen gewachsen. Dadurch kann es unter Wasser leben. Dieses Pokémon kann Wasser nach Belieben manipulieren."
+    },
+    "Alpha Sapphire": {
+      "en": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+      "de": "Aquana hat eine spontane Mutation durchlaufen. Ihm sind Flossen und Kiemen gewachsen. Dadurch kann es unter Wasser leben. Dieses Pokémon kann Wasser nach Belieben manipulieren."
+    },
+    "Sun": {
+      "en": "Its cells are composed of units much like water molecules. It lives close to water and is often mistaken for a mermaid.",
+      "de": "Seine Zellstruktur ist der von Wassermolekülen ähnlich. Es lebt in der Nähe von Ufern, daher wird es oft mit einer Meerjungfrau verwechselt."
+    },
+    "Moon": {
+      "en": "Blending in with the water and erasing all signs of its presence, it patiently waits for its prey, fish Pokémon.",
+      "de": "Es wird eins mit dem Wasser und somit unsichtbar. So wartet es heimlich, still und leise auf Fisch-Pokémon, die es sich als Beute fängt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      3
+    ],
+    "power": [
+      1,
+      3
+    ],
+    "stamina": [
+      3,
+      5
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

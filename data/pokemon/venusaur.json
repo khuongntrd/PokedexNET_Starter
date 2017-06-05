@@ -1,0 +1,925 @@
+{
+  "names": {
+    "fr": "Florizarre",
+    "de": "Bisaflor",
+    "it": "Venusaur",
+    "en": "Venusaur"
+  },
+  "national_id": 3,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow"
+    },
+    {
+      "name": "Chlorophyll",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster",
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "6'07\"",
+  "height_eu": "2.0 m",
+  "weight_us": "220.5 lbs.",
+  "weight_eu": "100.0 kg",
+  "base_exp_yield": 236,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 2,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "atk": 82,
+    "def": 83,
+    "sp_atk": 100,
+    "sp_def": 100,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 0,
+      "move": "Vine Whip"
+    },
+    {
+      "level": 3,
+      "move": "Growl"
+    },
+    {
+      "level": 7,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 9,
+      "move": "Vine Whip"
+    },
+    {
+      "level": 13,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 13,
+      "move": "Sleep Powder"
+    },
+    {
+      "level": 15,
+      "move": "Take Down"
+    },
+    {
+      "level": 20,
+      "move": "Razor Leaf"
+    },
+    {
+      "level": 23,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 28,
+      "move": "Growth"
+    },
+    {
+      "level": 31,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 32,
+      "move": "Petal Dance"
+    },
+    {
+      "level": 39,
+      "move": "Worry Seed"
+    },
+    {
+      "level": 45,
+      "move": "Synthesis"
+    },
+    {
+      "level": 50,
+      "move": "Petal Blizzard"
+    },
+    {
+      "level": 53,
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Charm"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Charm"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Curse"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Curse"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Curse"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Curse"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Endure"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Endure"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Paras",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Treecko",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Servine",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Snover",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Snover",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Servine",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Amaura",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Aurorus",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Petal Dance"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Sludge"
+    }
+  ],
+  "evolution_from": "Ivysaur",
+  "categories": {
+    "en": "Seed Pokémon",
+    "de": "Samen"
+  },
+  "kanto_id": 3,
+  "johto_id": 233,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 82,
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Thick Fat",
+      "mega_stone": "Venusaurite",
+      "height_us": "7'10\"",
+      "height_eu": "2.4 m",
+      "weight_us": "342.8 lbs.",
+      "weight_eu": "155.5 kg",
+      "base_stats": {
+        "hp": 80,
+        "atk": 100,
+        "def": 123,
+        "sp_atk": 122,
+        "sp_def": 120,
+        "speed": 80
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "de": "Dieses Pokémon folgt der Sonne. Die Pflanze auf seinem Rücken absorbiert Solarenergie."
+    },
+    "Blue": {
+      "en": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "de": "Dieses Pokémon folgt der Sonne. Die Pflanze auf seinem Rücken absorbiert Solarenergie."
+    },
+    "Yellow": {
+      "en": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
+      "de": "Die Blume auf dem Rücken dieses Pokémon absorbiert das Sonnenlicht und wandelt es in Energie um."
+    },
+    "Gold": {
+      "en": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+      "de": "Es spreizt die breiten Blätter seiner Blüte, um seinen Körper mit Sonnenenergie zu durchfluten."
+    },
+    "Silver": {
+      "en": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
+      "de": "Es verwandelt Sonnenlicht in Energie. Dadurch ist es im Sommer stets stärker als im Winter."
+    },
+    "Crystal": {
+      "en": "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance.",
+      "de": "Wenn es sich in der Sonne wärmt, entströmt den Blättern seiner Blüte ein wohliges Aroma."
+    },
+    "Ruby": {
+      "en": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+      "de": "Bisaflor hat eine Blume auf seinem Rücken. Wenn sie viel Nahrung und Sonne aufnimmt, verfärbt sie sich bunt. Der Duft der Blume mildert die Emotionen der Menschen."
+    },
+    "Sapphire": {
+      "en": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+      "de": "Bisaflor hat eine Blume auf seinem Rücken. Wenn sie viel Nahrung und Sonne aufnimmt, verfärbt sie sich bunt. Der Duft der Blume besänftigt die Gemüter der Menschen."
+    },
+    "Emerald": {
+      "en": "Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+      "de": "BISAFLOR hat eine Blume auf seinem Rü cken. Wenn sie viel Nahrung und Sonne auf nimmt, verfärbt sie sich bunt. Der Duft der Blume mildert die Emotionen der Menschen."
+    },
+    "FireRed": {
+      "en": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+      "de": "Die Blume verströmt einen zauberhaften Duft. Er beschwichtigt erhitzte Kämpfer."
+    },
+    "LeafGreen": {
+      "en": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "de": "Dieses Pokémon folgt der Sonne. Die Pflanze auf seinem Rücken absorbiert Solarenergie."
+    },
+    "Diamond": {
+      "en": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "Pearl": {
+      "en": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "Platinum": {
+      "en": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "HeartGold": {
+      "en": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "SoulSilver": {
+      "en": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "Black": {
+      "en": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "White": {
+      "en": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "Black 2": {
+      "en": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "White 2": {
+      "en": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "X": {
+      "en": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+      "de": "Es spreizt die breiten Blätter seiner Blüte, um seinen Körper mit Sonnenenergie zu durchfluten."
+    },
+    "Y": {
+      "en": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+      "de": "Nach einem Regentag riecht die Blume auf seinem Rücken intensiver. Das Aroma zieht andere Pokémon an."
+    },
+    "Omega Ruby": {
+      "en": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.",
+      "de": "Bisaflor hat eine Blume auf seinem Rücken. Wenn sie viel Nahrung und Sonne aufnimmt, verfärbt sie sich bunt. Der Duft der Blume mildert die Emotionen der Menschen."
+    },
+    "Alpha Sapphire": {
+      "en": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.",
+      "de": "Bisaflor hat eine Blume auf seinem Rücken. Wenn sie viel Nahrung und Sonne aufnimmt, verfärbt sie sich bunt. Der Duft der Blüte besänftigt die Gemüter der Menschen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      1,
+      2
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      5,
+      5
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

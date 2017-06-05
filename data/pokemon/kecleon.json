@@ -1,0 +1,648 @@
+{
+  "names": {
+    "fr": "Kecleon",
+    "de": "Kecleon",
+    "it": "Kecleon",
+    "en": "Kecleon"
+  },
+  "national_id": 352,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    {
+      "name": "Color Change"
+    },
+    {
+      "name": "Protean",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 200,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "48.5 lbs.",
+  "weight_eu": "22.0 kg",
+  "base_exp_yield": 154,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 90,
+    "def": 70,
+    "sp_atk": 60,
+    "sp_def": 120,
+    "speed": 40
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Synchronoise"
+    },
+    {
+      "level": 0,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 0,
+      "move": "Thief"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Lick"
+    },
+    {
+      "level": 0,
+      "move": "Scratch"
+    },
+    {
+      "level": 4,
+      "move": "Bind"
+    },
+    {
+      "level": 7,
+      "move": "Shadow Sneak"
+    },
+    {
+      "level": 10,
+      "move": "Feint"
+    },
+    {
+      "level": 13,
+      "move": "Fury Swipes"
+    },
+    {
+      "level": 16,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 18,
+      "move": "Psybeam"
+    },
+    {
+      "level": 21,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 25,
+      "move": "Slash"
+    },
+    {
+      "level": 30,
+      "move": "Camouflage"
+    },
+    {
+      "level": 33,
+      "move": "Shadow Claw"
+    },
+    {
+      "level": 38,
+      "move": "Screech"
+    },
+    {
+      "level": 42,
+      "move": "Substitute"
+    },
+    {
+      "level": 46,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 50,
+      "move": "Synchronoise"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Camouflage"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Camouflage"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Disable"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Disable"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Dizzy Punch"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Dizzy Punch"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Dizzy Punch"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Persian",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Espurr",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Sandile",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Krokorok",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Krookodile",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Spoink",
+      "move": "Magic Coat"
+    },
+    {
+      "parent": "Grumpig",
+      "move": "Magic Coat"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Magic Coat"
+    },
+    {
+      "parent": "Ninetales",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Persian",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Weavile",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Recover"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Heatmor",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Trick"
+    }
+  ],
+  "categories": {
+    "en": "Color Swap Pokémon",
+    "de": "Farbenspiel"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 150,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 116,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception - this Pokémon can't change the zigzag pattern on its belly.",
+      "de": "Kecleon kann die Farbe seines Körpers bei Bedarf verändern, um sich seiner Umgebung anzupassen. Es gibt allerdings eine Ausnahme: Das Zickzackmuster auf seinem Bauch kann es nicht verändern."
+    },
+    "Sapphire": {
+      "en": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+      "de": "Kecleon verändert seine Körperfärbung, um sich seiner Umgebung anzupassen. Dadurch kann es sich prima an seine ahnungslose Beute anschleichen. Es schlägt mit seiner dehnbaren, langen Zunge aus und fängt sie."
+    },
+    "Emerald": {
+      "en": "A Pokémon that has the ability to alter its body colors to match its surroundings. A Kecleon reverts to its original colors if it is startled.",
+      "de": "KECLEON kann seine Körperfarbe der Umgebungsfarbe anpassen. Wird es erschreckt, kehrt seine ursprüngliche Farbe zurück."
+    },
+    "FireRed": {
+      "en": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
+      "de": "Es passt seine Körperfarbe der Umgebung an. Wenn es glücklich oder traurig ist, ändert es ebenfalls seine Farbe."
+    },
+    "LeafGreen": {
+      "en": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
+      "de": "Es passt seine Körperfarbe der Umgebung an. Wenn es glücklich oder traurig ist, ändert es ebenfalls seine Farbe."
+    },
+    "Diamond": {
+      "en": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "Pearl": {
+      "en": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "Platinum": {
+      "en": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "HeartGold": {
+      "en": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "SoulSilver": {
+      "en": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "Black": {
+      "en": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "White": {
+      "en": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "Black 2": {
+      "en": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "White 2": {
+      "en": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "X": {
+      "en": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "de": "Es kann nach Belieben seine Farbe ändern. Nur das gezackte Muster auf seinem Bauch bleibt gleich."
+    },
+    "Y": {
+      "en": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+      "de": "Beim Beutefang passt es seine Farbe der Umgebung an. Nur das Muster auf seinem Bauch bleibt gleich."
+    },
+    "Omega Ruby": {
+      "en": "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception—this Pokémon can’t change the zigzag pattern on its belly.",
+      "de": "Kecleon kann die Farbe seines Körpers bei Bedarf verändern, um sich seiner Umgebung anzupassen. Es gibt allerdings eine Ausnahme: Das Zackenmuster auf seinem Bauch kann es nicht verändern."
+    },
+    "Alpha Sapphire": {
+      "en": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+      "de": "Kecleon verändert seine Körperfärbung, um sich seiner Umgebung anzupassen. Dadurch kann es sich prima an seine ahnungslose Beute anschleichen. Es schlägt mit seiner dehnbaren, langen Zunge aus und fängt sie."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "names": {
+    "fr": "Papilusion",
+    "de": "Smettbo",
+    "it": "Butterfree",
+    "en": "Butterfree"
+  },
+  "national_id": 12,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Compound Eyes"
+    },
+    {
+      "name": "Tinted Lens",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    2805,
+    3059
+  ],
+  "height_us": "3'07\"",
+  "height_eu": "1.1 m",
+  "weight_us": "70.5 lbs.",
+  "weight_eu": "32.0 kg",
+  "base_exp_yield": 173,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 2,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "White",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 45,
+    "def": 50,
+    "sp_atk": 80,
+    "sp_def": 80,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 10,
+      "move": "Confusion"
+    },
+    {
+      "level": 12,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 12,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 12,
+      "move": "Sleep Powder"
+    },
+    {
+      "level": 16,
+      "move": "Gust"
+    },
+    {
+      "level": 18,
+      "move": "Supersonic"
+    },
+    {
+      "level": 22,
+      "move": "Whirlwind"
+    },
+    {
+      "level": 24,
+      "move": "Psybeam"
+    },
+    {
+      "level": 28,
+      "move": "Silver Wind"
+    },
+    {
+      "level": 30,
+      "move": "Tailwind"
+    },
+    {
+      "level": 34,
+      "move": "Rage Powder"
+    },
+    {
+      "level": 36,
+      "move": "Safeguard"
+    },
+    {
+      "level": 40,
+      "move": "Captivate"
+    },
+    {
+      "level": 42,
+      "move": "Bug Buzz"
+    },
+    {
+      "level": 46,
+      "move": "Quiver Dance"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "evolution_from": "Metapod",
+  "alola_id": 19,
+  "categories": {
+    "en": "Butterfly Pokémon",
+    "de": "Falter"
+  },
+  "kanto_id": 12,
+  "johto_id": 26,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 25,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+      "de": "Im Kampf schlägt dieses Pokémon sehr schnell mit den Flügeln, um giftigen Staub freizusetzen."
+    },
+    "Blue": {
+      "en": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+      "de": "Im Kampf schlägt dieses Pokémon sehr schnell mit den Flügeln, um giftigen Staub freizusetzen."
+    },
+    "Yellow": {
+      "en": "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.",
+      "de": "Die Flügel dieses Pokémon sind wasserabweisend und von einer giftigen Staubschicht bedeckt."
+    },
+    "Gold": {
+      "en": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+      "de": "Es sammelt täglich Honig. Es reibt ihn in seine Beinhaare, um ihn in sein Nest zu transportieren."
+    },
+    "Silver": {
+      "en": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
+      "de": "Da seine Flügel mit einem wasserabweisenden Puder überzogen sind, kann es im Regen Honig sammeln."
+    },
+    "Crystal": {
+      "en": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.",
+      "de": "Es eilt von Blume zu Blume, ständig auf der Suche nach Honig. Es kann Blumen an deren Blüten erkennen."
+    },
+    "Ruby": {
+      "en": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+      "de": "Smettbos größte Fähigkeit ist das Aufspüren köstlichen Blütenhonigs. Es findet sogar Honig in Blumen, die fast 10 km von seinem Nest entfernt blühen."
+    },
+    "Sapphire": {
+      "en": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+      "de": "Smettbos größte Fähigkeit ist das Aufspüren köstlichen Blütenhonigs. Es findet sogar Honig in Blumen, die fast 10 km von seinem Nest entfernt blühen."
+    },
+    "Emerald": {
+      "en": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
+      "de": "SMETTBOs größte Fähigkeit ist das Auf spüren köstlichen Blütenhonigs. Es findet sogar Honig in Blumen, die fast 10 km von seinem Nest entfernt blühen."
+    },
+    "FireRed": {
+      "en": "The wings are protected by a rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
+      "de": "Seine Flügel sind mit Wasser abweisendem Staub überzogen. Daher kann dieses Pokémon auch bei Regen fliegen."
+    },
+    "LeafGreen": {
+      "en": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+      "de": "Im Kampf schlägt dieses Pokémon sehr schnell mit den Flügeln, um giftigen Staub freizusetzen."
+    },
+    "Diamond": {
+      "en": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "Pearl": {
+      "en": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "Platinum": {
+      "en": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "HeartGold": {
+      "en": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "SoulSilver": {
+      "en": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "Black": {
+      "en": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "White": {
+      "en": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "Black 2": {
+      "en": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "White 2": {
+      "en": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "X": {
+      "en": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "Y": {
+      "en": "The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
+      "de": "Seine Flügel sind mit Wasser abweisendem Staub überzogen. Daher kann dieses Pokémon auch bei Regen fliegen."
+    },
+    "Omega Ruby": {
+      "en": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+      "de": "Smettbos größte Fähigkeit ist das Aufspüren köstlichen Blütenhonigs. Es findet sogar Honig in Blumen, die fast 10 km von seinem Nest entfernt blühen."
+    },
+    "Alpha Sapphire": {
+      "en": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+      "de": "Smettbos größte Fähigkeit ist das Aufspüren köstlichen Blütenhonigs. Es findet sogar Honig in Blumen, die fast 10km von seinem Nest entfernt blühen."
+    },
+    "Sun": {
+      "en": "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
+      "de": "Kein Eintrag vorhanden"
+    },
+    "Moon": {
+      "en": "When attacked by other Pokémon, it defends itself by scattering its poisonous scales and fluttering its wings.",
+      "de": "Kein Eintrag vorhanden"
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      4
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

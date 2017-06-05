@@ -1,0 +1,776 @@
+{
+  "names": {
+    "fr": "Pyroli",
+    "de": "Flamara",
+    "it": "Flareon",
+    "en": "Flareon"
+  },
+  "national_id": 136,
+  "types": [
+    "Fire"
+  ],
+  "abilities": [
+    {
+      "name": "Flash Fire"
+    },
+    {
+      "name": "Guts",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    9180,
+    9434
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "55.1 lbs.",
+  "weight_eu": "25.0 kg",
+  "base_exp_yield": 184,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "atk": 130,
+    "def": 60,
+    "sp_atk": 95,
+    "sp_def": 110,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Helping Hand"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 5,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 9,
+      "move": "Ember"
+    },
+    {
+      "level": 13,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 17,
+      "move": "Bite"
+    },
+    {
+      "level": 20,
+      "move": "Fire Fang"
+    },
+    {
+      "level": 25,
+      "move": "Fire Spin"
+    },
+    {
+      "level": 29,
+      "move": "Scary Face"
+    },
+    {
+      "level": 33,
+      "move": "Smog"
+    },
+    {
+      "level": 37,
+      "move": "Lava Plume"
+    },
+    {
+      "level": 41,
+      "move": "Last Resort"
+    },
+    {
+      "level": 45,
+      "move": "Flare Blitz"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Charm"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Charm"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Charm"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Charm"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Charm"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Charm"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Charm"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Charm"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Charm"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Charm"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Covet"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Covet"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Covet"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Covet"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Covet"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Covet"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Covet"
+    },
+    {
+      "parent": "Numel",
+      "move": "Curse"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Curse"
+    },
+    {
+      "parent": "Zangoose",
+      "move": "Detect"
+    },
+    {
+      "parent": "Absol",
+      "move": "Detect"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Detect"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Detect"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Detect"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Detect"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Detect"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Endure"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Endure"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Endure"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Endure"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Endure"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Endure"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Endure"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Endure"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Flail"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Flail"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Flail"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Flail"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Flail"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Flail"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Flail"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Pansage",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Panpour",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Munna",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Munna",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Wish"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Wish"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Numel",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Hippopotas",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Munna",
+      "move": "Yawn"
+    }
+  ],
+  "evolution_from": "Eevee",
+  "alola_id": 126,
+  "categories": {
+    "en": "Flame Pokémon",
+    "de": "Feuer"
+  },
+  "kanto_id": 136,
+  "johto_id": 187,
+  "hoenn_id": null,
+  "sinnoh_id": 166,
+  "unova_id": null,
+  "kalos_id": 80,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+      "de": "Dieses Pokémon speichert Energie in seinem Körper. Seine Temperatur steigt so auf bis zu 1600 Grad."
+    },
+    "Blue": {
+      "en": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+      "de": "Dieses Pokémon speichert Energie in seinem Körper. Seine Temperatur steigt so auf bis zu 1600 Grad."
+    },
+    "Yellow": {
+      "en": "It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees.",
+      "de": "Der Körper dieses Pokémon ist wie eine Brennkammer. Es holt Luft und speit 100 Grad heiße Flammen."
+    },
+    "Gold": {
+      "en": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees.",
+      "de": "Es speichert einen Teil seiner Atemluft in seinem Körper und erhitzt sie auf bis zu 1700 Grad."
+    },
+    "Silver": {
+      "en": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees.",
+      "de": "Es fährt seinen Pelzkragen aus, um seine Körpertemperatur, die bis 900 Grad beträgt, abzukühlen."
+    },
+    "Crystal": {
+      "en": "Once it has stored up enough heat, this Pokémon's body temperature can reach up to 1700 degrees.",
+      "de": "Hat dieses Pokémon genügend Wärme im Körper gesammelt, kann seine Körpertemperatur 900 Grad C erreichen."
+    },
+    "Ruby": {
+      "en": "Flareon's fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees F.",
+      "de": "Flamaras flauschiges Fell dient einem besonderen Zweck. Es gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß wird. Die Körpertemperatur dieses Pokémon kann bis auf 900 Grad ansteigen."
+    },
+    "Sapphire": {
+      "en": "Flareon's fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees F.",
+      "de": "Flamaras flauschiges Fell dient einem besonderen Zweck. Es gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß wird. Die Körpertemperatur dieses Pokémon kann bis auf 900 Grad ansteigen."
+    },
+    "Emerald": {
+      "en": "Flareon's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.",
+      "de": "FLAMARAs flauschiges Fell gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß wird. Die Körpertemperatur dieses PKMN kann bis auf 900 Grad ansteigen."
+    },
+    "FireRed": {
+      "en": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,100 degrees Fahrenheit.",
+      "de": "In seinem Körper hat es eine Flammentasche. Wenn es tief eingeatmet hat, kann es Flammen von bis zu 1700 Grad Celsius spucken."
+    },
+    "LeafGreen": {
+      "en": "When storing thermal energy in its body, its temperature can soar to over 1,600 degrees Fahrenheit.",
+      "de": "Dieses Pokémon speichert Energie in seinem Körper. Seine Temperatur steigt so auf bis zu 900 Grad."
+    },
+    "Diamond": {
+      "en": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
+      "de": "In seinem Körper befindet sich eine Flamme. Seine Körpertemperatur liegt vor dem Kampf bei 900 Grad."
+    },
+    "Pearl": {
+      "en": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
+      "de": "In seinem Körper befindet sich eine Flamme. Seine Körpertemperatur liegt vor dem Kampf bei 900 Grad."
+    },
+    "Platinum": {
+      "en": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
+      "de": "Eingeatmete Luft wird in einem Flammensack in seinem Körper auf ca. 1700 Grad erhitzt."
+    },
+    "HeartGold": {
+      "en": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
+      "de": "In seinem Körper befindet sich eine Flamme. Seine Körpertemperatur liegt vor dem Kampf bei 900 Grad."
+    },
+    "SoulSilver": {
+      "en": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
+      "de": "In seinem Körper befindet sich eine Flamme. Seine Körpertemperatur liegt vor dem Kampf bei 900 Grad."
+    },
+    "Black": {
+      "en": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
+      "de": "Eingeatmete Luft wird in einem Flammensack in seinem Körper auf ca. 1 700 Grad erhitzt."
+    },
+    "White": {
+      "en": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
+      "de": "Eingeatmete Luft wird in einem Flammensack in seinem Körper auf ca. 1 700 Grad erhitzt."
+    },
+    "Black 2": {
+      "en": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F.",
+      "de": "Speichert Atemluft in einer Feuerlunge. Dort erhitzt es sie auf 1 700 Grad, um sie als Flammen auszuspucken."
+    },
+    "White 2": {
+      "en": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F.",
+      "de": "Speichert Atemluft in einer Feuerlunge. Dort erhitzt es sie auf 1 700 Grad, um sie als Flammen auszuspucken."
+    },
+    "X": {
+      "en": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
+      "de": "In seinem Körper befindet sich eine Flamme. Seine Körpertemperatur liegt vor dem Kampf bei 900 °C."
+    },
+    "Y": {
+      "en": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,000 degrees Fahrenheit.",
+      "de": "In seinem Körper hat es eine Flammentasche. Wenn es tief eingeatmet hat, kann es Flammen von bis zu 1 700 °C spucken."
+    },
+    "Omega Ruby": {
+      "en": "Flareon's fluffy fur has a functional purpose-it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
+      "de": "Flamaras flauschiges Fell dient einem besonderen Zweck. Es gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß wird. Die Körpertemperatur dieses Pokémon kann bis auf 900 °C ansteigen."
+    },
+    "Alpha Sapphire": {
+      "en": "Flareon's fluffy fur has a functional purpose-it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
+      "de": "Flamaras flauschiges Fell dient einem besonderen Zweck. Es gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß wird. Die Körpertemperatur dieses Pokémon kann bis auf 900 °C ansteigen."
+    },
+    "Sun": {
+      "en": "When it catches prey or finds berries, it breathes fire on them until they're well done, and then it gobbles them up.",
+      "de": "Hat es Beeren oder Pokémon erbeutet, speit es so lange Feuer, bis beides gut durchgebraten ist. Danach beißt es beherzt zu."
+    },
+    "Moon": {
+      "en": "Its average body temperature is between 1,300 and 1,500 degrees Fahrenheit. In its internal flame sac, temperatures reach 3,000 degrees.",
+      "de": "Seine Körpertemperatur beträgt im Durchschnitt 700 bis 800 °C. In einem Flammensack im Körper erzeugt es ein Feuer von 1 700 °C."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

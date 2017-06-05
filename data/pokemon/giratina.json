@@ -1,0 +1,452 @@
+{
+  "names": {
+    "fr": "Giratina",
+    "de": "Giratina",
+    "it": "Giratina",
+    "en": "Giratina"
+  },
+  "national_id": 487,
+  "types": [
+    "Ghost",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Pressure"
+    },
+    {
+      "name": "Telepathy",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 3,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    30855,
+    31109
+  ],
+  "height_us": "14'09\"",
+  "height_eu": "4.5 m",
+  "weight_us": "1653.5 lbs.",
+  "weight_eu": "750.0 kg",
+  "base_exp_yield": 306,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 3,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Black",
+  "base_friendship": 0,
+  "base_stats": {
+    "hp": 150,
+    "atk": 100,
+    "def": 120,
+    "sp_atk": 100,
+    "sp_def": 120,
+    "speed": 90
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Dragon Breath"
+    },
+    {
+      "level": 0,
+      "move": "Scary Face"
+    },
+    {
+      "level": 6,
+      "move": "Ominous Wind"
+    },
+    {
+      "level": 10,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 15,
+      "move": "Slash"
+    },
+    {
+      "level": 19,
+      "move": "Shadow Sneak"
+    },
+    {
+      "level": 24,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 28,
+      "move": "Dragon Claw"
+    },
+    {
+      "level": 33,
+      "move": "Earth Power"
+    },
+    {
+      "level": 37,
+      "move": "Aura Sphere"
+    },
+    {
+      "level": 42,
+      "move": "Shadow Claw"
+    },
+    {
+      "level": 46,
+      "move": "Shadow Force"
+    },
+    {
+      "level": 50,
+      "move": "Hex"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ],
+  "categories": {
+    "en": "Renegade Pokémon",
+    "de": "Rebell"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": 210,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Altered Forme",
+    "de": "Wandelform"
+  },
+  "variations": [
+    {
+      "condition": "holding Griseous Orb or in Distortion World",
+      "image_suffix": "origin",
+      "names": {
+        "en": "Origin Forme",
+        "de": "Urform"
+      },
+      "types": [
+        "Ghost",
+        "Dragon"
+      ],
+      "abilities": [
+        {
+          "name": "Levitate"
+        }
+      ],
+      "height_us": "22'08\"",
+      "height_eu": "4.5 m",
+      "weight_us": "1433.0 lbs.",
+      "weight_eu": "650.0 kg",
+      "base_stats": {
+        "hp": 150,
+        "atk": 120,
+        "def": 100,
+        "sp_atk": 120,
+        "sp_def": 100,
+        "speed": 90
+      },
+      "pokeathlon_stats": {
+        "speed": [
+          3,
+          5
+        ],
+        "power": [
+          3,
+          5
+        ],
+        "stamina": [
+          3,
+          5
+        ],
+        "skill": [
+          3,
+          5
+        ],
+        "jump": [
+          3,
+          5
+        ]
+      }
+    }
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "A Pokémon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery.",
+      "de": "Ein PKMN, von dem man sagt, es lebt in der Spiegelwelt unserer Welt. Es erscheint auf alten Friedhöfen."
+    },
+    "Pearl": {
+      "en": "A Pokémon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery.",
+      "de": "Ein PKMN, von dem man sagt, es lebt in der Spiegelwelt unserer Welt. Es erscheint auf alten Friedhöfen."
+    },
+    "Platinum": {
+      "en": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "de": "Es wurde aufgrund seines Verhaltens verbannt. Aus der Zerrwelt schaut es auf die alte Welt."
+    },
+    "HeartGold": {
+      "en": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+      "de": "Ein PKMN, von dem man sagt, es lebt in der Spiegelwelt unserer Welt. Es erscheint auf alten Friedhöfen."
+    },
+    "SoulSilver": {
+      "en": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+      "de": "Ein PKMN, von dem man sagt, es lebt in der Spiegelwelt unserer Welt. Es erscheint auf alten Friedhöfen."
+    },
+    "Black": {
+      "en": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "de": "Es wurde aufgrund seines Verhaltens verbannt. Aus der Zerrwelt schaut es auf die alte Welt."
+    },
+    "White": {
+      "en": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "de": "Es wurde aufgrund seines Verhaltens verbannt. Aus der Zerrwelt schaut es auf die alte Welt."
+    },
+    "Black 2": {
+      "en": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "de": "Es wurde aufgrund seines Verhaltens verbannt. Aus der Zerrwelt schaut es auf die alte Welt."
+    },
+    "White 2": {
+      "en": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "de": "Es wurde aufgrund seines Verhaltens verbannt. Aus der Zerrwelt schaut es auf die alte Welt."
+    },
+    "X": {
+      "en": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+      "de": "Es lebt in einer Zerrwelt, die auf der Kehrseite der unseren liegt und die sich aller Logik entzieht."
+    },
+    "Y": {
+      "en": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "de": "Es wurde aufgrund seines Verhaltens verbannt. Aus der Zerrwelt schaut es auf die alte Welt."
+    },
+    "Omega Ruby": {
+      "en": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+      "de": "Es wurde aufgrund seines Verhaltens verbannt. Aus der Zerrwelt schaut es auf die alte Welt."
+    },
+    "Alpha Sapphire": {
+      "en": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "de": "Es wurde aufgrund seines Verhaltens verbannt. Aus der Zerrwelt schaut es auf die alte Welt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      2
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      5,
+      5
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

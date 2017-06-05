@@ -1,0 +1,635 @@
+{
+  "names": {
+    "fr": "Barpau",
+    "de": "Barschwa",
+    "it": "Feebas",
+    "en": "Feebas"
+  },
+  "national_id": 349,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim"
+    },
+    {
+      "name": "Adaptability",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "16.3 lbs.",
+  "weight_eu": "7.4 kg",
+  "base_exp_yield": 40,
+  "leveling_rate": "Erratic",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 20,
+    "atk": 15,
+    "def": 20,
+    "sp_atk": 10,
+    "sp_def": 55,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Splash"
+    },
+    {
+      "level": 15,
+      "move": "Tackle"
+    },
+    {
+      "level": 30,
+      "move": "Flail"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Seel",
+      "move": "Brine"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Brine"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Brine"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Brine"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Brine"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Brine"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Brine"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Brine"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Brine"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Brine"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Brine"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Brine"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Brine"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Brine"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Gorebyss",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Ekans",
+      "move": "Haze"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Haze"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Haze"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Haze"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Poliwrath",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Politoed",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Inkay",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Malamar",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Gible",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Axew",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Mirror Coat"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mist"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Mist"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Mist"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Mist"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Mist"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Tickle"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Milotic",
+      "trade": true,
+      "hold_item": "Prism Scale"
+    },
+    {
+      "to": "Milotic",
+      "conditions": [
+        "Beauty"
+      ]
+    }
+  ],
+  "alola_id": 155,
+  "categories": {
+    "en": "Fish Pokémon",
+    "de": "Fisch"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 145,
+  "sinnoh_id": 138,
+  "unova_id": null,
+  "kalos_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Feebas's fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
+      "de": "Barschwas Flossen waren schon immer zerfetzt. Wegen seines merkwürdigen Aussehens wird dieses Pokémon weitgehend ignoriert. Es kann sowohl im Meer als auch in Flüssen leben."
+    },
+    "Sapphire": {
+      "en": "While Feebas's body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.",
+      "de": "Obwohl Barschwas Körper zerfetzt ist, besitzt es eine harte und zähe Lebenskraft, so dass es überall leben kann. Aber dieses Pokémon ist langsam und dusselig. Daher ist es leicht zu fangen."
+    },
+    "Emerald": {
+      "en": "Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few Trainers raise it.",
+      "de": "BARSCHWA lebt in Teichen, die reich an Tang und Schilf sind. Aufgrund seiner liederlichen Gestalt, wird es nur von wenigen trainiert."
+    },
+    "FireRed": {
+      "en": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
+      "de": "Aufgrund seines miserablen Aussehens wird es verspottet und von Forschern ignoriert. Es lebt in Teichen, die vor Tang überlaufen."
+    },
+    "LeafGreen": {
+      "en": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
+      "de": "Aufgrund seines miserablen Aussehens wird es verspottet und von Forschern ignoriert. Es lebt in Teichen, die vor Tang überlaufen."
+    },
+    "Diamond": {
+      "en": "It is famous for its shabby appearance. While populous, they tend to cluster in set locations.",
+      "de": "Seine lumpige Gestalt ist berühmt. Es lebt mit anderen in Gruppen an bestimmten Orten."
+    },
+    "Pearl": {
+      "en": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+      "de": "Es frisst einfach alles und kann daher auch in verschmutzter Um- gebung leben. Niemand beachtet es."
+    },
+    "Platinum": {
+      "en": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+      "de": "Ein schäbiges, ja sogar hässliches Pokémon. Dafür ist es abgehärtet und überlebt mit wenig Wasser."
+    },
+    "HeartGold": {
+      "en": "It is the shabbiest Pokémon of all. It forms in schools and live at the bottom of rivers.",
+      "de": "Seine lumpige Gestalt ist berühmt. Es lebt mit anderen in Gruppen an bestimmten Orten."
+    },
+    "SoulSilver": {
+      "en": "It is the shabbiest Pokémon of all. It forms in schools and live at the bottom of rivers.",
+      "de": "Seine lumpige Gestalt ist berühmt. Es lebt mit anderen in Gruppen an bestimmten Orten."
+    },
+    "Black": {
+      "en": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+      "de": "Ein schäbiges, ja sogar hässliches Pokémon. Dafür ist es abgehärtet und überlebt mit wenig Wasser."
+    },
+    "White": {
+      "en": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+      "de": "Ein schäbiges, ja sogar hässliches Pokémon. Dafür ist es abgehärtet und überlebt mit wenig Wasser."
+    },
+    "Black 2": {
+      "en": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+      "de": "Ein schäbiges, ja sogar hässliches Pokémon. Dafür ist es abgehärtet und überlebt mit wenig Wasser."
+    },
+    "White 2": {
+      "en": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+      "de": "Ein schäbiges, ja sogar hässliches Pokémon. Dafür ist es abgehärtet und überlebt mit wenig Wasser."
+    },
+    "X": {
+      "en": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+      "de": "Es frisst einfach alles und kann daher auch in verschmutzter Umgebung leben. Niemand beachtet es."
+    },
+    "Y": {
+      "en": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
+      "de": "Das schäbigste Pokémon von allen. Es lebt auf dem Grund von Flüssen, wo viele Wasserpflanzen wachsen."
+    },
+    "Omega Ruby": {
+      "en": "Feebas’s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
+      "de": "Barschwas Flossen waren schon immer zerfetzt. Wegen seines merkwürdigen Aussehens wird dieses Pokémon weitgehend ignoriert. Es kann sowohl im Meer als auch in Flüssen leben."
+    },
+    "Alpha Sapphire": {
+      "en": "While Feebas’s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.",
+      "de": "Obwohl Barschwas Körper zerfetzt ist, besitzt es eine harte und zähe Lebenskraft, sodass es überall leben kann. Aber dieses Pokémon ist langsam und dusselig. Daher ist es leicht zu fangen."
+    },
+    "Sun": {
+      "en": "A tough Pokémon that is perfectly fine even in dirty water. However, due to its ragged, shabby appearance, it isn't popular.",
+      "de": "Dieses robuste Pokémon fühlt sich selbst in verschmutztem Wasser wohl. So schäbig und zerfetzt es ist, so unbeliebt ist es auch."
+    },
+    "Moon": {
+      "en": "Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.",
+      "de": "Sein unvorteilhaftes Aussehen macht es zwar unbeliebt, doch seine erstaunliche Lebenskraft hat das Interesse der Forscher an ihm geweckt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      5
+    ],
+    "power": [
+      1,
+      2
+    ],
+    "stamina": [
+      1,
+      1
+    ],
+    "skill": [
+      1,
+      1
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

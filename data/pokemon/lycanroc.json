@@ -1,0 +1,265 @@
+{
+  "names": {
+    "en": "Lycanroc",
+    "jp": "ルガルガン Lugarugan",
+    "fr": "Lougaroc",
+    "es": "Lycanroc",
+    "de": "Wolwerock",
+    "it": "Lycanroc"
+  },
+  "national_id": 745,
+  "alola_id": 104,
+  "types": [
+    "Rock"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye"
+    },
+    {
+      "name": "Sand Rush"
+    },
+    {
+      "name": "Steadfast",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 90,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "2'07\"",
+  "height_eu": "0.8 m",
+  "weight_us": "55.1 lbs.",
+  "weight_eu": "25.0 kg",
+  "base_exp_yield": 170,
+  "leveling_rate": "Medium Fast",
+  "color": "Brown",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 75,
+    "atk": 115,
+    "def": 65,
+    "sp_atk": 55,
+    "sp_def": 65,
+    "speed": 112
+  },
+  "learnset": [
+    {
+      "level": 1,
+      "move": "Accelerock",
+      "variations": [
+        "default"
+      ]
+    },
+    {
+      "level": 1,
+      "move": "Quick Guard",
+      "variations": [
+        "default"
+      ]
+    },
+    {
+      "level": 1,
+      "move": "Quick Attack",
+      "variations": [
+        "default"
+      ]
+    },
+    {
+      "level": 1,
+      "move": "Counter",
+      "variations": [
+        "Midnight Form"
+      ]
+    },
+    {
+      "level": 1,
+      "move": "Reversal",
+      "variations": [
+        "Midnight Form"
+      ]
+    },
+    {
+      "level": 1,
+      "move": "Taunt",
+      "variations": [
+        "Midnight Form"
+      ]
+    },
+    {
+      "level": 1,
+      "move": "Tackle"
+    },
+    {
+      "level": 1,
+      "move": "Leer"
+    },
+    {
+      "level": 1,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 1,
+      "move": "Bite"
+    },
+    {
+      "level": 4,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 7,
+      "move": "Bite"
+    },
+    {
+      "level": 12,
+      "move": "Howl"
+    },
+    {
+      "level": 15,
+      "move": "Rock Throw"
+    },
+    {
+      "level": 18,
+      "move": "Odor Sleuth"
+    },
+    {
+      "level": 23,
+      "move": "Rock Tomb"
+    },
+    {
+      "level": 26,
+      "move": "Roar"
+    },
+    {
+      "level": 29,
+      "move": "Stealth Rock"
+    },
+    {
+      "level": 34,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 37,
+      "move": "Scary Face"
+    },
+    {
+      "level": 40,
+      "move": "Crunch"
+    },
+    {
+      "level": 45,
+      "move": "Rock Climb"
+    },
+    {
+      "level": 48,
+      "move": "Stone Edge"
+    }
+  ],
+  "evolution_from": "Rockruff",
+  "categories": {
+    "en": "Wolf Pokémon",
+    "de": "Wolf"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variation_names": {
+    "en": "Midday Form",
+    "de": "Tagform"
+  },
+  "variations": [
+    {
+      "condition": "Pokémon Moon",
+      "image_suffix": "night",
+      "names": {
+        "en": "Midnight Form",
+        "de": "Nachtform"
+      },
+      "types": [
+        "Rock"
+      ],
+      "abilities": [
+        {
+          "name": "Keen Eye"
+        },
+        {
+          "name": "Vital Spirit"
+        },
+        {
+          "name": "No Guard",
+          "hidden": true
+        }
+      ],
+      "height_us": "3'07\"",
+      "height_eu": "1.1 m",
+      "weight_us": "55.1 lbs.",
+      "weight_eu": "15.0 kg",
+      "base_stats": {
+        "hp": 85,
+        "atk": 115,
+        "def": 75,
+        "sp_atk": 55,
+        "sp_def": 75,
+        "speed": 82
+      }
+    }
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.",
+      "de": "Irritiert seine Feinde mit schnellen Bewegungen. Als Waffen hat es nicht nur Krallen und Hauer, sondern auch die spitzen Felsen seiner Mähne."
+    },
+    "Moon": {
+      "en": "When properly raised from a young age, it will become a trustworthy partner that will absolutely never betray its Trainer.",
+      "de": "Zieht man diese Pokémon von klein auf groß, wird es seinen Trainer niemals hintergehen und ihm stehts ein treuer Freund sein."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

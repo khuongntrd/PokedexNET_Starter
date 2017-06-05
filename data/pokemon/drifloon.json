@@ -1,0 +1,568 @@
+{
+  "names": {
+    "fr": "Baudrive",
+    "de": "Driftlon",
+    "it": "Drifloon",
+    "en": "Drifloon"
+  },
+  "national_id": 425,
+  "types": [
+    "Ghost",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Aftermath"
+    },
+    {
+      "name": "Flare Boost",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 125,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    7905,
+    8159
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "2.6 lbs.",
+  "weight_eu": "1.2 kg",
+  "base_exp_yield": 70,
+  "leveling_rate": "Fluctuating",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 90,
+    "atk": 50,
+    "def": 34,
+    "sp_atk": 60,
+    "sp_def": 44,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Constrict"
+    },
+    {
+      "level": 0,
+      "move": "Minimize"
+    },
+    {
+      "level": 4,
+      "move": "Astonish"
+    },
+    {
+      "level": 8,
+      "move": "Gust"
+    },
+    {
+      "level": 13,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 16,
+      "move": "Payback"
+    },
+    {
+      "level": 20,
+      "move": "Ominous Wind"
+    },
+    {
+      "level": 25,
+      "move": "Stockpile"
+    },
+    {
+      "level": 27,
+      "move": "Hex"
+    },
+    {
+      "level": 32,
+      "move": "Swallow"
+    },
+    {
+      "level": 32,
+      "move": "Spit Up"
+    },
+    {
+      "level": 36,
+      "move": "Shadow Ball"
+    },
+    {
+      "level": 40,
+      "move": "Amnesia"
+    },
+    {
+      "level": 44,
+      "move": "Baton Pass"
+    },
+    {
+      "level": 50,
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Telekinesis"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Defog"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Defog"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Wobbuffet",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Disable"
+    },
+    {
+      "parent": "Muk",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Haze"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Haze"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Memento"
+    },
+    {
+      "parent": "Muk",
+      "move": "Memento"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Memento"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Memento"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Memento"
+    },
+    {
+      "parent": "Castform",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Castform",
+      "move": "Weather Ball"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Drifblim",
+      "level": 28
+    }
+  ],
+  "alola_id": 64,
+  "categories": {
+    "en": "Balloon Pokémon",
+    "de": "Ballon"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": 65,
+  "unova_id": null,
+  "kalos_id": 1,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+      "de": "Ein PKMN, entstanden aus den Gefühlen von Menschen und PKMN. Es mag feuchte Jahreszeiten."
+    },
+    "Pearl": {
+      "en": "It tugs on the hands of children to steal them away. However, it gets pulled around instead.",
+      "de": "Es zieht Kinder an den Händen, um sie mitzunehmen. Doch stets wird es dabei durch die Gegend gezogen."
+    },
+    "Platinum": {
+      "en": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
+      "de": "Laut einer alten Volkssage nennt man es den \"Wegweiser für umherstreifende Geister\"."
+    },
+    "HeartGold": {
+      "en": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+      "de": "Ein PKMN, entstanden aus den Gefühlen von Menschen und PKMN. Es mag feuchte Jahreszeiten."
+    },
+    "SoulSilver": {
+      "en": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+      "de": "Ein PKMN, entstanden aus den Gefühlen von Menschen und PKMN. Es mag feuchte Jahreszeiten."
+    },
+    "Black": {
+      "en": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
+      "de": "Laut einer alten Volkssage nennt man es den „Wegweiser für umherstreifende Geister“."
+    },
+    "White": {
+      "en": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
+      "de": "Laut einer alten Volkssage nennt man es den „Wegweiser für umherstreifende Geister“."
+    },
+    "Black 2": {
+      "en": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+      "de": "Auch bekannt als „Wegweiser für umherstreifende Geister“. Kinder, die sie halten, verschwinden manchmal."
+    },
+    "White 2": {
+      "en": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+      "de": "Auch bekannt als „Wegweiser für umherstreifende Geister“. Kinder, die sie halten, verschwinden manchmal."
+    },
+    "X": {
+      "en": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+      "de": "Ein Pokémon, entstanden aus den Gefühlen von Menschen und Pokémon. Es mag feuchte Jahreszeiten."
+    },
+    "Y": {
+      "en": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+      "de": "Auch bekannt als „Wegweiser für umherstreifende Geister“. Kinder, die sie halten, verschwinden manchmal."
+    },
+    "Omega Ruby": {
+      "en": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+      "de": "Auch bekannt als „Wegweiser für umherstreifende Geister“. Kinder, die sie halten, verschwinden manchmal."
+    },
+    "Alpha Sapphire": {
+      "en": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+      "de": "Auch bekannt als „Wegweiser für umherstreifende Geister“. Kinder, die sie halten, verschwinden manchmal."
+    },
+    "Sun": {
+      "en": "Stories go that it grabs the hands of small children and drags them away to the afterlife. It dislikes heavy children.",
+      "de": "Es heißt, dass es kleine Kinder an die Hand nehme und ins Jenseits zerre. Schwere Kinder sind ihm eine Last."
+    },
+    "Moon": {
+      "en": "If for some reason its body bursts, its soul spills out with a screaming sound.",
+      "de": "Wenn aus irgendeinem Grund sein Körper platzt, entweicht seine Seele mit einem Geräusch, das wie ein Schrei klingt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      5
+    ],
+    "power": [
+      1,
+      1
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      4,
+      4
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

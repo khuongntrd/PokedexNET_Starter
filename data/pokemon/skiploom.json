@@ -1,0 +1,661 @@
+{
+  "names": {
+    "fr": "Floravol",
+    "de": "Hubelupf",
+    "it": "Skiploom",
+    "en": "Skiploom"
+  },
+  "national_id": 188,
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll"
+    },
+    {
+      "name": "Infiltrator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 120,
+  "egg_groups": [
+    "Fairy",
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "2.2 lbs.",
+  "weight_eu": "1.0 kg",
+  "base_exp_yield": 119,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 55,
+    "atk": 45,
+    "def": 50,
+    "sp_atk": 45,
+    "sp_def": 65,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Splash"
+    },
+    {
+      "level": 0,
+      "move": "Synthesis"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 4,
+      "move": "Synthesis"
+    },
+    {
+      "level": 6,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 8,
+      "move": "Tackle"
+    },
+    {
+      "level": 10,
+      "move": "Fairy Wind"
+    },
+    {
+      "level": 12,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 14,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 16,
+      "move": "Sleep Powder"
+    },
+    {
+      "level": 20,
+      "move": "Bullet Seed"
+    },
+    {
+      "level": 24,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 28,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 32,
+      "move": "Acrobatics"
+    },
+    {
+      "level": 36,
+      "move": "Rage Powder"
+    },
+    {
+      "level": 40,
+      "move": "Cotton Spore"
+    },
+    {
+      "level": 44,
+      "move": "U-turn"
+    },
+    {
+      "level": 48,
+      "move": "Worry Seed"
+    },
+    {
+      "level": 52,
+      "move": "Giga Drain"
+    },
+    {
+      "level": 56,
+      "move": "Bounce"
+    },
+    {
+      "level": 60,
+      "move": "Memento"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Marill",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Castform",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Paras",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Confusion"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Confusion"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Cotton Guard"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Cotton Guard"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Cotton Guard"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Cotton Guard"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Marill",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Audino",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Encore"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Encore"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Encore"
+    },
+    {
+      "parent": "Minun",
+      "move": "Encore"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Marill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Minun",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Worry Seed"
+    }
+  ],
+  "evolution_from": "Hoppip",
+  "evolutions": [
+    {
+      "to": "Jumpluff",
+      "level": 27
+    }
+  ],
+  "categories": {
+    "en": "Cottonweed Pokémon",
+    "de": "Löwenzahn"
+  },
+  "kanto_id": null,
+  "johto_id": 68,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 136,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+      "de": "Temperaturschwankungen veranlassen es, die Blüte auf seinem Kopf immer zu öffnen oder zu schließen."
+    },
+    "Silver": {
+      "en": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+      "de": "Es öffnet seine Blüte, um Sonnenlicht aufzunehmen. Es schwebt in der Luft, um der Sonne näher zu sein."
+    },
+    "Crystal": {
+      "en": "As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet.",
+      "de": "Es schließt bei Regen die Blüte auf seinem Kopf und versteckt sich, um nicht nass zu werden."
+    },
+    "Ruby": {
+      "en": "Skiploom's flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
+      "de": "Hubelupfs Blume beginnt zu blühen, wenn die Temperatur über 18 Grad steigt. Wie weit sich die Blüte öffnet, hängt von der Höhe der Temperatur ab. Daher wird dieses Pokémon manchmal als Thermometer eingesetzt."
+    },
+    "Sapphire": {
+      "en": "Skiploom's flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
+      "de": "Hubelupfs Blume beginnt zu blühen, wenn die Temperatur über 18 Grad steigt. Wie weit sich die Blume öffnet, hängt von der Temperatur ab. Daher wird dieses Pokémon manchmal als Thermometer eingesetzt."
+    },
+    "Emerald": {
+      "en": "It blossoms when the temperature rises above 64 degrees F. Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.",
+      "de": "HUBELUPFs Blume beginnt bei 18 Grad zu blühen. Wie weit sich die Blüte öffnet, hängt von der Temperatur ab. Daher wird es manchmal als Thermometer eingesetzt."
+    },
+    "FireRed": {
+      "en": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+      "de": "Es öffnet seine Blüte, um Sonnenlicht aufzunehmen. Es schwebt in der Luft, um der Sonne näher zu sein."
+    },
+    "LeafGreen": {
+      "en": "The bloom on top of its head open and closes as the temperature fluctuates up and down.",
+      "de": "Temperaturschwankungen veranlassen es, die Blüte auf seinem Kopf immer zu öffnen oder zu schließen."
+    },
+    "Diamond": {
+      "en": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+      "de": "Sobald es wärmer wird, blüht es auf. Es schwebt am Himmel und nimmt so viel Sonnenlicht auf wie möglich."
+    },
+    "Pearl": {
+      "en": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+      "de": "Sobald es wärmer wird, blüht es auf. Es schwebt am Himmel und nimmt so viel Sonnenlicht auf wie möglich."
+    },
+    "Platinum": {
+      "en": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+      "de": "Sobald es wärmer wird, blüht es auf. Es schwebt am Himmel und nimmt so viel Sonnenlicht auf wie möglich."
+    },
+    "HeartGold": {
+      "en": "The bloom on top of its head open and closes as the temperature fluctuates up and down.",
+      "de": "Sobald es wärmer wird, blüht es auf. Es schwebt am Himmel und nimmt so viel Sonnenlicht auf wie möglich."
+    },
+    "SoulSilver": {
+      "en": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+      "de": "Sobald es wärmer wird, blüht es auf. Es schwebt am Himmel und nimmt so viel Sonnenlicht auf wie möglich."
+    },
+    "Black": {
+      "en": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+      "de": "Sobald es wärmer wird, blüht es auf. Es schwebt am Himmel und nimmt so viel Sonnenlicht auf wie möglich."
+    },
+    "White": {
+      "en": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+      "de": "Sobald es wärmer wird, blüht es auf. Es schwebt am Himmel und nimmt so viel Sonnenlicht auf wie möglich."
+    },
+    "Black 2": {
+      "en": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+      "de": "Sobald es wärmer wird, blüht es auf. Es schwebt am Himmel und nimmt so viel Sonnenlicht auf wie möglich."
+    },
+    "White 2": {
+      "en": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+      "de": "Sobald es wärmer wird, blüht es auf. Es schwebt am Himmel und nimmt so viel Sonnenlicht auf wie möglich."
+    },
+    "X": {
+      "en": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+      "de": "Temperaturschwankungen veranlassen es, die Blüte auf seinem Kopf immer zu öffnen oder zu schließen."
+    },
+    "Y": {
+      "en": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+      "de": "Es öffnet seine Blüte, um Sonnenlicht aufzunehmen. Es schwebt in der Luft, um der Sonne näher zu sein."
+    },
+    "Omega Ruby": {
+      "en": "Skiploom's flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
+      "de": "Hubelupfs Blume beginnt zu blühen, wenn die Temperatur über 18 °C steigt. Wie weit sich die Blume öffnet, hängt von der Temperatur ab. Daher wird dieses Pokémon manchmal als Thermometer eingesetzt."
+    },
+    "Alpha Sapphire": {
+      "en": "Skiploom's flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
+      "de": "Hubelupfs Blume beginnt zu blühen, wenn die Temperatur über 18 °C steigt. Wie weit sich die Blume öffnet, hängt von der Temperatur ab. Daher wird dieses Pokémon manchmal als Thermometer eingesetzt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      4,
+      5
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      2,
+      2
+    ],
+    "skill": [
+      1,
+      1
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

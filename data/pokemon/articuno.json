@@ -1,0 +1,410 @@
+{
+  "names": {
+    "fr": "Artikodin",
+    "de": "Arktos",
+    "it": "Articuno",
+    "en": "Articuno"
+  },
+  "national_id": 144,
+  "types": [
+    "Ice",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Pressure"
+    },
+    {
+      "name": "Snow Cloak",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 3,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    20655,
+    20909
+  ],
+  "height_us": "5'07\"",
+  "height_eu": "1.7 m",
+  "weight_us": "122.1 lbs.",
+  "weight_eu": "55.4 kg",
+  "base_exp_yield": 261,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 3,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 90,
+    "atk": 85,
+    "def": 100,
+    "sp_atk": 95,
+    "sp_def": 125,
+    "speed": 85
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Roost"
+    },
+    {
+      "level": 0,
+      "move": "Hurricane"
+    },
+    {
+      "level": 0,
+      "move": "Freeze-Dry"
+    },
+    {
+      "level": 0,
+      "move": "Tailwind"
+    },
+    {
+      "level": 0,
+      "move": "Sheer Cold"
+    },
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 0,
+      "move": "Powder Snow"
+    },
+    {
+      "level": 8,
+      "move": "Mist"
+    },
+    {
+      "level": 15,
+      "move": "Ice Shard"
+    },
+    {
+      "level": 22,
+      "move": "Mind Reader"
+    },
+    {
+      "level": 29,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 36,
+      "move": "Agility"
+    },
+    {
+      "level": 43,
+      "move": "Ice Beam"
+    },
+    {
+      "level": 50,
+      "move": "Reflect"
+    },
+    {
+      "level": 57,
+      "move": "Hail"
+    },
+    {
+      "level": 64,
+      "move": "Tailwind"
+    },
+    {
+      "level": 71,
+      "move": "Blizzard"
+    },
+    {
+      "level": 78,
+      "move": "Sheer Cold"
+    },
+    {
+      "level": 85,
+      "move": "Roost"
+    },
+    {
+      "level": 92,
+      "move": "Hurricane"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM58",
+      "move": "Sky Drop"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM79",
+      "move": "Frost Breath"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ],
+  "categories": {
+    "en": "Freeze Pokémon",
+    "de": "Eis"
+  },
+  "kanto_id": 144,
+  "johto_id": 240,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 151,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "de": "Ein legendäres Vogel-Pokémon, das angeblich in Gletschern verirrten Wanderern den Weg weist."
+    },
+    "Blue": {
+      "en": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "de": "Ein legendäres Vogel-Pokémon, das angeblich in Gletschern verirrten Wanderern den Weg weist."
+    },
+    "Yellow": {
+      "en": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
+      "de": "Wenn Arktos durch die Lüfte schwebt, gefriert das Wasser in der Luft und es beginnt zu schneien."
+    },
+    "Gold": {
+      "en": "The magnificent, seemingly translucent wings of this legendary bird Pokémon are said to be made of ice.",
+      "de": "Die grazilen und transparenten Flügel dieses legendären Vogel-Pokémon sollen aus Eis sein."
+    },
+    "Silver": {
+      "en": "One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.",
+      "de": "Ein legendäres Vogel-Pokémon. Es gefriert das Wasser in der Atmosphäre, um im Schnee zu fliegen."
+    },
+    "Crystal": {
+      "en": "Legendary bird Pokémon. As it flies through the sky, it cools the air, causing snow to fall.",
+      "de": "Ein legendäres Vogel-Pokémon. Es kühlt die Luft beim Fliegen so stark ab, dass es schneit."
+    },
+    "Ruby": {
+      "en": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+      "de": "Arktos ist ein sagenumwobenes Vogel-Pokémon, das Eis manipulieren kann. Das Schlagen seiner Flügel bringt die Luft zum Gefrieren. Es wird behauptet, dass es zu schneien beginnt, wenn dieses Pokémon fliegt."
+    },
+    "Sapphire": {
+      "en": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+      "de": "Arktos ist ein sagenumwobenes Vogel-Pokémon, das Eis manipulieren kann. Das Schlagen seiner Flügel bringt die Luft zum Gefrieren. Man nimmt an, dass es zu schneien beginnt, wenn dieses Pokémon fliegt."
+    },
+    "Emerald": {
+      "en": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+      "de": "ARKTOS ist ein legendäres Vogel-PKMN, das Eis manipulieren kann. Das Schlagen seiner Flügel bringt die Luft zum Gefrieren. Dadurch soll es zu schneien beginnen."
+    },
+    "FireRed": {
+      "en": "One of the legendary bird Pokémon. With its long tail trailing behind, its flying form is magnificent.",
+      "de": "Eines der legendären Vogel-Pokémon. Aufgrund seines langen Schweifs, den es hinterherzieht, ist sein Flugstil hinreißend."
+    },
+    "LeafGreen": {
+      "en": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "de": "Ein legendäres Vogel-Pokémon, das angeblich in Gletschern verirrten Wanderern den Weg weist."
+    },
+    "Diamond": {
+      "en": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "Pearl": {
+      "en": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "Platinum": {
+      "en": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "HeartGold": {
+      "en": "The magnificent seemingly translucent wings of this legendary bird Pokémon are said to be made of ice.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "SoulSilver": {
+      "en": "One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "Black": {
+      "en": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "White": {
+      "en": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "Black 2": {
+      "en": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "White 2": {
+      "en": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "X": {
+      "en": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+      "de": "Ein Legendäres Vogel-Pokémon. Es kann Blizzards verursachen, indem es Feuchtigkeit gefriert."
+    },
+    "Y": {
+      "en": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "de": "Ein Legendäres Vogel-Pokémon, das angeblich in Gletschern verirrten Wanderern den Weg weist."
+    },
+    "Omega Ruby": {
+      "en": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+      "de": "Arktos ist ein sagenumwobendes Vogel-Pokémon, das Eis manipulieren kann. Das Schlagen seiner Flügel bringt die Luft zum Gefrieren. Man nimmt an, dass es zu schneien beginnt, wenn dieses Pokémon fliegt."
+    },
+    "Alpha Sapphire": {
+      "en": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+      "de": "Arktos ist ein sagenumwobendes Vogel-Pokémon, das Eis manipulieren kann. Das Schlagen seiner Flügel bringt die Luft zum Gefrieren. Man nimmt an, dass es zu schneien beginnt, wenn dieses Pokémon fliegt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      3,
+      4
+    ],
+    "stamina": [
+      3,
+      3
+    ],
+    "skill": [
+      5,
+      5
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

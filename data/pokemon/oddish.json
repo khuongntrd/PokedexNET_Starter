@@ -1,0 +1,824 @@
+{
+  "names": {
+    "fr": "Mystherbe",
+    "de": "Myrapla",
+    "it": "Oddish",
+    "en": "Oddish"
+  },
+  "national_id": 43,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll"
+    },
+    {
+      "name": "Run Away",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "11.9 lbs.",
+  "weight_eu": "5.4 kg",
+  "base_exp_yield": 64,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 55,
+    "sp_atk": 75,
+    "sp_def": 65,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 1,
+      "move": "Absorb"
+    },
+    {
+      "level": 5,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 9,
+      "move": "Acid"
+    },
+    {
+      "level": 13,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 14,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 15,
+      "move": "Sleep Powder"
+    },
+    {
+      "level": 19,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 23,
+      "move": "Lucky Chant"
+    },
+    {
+      "level": 27,
+      "move": "Moonlight"
+    },
+    {
+      "level": 31,
+      "move": "Giga Drain"
+    },
+    {
+      "level": 35,
+      "move": "Toxic"
+    },
+    {
+      "level": 39,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 43,
+      "move": "Moonblast"
+    },
+    {
+      "level": 47,
+      "move": "Grassy Terrain"
+    },
+    {
+      "level": 51,
+      "move": "Petal Dance"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Maractus",
+      "move": "After You"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Paras",
+      "move": "Flail"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Flail"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Snover",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Snover",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Paras",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Snover",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Teeter Dance"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Tickle"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Gloom",
+      "level": 21
+    }
+  ],
+  "categories": {
+    "en": "Weed Pokémon",
+    "de": "Unkraut"
+  },
+  "kanto_id": 43,
+  "johto_id": 83,
+  "hoenn_id": 91,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 105,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+      "de": "Dieses Pokémon verbringt den Tag unter der Erde. Nachts wandert es umher und sät Samen aus."
+    },
+    "Blue": {
+      "en": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+      "de": "Dieses Pokémon verbringt den Tag unter der Erde. Nachts wandert es umher und sät Samen aus."
+    },
+    "Yellow": {
+      "en": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+      "de": "Wenn man versucht, dieses Unkraut-Pokémon aus der Erde zu ziehen, dann schreit es fürchterlich laut."
+    },
+    "Gold": {
+      "en": "Awakened by moonlight, it roams actively at night. In the day it stays quietly underground.",
+      "de": "Es erwacht bei Mondschein und wandert rastlos. Tagsüber versteckt es sich still unter der Erde."
+    },
+    "Silver": {
+      "en": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+      "de": "Wird es vom Mondschein getroffen, bewegt es sich. Nachts wandert es weite Wege, um Samen zu streuen."
+    },
+    "Crystal": {
+      "en": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+      "de": "Tagsüber versteckt es sich in der kalten Erde, um die Sonne zu meiden. Es wächst im Mondschein."
+    },
+    "Ruby": {
+      "en": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+      "de": "Am Tage vergräbt sich Myrapla im Boden, um mit seinem ganzen Körper Nahrung aufzunehmen. Je fruchtbarer der Boden ist, desto glänzender werden seine Blätter."
+    },
+    "Sapphire": {
+      "en": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees.",
+      "de": "Myrapla sucht nach fruchtbarem, nahrhaftem Boden und pflanzt sich selbst darin ein. Solange es eingepflanzt ist, nehmen seine Füße tagsüber die Gestalt von Baumwurzeln an."
+    },
+    "Emerald": {
+      "en": "This Pokémon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
+      "de": "Es wächst, indem es Mondlicht absorbiert. Tagsüber vergräbt es sich und nur sein Blatt schaut heraus, um nicht von Feinden geortet zu werden."
+    },
+    "FireRed": {
+      "en": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
+      "de": "Sein wissenschaftlicher Name lautet \"Oddium Wanderus\". Nachts soll es knapp 300 Meter auf seinen zwei Wurzeln zurücklegen."
+    },
+    "LeafGreen": {
+      "en": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+      "de": "Dieses Pokémon verbringt den Tag unter der Erde. Nachts wandert es umher und sät Samen aus."
+    },
+    "Diamond": {
+      "en": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+      "de": "Tagsüber verankert es sich mit seinen Wurzelfüßen im Boden. Nachts wandert es und verteilt Samen."
+    },
+    "Pearl": {
+      "en": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+      "de": "Tagsüber verankert es sich mit seinen Wurzelfüßen im Boden. Nachts wandert es und verteilt Samen."
+    },
+    "Platinum": {
+      "en": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+      "de": "Tagsüber verankert es sich mit seinen Wurzelfüßen im Boden. Nachts wandert es und verteilt Samen."
+    },
+    "HeartGold": {
+      "en": "Awakened by moonlight, it roams actively at night. In the day it stays quietly underground.",
+      "de": "Tagsüber verankert es sich mit seinen Wurzelfüßen im Boden. Nachts wandert es und verteilt Samen."
+    },
+    "SoulSilver": {
+      "en": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+      "de": "Tagsüber verankert es sich mit seinen Wurzelfüßen im Boden. Nachts wandert es und verteilt Samen."
+    },
+    "Black": {
+      "en": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+      "de": "Tagsüber verankert es sich mit seinen Wurzelfüßen im Boden. Nachts wandert es und verteilt Samen."
+    },
+    "White": {
+      "en": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+      "de": "Tagsüber verankert es sich mit seinen Wurzelfüßen im Boden. Nachts wandert es und verteilt Samen."
+    },
+    "Black 2": {
+      "en": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+      "de": "Tagsüber verankert es sich mit seinen Wurzelfüßen im Boden. Nachts wandert es und verteilt Samen."
+    },
+    "White 2": {
+      "en": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+      "de": "Tagsüber verankert es sich mit seinen Wurzelfüßen im Boden. Nachts wandert es und verteilt Samen."
+    },
+    "X": {
+      "en": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+      "de": "Tagsüber versteckt es sich in der kalten Erde, um die Sonne zu meiden. Es wächst im Mondschein."
+    },
+    "Y": {
+      "en": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
+      "de": "Sein wissenschaftlicher Name lautet: „Oddium Wanderus“. Nachts soll es knapp 300 m auf seinen zwei Wurzeln zurücklegen."
+    },
+    "Omega Ruby": {
+      "en": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+      "de": "Am Tage vergräbt sich Myrapla im Boden, um mit seinem ganzen Körper Nahrung aufzunehmen. Je fruchtbarer der Boden ist, desto glänzender werden seine Blätter."
+    },
+    "Alpha Sapphire": {
+      "en": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees..",
+      "de": "Myrapla sucht nach fruchtbarem, nahrhaftem Boden und pflanzt sich selbst darin ein. Solange es eingepflanzt ist, nehmen seine Füße tagsüber die Gestalt von Baumwurzeln an."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      5
+    ],
+    "power": [
+      1,
+      3
+    ],
+    "stamina": [
+      4,
+      4
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

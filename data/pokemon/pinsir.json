@@ -1,0 +1,747 @@
+{
+  "names": {
+    "fr": "Scarabrute",
+    "de": "Pinsir",
+    "it": "Pinsir",
+    "en": "Pinsir"
+  },
+  "national_id": 127,
+  "types": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter"
+    },
+    {
+      "name": "Moxie",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "121.3 lbs.",
+  "weight_eu": "55.0 kg",
+  "base_exp_yield": 175,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "atk": 125,
+    "def": 100,
+    "sp_atk": 55,
+    "sp_def": 70,
+    "speed": 85
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Vice Grip"
+    },
+    {
+      "level": 0,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 4,
+      "move": "Bind"
+    },
+    {
+      "level": 8,
+      "move": "Seismic Toss"
+    },
+    {
+      "level": 11,
+      "move": "Harden"
+    },
+    {
+      "level": 15,
+      "move": "Revenge"
+    },
+    {
+      "level": 18,
+      "move": "Vital Throw"
+    },
+    {
+      "level": 22,
+      "move": "Double Hit"
+    },
+    {
+      "level": 26,
+      "move": "Brick Break"
+    },
+    {
+      "level": 29,
+      "move": "Submission"
+    },
+    {
+      "level": 33,
+      "move": "X-Scissor"
+    },
+    {
+      "level": 36,
+      "move": "Storm Throw"
+    },
+    {
+      "level": 40,
+      "move": "Swords Dance"
+    },
+    {
+      "level": 43,
+      "move": "Thrash"
+    },
+    {
+      "level": 47,
+      "move": "Superpower"
+    },
+    {
+      "level": 50,
+      "move": "Guillotine"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Caterpie",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Metapod",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Weedle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Kakuna",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Wurmple",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Silcoon",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Cascoon",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Kricketot",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Burmy",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Combee",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Durant",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Scatterbug",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Close Combat"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Feint"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Feint"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Feint"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Feint"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Feint"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Feint"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Feint"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "Flail"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Flail"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Flail"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Flail"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Me First"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Superpower"
+    }
+  ],
+  "alola_id": 175,
+  "categories": {
+    "en": "Stag Beetle Pokémon",
+    "de": "Kneifkäfer"
+  },
+  "kanto_id": 127,
+  "johto_id": 113,
+  "hoenn_id": 174,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 130,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Aerilate",
+      "mega_stone": "Pinsirite",
+      "height_us": "5'07\"",
+      "height_eu": "1.7 m",
+      "weight_us": "130.1 lbs.",
+      "weight_eu": "59.0 kg",
+      "base_stats": {
+        "hp": 65,
+        "atk": 155,
+        "def": 120,
+        "sp_atk": 65,
+        "sp_def": 90,
+        "speed": 105
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+      "de": "Dieses Pokémon vermag mit seinen mächtigen Kneifzangen Gegner zu zermalmen."
+    },
+    "Blue": {
+      "en": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+      "de": "Dieses Pokémon vermag mit seinen mächtigen Kneifzangen Gegner zu zermalmen."
+    },
+    "Yellow": {
+      "en": "Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.",
+      "de": "Dieses Pokémon bevorzugt einen warmen Lebensraum. Pinsir attackiert Gegner mit seiner riesigen Schere."
+    },
+    "Gold": {
+      "en": "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
+      "de": "Es gräbt sich mit seinen Hörnern einen Unterschlupf für die Nacht. Am Morgen klebt nasse Erde an ihm."
+    },
+    "Silver": {
+      "en": "Swings its long antlers wildly to attack. During cold periods, it hides deep in forests.",
+      "de": "Beim Angriff verdreht es sein Geweih. In Kälteperioden versteckt es sich tief im Wald."
+    },
+    "Crystal": {
+      "en": "When the temperature drops at night, it sleeps on treetops or among roots where it is well hidden.",
+      "de": "Sinkt nachts die Temperatur, sucht es sich ein Versteck in Baumkronen oder unter Wurzeln."
+    },
+    "Ruby": {
+      "en": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
+      "de": "Pinsir ist erstaunlich stark. Es kann einen Feind, der doppelt so viel wiegt wie es selbst, mit seinen Hörnern packen und hochheben. Bei niedrigen Temperaturen werden die Bewegungen dieses Pokémon schwerfällig."
+    },
+    "Sapphire": {
+      "en": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.",
+      "de": "Pinsir hat ein Paar massive Hörner. Aus diesen ragen Dornen hervor, die sich in den Körper seines Gegners hineinbohren, wenn sich die Zange schließt, und ihm das Entkommen schwer machen."
+    },
+    "Emerald": {
+      "en": "Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsir burrow and sleep under the ground on chilly nights.",
+      "de": "Mit den Scheren kann es Baumstämme zerteilen. Da es kalte Temperaturen verab scheut, gräbt sich PINSIR in kalten Nächten tief in die Erde."
+    },
+    "FireRed": {
+      "en": "Its two long pincer horns are powerful. Once they grip an enemy, they won't release until the foe is torn.",
+      "de": "Seine zwei langen Kneifzangen sind kräftig. Haben sie erst einen Gegner gegriffen, lassen sie nicht los, bis dieser zerfetzt wurde."
+    },
+    "LeafGreen": {
+      "en": "If it fails to crush the foe in its pincers, it will swing around and toss the opponent.",
+      "de": "Dieses Pokémon vermag mit seinen mächtigen Kneifzangen Gegner zu zermalmen."
+    },
+    "Diamond": {
+      "en": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+      "de": "Es hält seine Beute mit seiner Zange fest und teilt sie dann. Was es nicht teilen kann, wirft es fort."
+    },
+    "Pearl": {
+      "en": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+      "de": "Es hält seine Beute mit seiner Zange fest und teilt sie dann. Was es nicht teilen kann, wirft es fort."
+    },
+    "Platinum": {
+      "en": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+      "de": "Es hält seine Beute mit seiner Zange fest und teilt sie dann. Was es nicht teilen kann, wirft es fort."
+    },
+    "HeartGold": {
+      "en": "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
+      "de": "Es hält seine Beute mit seiner Zange fest und teilt sie dann. Was es nicht teilen kann, wirft es fort."
+    },
+    "SoulSilver": {
+      "en": "It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.",
+      "de": "Es hält seine Beute mit seiner Zange fest und teilt sie dann. Was es nicht teilen kann, wirft es fort."
+    },
+    "Black": {
+      "en": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+      "de": "Es hält seine Beute mit seiner Zange fest und teilt sie dann. Was es nicht teilen kann, wirft es fort.|"
+    },
+    "White": {
+      "en": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+      "de": "Es hält seine Beute mit seiner Zange fest und teilt sie dann. Was es nicht teilen kann, wirft es fort.|"
+    },
+    "Black 2": {
+      "en": "It grips prey with its powerful pincers and will not let go until the prey is torn in half.",
+      "de": "Beute erfasst es mit seinen mächtigen Scheren und zerrt daran, bis sie in zwei Stücke reißt."
+    },
+    "White 2": {
+      "en": "It grips prey with its powerful pincers and will not let go until the prey is torn in half.",
+      "de": "Beute erfasst es mit seinen mächtigen Scheren und zerrt daran, bis sie in zwei Stücke reißt."
+    },
+    "X": {
+      "en": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+      "de": "Es hält seine Beute mit seiner Zange fest und teilt sie dann. Was es nicht teilen kann, wirft es fort."
+    },
+    "Y": {
+      "en": "It swings its long antlers wildly to attack. During cold periods, it hides deep in forests.",
+      "de": "Beim Angriff verdreht es sein Geweih. In Kälteperioden versteckt es sich tief im Wald."
+    },
+    "Omega Ruby": {
+      "en": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
+      "de": "Pinsir ist erstaunlich stark. Es kann einen Feind, der doppelt so viel wiegt wie es selbst, mit seinen Hörnern packen und hochheben. Bei niedriegen Temperaturen werden die Bewegungen dieses Pokémon schwerfällig."
+    },
+    "Alpha Sapphire": {
+      "en": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.",
+      "de": "Pinsir hat ein Paar massive Hörner. Aus diesen ragen Dornen hervor, die sich in den Körper seines Gegners hineinbohren, wenn sich die Zange schließt, und ihm das Entkommen schwer machen."
+    },
+    "Sun": {
+      "en": "It grips its prey in its pincers and splits them apart. Although it is a powerful Pokémon, it can't deal with the cold.",
+      "de": "Es nimmt Gegner mit seinen langen Hörnern in die Zange und reißt sie damit entzwei. Es ist sehr stark, aber es verabscheut Kälte."
+    },
+    "Moon": {
+      "en": "One solid blow from its horns is enough to split apart a large tree. Its greatest rival in Alola is Vikavolt.",
+      "de": "Ein Stoß mit seinen Hörnern reicht, um große Bäume zu zersplittern. In Alola ist Donarion sein größter Rivale."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      2
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

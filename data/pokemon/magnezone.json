@@ -1,0 +1,386 @@
+{
+  "names": {
+    "fr": "Magnézone",
+    "de": "Magnezone",
+    "it": "Magnezone",
+    "en": "Magnezone"
+  },
+  "national_id": 462,
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "abilities": [
+    {
+      "name": "Magnet Pull"
+    },
+    {
+      "name": "Analytic",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 30,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "396.8 lbs.",
+  "weight_eu": "180.0 kg",
+  "base_exp_yield": 241,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 3,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 70,
+    "atk": 70,
+    "def": 115,
+    "sp_atk": 130,
+    "sp_def": 90,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Zap Cannon"
+    },
+    {
+      "level": 0,
+      "move": "Magnetic Flux"
+    },
+    {
+      "level": 0,
+      "move": "Mirror Coat"
+    },
+    {
+      "level": 0,
+      "move": "Barrier"
+    },
+    {
+      "level": 0,
+      "move": "Electric Terrain"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Supersonic"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 0,
+      "move": "Sonic Boom"
+    },
+    {
+      "level": 5,
+      "move": "Supersonic"
+    },
+    {
+      "level": 7,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 11,
+      "move": "Sonic Boom"
+    },
+    {
+      "level": 13,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 17,
+      "move": "Magnet Bomb"
+    },
+    {
+      "level": 19,
+      "move": "Spark"
+    },
+    {
+      "level": 23,
+      "move": "Mirror Shot"
+    },
+    {
+      "level": 25,
+      "move": "Metal Sound"
+    },
+    {
+      "level": 29,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 33,
+      "move": "Flash Cannon"
+    },
+    {
+      "level": 39,
+      "move": "Screech"
+    },
+    {
+      "level": 43,
+      "move": "Discharge"
+    },
+    {
+      "level": 49,
+      "move": "Lock-On"
+    },
+    {
+      "level": 53,
+      "move": "Magnet Rise"
+    },
+    {
+      "level": 59,
+      "move": "Gyro Ball"
+    },
+    {
+      "level": 63,
+      "move": "Zap Cannon"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "evolution_from": "Magneton",
+  "alola_id": 49,
+  "categories": {
+    "en": "Magnet Area Pokémon",
+    "de": "Magnetgebiet"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 86,
+  "sinnoh_id": 180,
+  "unova_id": null,
+  "kalos_id": 71,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "de": "Es entwickelte sich, als es einem besonderen Magnetfeld ausgesetzt wurde."
+    },
+    "Pearl": {
+      "en": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "de": "Es entwickelte sich, als es einem besonderen Magnetfeld ausgesetzt wurde."
+    },
+    "Platinum": {
+      "en": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
+      "de": "Versuche, MAGNEZONE auf wissenschaftliche Weise zur Entwicklung zu bringen, schlugen fehl."
+    },
+    "HeartGold": {
+      "en": "Exposure to a special magnetic field changed Magneton's molecular structure, turning it into Magnezone.",
+      "de": "Es entwickelte sich, als es einem besonderen Magnetfeld ausgesetzt wurde."
+    },
+    "SoulSilver": {
+      "en": "Exposure to a special magnetic field changed Magneton's molecular structure, turning it into Magnezone.",
+      "de": "Es entwickelte sich, als es einem besonderen Magnetfeld ausgesetzt wurde."
+    },
+    "Black": {
+      "en": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
+      "de": "Versuche, Magnezone auf wissenschaftliche Weise zur Entwicklung zu bringen, schlugen fehl."
+    },
+    "White": {
+      "en": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
+      "de": "Versuche, Magnezone auf wissenschaftliche Weise zur Entwicklung zu bringen, schlugen fehl."
+    },
+    "Black 2": {
+      "en": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+      "de": "Gelegentlich erzeugen sie so starke Magnetfelder, dass sie sich gegenseitig anziehen und einander immobilisieren."
+    },
+    "White 2": {
+      "en": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+      "de": "Gelegentlich erzeugen sie so starke Magnetfelder, dass sie sich gegenseitig anziehen und einander immobilisieren."
+    },
+    "X": {
+      "en": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+      "de": "Gelegentlich erzeugen sie so starke Magnetfelder, dass sie sich gegenseitig anziehen und einander immobilisieren."
+    },
+    "Y": {
+      "en": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "de": "Es entwickelte sich, als es einem besonderen Magnetfeld ausgesetzt wurde."
+    },
+    "Omega Ruby": {
+      "en": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+      "de": "Gelegentlich erzeugen sie so starke Magnetfelder, dass sie sich gegenseitig anziehen und einander immobilisieren."
+    },
+    "Alpha Sapphire": {
+      "en": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "de": "Es entwickelte sich, als es einem besonderen Magnetfeld ausgesetzt wurde."
+    },
+    "Sun": {
+      "en": "Three units generate magnetism. There have been many mistaken reports of UFO sightings when Magnezone flies through the night sky.",
+      "de": "Seine drei Bestandteile erzeugen ein Magnetfeld. Es kommt oft vor, dass am Himmel fliegende Magnezone für Ufos gehalten werden."
+    },
+    "Moon": {
+      "en": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin, while transmitting signals of unknown purpose.",
+      "de": "Es heißt, dass es beim Herumfliegen mysteriöse Funkwellen aussende und unbekannte empfange."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      2
+    ],
+    "power": [
+      3,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      4,
+      5
+    ]
+  }
+}

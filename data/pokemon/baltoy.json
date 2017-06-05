@@ -1,0 +1,413 @@
+{
+  "names": {
+    "fr": "Balbuto",
+    "de": "Puppance",
+    "it": "Baltoy",
+    "en": "Baltoy"
+  },
+  "national_id": 343,
+  "types": [
+    "Ground",
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 255,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "47.4 lbs.",
+  "weight_eu": "21.5 kg",
+  "base_exp_yield": 60,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 55,
+    "sp_atk": 40,
+    "sp_def": 70,
+    "speed": 55
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 4,
+      "move": "Rapid Spin"
+    },
+    {
+      "level": 7,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 10,
+      "move": "Heal Block"
+    },
+    {
+      "level": 13,
+      "move": "Rock Tomb"
+    },
+    {
+      "level": 16,
+      "move": "Psybeam"
+    },
+    {
+      "level": 19,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 22,
+      "move": "Cosmic Power"
+    },
+    {
+      "level": 25,
+      "move": "Power Trick"
+    },
+    {
+      "level": 28,
+      "move": "Self-Destruct"
+    },
+    {
+      "level": 31,
+      "move": "Extrasensory"
+    },
+    {
+      "level": 34,
+      "move": "Guard Split"
+    },
+    {
+      "level": 34,
+      "move": "Power Split"
+    },
+    {
+      "level": 37,
+      "move": "Earth Power"
+    },
+    {
+      "level": 40,
+      "move": "Sandstorm"
+    },
+    {
+      "level": 43,
+      "move": "Imprison"
+    },
+    {
+      "level": 46,
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Claydol",
+      "level": 36
+    }
+  ],
+  "categories": {
+    "en": "Clay Doll Pokémon",
+    "de": "Lehmpuppe"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 136,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Baltoy moves while spinning around on its one foot. Primitive wall paintings depicting this Pokémon living among people were discovered in some ancient ruins.",
+      "de": "Puppance bewegt sich, indem es sich auf seinem Fuß im Kreis dreht. In sehr alten Ruinen wurden primitive Wandmalereien entdeckt, die dieses Pokémon in Begleitung von Menschen zeigen."
+    },
+    "Sapphire": {
+      "en": "As soon as it spots others of its kind, Baltoy congregates with them and then begins crying noisily in unison. This Pokémon sleeps while cleverly balancing itself on its one foot.",
+      "de": "Sobald es Artgenossen bemerkt, tut sich Puppance mit ihnen zusammen und sie brüllen gemeinsam. Dieses Pokémon schläft, während es geschickt auf seinem Fuß balanciert."
+    },
+    "Emerald": {
+      "en": "A Baltoy moves by spinning on its single foot. It has been depicted in murals adorning the walls of a once-bustling city in an ancient age.",
+      "de": "PUPPANCE dreht sich auf seinem Fuß. Es wurde bereits in Wandmalereien einer einst geschäftigen Stadt der Antike abgebildet."
+    },
+    "FireRed": {
+      "en": "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.",
+      "de": "Es wurde in antiken Ruinen entdeckt. Wenn es sich bewegt, dreht es sich. Auch im Schlaf steht es auf einem Bein."
+    },
+    "LeafGreen": {
+      "en": "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.",
+      "de": "Es wurde in antiken Ruinen entdeckt. Wenn es sich bewegt, dreht es sich. Auch im Schlaf steht es auf einem Bein."
+    },
+    "Diamond": {
+      "en": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+      "de": "Es bewegt sich, indem es sich auf seinem Fuß dreht. Ein seltenes PKMN, das in alten Ruinen lebte."
+    },
+    "Pearl": {
+      "en": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+      "de": "Es bewegt sich, indem es sich auf seinem Fuß dreht. Ein seltenes PKMN, das in alten Ruinen lebte."
+    },
+    "Platinum": {
+      "en": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+      "de": "Es bewegt sich, indem es sich auf seinem Fuß dreht. Ein seltenes Pokémon, das in alten Ruinen lebte."
+    },
+    "HeartGold": {
+      "en": "It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.",
+      "de": "Es bewegt sich, indem es sich auf seinem Fuß dreht. Ein seltenes PKMN, das in alten Ruinen lebte."
+    },
+    "SoulSilver": {
+      "en": "It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.",
+      "de": "Es bewegt sich, indem es sich auf seinem Fuß dreht. Ein seltenes PKMN, das in alten Ruinen lebte."
+    },
+    "Black": {
+      "en": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+      "de": "Es bewegt sich, indem es sich auf seinem Fuß dreht. Ein seltenes Pokémon, das in alten Ruinen lebte."
+    },
+    "White": {
+      "en": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+      "de": "Es bewegt sich, indem es sich auf seinem Fuß dreht. Ein seltenes Pokémon, das in alten Ruinen lebte."
+    },
+    "Black 2": {
+      "en": "Discovered in ancient ruins, it moves by spinning around and forms a group when it finds others.",
+      "de": "Es wurde in antiken Ruinen entdeckt und bewegt sich drehend fort. Trifft es auf Artgenossen, bildet es eine Herde."
+    },
+    "White 2": {
+      "en": "Discovered in ancient ruins, it moves by spinning around and forms a group when it finds others.",
+      "de": "Es wurde in antiken Ruinen entdeckt und bewegt sich drehend fort. Trifft es auf Artgenossen, bildet es eine Herde."
+    },
+    "X": {
+      "en": "It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.",
+      "de": "Es bewegt sich, indem es auf seinem Fuß kreiselt. Vereinzelt sieht man Puppance, die kopfüber kreiseln."
+    },
+    "Y": {
+      "en": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+      "de": "Es bewegt sich, indem es sich auf seinem Fuß dreht. Ein seltenes Pokémon, das in alten Ruinen lebte."
+    },
+    "Omega Ruby": {
+      "en": "Baltoy moves while spinning around on its one foot. Primitive wall paintings depicting this Pokémon living among people were discovered in some ancient ruins.",
+      "de": "Puppance bewegt sich, indem es sich auf seinem Fuß im Kreis dreht. In sehr alten Ruinen wurden primitive Wandmalereien entdeckt, die dieses Pokémon in Begleitung von Menschen zeigen."
+    },
+    "Alpha Sapphire": {
+      "en": "As soon as it spots others of its kind, Baltoy congregates with them and then begins crying noisily in unison. This Pokémon sleeps while cleverly balancing itself on its one foot.",
+      "de": "Sobald es Artgenossen bemerkt, tut sich Puppance mit ihnen zusammen und sie brüllen gemeinsam. Dieses Pokémon schläft, während es geschickt auf seinem Fuß balanciert."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

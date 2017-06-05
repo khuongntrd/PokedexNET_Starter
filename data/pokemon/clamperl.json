@@ -1,0 +1,693 @@
+{
+  "names": {
+    "fr": "Coquiperl",
+    "de": "Perlu",
+    "it": "Clamperl",
+    "en": "Clamperl"
+  },
+  "national_id": 366,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Shell Armor"
+    },
+    {
+      "name": "Rattled",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Water 1"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "115.7 lbs.",
+  "weight_eu": "52.5 kg",
+  "base_exp_yield": 69,
+  "leveling_rate": "Erratic",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 35,
+    "atk": 64,
+    "def": 85,
+    "sp_atk": 74,
+    "sp_def": 55,
+    "speed": 32
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Clamp"
+    },
+    {
+      "level": 0,
+      "move": "Water Gun"
+    },
+    {
+      "level": 0,
+      "move": "Whirlpool"
+    },
+    {
+      "level": 0,
+      "move": "Iron Defense"
+    },
+    {
+      "level": 50,
+      "move": "Shell Smash"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Marill",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Gorebyss",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Barrier"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Seel",
+      "move": "Brine"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Brine"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Brine"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Brine"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Brine"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Brine"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Brine"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Brine"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Brine"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Brine"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Brine"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Brine"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Brine"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Brine"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Endure"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Endure"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Endure"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Endure"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Refresh"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Refresh"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Gorebyss",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Froakie",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Frogadier",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Water Pulse"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Huntail",
+      "trade": true,
+      "hold_item": "Deepseatooth"
+    },
+    {
+      "to": "Gorebyss",
+      "trade": true,
+      "hold_item": "Deepseascale"
+    }
+  ],
+  "categories": {
+    "en": "Bivalve Pokémon",
+    "de": "Muschel"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 185,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 141,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Clamperl's sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown Clamperl's shell will be scored with nicks and scratches all over.",
+      "de": "Perlus kräftige Schale dient nicht nur dem Schutz, es nutzt sie auch zum Fangen von Beute. Die ausgewachsene Schale eines Perlu weist viele Kerben und Kratzer auf."
+    },
+    "Sapphire": {
+      "en": "Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pokémon is getting close to evolution.",
+      "de": "Perlu wächst, während es von seiner steinharten Schale geschützt wird. Wenn sein Körper zu groß für seine Schale wird, ist dies ein sicheres Anzeichen dafür, dass dieses Pokémon kurz vor seiner Entwicklung steht."
+    },
+    "Emerald": {
+      "en": "A Clamperl slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.",
+      "de": "PERLU fängt die Beute mit seiner Schale. Die Perle, die bei der Entwicklung entsteht, soll angeblich eine geheimnisvolle Energie besitzen."
+    },
+    "FireRed": {
+      "en": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+      "de": "Es ist durch einen harten Panzer geschützt. Einmal im Leben stellt es eine bezaubernde Perle her."
+    },
+    "LeafGreen": {
+      "en": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+      "de": "Es ist durch einen harten Panzer geschützt. Einmal im Leben stellt es eine bezaubernde Perle her."
+    },
+    "Diamond": {
+      "en": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+      "de": "In seinem Leben erschafft es eine einzige Perle. Diese soll Psycho- Kräfte verstärken."
+    },
+    "Pearl": {
+      "en": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+      "de": "In seinem Leben erschafft es eine einzige Perle. Diese soll Psycho- Kräfte verstärken."
+    },
+    "Platinum": {
+      "en": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+      "de": "In seinem Leben erschafft es eine einzige Perle. Diese soll Psycho-Kräfte verstärken."
+    },
+    "HeartGold": {
+      "en": "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it's held.",
+      "de": "In seinem Leben erschafft es eine einzige Perle. Diese soll Psycho- Kräfte verstärken."
+    },
+    "SoulSilver": {
+      "en": "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it's held.",
+      "de": "In seinem Leben erschafft es eine einzige Perle. Diese soll Psycho- Kräfte verstärken."
+    },
+    "Black": {
+      "en": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+      "de": "In seinem Leben erschafft es eine einzige Perle. Diese soll Psycho-Kräfte verstärken."
+    },
+    "White": {
+      "en": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+      "de": "In seinem Leben erschafft es eine einzige Perle. Diese soll Psycho-Kräfte verstärken."
+    },
+    "Black 2": {
+      "en": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+      "de": "In seinem Leben erschafft es eine einzige Perle. Diese soll Psycho-Kräfte verstärken."
+    },
+    "White 2": {
+      "en": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+      "de": "In seinem Leben erschafft es eine einzige Perle. Diese soll Psycho-Kräfte verstärken."
+    },
+    "X": {
+      "en": "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it's held.",
+      "de": "Es entwickelt sich nur einmal im Leben, wobei es eine wundersame Perle erzeugt, die Psycho-Kräfte verstärkt."
+    },
+    "Y": {
+      "en": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+      "de": "Es ist durch einen harten Panzer geschützt. Einmal im Leben stellt es eine bezaubernde Perle her."
+    },
+    "Omega Ruby": {
+      "en": "Clamperl’s sturdy shell is not only good for protection—it is also used for clamping and catching prey. A fully grown Clamperl’s shell will be scored with nicks and scratches all over.",
+      "de": "Perlus kräftige Schale dient nicht nur dem Schutz, es nutzt sie auch zum Fangen von Beute. Die Schale eines ausgewachsenen Perlu weist viele Kerben und Kratzer auf."
+    },
+    "Alpha Sapphire": {
+      "en": "Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pokémon is getting close to evolution.",
+      "de": "Perlu wächst, während es von seiner steinharten Schale geschützt wird. Wenn sein Körper zu groß für seine Schale wird, ist dies ein sicheres Anzeichen dafür, dass dieses Pokémon kurz vor seiner Entwicklung steht."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      3,
+      3
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

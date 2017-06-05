@@ -1,0 +1,579 @@
+{
+  "names": {
+    "fr": "Gloupti",
+    "de": "Schluppuck",
+    "it": "Gulpin",
+    "en": "Gulpin"
+  },
+  "national_id": 316,
+  "types": [
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Liquid Ooze"
+    },
+    {
+      "name": "Gluttony",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 225,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "22.7 lbs.",
+  "weight_eu": "10.3 kg",
+  "base_exp_yield": 60,
+  "leveling_rate": "Fluctuating",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 70,
+    "atk": 43,
+    "def": 53,
+    "sp_atk": 43,
+    "sp_def": 53,
+    "speed": 40
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 5,
+      "move": "Yawn"
+    },
+    {
+      "level": 8,
+      "move": "Poison Gas"
+    },
+    {
+      "level": 10,
+      "move": "Sludge"
+    },
+    {
+      "level": 12,
+      "move": "Amnesia"
+    },
+    {
+      "level": 17,
+      "move": "Acid Spray"
+    },
+    {
+      "level": 20,
+      "move": "Encore"
+    },
+    {
+      "level": 25,
+      "move": "Toxic"
+    },
+    {
+      "level": 28,
+      "move": "Stockpile"
+    },
+    {
+      "level": 28,
+      "move": "Spit Up"
+    },
+    {
+      "level": 28,
+      "move": "Swallow"
+    },
+    {
+      "level": 33,
+      "move": "Sludge Bomb"
+    },
+    {
+      "level": 36,
+      "move": "Gastro Acid"
+    },
+    {
+      "level": 41,
+      "move": "Belch"
+    },
+    {
+      "level": 44,
+      "move": "Wring Out"
+    },
+    {
+      "level": 49,
+      "move": "Gunk Shot"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Muk",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Curse"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Curse"
+    },
+    {
+      "parent": "Banette",
+      "move": "Curse"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Curse"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Curse"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Curse"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Curse"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Curse"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Wobbuffet",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Muk",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Muk",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Smog"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Smog"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Smog"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Smog"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Smog"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Smog"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Venom Drench"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Swalot",
+      "level": 26
+    }
+  ],
+  "categories": {
+    "en": "Stomach Pokémon",
+    "de": "Magen"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 100,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 98,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Virtually all of Gulpin's body is its stomach. As a result, it can swallow something its own size. This Pokémon's stomach contains a special fluid that digests anything.",
+      "de": "Eigentlich besteht Schluppucks Körper nur aus einem Magen. Daher kann es etwas verschlingen, das beinahe seine Größe hat. Sein Magen enthält eine spezielle Flüssigkeit, die wirklich alles verdauen kann."
+    },
+    "Sapphire": {
+      "en": "Most of Gulpin's body is made up of its stomach - its heart and brain are very small in comparison. This Pokémon's stomach contains special enzymes that dissolve anything.",
+      "de": "Schluppucks Körper besteht zum größten Teil aus seinem Magen. Sein Herz und sein Gehirn sind im Vergleich dazu sehr klein. Der Magen dieses Pokémon enthält Enzyme, die alles zersetzen können."
+    },
+    "Emerald": {
+      "en": "This Pokémon's stomach fluid can even digest scrap iron. In one gulp, it can swallow something that is as large as itself.",
+      "de": "Die Magensäure dieses POKÉMON ist so stark, dass sie selbst Gusseisen zersetzen kann. Es kann einen Gegenstand seiner Größe auf einmal verschlucken."
+    },
+    "FireRed": {
+      "en": "There is nothing its stomach can't digest. While it is digesting, vile, overpowering gases are expelled.",
+      "de": "Es gibt nichts, das sein Magen nicht verdauen könnte. Während des Verdauungsvorgangs werden eklige, penetrante Gase freigesetzt."
+    },
+    "LeafGreen": {
+      "en": "There is nothing its stomach can't digest. While it is digesting, vile, overpowering gases are expelled.",
+      "de": "Es gibt nichts, das sein Magen nicht verdauen könnte. Während des Verdauungsvorgangs werden eklige, penetrante Gase freigesetzt."
+    },
+    "Diamond": {
+      "en": "Almost all of its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+      "de": "Sein Körper besteht fast nur aus Magen. Seine starken Verdauungs- säfte zersetzen alles sehr schnell."
+    },
+    "Pearl": {
+      "en": "Almost all of its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+      "de": "Sein Körper besteht fast nur aus Magen. Seine starken Verdauungs- säfte zersetzen alles sehr schnell."
+    },
+    "Platinum": {
+      "en": "Almost all of its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+      "de": "Sein Körper besteht fast nur aus Magen. Seine starken Verdauungssäfte zersetzen alles sehr schnell."
+    },
+    "HeartGold": {
+      "en": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+      "de": "Sein Körper besteht fast nur aus Magen. Seine starken Verdauungs- säfte zersetzen alles sehr schnell."
+    },
+    "SoulSilver": {
+      "en": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+      "de": "Sein Körper besteht fast nur aus Magen. Seine starken Verdauungs- säfte zersetzen alles sehr schnell."
+    },
+    "Black": {
+      "en": "Almost all of its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+      "de": "Sein Körper besteht fast nur aus Magen. Seine starken Verdauungssäfte zersetzen alles sehr schnell."
+    },
+    "White": {
+      "en": "Almost all of its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+      "de": "Sein Körper besteht fast nur aus Magen. Seine starken Verdauungssäfte zersetzen alles sehr schnell."
+    },
+    "Black 2": {
+      "en": "Almost all of its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+      "de": "Sein Körper besteht fast nur aus Magen. Seine starken Verdauungssäfte zersetzen alles sehr schnell."
+    },
+    "White 2": {
+      "en": "Almost all of its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+      "de": "Sein Körper besteht fast nur aus Magen. Seine starken Verdauungssäfte zersetzen alles sehr schnell."
+    },
+    "X": {
+      "en": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+      "de": "Sein Körper besteht fast nur aus Magen. Herz und Hirn sind winzig. Sein Magensaft verdaut alles."
+    },
+    "Y": {
+      "en": "There is nothing its stomach can't digest. While it is digesting, vile, overpowering gases are expelled.",
+      "de": "Es gibt nichts, das sein Magen nicht verdauen könnte. Während des Verdauungsvorgangs werden eklige, penetrante Gase freigesetzt."
+    },
+    "Omega Ruby": {
+      "en": "Virtually all of Gulpin’s body is its stomach. As a result, it can swallow something its own size. This Pokémon’s stomach contains a special fluid that digests anything.",
+      "de": "Eigentlich besteht Schluppucks Körper nur aus einem Magen. Daher kann es etwas verschlingen, das beinahe seine Größe hat. Sein Magen enthält eine spezielle Flüssigkeit, die wirklich alles verdauen kann."
+    },
+    "Alpha Sapphire": {
+      "en": "Most of Gulpin’s body is made up of its stomach—its heart and brain are very small in comparison. This Pokémon’s stomach contains special enzymes that dissolve anything.",
+      "de": "Schluppucks Körper besteht zum größten Teil aus seinem Magen. Sein Herz und sein Gehirn sind im Vergleich dazu sehr klein. Der Magen dieses Pokémon enthält Enzyme, die alles zersetzen können."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      1,
+      2
+    ],
+    "power": [
+      1,
+      2
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      2,
+      2
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

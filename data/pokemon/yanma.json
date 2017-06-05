@@ -1,0 +1,768 @@
+{
+  "names": {
+    "fr": "Yanma",
+    "de": "Yanma",
+    "it": "Yanma",
+    "en": "Yanma"
+  },
+  "national_id": 193,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Speed Boost"
+    },
+    {
+      "name": "Frisk",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "83.8 lbs.",
+  "weight_eu": "38.0 kg",
+  "base_exp_yield": 78,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "atk": 65,
+    "def": 45,
+    "sp_atk": 75,
+    "sp_def": 45,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Foresight"
+    },
+    {
+      "level": 6,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 11,
+      "move": "Double Team"
+    },
+    {
+      "level": 14,
+      "move": "Sonic Boom"
+    },
+    {
+      "level": 17,
+      "move": "Detect"
+    },
+    {
+      "level": 22,
+      "move": "Supersonic"
+    },
+    {
+      "level": 27,
+      "move": "Uproar"
+    },
+    {
+      "level": 30,
+      "move": "Pursuit"
+    },
+    {
+      "level": 33,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 38,
+      "move": "Hypnosis"
+    },
+    {
+      "level": 43,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 46,
+      "move": "Screech"
+    },
+    {
+      "level": 49,
+      "move": "U-turn"
+    },
+    {
+      "level": 54,
+      "move": "Air Slash"
+    },
+    {
+      "level": 57,
+      "move": "Bug Buzz"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Feint"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Feint"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Feint"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Feint"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Feint"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Paras",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Spinarak",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Shelmet",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Paras",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Spinarak",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Whirlwind"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Yanmega",
+      "move_learned": "Ancient Power"
+    }
+  ],
+  "categories": {
+    "en": "Clear Wing Pokémon",
+    "de": "Libelle"
+  },
+  "kanto_id": null,
+  "johto_id": 101,
+  "hoenn_id": null,
+  "sinnoh_id": 183,
+  "unova_id": null,
+  "kalos_id": 87,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+      "de": "Schlägt es schnell mit den Flügeln, erzeugt es Schockwellen, durch die sogar Fenster zerbersten."
+    },
+    "Silver": {
+      "en": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+      "de": "Seine riesigen Augen verfügen über einen Blickwinkel von 360 Grad. Es erspäht mit ihnen Beutetiere."
+    },
+    "Crystal": {
+      "en": "It can see in all directions without moving its big eyes, helping it spot attackers and food right away.",
+      "de": "Es kann in alle Richtungen sehen, ohne seine großen Augen zu bewegen. So nimmt es Feinde und Beute wahr."
+    },
+    "Ruby": {
+      "en": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
+      "de": "Yanma hat einen Blickwinkel von 360 Grad, ohne die Augen bewegen zu müssen. Es ist ein großartiger Flieger und geübt darin, plötzlich anzuhalten oder Wendemanöver vorzunehmen. So kann es sich blitzschnell auf Beute stürzen."
+    },
+    "Sapphire": {
+      "en": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
+      "de": "Yanma hat einen Blickwinkel von 360 Grad, ohne die Augen bewegen zu müssen. Es ist ein großartiger Flieger und geübt darin, plötzlich anzuhalten oder Wendemanöver hinzulegen. So kann es sich blitzschnell auf Beute stürzen."
+    },
+    "Emerald": {
+      "en": "It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.",
+      "de": "YANMA hat einen Blickwinkel von 360 Grad, ohne die Augen zu bewegen. Es ist ein toller Flieger und geübt darin, im Flug anzuhalten oder zu wenden."
+    },
+    "FireRed": {
+      "en": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+      "de": "Seine riesigen Augen verfügen über einen Blickwinkel von 360 Grad. Es erspäht mit ihnen Beutetiere."
+    },
+    "LeafGreen": {
+      "en": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+      "de": "Schlägt es schnell mit den Flügeln, erzeugt es Schockwellen, durch die sogar Fenster zerbersten."
+    },
+    "Diamond": {
+      "en": "Its eyes can see 360 degrees without moving its head. It won't miss prey, even those behind it.",
+      "de": "Mit seinen Augen hat es einen Blick- winkel von 360 Grad. Es sieht sogar Beute, die sich hinter ihm befindet."
+    },
+    "Pearl": {
+      "en": "Its eyes can see 360 degrees without moving its head. It won't miss prey, even those behind it.",
+      "de": "Mit seinen Augen hat es einen Blick- winkel von 360 Grad. Es sieht sogar Beute, die sich hinter ihm befindet."
+    },
+    "Platinum": {
+      "en": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+      "de": "Schwebt auf der Stelle durch das schnelle Schlagen seiner Flügel. Hat ein Auge auf sein Territorium."
+    },
+    "HeartGold": {
+      "en": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+      "de": "Mit seinen Augen hat es einen Blick- winkel von 360 Grad. Es sieht sogar Beute, die sich hinter ihm befindet."
+    },
+    "SoulSilver": {
+      "en": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+      "de": "Mit seinen Augen hat es einen Blick- winkel von 360 Grad. Es sieht sogar Beute, die sich hinter ihm befindet."
+    },
+    "Black": {
+      "en": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+      "de": "Schwebt auf der Stelle durch das schnelle Schlagen seiner Flügel. Hat ein Auge auf sein Territorium."
+    },
+    "White": {
+      "en": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+      "de": "Schwebt auf der Stelle durch das schnelle Schlagen seiner Flügel. Hat ein Auge auf sein Territorium."
+    },
+    "Black 2": {
+      "en": "By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem.",
+      "de": "Es kann sich durch seinen schnellen Flügelschlag frei durch die Luft bewegen und fliegend auf der Stelle halten."
+    },
+    "White 2": {
+      "en": "By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem.",
+      "de": "Es kann sich durch seinen schnellen Flügelschlag frei durch die Luft bewegen und fliegend auf der Stelle halten."
+    },
+    "X": {
+      "en": "Its eyes can see 360 degrees without moving its head. It won't miss prey--even those behind it.",
+      "de": "Mit seinen Augen hat es einen Blickwinkel von 360 Grad. Es sieht sogar Beute, die sich hinter ihm befindet."
+    },
+    "Y": {
+      "en": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+      "de": "Schlägt es schnell mit den Flügeln, erzeugt es Schockwellen, durch die sogar Fenster zerbersten."
+    },
+    "Omega Ruby": {
+      "en": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
+      "de": "Yanma hat einen Blickwinkel von 360 Grad, ohne die Augen bewegen zu müssen. Es ist ein großartiger Flieger und geübt darin, plötzlich anzuhalten oder Wendemanöver hinzulegen. So kann es sich blitzschnell auf Beute stürzen."
+    },
+    "Alpha Sapphire": {
+      "en": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
+      "de": "Yanma hat einen Blickwinkel von 360 Grad, ohne die Augen bewegen zu müssen. Es ist ein großartiger Flieger und geübt darin, plötzlich anzuhalten oder Wendemanöver hinzulegen. So kann es sich blitzschnell auf Beute stürzen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      5
+    ],
+    "power": [
+      2,
+      2
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      1,
+      1
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

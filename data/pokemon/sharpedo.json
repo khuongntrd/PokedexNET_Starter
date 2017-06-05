@@ -1,0 +1,536 @@
+{
+  "names": {
+    "fr": "Sharpedo",
+    "de": "Tohaido",
+    "it": "Sharpedo",
+    "en": "Sharpedo"
+  },
+  "national_id": 319,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "abilities": [
+    {
+      "name": "Rough Skin"
+    },
+    {
+      "name": "Speed Boost",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "5'11\"",
+  "height_eu": "1.8 m",
+  "weight_us": "195.8 lbs.",
+  "weight_eu": "88.8 kg",
+  "base_exp_yield": 161,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 70,
+    "atk": 120,
+    "def": 40,
+    "sp_atk": 95,
+    "sp_def": 40,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Night Slash"
+    },
+    {
+      "level": 0,
+      "move": "Feint"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Bite"
+    },
+    {
+      "level": 0,
+      "move": "Rage"
+    },
+    {
+      "level": 0,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 4,
+      "move": "Rage"
+    },
+    {
+      "level": 8,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 11,
+      "move": "Aqua Jet"
+    },
+    {
+      "level": 15,
+      "move": "Assurance"
+    },
+    {
+      "level": 18,
+      "move": "Screech"
+    },
+    {
+      "level": 22,
+      "move": "Swagger"
+    },
+    {
+      "level": 25,
+      "move": "Ice Fang"
+    },
+    {
+      "level": 29,
+      "move": "Scary Face"
+    },
+    {
+      "level": 30,
+      "move": "Slash"
+    },
+    {
+      "level": 34,
+      "move": "Poison Fang"
+    },
+    {
+      "level": 40,
+      "move": "Crunch"
+    },
+    {
+      "level": 45,
+      "move": "Agility"
+    },
+    {
+      "level": 51,
+      "move": "Skull Bash"
+    },
+    {
+      "level": 56,
+      "move": "Taunt"
+    },
+    {
+      "level": 62,
+      "move": "Night Slash"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM95",
+      "move": "Snarl"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Swift"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Thrash"
+    }
+  ],
+  "evolution_from": "Carvanha",
+  "alola_id": 265,
+  "categories": {
+    "en": "Brutal Pokémon",
+    "de": "Brutal"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 103,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 56,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Thick Fat",
+      "mega_stone": "Venusaurite",
+      "height_us": "8'02\"",
+      "height_eu": "2.5 m",
+      "weight_us": "287.3 lbs.",
+      "weight_eu": "130.3 kg",
+      "base_stats": {
+        "hp": 70,
+        "atk": 140,
+        "def": 70,
+        "sp_atk": 110,
+        "sp_def": 65,
+        "speed": 105
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Nicknamed \"the bully of the sea,\" Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pokémon can thoroughly tear apart a supertanker.",
+      "de": "Tohaido trägt den Spitznamen \"Tyrann des Meeres\" und ist sehr gefürchtet. Seine grausamen Zähne wachsen sofort nach, wenn sie ausgebrochen sind. Es kann sogar einen Öltanker zerreißen."
+    },
+    "Sapphire": {
+      "en": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon's drawback is its inability to swim long distances.",
+      "de": "Tohaido kann bis zu 120 km/h schnell schwimmen, indem es Meerwasser aus seinem Hinterteil herausschießt. Dieses Pokémon kann jedoch nicht sehr weite Strecken zurücklegen."
+    },
+    "Emerald": {
+      "en": "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 mph per hour.",
+      "de": "Der brutale und listige Schurke der See. Seine Haut ist so strukturiert, dass der Wasserwiderstand gering ist. Es kann bis zu 120 km/h schnell schwimmen."
+    },
+    "FireRed": {
+      "en": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
+      "de": "Es ist der Grobian des Meeres. Mit seinen Reißzähnen kann es durch Eisen beißen. Es schwimmt, indem es Wasser ausstößt."
+    },
+    "LeafGreen": {
+      "en": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
+      "de": "Es ist der Grobian des Meeres. Mit seinen Reißzähnen kann es durch Eisen beißen. Es schwimmt, indem es Wasser ausstößt."
+    },
+    "Diamond": {
+      "en": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird “Tyrann des Meeres” genannt."
+    },
+    "Pearl": {
+      "en": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird “Tyrann des Meeres” genannt."
+    },
+    "Platinum": {
+      "en": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird \"Tyrann des Meeres\" genannt."
+    },
+    "HeartGold": {
+      "en": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird “Tyrann des Meeres” genannt."
+    },
+    "SoulSilver": {
+      "en": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird “Tyrann des Meeres” genannt."
+    },
+    "Black": {
+      "en": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird „Tyrann des Meeres“ genannt."
+    },
+    "White": {
+      "en": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird „Tyrann des Meeres“ genannt."
+    },
+    "Black 2": {
+      "en": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird „Tyrann des Meeres“ genannt."
+    },
+    "White 2": {
+      "en": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird „Tyrann des Meeres“ genannt."
+    },
+    "X": {
+      "en": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+      "de": "Seine Zähne durchdringen sogar Eisen. Es schwimmt mit 120 km/h und wird „Tyrann des Meeres“ genannt."
+    },
+    "Y": {
+      "en": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
+      "de": "Tohaido mag Radau und schwimmt bis zu 120 km/h schnell, indem es Wasser aus seinem Hinterteil ausstößt."
+    },
+    "Omega Ruby": {
+      "en": "Nicknamed \"the bully of the sea,\" Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pokémon can thoroughly tear apart a supertanker.",
+      "de": "Tohaido trägt den Spitznamen ''Tyrann des Meeres'' und ist sehr gefürchtet. Seine grausamen Zähne wachsen sofort nach, wenn sie ausgebrochen sind. Es kann sogar einen Öltanker zerreißen."
+    },
+    "Alpha Sapphire": {
+      "en": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon’s drawback is its inability to swim long distances.",
+      "de": "Tohaido kann bis zu 120 km/h schnell schwimmen, indem es Meerwasser aus seinem Hinterteil herausschießt. Dieses Pokémon kann jedoch keine weiten Strecken zurücklegen."
+    },
+    "Sun": {
+      "en": "It pursues its prey at speeds of 75 mph and finishes them off with fangs that can crush iron. It is known as the bully of the sea.",
+      "de": "Es jagt mit 120 km/h seine Beute und erlegt sie mithilfe seiner Zähne, die selbst Eisen durchdringen. Sein Spitzname ist „Tyrann des Meeres“."
+    },
+    "Moon": {
+      "en": "It has a sad history. In the past, its dorsal fin was a treasured foodstuff, so this Pokémon became a victim of overfishing.",
+      "de": "Tohaido hat eine traurige Vergangenheit: Seine Rückenflosse gilt als Delikatesse, weshalb es lange Zeit gnadenlos überfischt wurde."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      4,
+      4
+    ],
+    "power": [
+      4,
+      4
+    ],
+    "stamina": [
+      2,
+      2
+    ],
+    "skill": [
+      4,
+      4
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

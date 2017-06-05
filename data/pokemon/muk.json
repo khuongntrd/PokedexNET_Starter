@@ -1,0 +1,728 @@
+{
+  "names": {
+    "fr": "Grotadmorv",
+    "de": "Sleimok",
+    "it": "Muk",
+    "en": "Muk"
+  },
+  "national_id": 89,
+  "types": [
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Stench"
+    },
+    {
+      "name": "Poison Touch",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "66.1 lbs.",
+  "weight_eu": "30.0 kg",
+  "base_exp_yield": 175,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 105,
+    "atk": 105,
+    "def": 75,
+    "sp_atk": 65,
+    "sp_def": 100,
+    "speed": 50
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 0,
+      "move": "Poison Gas"
+    },
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 0,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 4,
+      "move": "Harden"
+    },
+    {
+      "level": 7,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 12,
+      "move": "Disable"
+    },
+    {
+      "level": 15,
+      "move": "Sludge"
+    },
+    {
+      "level": 18,
+      "move": "Mud Bomb"
+    },
+    {
+      "level": 21,
+      "move": "Minimize"
+    },
+    {
+      "level": 26,
+      "move": "Fling"
+    },
+    {
+      "level": 29,
+      "move": "Sludge Bomb"
+    },
+    {
+      "level": 32,
+      "move": "Sludge Wave"
+    },
+    {
+      "level": 37,
+      "move": "Screech"
+    },
+    {
+      "level": 38,
+      "move": "Venom Drench"
+    },
+    {
+      "level": 40,
+      "move": "Gunk Shot"
+    },
+    {
+      "level": 46,
+      "move": "Acid Armor"
+    },
+    {
+      "level": 52,
+      "move": "Belch"
+    },
+    {
+      "level": 57,
+      "move": "Memento"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Acid Spray"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Acid Spray"
+    },
+    {
+      "parent": "Eelektrik",
+      "move": "Acid Spray"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Curse"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Curse"
+    },
+    {
+      "parent": "Banette",
+      "move": "Curse"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Curse"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Curse"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Curse"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Haze"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Haze"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gallade",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Lick"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Lick"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Lick"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Shadow Punch"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Shadow Punch"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Shadow Punch"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Shadow Punch"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Banette",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Swallow"
+    }
+  ],
+  "evolution_from": "Grimer",
+  "alola_id": 51,
+  "categories": {
+    "en": "Sludge Pokémon",
+    "de": "Schlamm"
+  },
+  "kanto_id": 89,
+  "johto_id": 118,
+  "hoenn_id": 112,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+      "de": "Der Schleim dieses Pokémon ist so toxisch, dass selbst seine Fußspuren Gift enthalten."
+    },
+    "Blue": {
+      "en": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+      "de": "Der Schleim dieses Pokémon ist so toxisch, dass selbst seine Fußspuren Gift enthalten."
+    },
+    "Yellow": {
+      "en": "Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell.",
+      "de": "Dieses Pokémon verbreitet einen so erbärmlichen Gestank, dass es sich selbst nicht riechen kann."
+    },
+    "Gold": {
+      "en": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+      "de": "Sie treffen sich an stinkenden Orten, an denen der Schleim sich türmt. Dies merkt man am Gestank."
+    },
+    "Silver": {
+      "en": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
+      "de": "Sein Körper besteht aus Gift. Eine zufällige Berührung reicht aus, um fiebrig im Bett zu liegen."
+    },
+    "Crystal": {
+      "en": "As it moves, a very strong poison leaks from it, making the ground there barren for three years.",
+      "de": "Bei jeder Bewegung tropft Gift aus ihm heraus auf den Boden, der dadurch für drei Jahre verseucht ist."
+    },
+    "Ruby": {
+      "en": "From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid.",
+      "de": "Sleimok scheidet eine widerlich stinkende Substanz aus. Ein einziger Tropfen seiner Körpersubstanz reicht aus, um ein Gewässer zu verseuchen."
+    },
+    "Sapphire": {
+      "en": "This Pokémon's favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.",
+      "de": "Sleimoks Lieblingsspeise ist alles, was widerlich verschmutzt ist. In dreckigen Städten, in denen sich Menschen nichts dabei denken, wenn sie Müll auf die Straße werfen, lassen sich diese POKéMON mit Vorliebe in Scharen nieder."
+    },
+    "Emerald": {
+      "en": "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making Muk reek like putrid kitchen garbage.",
+      "de": "Es liebt warme und feuchte Areale. Im Som mer verdichten sich die giftigen Sub stanzen in SLEIMOKs Körper und es entsteht ein ekliger Küchenabfallgestank."
+    },
+    "FireRed": {
+      "en": "It is usually undetectable because it blends in with the ground. Touching it can cause terrible poisoning.",
+      "de": "Normalerweise kann man es nicht aufspüren, da es mit dem Untergrund verschmilzt. Berührt man es, kann das zu heftigen Vergiftungen führen."
+    },
+    "LeafGreen": {
+      "en": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+      "de": "Der Schleim dieses Pokémon ist so toxisch, dass selbst seine Schleimspuren Gift enthalten."
+    },
+    "Diamond": {
+      "en": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+      "de": "Sein Körper sondert eine giftige Substanz ab, die bei Kontakt Pflanzen und Bäume vernichtet."
+    },
+    "Pearl": {
+      "en": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+      "de": "Sein Körper sondert eine giftige Substanz ab, die bei Kontakt Pflanzen und Bäume vernichtet."
+    },
+    "Platinum": {
+      "en": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+      "de": "Sein Körper sondert eine giftige Substanz ab, die bei Kontakt Pflanzen und Bäume vernichtet."
+    },
+    "HeartGold": {
+      "en": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+      "de": "Sein Körper sondert eine giftige Substanz ab, die bei Kontakt Pflanzen und Bäume vernichtet."
+    },
+    "SoulSilver": {
+      "en": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
+      "de": "Sein Körper sondert eine giftige Substanz ab, die bei Kontakt Pflanzen und Bäume vernichtet."
+    },
+    "Black": {
+      "en": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+      "de": "Sein Körper sondert eine giftige Substanz ab, die bei Kontakt Pflanzen und Bäume vernichtet."
+    },
+    "White": {
+      "en": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+      "de": "Sein Körper sondert eine giftige Substanz ab, die bei Kontakt Pflanzen und Bäume vernichtet."
+    },
+    "Black 2": {
+      "en": "It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by.",
+      "de": "Ihr Gestank ist unerträglich. Das starke Gift, aus dem ihr Körper besteht, macht jeder Pflanze in ihrem Weg den Garaus."
+    },
+    "White 2": {
+      "en": "It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by.",
+      "de": "Ihr Gestank ist unerträglich. Das starke Gift, aus dem ihr Körper besteht, macht jeder Pflanze in ihrem Weg den Garaus."
+    },
+    "X": {
+      "en": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+      "de": "Sie treffen sich an stinkenden Orten, an denen der Schleim sich türmt. Dies merkt man am Gestank."
+    },
+    "Y": {
+      "en": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+      "de": "Sein Körper sondert eine giftige Substanz ab, die bei Kontakt Pflanzen und Bäume vernichtet."
+    },
+    "Omega Ruby": {
+      "en": "From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid.",
+      "de": "Sleimok scheidet eine widerlich stinkende Substanz aus. Ein einziger Tropfen dieser Substanz reicht aus, um ein Gewässer zu verseuchen."
+    },
+    "Alpha Sapphire": {
+      "en": "This Pokémon's favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.",
+      "de": "Sleimoks Lieblingsspeise ist alles, was widerlich verschmutzt ist. In dreckigen Städten, in denen sich Menschen nichts dabei denken, wenn sie Müll auf die Straße werfen, lassen sich diese Pokémon mit Vorliebe in Scharen nieder."
+    },
+    "Sun": {
+      "en": "The stench it gives off will make your nose scrunch up. Still, there are Muk fans who think that's a good thing.",
+      "de": "Es sondert einen widerlichen Gestank ab. In Fankreisen wird jedoch ausgerechnet diese Eigenschaft besonders geschätzt."
+    },
+    "Moon": {
+      "en": "After recent environmental improvements, this Pokémon is now hardly seen at all. People speculate that it may go extinct at some point.",
+      "de": "Es wird immer seltener gesehen, da zunehmend mehr Wert auf Umweltschutz gelegt wird. Man vermutet, dass es irgendwann ganz ausstirbt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      1,
+      5
+    ],
+    "power": [
+      4,
+      4
+    ],
+    "stamina": [
+      5,
+      5
+    ],
+    "skill": [
+      1,
+      5
+    ],
+    "jump": [
+      2,
+      5
+    ]
+  }
+}

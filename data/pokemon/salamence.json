@@ -1,0 +1,792 @@
+{
+  "names": {
+    "fr": "Drattak",
+    "de": "Brutalanda",
+    "it": "Salamence",
+    "en": "Salamence"
+  },
+  "national_id": 373,
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate"
+    },
+    {
+      "name": "Moxie",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Dragon"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "226.2 lbs.",
+  "weight_eu": "102.6 kg",
+  "base_exp_yield": 270,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 95,
+    "atk": 135,
+    "def": 80,
+    "sp_atk": 110,
+    "sp_def": 80,
+    "speed": 100
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 0,
+      "move": "Dragon Tail"
+    },
+    {
+      "level": 0,
+      "move": "Fire Fang"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Fang"
+    },
+    {
+      "level": 0,
+      "move": "Rage"
+    },
+    {
+      "level": 0,
+      "move": "Ember"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Bite"
+    },
+    {
+      "level": 0,
+      "move": "Headbutt"
+    },
+    {
+      "level": 4,
+      "move": "Ember"
+    },
+    {
+      "level": 7,
+      "move": "Leer"
+    },
+    {
+      "level": 10,
+      "move": "Bite"
+    },
+    {
+      "level": 13,
+      "move": "Dragon Breath"
+    },
+    {
+      "level": 17,
+      "move": "Headbutt"
+    },
+    {
+      "level": 21,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 25,
+      "move": "Crunch"
+    },
+    {
+      "level": 29,
+      "move": "Dragon Claw"
+    },
+    {
+      "level": 30,
+      "move": "Protect"
+    },
+    {
+      "level": 35,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 42,
+      "move": "Scary Face"
+    },
+    {
+      "level": 49,
+      "move": "Flamethrower"
+    },
+    {
+      "level": 50,
+      "move": "Fly"
+    },
+    {
+      "level": 63,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Charmander",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Charmeleon",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Charizard",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Charmander",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Charmeleon",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Charizard",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Gible",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Gabite",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Rage"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gible",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gabite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Axew",
+      "move": "Endure"
+    },
+    {
+      "parent": "Charmander",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Charmeleon",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Charizard",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Twister"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Twister"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Twister"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Twister"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Twister"
+    }
+  ],
+  "evolution_from": "Shelgon",
+  "alola_id": 119,
+  "categories": {
+    "en": "Dragon Pokémon",
+    "de": "Drache"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 198,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 16,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Aerilate",
+      "mega_stone": "Salamencite",
+      "height_us": "5'11\"",
+      "height_eu": "1.8 m",
+      "weight_us": "248.2 lbs.",
+      "weight_eu": "112.6 kg",
+      "base_stats": {
+        "hp": 95,
+        "atk": 145,
+        "def": 130,
+        "sp_atk": 120,
+        "sp_def": 90,
+        "speed": 120
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Salamence came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this Pokémon's cells, causing it to sprout its magnificent wings.",
+      "de": "Brutalanda träumte sehr lange davon, dass ihm Flügel wachsen mögen. Dieser sehnliche Wunsch hat wohl eine plötzliche Mutation in den Zellen dieses Pokémon hervorgerufen, so dass ihm plötzlich prächtige Flügel wuchsen."
+    },
+    "Sapphire": {
+      "en": "By evolving into Salamence, this Pokémon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.",
+      "de": "Indem es sich in Brutalanda verwandelt, setzt dieses Pokémon seinen lang gehegten Traum von Flügeln um. Um seine Freude zu zeigen, fliegt es durch die Luft und dreht sich. Dabei verspuckt es Flammen aus seinem Mund."
+    },
+    "Emerald": {
+      "en": "After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.",
+      "de": "Nach vielen Jahren mutierte plötzlich seine Zellstruktur und es wuchsen ihm Flügel. Wenn es wütend ist, kann es nicht mehr klar denken und flippt aus."
+    },
+    "FireRed": {
+      "en": "It becomes uncontrollable if enraged. It destroys everything with shredding claws and fire.",
+      "de": "Wenn es wütend ist, gerät es außer Kontrolle. Es zerstört alles mit seinen Klauen und mit Feuer."
+    },
+    "LeafGreen": {
+      "en": "It becomes uncontrollable if enraged. It destroys everything with shredding claws and fire.",
+      "de": "Wenn es wütend ist, gerät es außer Kontrolle. Es zerstört alles mit seinen Klauen und mit Feuer."
+    },
+    "Diamond": {
+      "en": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+      "de": "Seine Zellstruktur änderte sich, es wuchsen ihm Flügel, da es immer davon träumte, fliegen zu können."
+    },
+    "Pearl": {
+      "en": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+      "de": "Seine Zellstruktur änderte sich, es wuchsen ihm Flügel, da es immer davon träumte, fliegen zu können."
+    },
+    "Platinum": {
+      "en": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+      "de": "Seine Zellstruktur änderte sich, es wuchsen ihm Flügel, da es immer davon träumte, fliegen zu können."
+    },
+    "HeartGold": {
+      "en": "It's uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
+      "de": "Seine Zellstruktur änderte sich, es wuchsen ihm Flügel, da es immer davon träumte, fliegen zu können."
+    },
+    "SoulSilver": {
+      "en": "It's uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
+      "de": "Seine Zellstruktur änderte sich, es wuchsen ihm Flügel, da es immer davon träumte, fliegen zu können."
+    },
+    "Black": {
+      "en": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+      "de": "Seine Zellstruktur änderte sich, es wuchsen ihm Flügel, da es immer davon träumte, fliegen zu können."
+    },
+    "White": {
+      "en": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+      "de": "Seine Zellstruktur änderte sich, es wuchsen ihm Flügel, da es immer davon träumte, fliegen zu können."
+    },
+    "Black 2": {
+      "en": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+      "de": "Seine Zellstruktur änderte sich, es wuchsen ihm Flügel, da es immer davon träumte, fliegen zu können."
+    },
+    "White 2": {
+      "en": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+      "de": "Seine Zellstruktur änderte sich, es wuchsen ihm Flügel, da es immer davon träumte, fliegen zu können."
+    },
+    "X": {
+      "en": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.",
+      "de": "Wenn es wütend ist, gerät es außer Kontrolle. Es zerstört alles mit seinen Klauen und mit Feuer."
+    },
+    "Y": {
+      "en": "It's uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
+      "de": "Ist es einmal wütend, flippt es aus. Es fliegt über das Land und spuckt Feuer, das alles verbrennt."
+    },
+    "Omega Ruby": {
+      "en": "Salamence came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this Pokémon’s cells, causing it to sprout its magnificent wings.",
+      "de": "Es träumte sehr lange davon, dass ihm Flügel wachsen mögen. Dieser sehnliche Wunsch hat wohl eine plötzliche Mutation in den Zellen dieses Pokémon hervorgerufen, sodass ihm plötzlich prächtige Flügel wuchsen."
+    },
+    "Alpha Sapphire": {
+      "en": "By evolving into Salamence, this Pokémon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.",
+      "de": "Indem es sich zu Brutalanda entwickelt, setzt dieses Pokémon seinen lang gehegten Traum von Flügeln um. Um seine Freude zu zeigen, fliegt es durch die Luft und dreht sich. Dabei spuckt es Flammen aus seinem Mund."
+    },
+    "Sun": {
+      "en": "When angered, it loses all sense of itself and destroys everything around it. The destruction will continue until Salamence has tired itself out.",
+      "de": "Wenn es wütend ist, kann es nicht mehr klar denken und zerstört alles um sich herum. Das tut es bis zur völligen Erschöpfung."
+    },
+    "Moon": {
+      "en": "It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up the fields it passes over.",
+      "de": "Nun, da ihm Flügel gewachsen sind, zieht es seine Kreise am Himmel. Vor Freude spuckt es Flammen und hinterlässt eine Brandwüste."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      5,
+      5
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

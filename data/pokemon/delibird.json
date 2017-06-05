@@ -1,0 +1,430 @@
+{
+  "names": {
+    "fr": "Cadoizo",
+    "de": "Botogel",
+    "it": "Delibird",
+    "en": "Delibird"
+  },
+  "national_id": 225,
+  "types": [
+    "Ice",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Vital Spirit"
+    },
+    {
+      "name": "Insomnia",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 1",
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "35.3 lbs.",
+  "weight_eu": "16.0 kg",
+  "base_exp_yield": 116,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "atk": 55,
+    "def": 45,
+    "sp_atk": 65,
+    "sp_def": 45,
+    "speed": 75
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Present"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM79",
+      "move": "Frost Breath"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Vaporeon",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Bestow"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Bestow"
+    },
+    {
+      "parent": "Inkay",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Freeze-Dry"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Ice Ball"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Ice Ball"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Ice Ball"
+    },
+    {
+      "parent": "Seel",
+      "move": "Ice Shard"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Ice Shard"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Ice Shard"
+    },
+    {
+      "parent": "Sneasel",
+      "move": "Ice Shard"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Ice Shard"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Ice Shard"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Sandshrew",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Drilbur",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Excadrill",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Spikes"
+    }
+  ],
+  "alola_id": 81,
+  "categories": {
+    "en": "Delivery Pokémon",
+    "de": "Lieferant"
+  },
+  "kanto_id": null,
+  "johto_id": 194,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 90,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+      "de": "Es trägt immer Lebensmittel bei sich. Man sagt, dass Verschollene nur wegen ihm überlebten."
+    },
+    "Silver": {
+      "en": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+      "de": "Sein Nest baut es an scharfkantigen Felsklippen. Es ist den ganzen Tag auf Futtersuche für seine Jungen."
+    },
+    "Crystal": {
+      "en": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.",
+      "de": "Es trägt immer Lebensmittel bei sich. Wird es attackiert, wirft es sie nach dem Angreifer."
+    },
+    "Ruby": {
+      "en": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these Pokémon sharing its food.",
+      "de": "Botogel sammelt seine Nahrung in seinem Schweif. Es gab einmal einen berühmten Entdecker, der es dank eines Botogels geschafft hat, einen der höchsten Berge der Welt zu besteigen. Es hatte seine Nahrung mit ihm geteilt."
+    },
+    "Sapphire": {
+      "en": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these Pokémon sharing its food.",
+      "de": "Botogel sammelt seine Nahrung in seinem Schweif. Es gab einmal einen berühmten Entdecker, der es dank eines Botogel geschafft hat, einen der höchsten Berge der Welt zu besteigen. Es hat seine Nahrung mit ihm geteilt."
+    },
+    "Emerald": {
+      "en": "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a Delibird sharing its food.",
+      "de": "BOTOGEL sammelt seine Nahrung im Schweif. Ein Entdecker bestieg einst dank eines BOTOGELs, das seine Nahrung mit ihm teilte, einen der höchsten Berge der Welt."
+    },
+    "FireRed": {
+      "en": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+      "de": "Sein Nest baut es an scharfkantigen Felsklippen. Es ist den ganzen Tag auf Futtersuche für seine Jungen."
+    },
+    "LeafGreen": {
+      "en": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+      "de": "Es trägt immer Lebensmittel bei sich. Man sagt, dass Verschollene nur wegen ihm überlebten."
+    },
+    "Diamond": {
+      "en": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+      "de": "Im eingerollten Schweif transpor- tiert es Futter, das es mit denen teilt, die sich verlaufen haben."
+    },
+    "Pearl": {
+      "en": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+      "de": "Im eingerollten Schweif transpor- tiert es Futter, das es mit denen teilt, die sich verlaufen haben."
+    },
+    "Platinum": {
+      "en": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+      "de": "Im eingerollten Schweif transportiert es Futter, das es mit denen teilt, die sich verlaufen haben."
+    },
+    "HeartGold": {
+      "en": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+      "de": "Im eingerollten Schweif transpor- tiert es Futter, das es mit denen teilt, die sich verlaufen haben."
+    },
+    "SoulSilver": {
+      "en": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+      "de": "Im eingerollten Schweif transpor- tiert es Futter, das es mit denen teilt, die sich verlaufen haben."
+    },
+    "Black": {
+      "en": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+      "de": "Im eingerollten Schweif transportiert es Futter, das es mit denen teilt, die sich verlaufen haben."
+    },
+    "White": {
+      "en": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+      "de": "Im eingerollten Schweif transportiert es Futter, das es mit denen teilt, die sich verlaufen haben."
+    },
+    "Black 2": {
+      "en": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
+      "de": "Es trägt den ganzen Tag Essen mit sich herum, das es mit Menschen teilt, die in den Bergen feststecken."
+    },
+    "White 2": {
+      "en": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
+      "de": "Es trägt den ganzen Tag Essen mit sich herum, das es mit Menschen teilt, die in den Bergen feststecken."
+    },
+    "X": {
+      "en": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+      "de": "Im eingerollten Schweif transportiert es Futter, das es mit denen teilt, die sich verlaufen haben."
+    },
+    "Y": {
+      "en": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
+      "de": "Es trägt den ganzen Tag Essen mit sich herum, das es mit Menschen teilt, die in den Bergen feststecken."
+    },
+    "Omega Ruby": {
+      "en": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.",
+      "de": "Botogel sammelt seine Nahrung in seinem Schweif. Es gab einmal einen berühmten Entdecker, der es dank eines Botogel geschafft hat, einen der höchsten Berge der Welt zu besteigen. Es hat seine Nahrung mit ihm geteilt."
+    },
+    "Alpha Sapphire": {
+      "en": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.",
+      "de": "Botogel sammelt seine Nahrung in seinem Schweif. Es gab einmal einen berühmten Entdecker, der es dank eines Botogel geschafft hat, einen der höchsten Berge der Welt zu besteigen. Es hat seine Nahrung mit ihm geteilt."
+    },
+    "Sun": {
+      "en": "Although it naturally prefers colder locales, Delibird in Alola seem able to withstand the heat to a certain extent.",
+      "de": "Sie bevorzugen eigentlich kühle Gegenden, aber die Botogel Alolas können bis zu einem gewissen Grad auch heißes Klima ertragen."
+    },
+    "Moon": {
+      "en": "It has a generous habit of sharing its food with people and Pokémon, so it's always scrounging around for more food.",
+      "de": "Es hat die Angewohnheit, seine eigene Nahrung mit Menschen und Pokémon zu teilen, und ist deshalb stehts auf Futtersuche."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      3,
+      3
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

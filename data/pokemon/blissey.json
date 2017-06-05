@@ -1,0 +1,611 @@
+{
+  "names": {
+    "fr": "Leuphorie",
+    "de": "Heiteira",
+    "it": "Blissey",
+    "en": "Blissey"
+  },
+  "national_id": 242,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    {
+      "name": "Natural Cure"
+    },
+    {
+      "name": "Healer",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "female": 100.0
+  },
+  "catch_rate": 30,
+  "egg_groups": [
+    "Fairy"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "103.2 lbs.",
+  "weight_eu": "46.8 kg",
+  "base_exp_yield": 608,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 3,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 140,
+  "base_stats": {
+    "hp": 255,
+    "atk": 10,
+    "def": 10,
+    "sp_atk": 75,
+    "sp_def": 135,
+    "speed": 55
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 0,
+      "move": "Defense Curl"
+    },
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 5,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 9,
+      "move": "Refresh"
+    },
+    {
+      "level": 12,
+      "move": "Double Slap"
+    },
+    {
+      "level": 16,
+      "move": "Soft-Boiled"
+    },
+    {
+      "level": 20,
+      "move": "Bestow"
+    },
+    {
+      "level": 23,
+      "move": "Minimize"
+    },
+    {
+      "level": 27,
+      "move": "Take Down"
+    },
+    {
+      "level": 31,
+      "move": "Sing"
+    },
+    {
+      "level": 34,
+      "move": "Fling"
+    },
+    {
+      "level": 38,
+      "move": "Heal Pulse"
+    },
+    {
+      "level": 42,
+      "move": "Egg Bomb"
+    },
+    {
+      "level": 46,
+      "move": "Light Screen"
+    },
+    {
+      "level": 50,
+      "move": "Healing Wish"
+    },
+    {
+      "level": 54,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Counter"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Endure"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Gravity"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Heal Bell"
+    },
+    {
+      "parent": "Marill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Minun",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Togekiss",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Audino",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Metronome"
+    },
+    {
+      "parent": "Clefable",
+      "move": "Metronome"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Metronome"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Present"
+    },
+    {
+      "parent": "Marill",
+      "move": "Present"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Present"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Seismic Toss"
+    }
+  ],
+  "evolution_from": "Chansey",
+  "alola_id": 34,
+  "categories": {
+    "en": "Happiness Pokémon",
+    "de": "Freude"
+  },
+  "kanto_id": null,
+  "johto_id": 223,
+  "hoenn_id": null,
+  "sinnoh_id": 98,
+  "unova_id": null,
+  "kalos_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Anyone who takes even one bite of Blissey's egg becomes unfailingly caring and pleasant to everyone.",
+      "de": "Jeder, der einen Bissen von dem Ei, das Heiteira hält, nimmt, wird gegenüber anderen sorgsam und höflich."
+    },
+    "Silver": {
+      "en": "It has a very compassionate nature. If it sees a sick Pokémon, it will nurse the sufferer back to health.",
+      "de": "Es ist sehr mitfühlend. Wenn es ein krankes Pokémon sieht, pflegt es dieses wieder gesund."
+    },
+    "Crystal": {
+      "en": "Biting into one of the delicious eggs that Blissey provides will make everyone around smile with joy.",
+      "de": "Beißt man in eines der leckeren Eier von Heiteira, wird jeder Mensch in der Nähe glücklich und froh."
+    },
+    "Ruby": {
+      "en": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
+      "de": "Heiteira nimmt mit seinem flauschigen Fell Traurigkeit wahr. Es hastet zu einer traurigen Person, egal, wie weit diese entfernt ist und teilt ein Glücks-Ei mit ihr, um sie zum Lächeln zu bringen."
+    },
+    "Sapphire": {
+      "en": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
+      "de": "Heiteira nimmt mit seinem flauschigen Fell Traurigkeit wahr. Es hastet zu einer traurigen Person, egal, wie weit diese entfernt ist und teilt ein Glücks-Ei mit ihr, um sie zum Lächeln zu bringen."
+    },
+    "Emerald": {
+      "en": "If it senses sadness with its fluffy fur, a Blissey will rush over to the sad person, however far away, to share an egg of happiness that brings a smile to any face.",
+      "de": "HEITEIRA nimmt mit seinem flauschigen Fell Traurigkeit wahr. Es hastet zu einer traurigen Person und teilt ein GLÜCKS-EI mit ihr, um sie zum Lächeln zu bringen."
+    },
+    "FireRed": {
+      "en": "It has a very compassionate nature. If it sees a sick Pokémon, it will nurse the sufferer back to health.",
+      "de": "Es ist sehr mitfühlend. Wenn es ein krankes Pokémon sieht, pflegt es dieses wieder gesund."
+    },
+    "LeafGreen": {
+      "en": "Anyone who takes even one bite of Blissey's egg becomes unfailingly caring and pleasant to everyone.",
+      "de": "Jeder, der einen Bissen von dem Ei, das Heiteira hält, nimmt, wird gegenüber anderen sorgsam und höflich."
+    },
+    "Diamond": {
+      "en": "This kindhearted Pokémon nurses sick Pokémon back to health. It senses feelings of sadness.",
+      "de": "Dieses gutherzige PKMN pflegt kranke PKMN gesund. Es spürt die Traurigkeit anderer Lebewesen."
+    },
+    "Pearl": {
+      "en": "It is a Pokémon that delivers happiness. Eating its egg is said to make one kind to everyone.",
+      "de": "Dieses PKMN bringt das Glück. Isst man sein Ei, so soll man freundlich zu allen werden."
+    },
+    "Platinum": {
+      "en": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+      "de": "Eier, die es legt, stecken voller Fröhlichkeit. Schon ein Bissen erzeugt ein breites Lächeln."
+    },
+    "HeartGold": {
+      "en": "Anyone who takes even one bite of Blissey's egg becomes unfailingly caring and pleasant to everyone.",
+      "de": "Dieses gutherzige PKMN pflegt kranke PKMN gesund. Es spürt die Traurigkeit anderer Lebewesen."
+    },
+    "SoulSilver": {
+      "en": "It has a very compassionate nature. If it sees a sick Pokémon, it will nurse the sufferer back to health.",
+      "de": "Dieses gutherzige PKMN pflegt kranke PKMN gesund. Es spürt die Traurigkeit anderer Lebewesen."
+    },
+    "Black": {
+      "en": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+      "de": "Eier, die es legt, stecken voller Fröhlichkeit. Schon ein Bissen erzeugt ein breites Lächeln."
+    },
+    "White": {
+      "en": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+      "de": "Eier, die es legt, stecken voller Fröhlichkeit. Schon ein Bissen erzeugt ein breites Lächeln."
+    },
+    "Black 2": {
+      "en": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+      "de": "Eier, die es legt, stecken voller Fröhlichkeit. Schon ein Bissen erzeugt ein breites Lächeln."
+    },
+    "White 2": {
+      "en": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+      "de": "Eier, die es legt, stecken voller Fröhlichkeit. Schon ein Bissen erzeugt ein breites Lächeln."
+    },
+    "X": {
+      "en": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+      "de": "Eier, die es legt, stecken voller Fröhlichkeit. Schon ein Bissen erzeugt ein breites Lächeln."
+    },
+    "Y": {
+      "en": "This kindhearted Pokémon nurses sick Pokémon back to health. It senses feelings of sadness.",
+      "de": "Dieses gutherzige Pokémon pflegt kranke Pokémon gesund. Es spürt die Traurigkeit anderer Lebewesen."
+    },
+    "Omega Ruby": {
+      "en": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face.",
+      "de": "Heiteira nimmt mit seinem flauschigen Fell Traurigkeit wahr. Es hastet zu einer traurigen Person, egal, wie weit diese entfernt ist und teilt ein Glücks-Ei mit ihr, um sie zum Lächeln zu bringen."
+    },
+    "Alpha Sapphire": {
+      "en": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face.",
+      "de": "Heiteira nimmt mit seinem flauschigen Fell Traurigkeit wahr. Es hastet zu einer traurigen Person, egal, wie weit diese entfernt ist und teilt ein Glücks-Ei mit ihr, um sie zum Lächeln zu bringen."
+    },
+    "Sun": {
+      "en": "Even the most ferocious Pokémon become calm when they eat Blissey's egg, which is said to be filled with happiness.",
+      "de": "Ein Bissen von seinem Glücks-Ei, das voller Fröhlichkeit steckt, lässt selbst das wildeste Pokémon ganz sanft und ruhig werden."
+    },
+    "Moon": {
+      "en": "Its fluffy fur coat acts as a sensor, enabling it to read the feelings of people and Pokémon.",
+      "de": "Sein flauschiges Fell ist wie ein Sensor, mit dem es die Gefühle von Pokémon un Menschen wahrnehmen kann."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      3
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      5,
+      5
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

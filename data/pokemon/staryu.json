@@ -1,0 +1,416 @@
+{
+  "names": {
+    "fr": "Stari",
+    "de": "Sterndu",
+    "it": "Staryu",
+    "en": "Staryu"
+  },
+  "national_id": 120,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Illuminate"
+    },
+    {
+      "name": "Analytic",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 225,
+  "egg_groups": [
+    "Water 3"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'07\"",
+  "height_eu": "0.8 m",
+  "weight_us": "76.1 lbs.",
+  "weight_eu": "34.5 kg",
+  "base_exp_yield": 68,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 30,
+    "atk": 45,
+    "def": 55,
+    "sp_atk": 70,
+    "sp_def": 55,
+    "speed": 85
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 4,
+      "move": "Water Gun"
+    },
+    {
+      "level": 7,
+      "move": "Rapid Spin"
+    },
+    {
+      "level": 10,
+      "move": "Recover"
+    },
+    {
+      "level": 13,
+      "move": "Psywave"
+    },
+    {
+      "level": 16,
+      "move": "Swift"
+    },
+    {
+      "level": 18,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 22,
+      "move": "Camouflage"
+    },
+    {
+      "level": 24,
+      "move": "Gyro Ball"
+    },
+    {
+      "level": 28,
+      "move": "Brine"
+    },
+    {
+      "level": 31,
+      "move": "Minimize"
+    },
+    {
+      "level": 35,
+      "move": "Reflect Type"
+    },
+    {
+      "level": 37,
+      "move": "Power Gem"
+    },
+    {
+      "level": 40,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 42,
+      "move": "Psychic"
+    },
+    {
+      "level": 46,
+      "move": "Light Screen"
+    },
+    {
+      "level": 49,
+      "move": "Cosmic Power"
+    },
+    {
+      "level": 53,
+      "move": "Hydro Pump"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Starmie",
+      "item": "Water Stone"
+    }
+  ],
+  "alola_id": 184,
+  "categories": {
+    "en": "Star Shape Pokémon",
+    "de": "Sternform"
+  },
+  "kanto_id": 120,
+  "johto_id": 169,
+  "hoenn_id": 148,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 34,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
+      "de": "Ein seltsames Pokémon, das seine Kräfte nach einem Kampf mühelos regeneriert."
+    },
+    "Blue": {
+      "en": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
+      "de": "Ein seltsames Pokémon, das seine Kräfte nach einem Kampf mühelos regeneriert."
+    },
+    "Yellow": {
+      "en": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.",
+      "de": "Solange Sterndus Kernstück unversehrt bleibt, verfügt es über exzellente Selbstheilungskräfte."
+    },
+    "Gold": {
+      "en": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat.",
+      "de": "Nachts blinkt die Mitte seines Körpers im selben Rhythmus wie das menschliche Herz."
+    },
+    "Silver": {
+      "en": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+      "de": "Auch wenn sein Körper nicht mehr intakt ist, kann es sich regenerieren, wenn der Kern aufleuchtet."
+    },
+    "Crystal": {
+      "en": "When the stars twinkle at night, it floats up from the sea floor, and its body's center core flickers.",
+      "de": "Leuchten die Sterne in der Nacht, verlässt es den Meeresgrund und der Kern in seinem Inneren blinkt."
+    },
+    "Ruby": {
+      "en": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
+      "de": "In Sterndus Körpermitte befindet sich ein hellrot leuchtendes Organ - sein Kern. Wenn du im Spätsommer an einen Strand gehst, sehen die leuchtenden Kerne dieser Pokémon aus wie Sterne."
+    },
+    "Sapphire": {
+      "en": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs.",
+      "de": "Sterndu kommuniziert mit den Sternen am Nachthimmel, indem es den roten Kern in seiner Körpermitte blinken lässt. Wenn Teile seines Körpers beschädigt wurden, stellt es die fehlenden Teile selber wieder her."
+    },
+    "Emerald": {
+      "en": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
+      "de": "Es versammelt sich mit seinen Artgenossen des Nachts. Wie die Sterne funkeln, so funkelt sein roter Kern. Abgetrennte Gliedmaßen wachsen nach."
+    },
+    "FireRed": {
+      "en": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+      "de": "Es taucht in großer Anzahl an Ufern auf. Nachts leuchtet der Kern in seiner Mitte rot auf."
+    },
+    "LeafGreen": {
+      "en": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
+      "de": "Ein seltsames Pokémon, das seine Kräfte nach einem Kampf mühelos regeneriert."
+    },
+    "Diamond": {
+      "en": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+      "de": "Wird sein Körper verletzt, kann es sich regenerieren, sofern der rote Kern intakt ist."
+    },
+    "Pearl": {
+      "en": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+      "de": "Wird sein Körper verletzt, kann es sich regenerieren, sofern der rote Kern intakt ist."
+    },
+    "Platinum": {
+      "en": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+      "de": "Wird sein Körper verletzt, kann es sich regenerieren, sofern der rote Kern intakt ist."
+    },
+    "HeartGold": {
+      "en": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat.",
+      "de": "Wird sein Körper verletzt, kann es sich regenerieren, sofern der rote Kern intakt ist."
+    },
+    "SoulSilver": {
+      "en": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+      "de": "Wird sein Körper verletzt, kann es sich regenerieren, sofern der rote Kern intakt ist."
+    },
+    "Black": {
+      "en": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+      "de": "In der Körpermitte befindet sich ein roter Kern, der mysteriöse Radiowellen in die Nacht sendet."
+    },
+    "White": {
+      "en": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+      "de": "In der Körpermitte befindet sich ein roter Kern, der mysteriöse Radiowellen in die Nacht sendet."
+    },
+    "Black 2": {
+      "en": "As long as its red core remains, it can regenerate its body instantly, even if it's torn apart.",
+      "de": "Sofern der rote Kern intakt ist, kann es sich augenblicklich selbst regenerieren, wenn sein Körper verletzt wird."
+    },
+    "White 2": {
+      "en": "As long as its red core remains, it can regenerate its body instantly, even if it's torn apart.",
+      "de": "Sofern der rote Kern intakt ist, kann es sich augenblicklich selbst regenerieren, wenn sein Körper verletzt wird."
+    },
+    "X": {
+      "en": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+      "de": "Auch wenn sein Körper nicht mehr intakt ist, kann es sich regenerieren, wenn der Kern leuchtet."
+    },
+    "Y": {
+      "en": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+      "de": "Es taucht in großer Anzahl an Ufern auf. Nachts leuchtet der Kern in seiner Mitte rot auf."
+    },
+    "Omega Ruby": {
+      "en": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
+      "de": "In Sterndus Körpermitte befindet sich ein hellrot leuchtendes Oragn - sein Kern. Wenn du im Spätsommer an einen Strand gehst, sehen die leuchtenden Kerne dieser Pokémon aus wie Sterne."
+    },
+    "Alpha Sapphire": {
+      "en": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs.",
+      "de": "Sterndu kommuniziert mit den Sternen am Nachthimmel, indem es den roten Kern in seiner Körpermitte blinken lässt. Wenn Teile seines Körpers beschädigt wurden, stellt es die fehlenden Teile selber wieder her."
+    },
+    "Sun": {
+      "en": "Large numbers of these Pokémon make their home at the seaside. At night, a strange red glow radiates from the center of their bodies.",
+      "de": "Es taucht in großer Zahl an Ufern auf. Nachts erstrahlt der Kern in seiner Mitte in einem unheimlichen Rot."
+    },
+    "Moon": {
+      "en": "This Pokémon gets nibbled on by Lumineon and others. Thanks to its red core, it regenerates fast, so it's unconcerned by their snack attacks.",
+      "de": "Es wird ab und zu von Lumineon angeknabbert, aber solange es seinen roten Kern hat, kann es den abgebissenen Teil sofort wiederherstellen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      4,
+      5
+    ],
+    "power": [
+      1,
+      3
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

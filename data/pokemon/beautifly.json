@@ -1,0 +1,365 @@
+{
+  "names": {
+    "fr": "Charmillon",
+    "de": "Papinella",
+    "it": "Beautifly",
+    "en": "Beautifly"
+  },
+  "national_id": 267,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm"
+    },
+    {
+      "name": "Rivalry",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "62.6 lbs.",
+  "weight_eu": "28.4 kg",
+  "base_exp_yield": 173,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 3,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 70,
+    "def": 50,
+    "sp_atk": 90,
+    "sp_def": 50,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 0,
+      "move": "Absorb"
+    },
+    {
+      "level": 10,
+      "move": "Gust"
+    },
+    {
+      "level": 12,
+      "move": "Absorb"
+    },
+    {
+      "level": 15,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 17,
+      "move": "Morning Sun"
+    },
+    {
+      "level": 20,
+      "move": "Air Cutter"
+    },
+    {
+      "level": 22,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 25,
+      "move": "Silver Wind"
+    },
+    {
+      "level": 27,
+      "move": "Attract"
+    },
+    {
+      "level": 30,
+      "move": "Whirlwind"
+    },
+    {
+      "level": 32,
+      "move": "Giga Drain"
+    },
+    {
+      "level": 35,
+      "move": "Bug Buzz"
+    },
+    {
+      "level": 37,
+      "move": "Rage"
+    },
+    {
+      "level": 40,
+      "move": "Quiver Dance"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "evolution_from": "Silcoon",
+  "categories": {
+    "en": "Butterfly Pokémon",
+    "de": "Falter"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 16,
+  "sinnoh_id": 50,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Beautifly's favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",
+      "de": "Papinellas Lieblingsspeise ist Blütenstaub. Wenn du dieses Pokémon beobachten möchtest, musst du bloß einen Blumentopf vor ein geöffnetes Fenster stellen. Papinella wird sich diese Leckerei nicht entgehen lassen."
+    },
+    "Sapphire": {
+      "en": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pokémon rides the spring winds as it flits around gathering pollen.",
+      "de": "Papinella hat einen langen Rüssel, der hervorragend zum Sammeln von Blüten- pollen geeignet ist. Dieses Pokémon flattert im Frühlingswind herum und sammelt Blütenstaub."
+    },
+    "Emerald": {
+      "en": "Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.",
+      "de": "Seine Kennzeichen sind die bunt bemuster ten Flügel. PAPINELLA fliegt durch blumenübersäte Wiesen und sammelt Blütenstaub. Es greift brutal an."
+    },
+    "FireRed": {
+      "en": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth.",
+      "de": "Trotz seines eleganten Erscheinungsbildes, hat es ein aggressives Wesen. Es greift an, indem es mit seinem langen, dünnen Maul zustößt."
+    },
+    "LeafGreen": {
+      "en": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth.",
+      "de": "Trotz seines eleganten Erscheinungsbildes, hat es ein aggressives Wesen. Es greift an, indem es mit seinem langen, dünnen Maul zustößt."
+    },
+    "Diamond": {
+      "en": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids.",
+      "de": "Es besitzt ein aggressives Wesen. Es sticht seinen Rüssel in seine Beute und saugt sie aus."
+    },
+    "Pearl": {
+      "en": "When flower fields bloom, it flits around, collecting pollen. Despite its appearance, it is savage.",
+      "de": "Blühen die Blumen, sammelt es Pollen. Es sieht zwar nicht so aus, aber es ist aggressiv."
+    },
+    "Platinum": {
+      "en": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+      "de": "Stört man es, während es Pollen sucht, stößt es mit seinem langen dünnen Mund zu."
+    },
+    "HeartGold": {
+      "en": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
+      "de": "Es besitzt ein aggressives Wesen. Es sticht seinen Rüssel in seine Beute und saugt sie aus."
+    },
+    "SoulSilver": {
+      "en": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
+      "de": "Es besitzt ein aggressives Wesen. Es sticht seinen Rüssel in seine Beute und saugt sie aus."
+    },
+    "Black": {
+      "en": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+      "de": "Stört man es, während es Pollen sucht, stößt es mit seinem langen, dünnen Mund zu."
+    },
+    "White": {
+      "en": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+      "de": "Stört man es, während es Pollen sucht, stößt es mit seinem langen, dünnen Mund zu."
+    },
+    "Black 2": {
+      "en": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+      "de": "Stört man es, während es Pollen sucht, stößt es mit seinem langen, dünnen Mund zu."
+    },
+    "White 2": {
+      "en": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+      "de": "Stört man es, während es Pollen sucht, stößt es mit seinem langen, dünnen Mund zu."
+    },
+    "X": {
+      "en": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
+      "de": "Die bunten Flügel sind sein Markenzeichen. Mit seinem Rüssel saugt es süßen Honig aus Blumen."
+    },
+    "Y": {
+      "en": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids.",
+      "de": "Es besitzt ein aggressives Wesen. Es sticht seinen Rüssel in seine Beute und saugt sie aus."
+    },
+    "Omega Ruby": {
+      "en": "Beautifly's favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",
+      "de": "Papinellas Lieblingsspeise ist Blütenstaub. Wenn du dieses Pokémon beobachten möchtest, musst du bloß einen Blumentopf vor ein geöffnetes Fenster stellen. Papinella wird sich diese Leckerei nicht entgehen lassen."
+    },
+    "Alpha Sapphire": {
+      "en": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pokémon rides the spring winds as it flits around gathering pollen.",
+      "de": "Papinella hat einen langen Rüssel, der hervorragend zum Sammeln von Blütenpollen geeignet ist. Dieses Pokémon flattert im Frühlingswind herum und sammelt Blütenstaub."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      2,
+      4
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

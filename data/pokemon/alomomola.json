@@ -1,0 +1,421 @@
+{
+  "names": {
+    "fr": "Mamanbo",
+    "de": "Mamolida",
+    "it": "Alomomola",
+    "en": "Alomomola"
+  },
+  "national_id": 594,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Healer"
+    },
+    {
+      "name": "Regenerator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Water 1",
+    "Water 2"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "69.7 lbs.",
+  "weight_eu": "31.6 kg",
+  "base_exp_yield": 165,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 165,
+    "atk": 75,
+    "def": 80,
+    "sp_atk": 40,
+    "sp_def": 45,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 0,
+      "move": "Wide Guard"
+    },
+    {
+      "level": 0,
+      "move": "Healing Wish"
+    },
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 0,
+      "move": "Water Sport"
+    },
+    {
+      "level": 5,
+      "move": "Aqua Ring"
+    },
+    {
+      "level": 9,
+      "move": "Aqua Jet"
+    },
+    {
+      "level": 13,
+      "move": "Double Slap"
+    },
+    {
+      "level": 17,
+      "move": "Heal Pulse"
+    },
+    {
+      "level": 21,
+      "move": "Protect"
+    },
+    {
+      "level": 25,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 29,
+      "move": "Wake-Up Slap"
+    },
+    {
+      "level": 33,
+      "move": "Soak"
+    },
+    {
+      "level": 37,
+      "move": "Wish"
+    },
+    {
+      "level": 41,
+      "move": "Brine"
+    },
+    {
+      "level": 45,
+      "move": "Safeguard"
+    },
+    {
+      "level": 49,
+      "move": "Helping Hand"
+    },
+    {
+      "level": 53,
+      "move": "Wide Guard"
+    },
+    {
+      "level": 57,
+      "move": "Healing Wish"
+    },
+    {
+      "level": 61,
+      "move": "Hydro Pump"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Endure"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Endure"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Endure"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Mirror Coat"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mist"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Mist"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Mist"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Mist"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Refresh"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Refresh"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Tickle"
+    }
+  ],
+  "alola_id": 157,
+  "categories": {
+    "en": "Caring Pokémon",
+    "de": "Fürsorge"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": 100,
+  "kalos_id": 149,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The special membrane enveloping Alomomola has the ability to heal wounds.",
+      "de": "Die spezielle Schleimschicht, die seinen Körper umgibt, besitzt heilende Kräfte."
+    },
+    "White": {
+      "en": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+      "de": "Es treibt durch den Ozean. Findet es ein verletztes Pokémon, nimmt es dieses auf und trägt es zurück an Land."
+    },
+    "Black 2": {
+      "en": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+      "de": "Es umarmt verletzte und geschwächte Pokémon liebevoll mit seinen Flossen und heilt sie mit einem speziellen Schleim."
+    },
+    "White 2": {
+      "en": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+      "de": "Es umarmt verletzte und geschwächte Pokémon liebevoll mit seinen Flossen und heilt sie mit einem speziellen Schleim."
+    },
+    "X": {
+      "en": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+      "de": "Es treibt durch den Ozean. Findet es ein verletztes Pokémon, nimmt es dieses auf und trägt es zurück an Land."
+    },
+    "Y": {
+      "en": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+      "de": "Es umarmt verletzte und geschwächte Pokémon liebevoll mit seinen Flossen und heilt sie mit einem speziellen Schleim."
+    },
+    "Omega Ruby": {
+      "en": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+      "de": "Es umarmt verletzte und geschwächte Pokémon liebevoll mit seinen Flossen und heilt sie mit einem speziellen Schleim."
+    },
+    "Alpha Sapphire": {
+      "en": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+      "de": "Es umarmt verletzte und geschwächte Pokémon liebevoll mit seinen Flossen und heilt sie mit einem speziellen Schleim."
+    },
+    "Sun": {
+      "en": "It uses its special mucus to close the wounds of injured Pokémon. The reason for this behavior remains unknown.",
+      "de": "Es umarmt verletzte Pokémon und bedeckt ihre Wunden mit einem speziellen Schleim. Niemand weiß, warum es das tut."
+    },
+    "Moon": {
+      "en": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.",
+      "de": "Es treibt durch den Ozean. Um Mamolida versammeln sich stets viele Wasser-Pokémon."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

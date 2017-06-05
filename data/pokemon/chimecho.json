@@ -1,0 +1,612 @@
+{
+  "names": {
+    "fr": "Éoko",
+    "de": "Palimpalim",
+    "it": "Chimecho",
+    "en": "Chimecho"
+  },
+  "national_id": 358,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "2.2 lbs.",
+  "weight_eu": "1.0 kg",
+  "base_exp_yield": 149,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "atk": 50,
+    "def": 70,
+    "sp_atk": 95,
+    "sp_def": 80,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Healing Wish"
+    },
+    {
+      "level": 0,
+      "move": "Synchronoise"
+    },
+    {
+      "level": 0,
+      "move": "Wrap"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 4,
+      "move": "Growl"
+    },
+    {
+      "level": 7,
+      "move": "Astonish"
+    },
+    {
+      "level": 10,
+      "move": "Confusion"
+    },
+    {
+      "level": 13,
+      "move": "Yawn"
+    },
+    {
+      "level": 16,
+      "move": "Psywave"
+    },
+    {
+      "level": 19,
+      "move": "Take Down"
+    },
+    {
+      "level": 22,
+      "move": "Extrasensory"
+    },
+    {
+      "level": 27,
+      "move": "Heal Bell"
+    },
+    {
+      "level": 32,
+      "move": "Uproar"
+    },
+    {
+      "level": 37,
+      "move": "Safeguard"
+    },
+    {
+      "level": 42,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 47,
+      "move": "Heal Pulse"
+    },
+    {
+      "level": 52,
+      "move": "Synchronoise"
+    },
+    {
+      "level": 57,
+      "move": "Healing Wish"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Castform",
+      "move": "Cosmic Power"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Curse"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Curse"
+    },
+    {
+      "parent": "Banette",
+      "move": "Curse"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Curse"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Curse"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Curse"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Disable"
+    },
+    {
+      "parent": "Muk",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Recover"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Recover"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Recover"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Recover"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Recover"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Recover"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Recover"
+    },
+    {
+      "parent": "Frillish",
+      "move": "Recover"
+    },
+    {
+      "parent": "Jellicent",
+      "move": "Recover"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Gallade",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Wish"
+    }
+  ],
+  "evolution_from": "Chingling",
+  "categories": {
+    "en": "Wind Chime Pokémon",
+    "de": "Windspiel"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 158,
+  "sinnoh_id": 83,
+  "unova_id": null,
+  "kalos_id": 112,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
+      "de": "Palimpalims Schreie hallen durch seinen hohlen Körper. Wenn dieses Pokémon wütend wird, erzeugen seine Schreie Ultraschallwellen, die seine Feinde buchstäblich wegfegen können."
+    },
+    "Sapphire": {
+      "en": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them.",
+      "de": "Bei starkem Wind hängt sich Palimpalim an einen Ast oder an die Dachrinne eines Gebäudes, wobei es eine Saugkappe auf seinem Kopf benutzt. Das Pokémon pflückt mit seinem langen Schweif Beeren und verspeist sie."
+    },
+    "Emerald": {
+      "en": "They fly about very actively when the hot season arrives. They communicate among themselves using seven different and distinguishing cries.",
+      "de": "Wird es heiß, fliegen sie wild umher. Sie kommunizieren miteinander mit sieben unterschiedlichen Schreien."
+    },
+    "FireRed": {
+      "en": "It travels by riding on winds. It cleverly uses its long tail to pluck nuts and berries, which it loves to eat.",
+      "de": "Es reist mit dem Wind. Dabei setzt es geschickt seinen langen Schweif ein, um Nüsse und Beeren zu pflanzen, die es gerne frisst."
+    },
+    "LeafGreen": {
+      "en": "It travels by riding on winds. It cleverly uses its long tail to pluck nuts and berries, which it loves to eat.",
+      "de": "Es reist mit dem Wind. Dabei setzt es geschickt seinen langen Schweif ein, um Nüsse und Beeren zu pflanzen, die es gerne frisst."
+    },
+    "Diamond": {
+      "en": "To knock foes flying, it makes the air shudder with its cries. It converses using seven cries.",
+      "de": "Um die Gegner fortzuwehen, setzt es die Luft mit Schreien in Bewegung."
+    },
+    "Pearl": {
+      "en": "Emitting ultrasonic cries, it floats on winds to travel great distances.",
+      "de": "Es setzt Ultraschallwellen frei, während es sich vom Wind über große Distanzen tragen lässt."
+    },
+    "Platinum": {
+      "en": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+      "de": "Es ruft ein Echo in seinen Körper, das in Form wunderschöner Noten empordringt u. Gegner erschreckt."
+    },
+    "HeartGold": {
+      "en": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
+      "de": "Um die Gegner fortzuwehen, setzt es die Luft mit Schreien in Bewegung."
+    },
+    "SoulSilver": {
+      "en": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
+      "de": "Um die Gegner fortzuwehen, setzt es die Luft mit Schreien in Bewegung."
+    },
+    "Black": {
+      "en": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+      "de": "Es ruft ein Echo in seinen Körper, das in Form wunderschöner Noten empordringt und Gegner erschreckt."
+    },
+    "White": {
+      "en": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+      "de": "Es ruft ein Echo in seinen Körper, das in Form wunderschöner Noten empordringt und Gegner erschreckt."
+    },
+    "Black 2": {
+      "en": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+      "de": "Es ruft ein Echo in seinen Körper, das in Form wunderschöner Noten empordringt und Gegner erschreckt."
+    },
+    "White 2": {
+      "en": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+      "de": "Es ruft ein Echo in seinen Körper, das in Form wunderschöner Noten empordringt und Gegner erschreckt."
+    },
+    "X": {
+      "en": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
+      "de": "Mit seinem Saugnapf hängt es sich an Äste oder unter Vordächer. Es kennt sieben verschiedene Schreie."
+    },
+    "Y": {
+      "en": "Emitting ultrasonic cries, it floats on winds to travel great distances.",
+      "de": "Es setzt Ultraschallwellen frei, während es sich vom Wind über große Distanzen tragen lässt."
+    },
+    "Omega Ruby": {
+      "en": "Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
+      "de": "Palimpalims Schreie hallen durch seinen hohlen Körper. Wenn dieses Pokémon wütend wird, erzeugen seine Schreie Ultraschallwellen, die seine Feinde buchtstäblich wegfegen können."
+    },
+    "Alpha Sapphire": {
+      "en": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them.",
+      "de": "Bei starkem Wind hängt sich Palimpalim an einen Ast oder an die Dachrinne eines Gebäudes, wobei es eine Saugkappe auf seinem Kopf benutzt. Das Pokémon pflückt mit seinem langen Schweif Beeren und verspeist sie."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      5
+    ],
+    "power": [
+      2,
+      2
+    ],
+    "stamina": [
+      2,
+      2
+    ],
+    "skill": [
+      1,
+      2
+    ],
+    "jump": [
+      4,
+      5
+    ]
+  }
+}

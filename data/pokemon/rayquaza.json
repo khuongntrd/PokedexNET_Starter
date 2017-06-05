@@ -1,0 +1,469 @@
+{
+  "names": {
+    "fr": "Rayquaza",
+    "de": "Rayquaza",
+    "it": "Rayquaza",
+    "en": "Rayquaza"
+  },
+  "national_id": 384,
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Air Lock"
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 45,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    30855,
+    31109
+  ],
+  "height_us": "23'00\"",
+  "height_eu": "7.0 m",
+  "weight_us": "455.2 lbs.",
+  "weight_eu": "206.5 kg",
+  "base_exp_yield": 306,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 0,
+  "base_stats": {
+    "hp": 105,
+    "atk": 150,
+    "def": 90,
+    "sp_atk": 150,
+    "sp_def": 90,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Twister"
+    },
+    {
+      "level": 5,
+      "move": "Scary Face"
+    },
+    {
+      "level": 15,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 20,
+      "move": "Crunch"
+    },
+    {
+      "level": 30,
+      "move": "Air Slash"
+    },
+    {
+      "level": 35,
+      "move": "Rest"
+    },
+    {
+      "level": 45,
+      "move": "Extreme Speed"
+    },
+    {
+      "level": 50,
+      "move": "Dragon Pulse"
+    },
+    {
+      "level": 60,
+      "move": "Dragon Dance"
+    },
+    {
+      "level": 65,
+      "move": "Fly"
+    },
+    {
+      "level": 75,
+      "move": "Hyper Voice"
+    },
+    {
+      "level": 80,
+      "move": "Outrage"
+    },
+    {
+      "level": 90,
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM58",
+      "move": "Sky Drop"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    }
+  ],
+  "categories": {
+    "en": "Sky High Pokémon",
+    "de": "Himmelhoch"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 209,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Thick Fat",
+      "mega_stone": "Venusaurite",
+      "height_us": "35'05\"",
+      "height_eu": "10.8 m",
+      "weight_us": "864.2 lbs.",
+      "weight_eu": "392.0 kg",
+      "base_stats": {
+        "hp": 105,
+        "atk": 180,
+        "def": 100,
+        "sp_atk": 180,
+        "sp_def": 100,
+        "speed": 115
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Rayquaza lived for hundreds of millions of years in the earth's ozone layer, never descending to the ground. This Pokémon appears to feed on water and particles in the atmosphere.",
+      "de": "Rayquaza lebte für hunderte Millionen Jahre in der Ozonschicht und stieg nie zur Erde hinab. Dieses Pokémon lebt von Wasser und Partikeln aus der Atmosphäre."
+    },
+    "Sapphire": {
+      "en": "Rayquaza is said to have lived for hundreds of millions of years in the earth's ozone layer, above the clouds. Its existence had been completely unknown because it lived so high in the sky.",
+      "de": "Rayquaza soll für hunderte Millionen Jahre in der Ozonschicht der Erde über den Wolken gelebt haben. Daher wusste man so lange nicht von seiner Existenz."
+    },
+    "Emerald": {
+      "en": "A Pokémon that flies endlessly in the ozone layer. It is said it would descend to the ground if Kyogre and Groudon were to fight.",
+      "de": "Dieses POKÉMON fliegt ständig in der Ozonschicht. Man sagt, es würde auf die Erde zurückkehren, wenn KYOGRE und GROUDON zu kämpfen beginnen."
+    },
+    "FireRed": {
+      "en": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor.",
+      "de": "Es hat für hunderte Millionen Jahre in der Ozonschicht gelebt. Seine Flugform ähnelt einem Meteoriten."
+    },
+    "LeafGreen": {
+      "en": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor.",
+      "de": "Es hat für hunderte Millionen Jahre in der Ozonschicht gelebt. Seine Flugform ähnelt einem Meteoriten."
+    },
+    "Diamond": {
+      "en": "It cannot be seen from ground level since it lives far up above the clouds in the ozone layer.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "Pearl": {
+      "en": "It cannot be seen from ground level since it lives far up above the clouds in the ozone layer.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "Platinum": {
+      "en": "It cannot be seen from ground level since it lives far up above the clouds in the ozone layer.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "HeartGold": {
+      "en": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "SoulSilver": {
+      "en": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "Black": {
+      "en": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "White": {
+      "en": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "Black 2": {
+      "en": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "White 2": {
+      "en": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "X": {
+      "en": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+      "de": "Es lebt in der Ozonschicht hoch über den Wolken und kann vom Boden aus nicht gesehen werden."
+    },
+    "Y": {
+      "en": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+      "de": "Da es in der Ozonschicht hoch über den Wolken lebt, bekam es bis vor Kurzem noch niemand zu Gesicht."
+    },
+    "Omega Ruby": {
+      "en": "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.",
+      "de": "Es heißt, Rayquaza lebe bereits seit mehreren hundert Millionen Jahren. Legenden zufolge hat es den einstigen Konflikt zwischen Groudon und Kyogre beendet."
+    },
+    "Alpha Sapphire": {
+      "en": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
+      "de": "Es fliegt durch die Ozonschicht und ernährt sich von Meteoren. Mithilfe der Energie, die durch diese Meteore in seinen Körper gelangt, kann es eine Mega-Entwicklung durchführen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      4,
+      5
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

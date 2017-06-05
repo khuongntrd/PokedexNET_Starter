@@ -1,0 +1,949 @@
+{
+  "names": {
+    "fr": "Mysdibule",
+    "de": "Flunkifer",
+    "it": "Mawile",
+    "en": "Mawile"
+  },
+  "national_id": 303,
+  "types": [
+    "Steel",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter"
+    },
+    {
+      "name": "Sheer Force",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Field",
+    "Fairy"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "25.4 lbs.",
+  "weight_eu": "11.5 kg",
+  "base_exp_yield": 133,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Black",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 85,
+    "def": 85,
+    "sp_atk": 55,
+    "sp_def": 55,
+    "speed": 50
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Play Rough"
+    },
+    {
+      "level": 0,
+      "move": "Iron Head"
+    },
+    {
+      "level": 0,
+      "move": "Taunt"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Fairy Wind"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 5,
+      "move": "Fake Tears"
+    },
+    {
+      "level": 9,
+      "move": "Bite"
+    },
+    {
+      "level": 13,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 17,
+      "move": "Vice Grip"
+    },
+    {
+      "level": 21,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 25,
+      "move": "Baton Pass"
+    },
+    {
+      "level": 29,
+      "move": "Crunch"
+    },
+    {
+      "level": 33,
+      "move": "Iron Defense"
+    },
+    {
+      "level": 37,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 41,
+      "move": "Stockpile"
+    },
+    {
+      "level": 41,
+      "move": "Swallow"
+    },
+    {
+      "level": 41,
+      "move": "Spit Up"
+    },
+    {
+      "level": 45,
+      "move": "Iron Head"
+    },
+    {
+      "level": 49,
+      "move": "Play Rough"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Togekiss",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Ninetales",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Persian",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Arcanine",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Darmanitan",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Litleo",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Pyroar",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Guard Swap"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Guard Swap"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Metal Burst"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Poison Fang"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Primeape",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Sneasel",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Weavile",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Primeape",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Slam"
+    },
+    {
+      "parent": "Raichu",
+      "move": "Slam"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Slam"
+    },
+    {
+      "parent": "Furret",
+      "move": "Slam"
+    },
+    {
+      "parent": "Marill",
+      "move": "Slam"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Slam"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Slam"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Slam"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Slam"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Slam"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Slam"
+    },
+    {
+      "parent": "Servine",
+      "move": "Slam"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Slam"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Slam"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Slam"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Slam"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Slam"
+    },
+    {
+      "parent": "Rattata",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Raticate",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Diglett",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Furret",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Poochyena",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Mightyena",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Absol",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Arcanine",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Electrike",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Shinx",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Luxio",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Luxray",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Tickle"
+    }
+  ],
+  "categories": {
+    "en": "Deceiver Pokémon",
+    "de": "Schwindler"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 71,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 63,
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Huge Power",
+      "mega_stone": "Mawilite",
+      "height_us": "3'03\"",
+      "height_eu": "1.0 m",
+      "weight_us": "51.8 lbs.",
+      "weight_eu": "23.5 kg",
+      "base_stats": {
+        "hp": 50,
+        "atk": 105,
+        "def": 125,
+        "sp_atk": 55,
+        "sp_def": 95,
+        "speed": 50
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Mawile's huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawile's chomps it with its gaping jaws.",
+      "de": "Flunkifers sagenhafte Kiefer sind eigentlich umgewandelte Stahlhörner. Sein unterwürfiger Gesichtsausdruck dient dazu, seinen Gegner in Sicherheit zu wiegen, so dass er unaufmerksam wird. Dann schnappt es zu."
+    },
+    "Sapphire": {
+      "en": "Don't be taken by this Pokémon's cute face - it's very dangerous. Mawile fools the foe into letting down its guard then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+      "de": "Fall bloß nicht auf das hübsche Gesicht dieses Pokémon herein - es ist sehr gefährlich. Flunkifer lenkt seine Feinde ab und schlägt dann mit seinem massiven Kiefer zu. Seine kräftigen Stahlkiefer sind eigentlich umgewandelte Hörner."
+    },
+    "Emerald": {
+      "en": "Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.",
+      "de": "Seine gewaltigen Kiefer sind eigentlich Stahlhörner. Es ruft bei Feinden mit seinen anmutigen Gesten Selbstgefälligkeit her vor und schnappt dann mit seinem Maul zu."
+    },
+    "FireRed": {
+      "en": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+      "de": "Mit seinem friedlichen Gesicht bringt es Gegner zur Selbstgefälligkeit und beißt anschließend mit seinem riesigen Kiefer gnadenlos zu."
+    },
+    "LeafGreen": {
+      "en": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+      "de": "Mit seinem friedlichen Gesicht bringt es Gegner zur Selbstgefälligkeit und beißt anschließend mit seinem riesigen Kiefer gnadenlos zu."
+    },
+    "Diamond": {
+      "en": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Er kann Eisen zermalmen."
+    },
+    "Pearl": {
+      "en": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Er kann Eisen zermalmen."
+    },
+    "Platinum": {
+      "en": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Es kann Eisen zermalmen."
+    },
+    "HeartGold": {
+      "en": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Er kann Eisen zermalmen."
+    },
+    "SoulSilver": {
+      "en": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Er kann Eisen zermalmen."
+    },
+    "Black": {
+      "en": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Er kann Eisen zermalmen."
+    },
+    "White": {
+      "en": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Er kann Eisen zermalmen."
+    },
+    "Black 2": {
+      "en": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Er kann Eisen zermalmen."
+    },
+    "White 2": {
+      "en": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Er kann Eisen zermalmen."
+    },
+    "X": {
+      "en": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+      "de": "Mit seinem friedlichen Gesicht bringt es Gegner zur Selbstgefälligkeit und beißt anschließend mit seinem riesigen Kiefer gnadenlos zu."
+    },
+    "Y": {
+      "en": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "de": "Auf seinem Kopf befindet sich ein riesiger Kiefer, der aus Hörnern besteht. Er kann Eisen zermalmen."
+    },
+    "Omega Ruby": {
+      "en": "Mawile’s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawile chomps it with its gaping jaws.",
+      "de": "Flunkifers sagenhafter Kiefer besteht aus umgewandelten Stahlhörnern. Sein unterwürfiger Gesichtsausdruck dient dazu, seinen Gegner in Sicherheit zu wiegen, sodass er unaufmerksam wird. Dann schnappt es zu!"
+    },
+    "Alpha Sapphire": {
+      "en": "Don’t be taken in by this Pokémon’s cute face—it’s very dangerous. Mawile fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+      "de": "Fall bloß nicht auf das hübsche Gesicht dieses Pokémon herein – es ist sehr gefährlich. Flunkifer lenkt seine Feinde ab und schlägt dann mit seinem massiven Kiefer zu. Sein kräftiger Stahlkiefer besteht aus umgewandelten Hörnern."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      4,
+      4
+    ],
+    "power": [
+      3,
+      5
+    ],
+    "stamina": [
+      4,
+      4
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

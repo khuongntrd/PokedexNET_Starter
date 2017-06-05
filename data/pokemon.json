@@ -1,0 +1,5660 @@
+﻿[
+	{
+		"number": "001",
+		"slug": "bulbasaur",
+		"name": "Bulbasaur",
+		"id": 1
+	},
+	{
+		"number": "002",
+		"slug": "ivysaur",
+		"name": "Ivysaur",
+		"id": 2
+	},
+	{
+		"number": "003",
+		"slug": "venusaur",
+		"name": "Venusaur",
+		"id": 3
+	},
+	{
+		"number": "003",
+		"slug": "venusaur",
+		"name": "Venusaur",
+		"id": 3
+	},
+	{
+		"number": "004",
+		"slug": "charmander",
+		"name": "Charmander",
+		"id": 4
+	},
+	{
+		"number": "005",
+		"slug": "charmeleon",
+		"name": "Charmeleon",
+		"id": 5
+	},
+	{
+		"number": "006",
+		"slug": "charizard",
+		"name": "Charizard",
+		"id": 6
+	},
+	{
+		"number": "006",
+		"slug": "charizard",
+		"name": "Charizard",
+		"id": 6
+	},
+	{
+		"number": "006",
+		"slug": "charizard",
+		"name": "Charizard",
+		"id": 6
+	},
+	{
+		"number": "007",
+		"slug": "squirtle",
+		"name": "Squirtle",
+		"id": 7
+	},
+	{
+		"number": "008",
+		"slug": "wartortle",
+		"name": "Wartortle",
+		"id": 8
+	},
+	{
+		"number": "009",
+		"slug": "blastoise",
+		"name": "Blastoise",
+		"id": 9
+	},
+	{
+		"number": "009",
+		"slug": "blastoise",
+		"name": "Blastoise",
+		"id": 9
+	},
+	{
+		"number": "010",
+		"slug": "caterpie",
+		"name": "Caterpie",
+		"id": 10
+	},
+	{
+		"number": "011",
+		"slug": "metapod",
+		"name": "Metapod",
+		"id": 11
+	},
+	{
+		"number": "012",
+		"slug": "butterfree",
+		"name": "Butterfree",
+		"id": 12
+	},
+	{
+		"number": "013",
+		"slug": "weedle",
+		"name": "Weedle",
+		"id": 13
+	},
+	{
+		"number": "014",
+		"slug": "kakuna",
+		"name": "Kakuna",
+		"id": 14
+	},
+	{
+		"number": "015",
+		"slug": "beedrill",
+		"name": "Beedrill",
+		"id": 15
+	},
+	{
+		"number": "015",
+		"slug": "beedrill",
+		"name": "Beedrill",
+		"id": 15
+	},
+	{
+		"number": "016",
+		"slug": "pidgey",
+		"name": "Pidgey",
+		"id": 16
+	},
+	{
+		"number": "017",
+		"slug": "pidgeotto",
+		"name": "Pidgeotto",
+		"id": 17
+	},
+	{
+		"number": "018",
+		"slug": "pidgeot",
+		"name": "Pidgeot",
+		"id": 18
+	},
+	{
+		"number": "018",
+		"slug": "pidgeot",
+		"name": "Pidgeot",
+		"id": 18
+	},
+	{
+		"number": "019",
+		"slug": "rattata",
+		"name": "Rattata",
+		"id": 19
+	},
+	{
+		"number": "019",
+		"slug": "rattata",
+		"name": "Rattata",
+		"id": 19
+	},
+	{
+		"number": "020",
+		"slug": "raticate",
+		"name": "Raticate",
+		"id": 20
+	},
+	{
+		"number": "020",
+		"slug": "raticate",
+		"name": "Raticate",
+		"id": 20
+	},
+	{
+		"number": "021",
+		"slug": "spearow",
+		"name": "Spearow",
+		"id": 21
+	},
+	{
+		"number": "022",
+		"slug": "fearow",
+		"name": "Fearow",
+		"id": 22
+	},
+	{
+		"number": "023",
+		"slug": "ekans",
+		"name": "Ekans",
+		"id": 23
+	},
+	{
+		"number": "024",
+		"slug": "arbok",
+		"name": "Arbok",
+		"id": 24
+	},
+	{
+		"number": "025",
+		"slug": "pikachu",
+		"name": "Pikachu",
+		"id": 25
+	},
+	{
+		"number": "026",
+		"slug": "raichu",
+		"name": "Raichu",
+		"id": 26
+	},
+	{
+		"number": "026",
+		"slug": "raichu",
+		"name": "Raichu",
+		"id": 26
+	},
+	{
+		"number": "027",
+		"slug": "sandshrew",
+		"name": "Sandshrew",
+		"id": 27
+	},
+	{
+		"number": "027",
+		"slug": "sandshrew",
+		"name": "Sandshrew",
+		"id": 27
+	},
+	{
+		"number": "028",
+		"slug": "sandslash",
+		"name": "Sandslash",
+		"id": 28
+	},
+	{
+		"number": "028",
+		"slug": "sandslash",
+		"name": "Sandslash",
+		"id": 28
+	},
+	{
+		"number": "029",
+		"slug": "nidoran-female",
+		"name": "Nidoran♀",
+		"id": 29
+	},
+	{
+		"number": "030",
+		"slug": "nidorina",
+		"name": "Nidorina",
+		"id": 30
+	},
+	{
+		"number": "031",
+		"slug": "nidoqueen",
+		"name": "Nidoqueen",
+		"id": 31
+	},
+	{
+		"number": "032",
+		"slug": "nidoran-male",
+		"name": "Nidoran♂",
+		"id": 32
+	},
+	{
+		"number": "033",
+		"slug": "nidorino",
+		"name": "Nidorino",
+		"id": 33
+	},
+	{
+		"number": "034",
+		"slug": "nidoking",
+		"name": "Nidoking",
+		"id": 34
+	},
+	{
+		"number": "035",
+		"slug": "clefairy",
+		"name": "Clefairy",
+		"id": 35
+	},
+	{
+		"number": "036",
+		"slug": "clefable",
+		"name": "Clefable",
+		"id": 36
+	},
+	{
+		"number": "037",
+		"slug": "vulpix",
+		"name": "Vulpix",
+		"id": 37
+	},
+	{
+		"number": "037",
+		"slug": "vulpix",
+		"name": "Vulpix",
+		"id": 37
+	},
+	{
+		"number": "038",
+		"slug": "ninetales",
+		"name": "Ninetales",
+		"id": 38
+	},
+	{
+		"number": "038",
+		"slug": "ninetales",
+		"name": "Ninetales",
+		"id": 38
+	},
+	{
+		"number": "039",
+		"slug": "jigglypuff",
+		"name": "Jigglypuff",
+		"id": 39
+	},
+	{
+		"number": "040",
+		"slug": "wigglytuff",
+		"name": "Wigglytuff",
+		"id": 40
+	},
+	{
+		"number": "041",
+		"slug": "zubat",
+		"name": "Zubat",
+		"id": 41
+	},
+	{
+		"number": "042",
+		"slug": "golbat",
+		"name": "Golbat",
+		"id": 42
+	},
+	{
+		"number": "043",
+		"slug": "oddish",
+		"name": "Oddish",
+		"id": 43
+	},
+	{
+		"number": "044",
+		"slug": "gloom",
+		"name": "Gloom",
+		"id": 44
+	},
+	{
+		"number": "045",
+		"slug": "vileplume",
+		"name": "Vileplume",
+		"id": 45
+	},
+	{
+		"number": "046",
+		"slug": "paras",
+		"name": "Paras",
+		"id": 46
+	},
+	{
+		"number": "047",
+		"slug": "parasect",
+		"name": "Parasect",
+		"id": 47
+	},
+	{
+		"number": "048",
+		"slug": "venonat",
+		"name": "Venonat",
+		"id": 48
+	},
+	{
+		"number": "049",
+		"slug": "venomoth",
+		"name": "Venomoth",
+		"id": 49
+	},
+	{
+		"number": "050",
+		"slug": "diglett",
+		"name": "Diglett",
+		"id": 50
+	},
+	{
+		"number": "050",
+		"slug": "diglett",
+		"name": "Diglett",
+		"id": 50
+	},
+	{
+		"number": "051",
+		"slug": "dugtrio",
+		"name": "Dugtrio",
+		"id": 51
+	},
+	{
+		"number": "051",
+		"slug": "dugtrio",
+		"name": "Dugtrio",
+		"id": 51
+	},
+	{
+		"number": "052",
+		"slug": "meowth",
+		"name": "Meowth",
+		"id": 52
+	},
+	{
+		"number": "052",
+		"slug": "meowth",
+		"name": "Meowth",
+		"id": 52
+	},
+	{
+		"number": "053",
+		"slug": "persian",
+		"name": "Persian",
+		"id": 53
+	},
+	{
+		"number": "053",
+		"slug": "persian",
+		"name": "Persian",
+		"id": 53
+	},
+	{
+		"number": "054",
+		"slug": "psyduck",
+		"name": "Psyduck",
+		"id": 54
+	},
+	{
+		"number": "055",
+		"slug": "golduck",
+		"name": "Golduck",
+		"id": 55
+	},
+	{
+		"number": "056",
+		"slug": "mankey",
+		"name": "Mankey",
+		"id": 56
+	},
+	{
+		"number": "057",
+		"slug": "primeape",
+		"name": "Primeape",
+		"id": 57
+	},
+	{
+		"number": "058",
+		"slug": "growlithe",
+		"name": "Growlithe",
+		"id": 58
+	},
+	{
+		"number": "059",
+		"slug": "arcanine",
+		"name": "Arcanine",
+		"id": 59
+	},
+	{
+		"number": "060",
+		"slug": "poliwag",
+		"name": "Poliwag",
+		"id": 60
+	},
+	{
+		"number": "061",
+		"slug": "poliwhirl",
+		"name": "Poliwhirl",
+		"id": 61
+	},
+	{
+		"number": "062",
+		"slug": "poliwrath",
+		"name": "Poliwrath",
+		"id": 62
+	},
+	{
+		"number": "063",
+		"slug": "abra",
+		"name": "Abra",
+		"id": 63
+	},
+	{
+		"number": "064",
+		"slug": "kadabra",
+		"name": "Kadabra",
+		"id": 64
+	},
+	{
+		"number": "065",
+		"slug": "alakazam",
+		"name": "Alakazam",
+		"id": 65
+	},
+	{
+		"number": "065",
+		"slug": "alakazam",
+		"name": "Alakazam",
+		"id": 65
+	},
+	{
+		"number": "066",
+		"slug": "machop",
+		"name": "Machop",
+		"id": 66
+	},
+	{
+		"number": "067",
+		"slug": "machoke",
+		"name": "Machoke",
+		"id": 67
+	},
+	{
+		"number": "068",
+		"slug": "machamp",
+		"name": "Machamp",
+		"id": 68
+	},
+	{
+		"number": "069",
+		"slug": "bellsprout",
+		"name": "Bellsprout",
+		"id": 69
+	},
+	{
+		"number": "070",
+		"slug": "weepinbell",
+		"name": "Weepinbell",
+		"id": 70
+	},
+	{
+		"number": "071",
+		"slug": "victreebel",
+		"name": "Victreebel",
+		"id": 71
+	},
+	{
+		"number": "072",
+		"slug": "tentacool",
+		"name": "Tentacool",
+		"id": 72
+	},
+	{
+		"number": "073",
+		"slug": "tentacruel",
+		"name": "Tentacruel",
+		"id": 73
+	},
+	{
+		"number": "074",
+		"slug": "geodude",
+		"name": "Geodude",
+		"id": 74
+	},
+	{
+		"number": "074",
+		"slug": "geodude",
+		"name": "Geodude",
+		"id": 74
+	},
+	{
+		"number": "075",
+		"slug": "graveler",
+		"name": "Graveler",
+		"id": 75
+	},
+	{
+		"number": "075",
+		"slug": "graveler",
+		"name": "Graveler",
+		"id": 75
+	},
+	{
+		"number": "076",
+		"slug": "golem",
+		"name": "Golem",
+		"id": 76
+	},
+	{
+		"number": "076",
+		"slug": "golem",
+		"name": "Golem",
+		"id": 76
+	},
+	{
+		"number": "077",
+		"slug": "ponyta",
+		"name": "Ponyta",
+		"id": 77
+	},
+	{
+		"number": "078",
+		"slug": "rapidash",
+		"name": "Rapidash",
+		"id": 78
+	},
+	{
+		"number": "079",
+		"slug": "slowpoke",
+		"name": "Slowpoke",
+		"id": 79
+	},
+	{
+		"number": "080",
+		"slug": "slowbro",
+		"name": "Slowbro",
+		"id": 80
+	},
+	{
+		"number": "080",
+		"slug": "slowbro",
+		"name": "Slowbro",
+		"id": 80
+	},
+	{
+		"number": "081",
+		"slug": "magnemite",
+		"name": "Magnemite",
+		"id": 81
+	},
+	{
+		"number": "082",
+		"slug": "magneton",
+		"name": "Magneton",
+		"id": 82
+	},
+	{
+		"number": "083",
+		"slug": "farfetchd",
+		"name": "Farfetch'd",
+		"id": 83
+	},
+	{
+		"number": "084",
+		"slug": "doduo",
+		"name": "Doduo",
+		"id": 84
+	},
+	{
+		"number": "085",
+		"slug": "dodrio",
+		"name": "Dodrio",
+		"id": 85
+	},
+	{
+		"number": "086",
+		"slug": "seel",
+		"name": "Seel",
+		"id": 86
+	},
+	{
+		"number": "087",
+		"slug": "dewgong",
+		"name": "Dewgong",
+		"id": 87
+	},
+	{
+		"number": "088",
+		"slug": "grimer",
+		"name": "Grimer",
+		"id": 88
+	},
+	{
+		"number": "088",
+		"slug": "grimer",
+		"name": "Grimer",
+		"id": 88
+	},
+	{
+		"number": "089",
+		"slug": "muk",
+		"name": "Muk",
+		"id": 89
+	},
+	{
+		"number": "089",
+		"slug": "muk",
+		"name": "Muk",
+		"id": 89
+	},
+	{
+		"number": "090",
+		"slug": "shellder",
+		"name": "Shellder",
+		"id": 90
+	},
+	{
+		"number": "091",
+		"slug": "cloyster",
+		"name": "Cloyster",
+		"id": 91
+	},
+	{
+		"number": "092",
+		"slug": "gastly",
+		"name": "Gastly",
+		"id": 92
+	},
+	{
+		"number": "093",
+		"slug": "haunter",
+		"name": "Haunter",
+		"id": 93
+	},
+	{
+		"number": "094",
+		"slug": "gengar",
+		"name": "Gengar",
+		"id": 94
+	},
+	{
+		"number": "094",
+		"slug": "gengar",
+		"name": "Gengar",
+		"id": 94
+	},
+	{
+		"number": "095",
+		"slug": "onix",
+		"name": "Onix",
+		"id": 95
+	},
+	{
+		"number": "096",
+		"slug": "drowzee",
+		"name": "Drowzee",
+		"id": 96
+	},
+	{
+		"number": "097",
+		"slug": "hypno",
+		"name": "Hypno",
+		"id": 97
+	},
+	{
+		"number": "098",
+		"slug": "krabby",
+		"name": "Krabby",
+		"id": 98
+	},
+	{
+		"number": "099",
+		"slug": "kingler",
+		"name": "Kingler",
+		"id": 99
+	},
+	{
+		"number": "100",
+		"slug": "voltorb",
+		"name": "Voltorb",
+		"id": 100
+	},
+	{
+		"number": "101",
+		"slug": "electrode",
+		"name": "Electrode",
+		"id": 101
+	},
+	{
+		"number": "102",
+		"slug": "exeggcute",
+		"name": "Exeggcute",
+		"id": 102
+	},
+	{
+		"number": "103",
+		"slug": "exeggutor",
+		"name": "Exeggutor",
+		"id": 103
+	},
+	{
+		"number": "103",
+		"slug": "exeggutor",
+		"name": "Exeggutor",
+		"id": 103
+	},
+	{
+		"number": "104",
+		"slug": "cubone",
+		"name": "Cubone",
+		"id": 104
+	},
+	{
+		"number": "105",
+		"slug": "marowak",
+		"name": "Marowak",
+		"id": 105
+	},
+	{
+		"number": "105",
+		"slug": "marowak",
+		"name": "Marowak",
+		"id": 105
+	},
+	{
+		"number": "106",
+		"slug": "hitmonlee",
+		"name": "Hitmonlee",
+		"id": 106
+	},
+	{
+		"number": "107",
+		"slug": "hitmonchan",
+		"name": "Hitmonchan",
+		"id": 107
+	},
+	{
+		"number": "108",
+		"slug": "lickitung",
+		"name": "Lickitung",
+		"id": 108
+	},
+	{
+		"number": "109",
+		"slug": "koffing",
+		"name": "Koffing",
+		"id": 109
+	},
+	{
+		"number": "110",
+		"slug": "weezing",
+		"name": "Weezing",
+		"id": 110
+	},
+	{
+		"number": "111",
+		"slug": "rhyhorn",
+		"name": "Rhyhorn",
+		"id": 111
+	},
+	{
+		"number": "112",
+		"slug": "rhydon",
+		"name": "Rhydon",
+		"id": 112
+	},
+	{
+		"number": "113",
+		"slug": "chansey",
+		"name": "Chansey",
+		"id": 113
+	},
+	{
+		"number": "114",
+		"slug": "tangela",
+		"name": "Tangela",
+		"id": 114
+	},
+	{
+		"number": "115",
+		"slug": "kangaskhan",
+		"name": "Kangaskhan",
+		"id": 115
+	},
+	{
+		"number": "115",
+		"slug": "kangaskhan",
+		"name": "Kangaskhan",
+		"id": 115
+	},
+	{
+		"number": "116",
+		"slug": "horsea",
+		"name": "Horsea",
+		"id": 116
+	},
+	{
+		"number": "117",
+		"slug": "seadra",
+		"name": "Seadra",
+		"id": 117
+	},
+	{
+		"number": "118",
+		"slug": "goldeen",
+		"name": "Goldeen",
+		"id": 118
+	},
+	{
+		"number": "119",
+		"slug": "seaking",
+		"name": "Seaking",
+		"id": 119
+	},
+	{
+		"number": "120",
+		"slug": "staryu",
+		"name": "Staryu",
+		"id": 120
+	},
+	{
+		"number": "121",
+		"slug": "starmie",
+		"name": "Starmie",
+		"id": 121
+	},
+	{
+		"number": "122",
+		"slug": "mr-mime",
+		"name": "Mr. Mime",
+		"id": 122
+	},
+	{
+		"number": "123",
+		"slug": "scyther",
+		"name": "Scyther",
+		"id": 123
+	},
+	{
+		"number": "124",
+		"slug": "jynx",
+		"name": "Jynx",
+		"id": 124
+	},
+	{
+		"number": "125",
+		"slug": "electabuzz",
+		"name": "Electabuzz",
+		"id": 125
+	},
+	{
+		"number": "126",
+		"slug": "magmar",
+		"name": "Magmar",
+		"id": 126
+	},
+	{
+		"number": "127",
+		"slug": "pinsir",
+		"name": "Pinsir",
+		"id": 127
+	},
+	{
+		"number": "127",
+		"slug": "pinsir",
+		"name": "Pinsir",
+		"id": 127
+	},
+	{
+		"number": "128",
+		"slug": "tauros",
+		"name": "Tauros",
+		"id": 128
+	},
+	{
+		"number": "129",
+		"slug": "magikarp",
+		"name": "Magikarp",
+		"id": 129
+	},
+	{
+		"number": "130",
+		"slug": "gyarados",
+		"name": "Gyarados",
+		"id": 130
+	},
+	{
+		"number": "130",
+		"slug": "gyarados",
+		"name": "Gyarados",
+		"id": 130
+	},
+	{
+		"number": "131",
+		"slug": "lapras",
+		"name": "Lapras",
+		"id": 131
+	},
+	{
+		"number": "132",
+		"slug": "ditto",
+		"name": "Ditto",
+		"id": 132
+	},
+	{
+		"number": "133",
+		"slug": "eevee",
+		"name": "Eevee",
+		"id": 133
+	},
+	{
+		"number": "134",
+		"slug": "vaporeon",
+		"name": "Vaporeon",
+		"id": 134
+	},
+	{
+		"number": "135",
+		"slug": "jolteon",
+		"name": "Jolteon",
+		"id": 135
+	},
+	{
+		"number": "136",
+		"slug": "flareon",
+		"name": "Flareon",
+		"id": 136
+	},
+	{
+		"number": "137",
+		"slug": "porygon",
+		"name": "Porygon",
+		"id": 137
+	},
+	{
+		"number": "138",
+		"slug": "omanyte",
+		"name": "Omanyte",
+		"id": 138
+	},
+	{
+		"number": "139",
+		"slug": "omastar",
+		"name": "Omastar",
+		"id": 139
+	},
+	{
+		"number": "140",
+		"slug": "kabuto",
+		"name": "Kabuto",
+		"id": 140
+	},
+	{
+		"number": "141",
+		"slug": "kabutops",
+		"name": "Kabutops",
+		"id": 141
+	},
+	{
+		"number": "142",
+		"slug": "aerodactyl",
+		"name": "Aerodactyl",
+		"id": 142
+	},
+	{
+		"number": "142",
+		"slug": "aerodactyl",
+		"name": "Aerodactyl",
+		"id": 142
+	},
+	{
+		"number": "143",
+		"slug": "snorlax",
+		"name": "Snorlax",
+		"id": 143
+	},
+	{
+		"number": "144",
+		"slug": "articuno",
+		"name": "Articuno",
+		"id": 144
+	},
+	{
+		"number": "145",
+		"slug": "zapdos",
+		"name": "Zapdos",
+		"id": 145
+	},
+	{
+		"number": "146",
+		"slug": "moltres",
+		"name": "Moltres",
+		"id": 146
+	},
+	{
+		"number": "147",
+		"slug": "dratini",
+		"name": "Dratini",
+		"id": 147
+	},
+	{
+		"number": "148",
+		"slug": "dragonair",
+		"name": "Dragonair",
+		"id": 148
+	},
+	{
+		"number": "149",
+		"slug": "dragonite",
+		"name": "Dragonite",
+		"id": 149
+	},
+	{
+		"number": "150",
+		"slug": "mewtwo",
+		"name": "Mewtwo",
+		"id": 150
+	},
+	{
+		"number": "150",
+		"slug": "mewtwo",
+		"name": "Mewtwo",
+		"id": 150
+	},
+	{
+		"number": "150",
+		"slug": "mewtwo",
+		"name": "Mewtwo",
+		"id": 150
+	},
+	{
+		"number": "151",
+		"slug": "mew",
+		"name": "Mew",
+		"id": 151
+	},
+	{
+		"number": "152",
+		"slug": "chikorita",
+		"name": "Chikorita",
+		"id": 152
+	},
+	{
+		"number": "153",
+		"slug": "bayleef",
+		"name": "Bayleef",
+		"id": 153
+	},
+	{
+		"number": "154",
+		"slug": "meganium",
+		"name": "Meganium",
+		"id": 154
+	},
+	{
+		"number": "155",
+		"slug": "cyndaquil",
+		"name": "Cyndaquil",
+		"id": 155
+	},
+	{
+		"number": "156",
+		"slug": "quilava",
+		"name": "Quilava",
+		"id": 156
+	},
+	{
+		"number": "157",
+		"slug": "typhlosion",
+		"name": "Typhlosion",
+		"id": 157
+	},
+	{
+		"number": "158",
+		"slug": "totodile",
+		"name": "Totodile",
+		"id": 158
+	},
+	{
+		"number": "159",
+		"slug": "croconaw",
+		"name": "Croconaw",
+		"id": 159
+	},
+	{
+		"number": "160",
+		"slug": "feraligatr",
+		"name": "Feraligatr",
+		"id": 160
+	},
+	{
+		"number": "161",
+		"slug": "sentret",
+		"name": "Sentret",
+		"id": 161
+	},
+	{
+		"number": "162",
+		"slug": "furret",
+		"name": "Furret",
+		"id": 162
+	},
+	{
+		"number": "163",
+		"slug": "hoothoot",
+		"name": "Hoothoot",
+		"id": 163
+	},
+	{
+		"number": "164",
+		"slug": "noctowl",
+		"name": "Noctowl",
+		"id": 164
+	},
+	{
+		"number": "165",
+		"slug": "ledyba",
+		"name": "Ledyba",
+		"id": 165
+	},
+	{
+		"number": "166",
+		"slug": "ledian",
+		"name": "Ledian",
+		"id": 166
+	},
+	{
+		"number": "167",
+		"slug": "spinarak",
+		"name": "Spinarak",
+		"id": 167
+	},
+	{
+		"number": "168",
+		"slug": "ariados",
+		"name": "Ariados",
+		"id": 168
+	},
+	{
+		"number": "169",
+		"slug": "crobat",
+		"name": "Crobat",
+		"id": 169
+	},
+	{
+		"number": "170",
+		"slug": "chinchou",
+		"name": "Chinchou",
+		"id": 170
+	},
+	{
+		"number": "171",
+		"slug": "lanturn",
+		"name": "Lanturn",
+		"id": 171
+	},
+	{
+		"number": "172",
+		"slug": "pichu",
+		"name": "Pichu",
+		"id": 172
+	},
+	{
+		"number": "173",
+		"slug": "cleffa",
+		"name": "Cleffa",
+		"id": 173
+	},
+	{
+		"number": "174",
+		"slug": "igglybuff",
+		"name": "Igglybuff",
+		"id": 174
+	},
+	{
+		"number": "175",
+		"slug": "togepi",
+		"name": "Togepi",
+		"id": 175
+	},
+	{
+		"number": "176",
+		"slug": "togetic",
+		"name": "Togetic",
+		"id": 176
+	},
+	{
+		"number": "177",
+		"slug": "natu",
+		"name": "Natu",
+		"id": 177
+	},
+	{
+		"number": "178",
+		"slug": "xatu",
+		"name": "Xatu",
+		"id": 178
+	},
+	{
+		"number": "179",
+		"slug": "mareep",
+		"name": "Mareep",
+		"id": 179
+	},
+	{
+		"number": "180",
+		"slug": "flaaffy",
+		"name": "Flaaffy",
+		"id": 180
+	},
+	{
+		"number": "181",
+		"slug": "ampharos",
+		"name": "Ampharos",
+		"id": 181
+	},
+	{
+		"number": "181",
+		"slug": "ampharos",
+		"name": "Ampharos",
+		"id": 181
+	},
+	{
+		"number": "182",
+		"slug": "bellossom",
+		"name": "Bellossom",
+		"id": 182
+	},
+	{
+		"number": "183",
+		"slug": "marill",
+		"name": "Marill",
+		"id": 183
+	},
+	{
+		"number": "184",
+		"slug": "azumarill",
+		"name": "Azumarill",
+		"id": 184
+	},
+	{
+		"number": "185",
+		"slug": "sudowoodo",
+		"name": "Sudowoodo",
+		"id": 185
+	},
+	{
+		"number": "186",
+		"slug": "politoed",
+		"name": "Politoed",
+		"id": 186
+	},
+	{
+		"number": "187",
+		"slug": "hoppip",
+		"name": "Hoppip",
+		"id": 187
+	},
+	{
+		"number": "188",
+		"slug": "skiploom",
+		"name": "Skiploom",
+		"id": 188
+	},
+	{
+		"number": "189",
+		"slug": "jumpluff",
+		"name": "Jumpluff",
+		"id": 189
+	},
+	{
+		"number": "190",
+		"slug": "aipom",
+		"name": "Aipom",
+		"id": 190
+	},
+	{
+		"number": "191",
+		"slug": "sunkern",
+		"name": "Sunkern",
+		"id": 191
+	},
+	{
+		"number": "192",
+		"slug": "sunflora",
+		"name": "Sunflora",
+		"id": 192
+	},
+	{
+		"number": "193",
+		"slug": "yanma",
+		"name": "Yanma",
+		"id": 193
+	},
+	{
+		"number": "194",
+		"slug": "wooper",
+		"name": "Wooper",
+		"id": 194
+	},
+	{
+		"number": "195",
+		"slug": "quagsire",
+		"name": "Quagsire",
+		"id": 195
+	},
+	{
+		"number": "196",
+		"slug": "espeon",
+		"name": "Espeon",
+		"id": 196
+	},
+	{
+		"number": "197",
+		"slug": "umbreon",
+		"name": "Umbreon",
+		"id": 197
+	},
+	{
+		"number": "198",
+		"slug": "murkrow",
+		"name": "Murkrow",
+		"id": 198
+	},
+	{
+		"number": "199",
+		"slug": "slowking",
+		"name": "Slowking",
+		"id": 199
+	},
+	{
+		"number": "200",
+		"slug": "misdreavus",
+		"name": "Misdreavus",
+		"id": 200
+	},
+	{
+		"number": "201",
+		"slug": "unown",
+		"name": "Unown",
+		"id": 201
+	},
+	{
+		"number": "202",
+		"slug": "wobbuffet",
+		"name": "Wobbuffet",
+		"id": 202
+	},
+	{
+		"number": "203",
+		"slug": "girafarig",
+		"name": "Girafarig",
+		"id": 203
+	},
+	{
+		"number": "204",
+		"slug": "pineco",
+		"name": "Pineco",
+		"id": 204
+	},
+	{
+		"number": "205",
+		"slug": "forretress",
+		"name": "Forretress",
+		"id": 205
+	},
+	{
+		"number": "206",
+		"slug": "dunsparce",
+		"name": "Dunsparce",
+		"id": 206
+	},
+	{
+		"number": "207",
+		"slug": "gligar",
+		"name": "Gligar",
+		"id": 207
+	},
+	{
+		"number": "208",
+		"slug": "steelix",
+		"name": "Steelix",
+		"id": 208
+	},
+	{
+		"number": "208",
+		"slug": "steelix",
+		"name": "Steelix",
+		"id": 208
+	},
+	{
+		"number": "209",
+		"slug": "snubbull",
+		"name": "Snubbull",
+		"id": 209
+	},
+	{
+		"number": "210",
+		"slug": "granbull",
+		"name": "Granbull",
+		"id": 210
+	},
+	{
+		"number": "211",
+		"slug": "qwilfish",
+		"name": "Qwilfish",
+		"id": 211
+	},
+	{
+		"number": "212",
+		"slug": "scizor",
+		"name": "Scizor",
+		"id": 212
+	},
+	{
+		"number": "212",
+		"slug": "scizor",
+		"name": "Scizor",
+		"id": 212
+	},
+	{
+		"number": "213",
+		"slug": "shuckle",
+		"name": "Shuckle",
+		"id": 213
+	},
+	{
+		"number": "214",
+		"slug": "heracross",
+		"name": "Heracross",
+		"id": 214
+	},
+	{
+		"number": "214",
+		"slug": "heracross",
+		"name": "Heracross",
+		"id": 214
+	},
+	{
+		"number": "215",
+		"slug": "sneasel",
+		"name": "Sneasel",
+		"id": 215
+	},
+	{
+		"number": "216",
+		"slug": "teddiursa",
+		"name": "Teddiursa",
+		"id": 216
+	},
+	{
+		"number": "217",
+		"slug": "ursaring",
+		"name": "Ursaring",
+		"id": 217
+	},
+	{
+		"number": "218",
+		"slug": "slugma",
+		"name": "Slugma",
+		"id": 218
+	},
+	{
+		"number": "219",
+		"slug": "magcargo",
+		"name": "Magcargo",
+		"id": 219
+	},
+	{
+		"number": "220",
+		"slug": "swinub",
+		"name": "Swinub",
+		"id": 220
+	},
+	{
+		"number": "221",
+		"slug": "piloswine",
+		"name": "Piloswine",
+		"id": 221
+	},
+	{
+		"number": "222",
+		"slug": "corsola",
+		"name": "Corsola",
+		"id": 222
+	},
+	{
+		"number": "223",
+		"slug": "remoraid",
+		"name": "Remoraid",
+		"id": 223
+	},
+	{
+		"number": "224",
+		"slug": "octillery",
+		"name": "Octillery",
+		"id": 224
+	},
+	{
+		"number": "225",
+		"slug": "delibird",
+		"name": "Delibird",
+		"id": 225
+	},
+	{
+		"number": "226",
+		"slug": "mantine",
+		"name": "Mantine",
+		"id": 226
+	},
+	{
+		"number": "227",
+		"slug": "skarmory",
+		"name": "Skarmory",
+		"id": 227
+	},
+	{
+		"number": "228",
+		"slug": "houndour",
+		"name": "Houndour",
+		"id": 228
+	},
+	{
+		"number": "229",
+		"slug": "houndoom",
+		"name": "Houndoom",
+		"id": 229
+	},
+	{
+		"number": "229",
+		"slug": "houndoom",
+		"name": "Houndoom",
+		"id": 229
+	},
+	{
+		"number": "230",
+		"slug": "kingdra",
+		"name": "Kingdra",
+		"id": 230
+	},
+	{
+		"number": "231",
+		"slug": "phanpy",
+		"name": "Phanpy",
+		"id": 231
+	},
+	{
+		"number": "232",
+		"slug": "donphan",
+		"name": "Donphan",
+		"id": 232
+	},
+	{
+		"number": "233",
+		"slug": "porygon2",
+		"name": "Porygon2",
+		"id": 233
+	},
+	{
+		"number": "234",
+		"slug": "stantler",
+		"name": "Stantler",
+		"id": 234
+	},
+	{
+		"number": "235",
+		"slug": "smeargle",
+		"name": "Smeargle",
+		"id": 235
+	},
+	{
+		"number": "236",
+		"slug": "tyrogue",
+		"name": "Tyrogue",
+		"id": 236
+	},
+	{
+		"number": "237",
+		"slug": "hitmontop",
+		"name": "Hitmontop",
+		"id": 237
+	},
+	{
+		"number": "238",
+		"slug": "smoochum",
+		"name": "Smoochum",
+		"id": 238
+	},
+	{
+		"number": "239",
+		"slug": "elekid",
+		"name": "Elekid",
+		"id": 239
+	},
+	{
+		"number": "240",
+		"slug": "magby",
+		"name": "Magby",
+		"id": 240
+	},
+	{
+		"number": "241",
+		"slug": "miltank",
+		"name": "Miltank",
+		"id": 241
+	},
+	{
+		"number": "242",
+		"slug": "blissey",
+		"name": "Blissey",
+		"id": 242
+	},
+	{
+		"number": "243",
+		"slug": "raikou",
+		"name": "Raikou",
+		"id": 243
+	},
+	{
+		"number": "244",
+		"slug": "entei",
+		"name": "Entei",
+		"id": 244
+	},
+	{
+		"number": "245",
+		"slug": "suicune",
+		"name": "Suicune",
+		"id": 245
+	},
+	{
+		"number": "246",
+		"slug": "larvitar",
+		"name": "Larvitar",
+		"id": 246
+	},
+	{
+		"number": "247",
+		"slug": "pupitar",
+		"name": "Pupitar",
+		"id": 247
+	},
+	{
+		"number": "248",
+		"slug": "tyranitar",
+		"name": "Tyranitar",
+		"id": 248
+	},
+	{
+		"number": "248",
+		"slug": "tyranitar",
+		"name": "Tyranitar",
+		"id": 248
+	},
+	{
+		"number": "249",
+		"slug": "lugia",
+		"name": "Lugia",
+		"id": 249
+	},
+	{
+		"number": "250",
+		"slug": "ho-oh",
+		"name": "Ho-Oh",
+		"id": 250
+	},
+	{
+		"number": "251",
+		"slug": "celebi",
+		"name": "Celebi",
+		"id": 251
+	},
+	{
+		"number": "252",
+		"slug": "treecko",
+		"name": "Treecko",
+		"id": 252
+	},
+	{
+		"number": "253",
+		"slug": "grovyle",
+		"name": "Grovyle",
+		"id": 253
+	},
+	{
+		"number": "254",
+		"slug": "sceptile",
+		"name": "Sceptile",
+		"id": 254
+	},
+	{
+		"number": "254",
+		"slug": "sceptile",
+		"name": "Sceptile",
+		"id": 254
+	},
+	{
+		"number": "255",
+		"slug": "torchic",
+		"name": "Torchic",
+		"id": 255
+	},
+	{
+		"number": "256",
+		"slug": "combusken",
+		"name": "Combusken",
+		"id": 256
+	},
+	{
+		"number": "257",
+		"slug": "blaziken",
+		"name": "Blaziken",
+		"id": 257
+	},
+	{
+		"number": "257",
+		"slug": "blaziken",
+		"name": "Blaziken",
+		"id": 257
+	},
+	{
+		"number": "258",
+		"slug": "mudkip",
+		"name": "Mudkip",
+		"id": 258
+	},
+	{
+		"number": "259",
+		"slug": "marshtomp",
+		"name": "Marshtomp",
+		"id": 259
+	},
+	{
+		"number": "260",
+		"slug": "swampert",
+		"name": "Swampert",
+		"id": 260
+	},
+	{
+		"number": "260",
+		"slug": "swampert",
+		"name": "Swampert",
+		"id": 260
+	},
+	{
+		"number": "261",
+		"slug": "poochyena",
+		"name": "Poochyena",
+		"id": 261
+	},
+	{
+		"number": "262",
+		"slug": "mightyena",
+		"name": "Mightyena",
+		"id": 262
+	},
+	{
+		"number": "263",
+		"slug": "zigzagoon",
+		"name": "Zigzagoon",
+		"id": 263
+	},
+	{
+		"number": "264",
+		"slug": "linoone",
+		"name": "Linoone",
+		"id": 264
+	},
+	{
+		"number": "265",
+		"slug": "wurmple",
+		"name": "Wurmple",
+		"id": 265
+	},
+	{
+		"number": "266",
+		"slug": "silcoon",
+		"name": "Silcoon",
+		"id": 266
+	},
+	{
+		"number": "267",
+		"slug": "beautifly",
+		"name": "Beautifly",
+		"id": 267
+	},
+	{
+		"number": "268",
+		"slug": "cascoon",
+		"name": "Cascoon",
+		"id": 268
+	},
+	{
+		"number": "269",
+		"slug": "dustox",
+		"name": "Dustox",
+		"id": 269
+	},
+	{
+		"number": "270",
+		"slug": "lotad",
+		"name": "Lotad",
+		"id": 270
+	},
+	{
+		"number": "271",
+		"slug": "lombre",
+		"name": "Lombre",
+		"id": 271
+	},
+	{
+		"number": "272",
+		"slug": "ludicolo",
+		"name": "Ludicolo",
+		"id": 272
+	},
+	{
+		"number": "273",
+		"slug": "seedot",
+		"name": "Seedot",
+		"id": 273
+	},
+	{
+		"number": "274",
+		"slug": "nuzleaf",
+		"name": "Nuzleaf",
+		"id": 274
+	},
+	{
+		"number": "275",
+		"slug": "shiftry",
+		"name": "Shiftry",
+		"id": 275
+	},
+	{
+		"number": "276",
+		"slug": "taillow",
+		"name": "Taillow",
+		"id": 276
+	},
+	{
+		"number": "277",
+		"slug": "swellow",
+		"name": "Swellow",
+		"id": 277
+	},
+	{
+		"number": "278",
+		"slug": "wingull",
+		"name": "Wingull",
+		"id": 278
+	},
+	{
+		"number": "279",
+		"slug": "pelipper",
+		"name": "Pelipper",
+		"id": 279
+	},
+	{
+		"number": "280",
+		"slug": "ralts",
+		"name": "Ralts",
+		"id": 280
+	},
+	{
+		"number": "281",
+		"slug": "kirlia",
+		"name": "Kirlia",
+		"id": 281
+	},
+	{
+		"number": "282",
+		"slug": "gardevoir",
+		"name": "Gardevoir",
+		"id": 282
+	},
+	{
+		"number": "282",
+		"slug": "gardevoir",
+		"name": "Gardevoir",
+		"id": 282
+	},
+	{
+		"number": "283",
+		"slug": "surskit",
+		"name": "Surskit",
+		"id": 283
+	},
+	{
+		"number": "284",
+		"slug": "masquerain",
+		"name": "Masquerain",
+		"id": 284
+	},
+	{
+		"number": "285",
+		"slug": "shroomish",
+		"name": "Shroomish",
+		"id": 285
+	},
+	{
+		"number": "286",
+		"slug": "breloom",
+		"name": "Breloom",
+		"id": 286
+	},
+	{
+		"number": "287",
+		"slug": "slakoth",
+		"name": "Slakoth",
+		"id": 287
+	},
+	{
+		"number": "288",
+		"slug": "vigoroth",
+		"name": "Vigoroth",
+		"id": 288
+	},
+	{
+		"number": "289",
+		"slug": "slaking",
+		"name": "Slaking",
+		"id": 289
+	},
+	{
+		"number": "290",
+		"slug": "nincada",
+		"name": "Nincada",
+		"id": 290
+	},
+	{
+		"number": "291",
+		"slug": "ninjask",
+		"name": "Ninjask",
+		"id": 291
+	},
+	{
+		"number": "292",
+		"slug": "shedinja",
+		"name": "Shedinja",
+		"id": 292
+	},
+	{
+		"number": "293",
+		"slug": "whismur",
+		"name": "Whismur",
+		"id": 293
+	},
+	{
+		"number": "294",
+		"slug": "loudred",
+		"name": "Loudred",
+		"id": 294
+	},
+	{
+		"number": "295",
+		"slug": "exploud",
+		"name": "Exploud",
+		"id": 295
+	},
+	{
+		"number": "296",
+		"slug": "makuhita",
+		"name": "Makuhita",
+		"id": 296
+	},
+	{
+		"number": "297",
+		"slug": "hariyama",
+		"name": "Hariyama",
+		"id": 297
+	},
+	{
+		"number": "298",
+		"slug": "azurill",
+		"name": "Azurill",
+		"id": 298
+	},
+	{
+		"number": "299",
+		"slug": "nosepass",
+		"name": "Nosepass",
+		"id": 299
+	},
+	{
+		"number": "300",
+		"slug": "skitty",
+		"name": "Skitty",
+		"id": 300
+	},
+	{
+		"number": "301",
+		"slug": "delcatty",
+		"name": "Delcatty",
+		"id": 301
+	},
+	{
+		"number": "302",
+		"slug": "sableye",
+		"name": "Sableye",
+		"id": 302
+	},
+	{
+		"number": "302",
+		"slug": "sableye",
+		"name": "Sableye",
+		"id": 302
+	},
+	{
+		"number": "303",
+		"slug": "mawile",
+		"name": "Mawile",
+		"id": 303
+	},
+	{
+		"number": "303",
+		"slug": "mawile",
+		"name": "Mawile",
+		"id": 303
+	},
+	{
+		"number": "304",
+		"slug": "aron",
+		"name": "Aron",
+		"id": 304
+	},
+	{
+		"number": "305",
+		"slug": "lairon",
+		"name": "Lairon",
+		"id": 305
+	},
+	{
+		"number": "306",
+		"slug": "aggron",
+		"name": "Aggron",
+		"id": 306
+	},
+	{
+		"number": "306",
+		"slug": "aggron",
+		"name": "Aggron",
+		"id": 306
+	},
+	{
+		"number": "307",
+		"slug": "meditite",
+		"name": "Meditite",
+		"id": 307
+	},
+	{
+		"number": "308",
+		"slug": "medicham",
+		"name": "Medicham",
+		"id": 308
+	},
+	{
+		"number": "308",
+		"slug": "medicham",
+		"name": "Medicham",
+		"id": 308
+	},
+	{
+		"number": "309",
+		"slug": "electrike",
+		"name": "Electrike",
+		"id": 309
+	},
+	{
+		"number": "310",
+		"slug": "manectric",
+		"name": "Manectric",
+		"id": 310
+	},
+	{
+		"number": "310",
+		"slug": "manectric",
+		"name": "Manectric",
+		"id": 310
+	},
+	{
+		"number": "311",
+		"slug": "plusle",
+		"name": "Plusle",
+		"id": 311
+	},
+	{
+		"number": "312",
+		"slug": "minun",
+		"name": "Minun",
+		"id": 312
+	},
+	{
+		"number": "313",
+		"slug": "volbeat",
+		"name": "Volbeat",
+		"id": 313
+	},
+	{
+		"number": "314",
+		"slug": "illumise",
+		"name": "Illumise",
+		"id": 314
+	},
+	{
+		"number": "315",
+		"slug": "roselia",
+		"name": "Roselia",
+		"id": 315
+	},
+	{
+		"number": "316",
+		"slug": "gulpin",
+		"name": "Gulpin",
+		"id": 316
+	},
+	{
+		"number": "317",
+		"slug": "swalot",
+		"name": "Swalot",
+		"id": 317
+	},
+	{
+		"number": "318",
+		"slug": "carvanha",
+		"name": "Carvanha",
+		"id": 318
+	},
+	{
+		"number": "319",
+		"slug": "sharpedo",
+		"name": "Sharpedo",
+		"id": 319
+	},
+	{
+		"number": "319",
+		"slug": "sharpedo",
+		"name": "Sharpedo",
+		"id": 319
+	},
+	{
+		"number": "320",
+		"slug": "wailmer",
+		"name": "Wailmer",
+		"id": 320
+	},
+	{
+		"number": "321",
+		"slug": "wailord",
+		"name": "Wailord",
+		"id": 321
+	},
+	{
+		"number": "322",
+		"slug": "numel",
+		"name": "Numel",
+		"id": 322
+	},
+	{
+		"number": "323",
+		"slug": "camerupt",
+		"name": "Camerupt",
+		"id": 323
+	},
+	{
+		"number": "323",
+		"slug": "camerupt",
+		"name": "Camerupt",
+		"id": 323
+	},
+	{
+		"number": "324",
+		"slug": "torkoal",
+		"name": "Torkoal",
+		"id": 324
+	},
+	{
+		"number": "325",
+		"slug": "spoink",
+		"name": "Spoink",
+		"id": 325
+	},
+	{
+		"number": "326",
+		"slug": "grumpig",
+		"name": "Grumpig",
+		"id": 326
+	},
+	{
+		"number": "327",
+		"slug": "spinda",
+		"name": "Spinda",
+		"id": 327
+	},
+	{
+		"number": "328",
+		"slug": "trapinch",
+		"name": "Trapinch",
+		"id": 328
+	},
+	{
+		"number": "329",
+		"slug": "vibrava",
+		"name": "Vibrava",
+		"id": 329
+	},
+	{
+		"number": "330",
+		"slug": "flygon",
+		"name": "Flygon",
+		"id": 330
+	},
+	{
+		"number": "331",
+		"slug": "cacnea",
+		"name": "Cacnea",
+		"id": 331
+	},
+	{
+		"number": "332",
+		"slug": "cacturne",
+		"name": "Cacturne",
+		"id": 332
+	},
+	{
+		"number": "333",
+		"slug": "swablu",
+		"name": "Swablu",
+		"id": 333
+	},
+	{
+		"number": "334",
+		"slug": "altaria",
+		"name": "Altaria",
+		"id": 334
+	},
+	{
+		"number": "334",
+		"slug": "altaria",
+		"name": "Altaria",
+		"id": 334
+	},
+	{
+		"number": "335",
+		"slug": "zangoose",
+		"name": "Zangoose",
+		"id": 335
+	},
+	{
+		"number": "336",
+		"slug": "seviper",
+		"name": "Seviper",
+		"id": 336
+	},
+	{
+		"number": "337",
+		"slug": "lunatone",
+		"name": "Lunatone",
+		"id": 337
+	},
+	{
+		"number": "338",
+		"slug": "solrock",
+		"name": "Solrock",
+		"id": 338
+	},
+	{
+		"number": "339",
+		"slug": "barboach",
+		"name": "Barboach",
+		"id": 339
+	},
+	{
+		"number": "340",
+		"slug": "whiscash",
+		"name": "Whiscash",
+		"id": 340
+	},
+	{
+		"number": "341",
+		"slug": "corphish",
+		"name": "Corphish",
+		"id": 341
+	},
+	{
+		"number": "342",
+		"slug": "crawdaunt",
+		"name": "Crawdaunt",
+		"id": 342
+	},
+	{
+		"number": "343",
+		"slug": "baltoy",
+		"name": "Baltoy",
+		"id": 343
+	},
+	{
+		"number": "344",
+		"slug": "claydol",
+		"name": "Claydol",
+		"id": 344
+	},
+	{
+		"number": "345",
+		"slug": "lileep",
+		"name": "Lileep",
+		"id": 345
+	},
+	{
+		"number": "346",
+		"slug": "cradily",
+		"name": "Cradily",
+		"id": 346
+	},
+	{
+		"number": "347",
+		"slug": "anorith",
+		"name": "Anorith",
+		"id": 347
+	},
+	{
+		"number": "348",
+		"slug": "armaldo",
+		"name": "Armaldo",
+		"id": 348
+	},
+	{
+		"number": "349",
+		"slug": "feebas",
+		"name": "Feebas",
+		"id": 349
+	},
+	{
+		"number": "350",
+		"slug": "milotic",
+		"name": "Milotic",
+		"id": 350
+	},
+	{
+		"number": "351",
+		"slug": "castform",
+		"name": "Castform",
+		"id": 351
+	},
+	{
+		"number": "351",
+		"slug": "castform",
+		"name": "Castform",
+		"id": 351
+	},
+	{
+		"number": "351",
+		"slug": "castform",
+		"name": "Castform",
+		"id": 351
+	},
+	{
+		"number": "351",
+		"slug": "castform",
+		"name": "Castform",
+		"id": 351
+	},
+	{
+		"number": "352",
+		"slug": "kecleon",
+		"name": "Kecleon",
+		"id": 352
+	},
+	{
+		"number": "353",
+		"slug": "shuppet",
+		"name": "Shuppet",
+		"id": 353
+	},
+	{
+		"number": "354",
+		"slug": "banette",
+		"name": "Banette",
+		"id": 354
+	},
+	{
+		"number": "354",
+		"slug": "banette",
+		"name": "Banette",
+		"id": 354
+	},
+	{
+		"number": "355",
+		"slug": "duskull",
+		"name": "Duskull",
+		"id": 355
+	},
+	{
+		"number": "356",
+		"slug": "dusclops",
+		"name": "Dusclops",
+		"id": 356
+	},
+	{
+		"number": "357",
+		"slug": "tropius",
+		"name": "Tropius",
+		"id": 357
+	},
+	{
+		"number": "358",
+		"slug": "chimecho",
+		"name": "Chimecho",
+		"id": 358
+	},
+	{
+		"number": "359",
+		"slug": "absol",
+		"name": "Absol",
+		"id": 359
+	},
+	{
+		"number": "359",
+		"slug": "absol",
+		"name": "Absol",
+		"id": 359
+	},
+	{
+		"number": "360",
+		"slug": "wynaut",
+		"name": "Wynaut",
+		"id": 360
+	},
+	{
+		"number": "361",
+		"slug": "snorunt",
+		"name": "Snorunt",
+		"id": 361
+	},
+	{
+		"number": "362",
+		"slug": "glalie",
+		"name": "Glalie",
+		"id": 362
+	},
+	{
+		"number": "362",
+		"slug": "glalie",
+		"name": "Glalie",
+		"id": 362
+	},
+	{
+		"number": "363",
+		"slug": "spheal",
+		"name": "Spheal",
+		"id": 363
+	},
+	{
+		"number": "364",
+		"slug": "sealeo",
+		"name": "Sealeo",
+		"id": 364
+	},
+	{
+		"number": "365",
+		"slug": "walrein",
+		"name": "Walrein",
+		"id": 365
+	},
+	{
+		"number": "366",
+		"slug": "clamperl",
+		"name": "Clamperl",
+		"id": 366
+	},
+	{
+		"number": "367",
+		"slug": "huntail",
+		"name": "Huntail",
+		"id": 367
+	},
+	{
+		"number": "368",
+		"slug": "gorebyss",
+		"name": "Gorebyss",
+		"id": 368
+	},
+	{
+		"number": "369",
+		"slug": "relicanth",
+		"name": "Relicanth",
+		"id": 369
+	},
+	{
+		"number": "370",
+		"slug": "luvdisc",
+		"name": "Luvdisc",
+		"id": 370
+	},
+	{
+		"number": "371",
+		"slug": "bagon",
+		"name": "Bagon",
+		"id": 371
+	},
+	{
+		"number": "372",
+		"slug": "shelgon",
+		"name": "Shelgon",
+		"id": 372
+	},
+	{
+		"number": "373",
+		"slug": "salamence",
+		"name": "Salamence",
+		"id": 373
+	},
+	{
+		"number": "373",
+		"slug": "salamence",
+		"name": "Salamence",
+		"id": 373
+	},
+	{
+		"number": "374",
+		"slug": "beldum",
+		"name": "Beldum",
+		"id": 374
+	},
+	{
+		"number": "375",
+		"slug": "metang",
+		"name": "Metang",
+		"id": 375
+	},
+	{
+		"number": "376",
+		"slug": "metagross",
+		"name": "Metagross",
+		"id": 376
+	},
+	{
+		"number": "376",
+		"slug": "metagross",
+		"name": "Metagross",
+		"id": 376
+	},
+	{
+		"number": "377",
+		"slug": "regirock",
+		"name": "Regirock",
+		"id": 377
+	},
+	{
+		"number": "378",
+		"slug": "regice",
+		"name": "Regice",
+		"id": 378
+	},
+	{
+		"number": "379",
+		"slug": "registeel",
+		"name": "Registeel",
+		"id": 379
+	},
+	{
+		"number": "380",
+		"slug": "latias",
+		"name": "Latias",
+		"id": 380
+	},
+	{
+		"number": "380",
+		"slug": "latias",
+		"name": "Latias",
+		"id": 380
+	},
+	{
+		"number": "381",
+		"slug": "latios",
+		"name": "Latios",
+		"id": 381
+	},
+	{
+		"number": "381",
+		"slug": "latios",
+		"name": "Latios",
+		"id": 381
+	},
+	{
+		"number": "382",
+		"slug": "kyogre",
+		"name": "Kyogre",
+		"id": 382
+	},
+	{
+		"number": "382",
+		"slug": "kyogre",
+		"name": "Kyogre",
+		"id": 382
+	},
+	{
+		"number": "383",
+		"slug": "groudon",
+		"name": "Groudon",
+		"id": 383
+	},
+	{
+		"number": "383",
+		"slug": "groudon",
+		"name": "Groudon",
+		"id": 383
+	},
+	{
+		"number": "384",
+		"slug": "rayquaza",
+		"name": "Rayquaza",
+		"id": 384
+	},
+	{
+		"number": "384",
+		"slug": "rayquaza",
+		"name": "Rayquaza",
+		"id": 384
+	},
+	{
+		"number": "385",
+		"slug": "jirachi",
+		"name": "Jirachi",
+		"id": 385
+	},
+	{
+		"number": "386",
+		"slug": "deoxys",
+		"name": "Deoxys",
+		"id": 386
+	},
+	{
+		"number": "386",
+		"slug": "deoxys",
+		"name": "Deoxys",
+		"id": 386
+	},
+	{
+		"number": "386",
+		"slug": "deoxys",
+		"name": "Deoxys",
+		"id": 386
+	},
+	{
+		"number": "386",
+		"slug": "deoxys",
+		"name": "Deoxys",
+		"id": 386
+	},
+	{
+		"number": "387",
+		"slug": "turtwig",
+		"name": "Turtwig",
+		"id": 387
+	},
+	{
+		"number": "388",
+		"slug": "grotle",
+		"name": "Grotle",
+		"id": 388
+	},
+	{
+		"number": "389",
+		"slug": "torterra",
+		"name": "Torterra",
+		"id": 389
+	},
+	{
+		"number": "390",
+		"slug": "chimchar",
+		"name": "Chimchar",
+		"id": 390
+	},
+	{
+		"number": "391",
+		"slug": "monferno",
+		"name": "Monferno",
+		"id": 391
+	},
+	{
+		"number": "392",
+		"slug": "infernape",
+		"name": "Infernape",
+		"id": 392
+	},
+	{
+		"number": "393",
+		"slug": "piplup",
+		"name": "Piplup",
+		"id": 393
+	},
+	{
+		"number": "394",
+		"slug": "prinplup",
+		"name": "Prinplup",
+		"id": 394
+	},
+	{
+		"number": "395",
+		"slug": "empoleon",
+		"name": "Empoleon",
+		"id": 395
+	},
+	{
+		"number": "396",
+		"slug": "starly",
+		"name": "Starly",
+		"id": 396
+	},
+	{
+		"number": "397",
+		"slug": "staravia",
+		"name": "Staravia",
+		"id": 397
+	},
+	{
+		"number": "398",
+		"slug": "staraptor",
+		"name": "Staraptor",
+		"id": 398
+	},
+	{
+		"number": "399",
+		"slug": "bidoof",
+		"name": "Bidoof",
+		"id": 399
+	},
+	{
+		"number": "400",
+		"slug": "bibarel",
+		"name": "Bibarel",
+		"id": 400
+	},
+	{
+		"number": "401",
+		"slug": "kricketot",
+		"name": "Kricketot",
+		"id": 401
+	},
+	{
+		"number": "402",
+		"slug": "kricketune",
+		"name": "Kricketune",
+		"id": 402
+	},
+	{
+		"number": "403",
+		"slug": "shinx",
+		"name": "Shinx",
+		"id": 403
+	},
+	{
+		"number": "404",
+		"slug": "luxio",
+		"name": "Luxio",
+		"id": 404
+	},
+	{
+		"number": "405",
+		"slug": "luxray",
+		"name": "Luxray",
+		"id": 405
+	},
+	{
+		"number": "406",
+		"slug": "budew",
+		"name": "Budew",
+		"id": 406
+	},
+	{
+		"number": "407",
+		"slug": "roserade",
+		"name": "Roserade",
+		"id": 407
+	},
+	{
+		"number": "408",
+		"slug": "cranidos",
+		"name": "Cranidos",
+		"id": 408
+	},
+	{
+		"number": "409",
+		"slug": "rampardos",
+		"name": "Rampardos",
+		"id": 409
+	},
+	{
+		"number": "410",
+		"slug": "shieldon",
+		"name": "Shieldon",
+		"id": 410
+	},
+	{
+		"number": "411",
+		"slug": "bastiodon",
+		"name": "Bastiodon",
+		"id": 411
+	},
+	{
+		"number": "412",
+		"slug": "burmy",
+		"name": "Burmy",
+		"id": 412
+	},
+	{
+		"number": "412",
+		"slug": "burmy",
+		"name": "Burmy",
+		"id": 412
+	},
+	{
+		"number": "412",
+		"slug": "burmy",
+		"name": "Burmy",
+		"id": 412
+	},
+	{
+		"number": "413",
+		"slug": "wormadam",
+		"name": "Wormadam",
+		"id": 413
+	},
+	{
+		"number": "413",
+		"slug": "wormadam",
+		"name": "Wormadam",
+		"id": 413
+	},
+	{
+		"number": "413",
+		"slug": "wormadam",
+		"name": "Wormadam",
+		"id": 413
+	},
+	{
+		"number": "414",
+		"slug": "mothim",
+		"name": "Mothim",
+		"id": 414
+	},
+	{
+		"number": "415",
+		"slug": "combee",
+		"name": "Combee",
+		"id": 415
+	},
+	{
+		"number": "416",
+		"slug": "vespiquen",
+		"name": "Vespiquen",
+		"id": 416
+	},
+	{
+		"number": "417",
+		"slug": "pachirisu",
+		"name": "Pachirisu",
+		"id": 417
+	},
+	{
+		"number": "418",
+		"slug": "buizel",
+		"name": "Buizel",
+		"id": 418
+	},
+	{
+		"number": "419",
+		"slug": "floatzel",
+		"name": "Floatzel",
+		"id": 419
+	},
+	{
+		"number": "420",
+		"slug": "cherubi",
+		"name": "Cherubi",
+		"id": 420
+	},
+	{
+		"number": "421",
+		"slug": "cherrim",
+		"name": "Cherrim",
+		"id": 421
+	},
+	{
+		"number": "421",
+		"slug": "cherrim",
+		"name": "Cherrim",
+		"id": 421
+	},
+	{
+		"number": "422",
+		"slug": "shellos",
+		"name": "Shellos",
+		"id": 422
+	},
+	{
+		"number": "422",
+		"slug": "shellos",
+		"name": "Shellos",
+		"id": 422
+	},
+	{
+		"number": "423",
+		"slug": "gastrodon",
+		"name": "Gastrodon",
+		"id": 423
+	},
+	{
+		"number": "423",
+		"slug": "gastrodon",
+		"name": "Gastrodon",
+		"id": 423
+	},
+	{
+		"number": "424",
+		"slug": "ambipom",
+		"name": "Ambipom",
+		"id": 424
+	},
+	{
+		"number": "425",
+		"slug": "drifloon",
+		"name": "Drifloon",
+		"id": 425
+	},
+	{
+		"number": "426",
+		"slug": "drifblim",
+		"name": "Drifblim",
+		"id": 426
+	},
+	{
+		"number": "427",
+		"slug": "buneary",
+		"name": "Buneary",
+		"id": 427
+	},
+	{
+		"number": "428",
+		"slug": "lopunny",
+		"name": "Lopunny",
+		"id": 428
+	},
+	{
+		"number": "428",
+		"slug": "lopunny",
+		"name": "Lopunny",
+		"id": 428
+	},
+	{
+		"number": "429",
+		"slug": "mismagius",
+		"name": "Mismagius",
+		"id": 429
+	},
+	{
+		"number": "430",
+		"slug": "honchkrow",
+		"name": "Honchkrow",
+		"id": 430
+	},
+	{
+		"number": "431",
+		"slug": "glameow",
+		"name": "Glameow",
+		"id": 431
+	},
+	{
+		"number": "432",
+		"slug": "purugly",
+		"name": "Purugly",
+		"id": 432
+	},
+	{
+		"number": "433",
+		"slug": "chingling",
+		"name": "Chingling",
+		"id": 433
+	},
+	{
+		"number": "434",
+		"slug": "stunky",
+		"name": "Stunky",
+		"id": 434
+	},
+	{
+		"number": "435",
+		"slug": "skuntank",
+		"name": "Skuntank",
+		"id": 435
+	},
+	{
+		"number": "436",
+		"slug": "bronzor",
+		"name": "Bronzor",
+		"id": 436
+	},
+	{
+		"number": "437",
+		"slug": "bronzong",
+		"name": "Bronzong",
+		"id": 437
+	},
+	{
+		"number": "438",
+		"slug": "bonsly",
+		"name": "Bonsly",
+		"id": 438
+	},
+	{
+		"number": "439",
+		"slug": "mime-jr",
+		"name": "Mime Jr.",
+		"id": 439
+	},
+	{
+		"number": "440",
+		"slug": "happiny",
+		"name": "Happiny",
+		"id": 440
+	},
+	{
+		"number": "441",
+		"slug": "chatot",
+		"name": "Chatot",
+		"id": 441
+	},
+	{
+		"number": "442",
+		"slug": "spiritomb",
+		"name": "Spiritomb",
+		"id": 442
+	},
+	{
+		"number": "443",
+		"slug": "gible",
+		"name": "Gible",
+		"id": 443
+	},
+	{
+		"number": "444",
+		"slug": "gabite",
+		"name": "Gabite",
+		"id": 444
+	},
+	{
+		"number": "445",
+		"slug": "garchomp",
+		"name": "Garchomp",
+		"id": 445
+	},
+	{
+		"number": "445",
+		"slug": "garchomp",
+		"name": "Garchomp",
+		"id": 445
+	},
+	{
+		"number": "446",
+		"slug": "munchlax",
+		"name": "Munchlax",
+		"id": 446
+	},
+	{
+		"number": "447",
+		"slug": "riolu",
+		"name": "Riolu",
+		"id": 447
+	},
+	{
+		"number": "448",
+		"slug": "lucario",
+		"name": "Lucario",
+		"id": 448
+	},
+	{
+		"number": "448",
+		"slug": "lucario",
+		"name": "Lucario",
+		"id": 448
+	},
+	{
+		"number": "449",
+		"slug": "hippopotas",
+		"name": "Hippopotas",
+		"id": 449
+	},
+	{
+		"number": "450",
+		"slug": "hippowdon",
+		"name": "Hippowdon",
+		"id": 450
+	},
+	{
+		"number": "451",
+		"slug": "skorupi",
+		"name": "Skorupi",
+		"id": 451
+	},
+	{
+		"number": "452",
+		"slug": "drapion",
+		"name": "Drapion",
+		"id": 452
+	},
+	{
+		"number": "453",
+		"slug": "croagunk",
+		"name": "Croagunk",
+		"id": 453
+	},
+	{
+		"number": "454",
+		"slug": "toxicroak",
+		"name": "Toxicroak",
+		"id": 454
+	},
+	{
+		"number": "455",
+		"slug": "carnivine",
+		"name": "Carnivine",
+		"id": 455
+	},
+	{
+		"number": "456",
+		"slug": "finneon",
+		"name": "Finneon",
+		"id": 456
+	},
+	{
+		"number": "457",
+		"slug": "lumineon",
+		"name": "Lumineon",
+		"id": 457
+	},
+	{
+		"number": "458",
+		"slug": "mantyke",
+		"name": "Mantyke",
+		"id": 458
+	},
+	{
+		"number": "459",
+		"slug": "snover",
+		"name": "Snover",
+		"id": 459
+	},
+	{
+		"number": "460",
+		"slug": "abomasnow",
+		"name": "Abomasnow",
+		"id": 460
+	},
+	{
+		"number": "460",
+		"slug": "abomasnow",
+		"name": "Abomasnow",
+		"id": 460
+	},
+	{
+		"number": "461",
+		"slug": "weavile",
+		"name": "Weavile",
+		"id": 461
+	},
+	{
+		"number": "462",
+		"slug": "magnezone",
+		"name": "Magnezone",
+		"id": 462
+	},
+	{
+		"number": "463",
+		"slug": "lickilicky",
+		"name": "Lickilicky",
+		"id": 463
+	},
+	{
+		"number": "464",
+		"slug": "rhyperior",
+		"name": "Rhyperior",
+		"id": 464
+	},
+	{
+		"number": "465",
+		"slug": "tangrowth",
+		"name": "Tangrowth",
+		"id": 465
+	},
+	{
+		"number": "466",
+		"slug": "electivire",
+		"name": "Electivire",
+		"id": 466
+	},
+	{
+		"number": "467",
+		"slug": "magmortar",
+		"name": "Magmortar",
+		"id": 467
+	},
+	{
+		"number": "468",
+		"slug": "togekiss",
+		"name": "Togekiss",
+		"id": 468
+	},
+	{
+		"number": "469",
+		"slug": "yanmega",
+		"name": "Yanmega",
+		"id": 469
+	},
+	{
+		"number": "470",
+		"slug": "leafeon",
+		"name": "Leafeon",
+		"id": 470
+	},
+	{
+		"number": "471",
+		"slug": "glaceon",
+		"name": "Glaceon",
+		"id": 471
+	},
+	{
+		"number": "472",
+		"slug": "gliscor",
+		"name": "Gliscor",
+		"id": 472
+	},
+	{
+		"number": "473",
+		"slug": "mamoswine",
+		"name": "Mamoswine",
+		"id": 473
+	},
+	{
+		"number": "474",
+		"slug": "porygon-z",
+		"name": "Porygon-Z",
+		"id": 474
+	},
+	{
+		"number": "475",
+		"slug": "gallade",
+		"name": "Gallade",
+		"id": 475
+	},
+	{
+		"number": "475",
+		"slug": "gallade",
+		"name": "Gallade",
+		"id": 475
+	},
+	{
+		"number": "476",
+		"slug": "probopass",
+		"name": "Probopass",
+		"id": 476
+	},
+	{
+		"number": "477",
+		"slug": "dusknoir",
+		"name": "Dusknoir",
+		"id": 477
+	},
+	{
+		"number": "478",
+		"slug": "froslass",
+		"name": "Froslass",
+		"id": 478
+	},
+	{
+		"number": "479",
+		"slug": "rotom",
+		"name": "Rotom",
+		"id": 479
+	},
+	{
+		"number": "479",
+		"slug": "rotom",
+		"name": "Rotom",
+		"id": 479
+	},
+	{
+		"number": "479",
+		"slug": "rotom",
+		"name": "Rotom",
+		"id": 479
+	},
+	{
+		"number": "479",
+		"slug": "rotom",
+		"name": "Rotom",
+		"id": 479
+	},
+	{
+		"number": "479",
+		"slug": "rotom",
+		"name": "Rotom",
+		"id": 479
+	},
+	{
+		"number": "479",
+		"slug": "rotom",
+		"name": "Rotom",
+		"id": 479
+	},
+	{
+		"number": "480",
+		"slug": "uxie",
+		"name": "Uxie",
+		"id": 480
+	},
+	{
+		"number": "481",
+		"slug": "mesprit",
+		"name": "Mesprit",
+		"id": 481
+	},
+	{
+		"number": "482",
+		"slug": "azelf",
+		"name": "Azelf",
+		"id": 482
+	},
+	{
+		"number": "483",
+		"slug": "dialga",
+		"name": "Dialga",
+		"id": 483
+	},
+	{
+		"number": "484",
+		"slug": "palkia",
+		"name": "Palkia",
+		"id": 484
+	},
+	{
+		"number": "485",
+		"slug": "heatran",
+		"name": "Heatran",
+		"id": 485
+	},
+	{
+		"number": "486",
+		"slug": "regigigas",
+		"name": "Regigigas",
+		"id": 486
+	},
+	{
+		"number": "487",
+		"slug": "giratina",
+		"name": "Giratina",
+		"id": 487
+	},
+	{
+		"number": "487",
+		"slug": "giratina",
+		"name": "Giratina",
+		"id": 487
+	},
+	{
+		"number": "488",
+		"slug": "cresselia",
+		"name": "Cresselia",
+		"id": 488
+	},
+	{
+		"number": "489",
+		"slug": "phione",
+		"name": "Phione",
+		"id": 489
+	},
+	{
+		"number": "490",
+		"slug": "manaphy",
+		"name": "Manaphy",
+		"id": 490
+	},
+	{
+		"number": "491",
+		"slug": "darkrai",
+		"name": "Darkrai",
+		"id": 491
+	},
+	{
+		"number": "492",
+		"slug": "shaymin",
+		"name": "Shaymin",
+		"id": 492
+	},
+	{
+		"number": "492",
+		"slug": "shaymin",
+		"name": "Shaymin",
+		"id": 492
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "493",
+		"slug": "arceus",
+		"name": "Arceus",
+		"id": 493
+	},
+	{
+		"number": "494",
+		"slug": "victini",
+		"name": "Victini",
+		"id": 494
+	},
+	{
+		"number": "495",
+		"slug": "snivy",
+		"name": "Snivy",
+		"id": 495
+	},
+	{
+		"number": "496",
+		"slug": "servine",
+		"name": "Servine",
+		"id": 496
+	},
+	{
+		"number": "497",
+		"slug": "serperior",
+		"name": "Serperior",
+		"id": 497
+	},
+	{
+		"number": "498",
+		"slug": "tepig",
+		"name": "Tepig",
+		"id": 498
+	},
+	{
+		"number": "499",
+		"slug": "pignite",
+		"name": "Pignite",
+		"id": 499
+	},
+	{
+		"number": "500",
+		"slug": "emboar",
+		"name": "Emboar",
+		"id": 500
+	},
+	{
+		"number": "501",
+		"slug": "oshawott",
+		"name": "Oshawott",
+		"id": 501
+	},
+	{
+		"number": "502",
+		"slug": "dewott",
+		"name": "Dewott",
+		"id": 502
+	},
+	{
+		"number": "503",
+		"slug": "samurott",
+		"name": "Samurott",
+		"id": 503
+	},
+	{
+		"number": "504",
+		"slug": "patrat",
+		"name": "Patrat",
+		"id": 504
+	},
+	{
+		"number": "505",
+		"slug": "watchog",
+		"name": "Watchog",
+		"id": 505
+	},
+	{
+		"number": "506",
+		"slug": "lillipup",
+		"name": "Lillipup",
+		"id": 506
+	},
+	{
+		"number": "507",
+		"slug": "herdier",
+		"name": "Herdier",
+		"id": 507
+	},
+	{
+		"number": "508",
+		"slug": "stoutland",
+		"name": "Stoutland",
+		"id": 508
+	},
+	{
+		"number": "509",
+		"slug": "purrloin",
+		"name": "Purrloin",
+		"id": 509
+	},
+	{
+		"number": "510",
+		"slug": "liepard",
+		"name": "Liepard",
+		"id": 510
+	},
+	{
+		"number": "511",
+		"slug": "pansage",
+		"name": "Pansage",
+		"id": 511
+	},
+	{
+		"number": "512",
+		"slug": "simisage",
+		"name": "Simisage",
+		"id": 512
+	},
+	{
+		"number": "513",
+		"slug": "pansear",
+		"name": "Pansear",
+		"id": 513
+	},
+	{
+		"number": "514",
+		"slug": "simisear",
+		"name": "Simisear",
+		"id": 514
+	},
+	{
+		"number": "515",
+		"slug": "panpour",
+		"name": "Panpour",
+		"id": 515
+	},
+	{
+		"number": "516",
+		"slug": "simipour",
+		"name": "Simipour",
+		"id": 516
+	},
+	{
+		"number": "517",
+		"slug": "munna",
+		"name": "Munna",
+		"id": 517
+	},
+	{
+		"number": "518",
+		"slug": "musharna",
+		"name": "Musharna",
+		"id": 518
+	},
+	{
+		"number": "519",
+		"slug": "pidove",
+		"name": "Pidove",
+		"id": 519
+	},
+	{
+		"number": "520",
+		"slug": "tranquill",
+		"name": "Tranquill",
+		"id": 520
+	},
+	{
+		"number": "521",
+		"slug": "unfezant",
+		"name": "Unfezant",
+		"id": 521
+	},
+	{
+		"number": "522",
+		"slug": "blitzle",
+		"name": "Blitzle",
+		"id": 522
+	},
+	{
+		"number": "523",
+		"slug": "zebstrika",
+		"name": "Zebstrika",
+		"id": 523
+	},
+	{
+		"number": "524",
+		"slug": "roggenrola",
+		"name": "Roggenrola",
+		"id": 524
+	},
+	{
+		"number": "525",
+		"slug": "boldore",
+		"name": "Boldore",
+		"id": 525
+	},
+	{
+		"number": "526",
+		"slug": "gigalith",
+		"name": "Gigalith",
+		"id": 526
+	},
+	{
+		"number": "527",
+		"slug": "woobat",
+		"name": "Woobat",
+		"id": 527
+	},
+	{
+		"number": "528",
+		"slug": "swoobat",
+		"name": "Swoobat",
+		"id": 528
+	},
+	{
+		"number": "529",
+		"slug": "drilbur",
+		"name": "Drilbur",
+		"id": 529
+	},
+	{
+		"number": "530",
+		"slug": "excadrill",
+		"name": "Excadrill",
+		"id": 530
+	},
+	{
+		"number": "531",
+		"slug": "audino",
+		"name": "Audino",
+		"id": 531
+	},
+	{
+		"number": "531",
+		"slug": "audino",
+		"name": "Audino",
+		"id": 531
+	},
+	{
+		"number": "532",
+		"slug": "timburr",
+		"name": "Timburr",
+		"id": 532
+	},
+	{
+		"number": "533",
+		"slug": "gurdurr",
+		"name": "Gurdurr",
+		"id": 533
+	},
+	{
+		"number": "534",
+		"slug": "conkeldurr",
+		"name": "Conkeldurr",
+		"id": 534
+	},
+	{
+		"number": "535",
+		"slug": "tympole",
+		"name": "Tympole",
+		"id": 535
+	},
+	{
+		"number": "536",
+		"slug": "palpitoad",
+		"name": "Palpitoad",
+		"id": 536
+	},
+	{
+		"number": "537",
+		"slug": "seismitoad",
+		"name": "Seismitoad",
+		"id": 537
+	},
+	{
+		"number": "538",
+		"slug": "throh",
+		"name": "Throh",
+		"id": 538
+	},
+	{
+		"number": "539",
+		"slug": "sawk",
+		"name": "Sawk",
+		"id": 539
+	},
+	{
+		"number": "540",
+		"slug": "sewaddle",
+		"name": "Sewaddle",
+		"id": 540
+	},
+	{
+		"number": "541",
+		"slug": "swadloon",
+		"name": "Swadloon",
+		"id": 541
+	},
+	{
+		"number": "542",
+		"slug": "leavanny",
+		"name": "Leavanny",
+		"id": 542
+	},
+	{
+		"number": "543",
+		"slug": "venipede",
+		"name": "Venipede",
+		"id": 543
+	},
+	{
+		"number": "544",
+		"slug": "whirlipede",
+		"name": "Whirlipede",
+		"id": 544
+	},
+	{
+		"number": "545",
+		"slug": "scolipede",
+		"name": "Scolipede",
+		"id": 545
+	},
+	{
+		"number": "546",
+		"slug": "cottonee",
+		"name": "Cottonee",
+		"id": 546
+	},
+	{
+		"number": "547",
+		"slug": "whimsicott",
+		"name": "Whimsicott",
+		"id": 547
+	},
+	{
+		"number": "548",
+		"slug": "petilil",
+		"name": "Petilil",
+		"id": 548
+	},
+	{
+		"number": "549",
+		"slug": "lilligant",
+		"name": "Lilligant",
+		"id": 549
+	},
+	{
+		"number": "550",
+		"slug": "basculin",
+		"name": "Basculin",
+		"id": 550
+	},
+	{
+		"number": "550",
+		"slug": "basculin",
+		"name": "Basculin",
+		"id": 550
+	},
+	{
+		"number": "551",
+		"slug": "sandile",
+		"name": "Sandile",
+		"id": 551
+	},
+	{
+		"number": "552",
+		"slug": "krokorok",
+		"name": "Krokorok",
+		"id": 552
+	},
+	{
+		"number": "553",
+		"slug": "krookodile",
+		"name": "Krookodile",
+		"id": 553
+	},
+	{
+		"number": "554",
+		"slug": "darumaka",
+		"name": "Darumaka",
+		"id": 554
+	},
+	{
+		"number": "555",
+		"slug": "darmanitan",
+		"name": "Darmanitan",
+		"id": 555
+	},
+	{
+		"number": "555",
+		"slug": "darmanitan",
+		"name": "Darmanitan",
+		"id": 555
+	},
+	{
+		"number": "556",
+		"slug": "maractus",
+		"name": "Maractus",
+		"id": 556
+	},
+	{
+		"number": "557",
+		"slug": "dwebble",
+		"name": "Dwebble",
+		"id": 557
+	},
+	{
+		"number": "558",
+		"slug": "crustle",
+		"name": "Crustle",
+		"id": 558
+	},
+	{
+		"number": "559",
+		"slug": "scraggy",
+		"name": "Scraggy",
+		"id": 559
+	},
+	{
+		"number": "560",
+		"slug": "scrafty",
+		"name": "Scrafty",
+		"id": 560
+	},
+	{
+		"number": "561",
+		"slug": "sigilyph",
+		"name": "Sigilyph",
+		"id": 561
+	},
+	{
+		"number": "562",
+		"slug": "yamask",
+		"name": "Yamask",
+		"id": 562
+	},
+	{
+		"number": "563",
+		"slug": "cofagrigus",
+		"name": "Cofagrigus",
+		"id": 563
+	},
+	{
+		"number": "564",
+		"slug": "tirtouga",
+		"name": "Tirtouga",
+		"id": 564
+	},
+	{
+		"number": "565",
+		"slug": "carracosta",
+		"name": "Carracosta",
+		"id": 565
+	},
+	{
+		"number": "566",
+		"slug": "archen",
+		"name": "Archen",
+		"id": 566
+	},
+	{
+		"number": "567",
+		"slug": "archeops",
+		"name": "Archeops",
+		"id": 567
+	},
+	{
+		"number": "568",
+		"slug": "trubbish",
+		"name": "Trubbish",
+		"id": 568
+	},
+	{
+		"number": "569",
+		"slug": "garbodor",
+		"name": "Garbodor",
+		"id": 569
+	},
+	{
+		"number": "570",
+		"slug": "zorua",
+		"name": "Zorua",
+		"id": 570
+	},
+	{
+		"number": "571",
+		"slug": "zoroark",
+		"name": "Zoroark",
+		"id": 571
+	},
+	{
+		"number": "572",
+		"slug": "minccino",
+		"name": "Minccino",
+		"id": 572
+	},
+	{
+		"number": "573",
+		"slug": "cinccino",
+		"name": "Cinccino",
+		"id": 573
+	},
+	{
+		"number": "574",
+		"slug": "gothita",
+		"name": "Gothita",
+		"id": 574
+	},
+	{
+		"number": "575",
+		"slug": "gothorita",
+		"name": "Gothorita",
+		"id": 575
+	},
+	{
+		"number": "576",
+		"slug": "gothitelle",
+		"name": "Gothitelle",
+		"id": 576
+	},
+	{
+		"number": "577",
+		"slug": "solosis",
+		"name": "Solosis ",
+		"id": 577
+	},
+	{
+		"number": "578",
+		"slug": "duosion",
+		"name": "Duosion",
+		"id": 578
+	},
+	{
+		"number": "579",
+		"slug": "reuniclus",
+		"name": "Reuniclus",
+		"id": 579
+	},
+	{
+		"number": "580",
+		"slug": "ducklett",
+		"name": "Ducklett",
+		"id": 580
+	},
+	{
+		"number": "581",
+		"slug": "swanna",
+		"name": "Swanna",
+		"id": 581
+	},
+	{
+		"number": "582",
+		"slug": "vanillite",
+		"name": "Vanillite",
+		"id": 582
+	},
+	{
+		"number": "583",
+		"slug": "vanillish",
+		"name": "Vanillish",
+		"id": 583
+	},
+	{
+		"number": "584",
+		"slug": "vanilluxe",
+		"name": "Vanilluxe",
+		"id": 584
+	},
+	{
+		"number": "585",
+		"slug": "deerling",
+		"name": "Deerling",
+		"id": 585
+	},
+	{
+		"number": "585",
+		"slug": "deerling",
+		"name": "Deerling",
+		"id": 585
+	},
+	{
+		"number": "585",
+		"slug": "deerling",
+		"name": "Deerling",
+		"id": 585
+	},
+	{
+		"number": "585",
+		"slug": "deerling",
+		"name": "Deerling",
+		"id": 585
+	},
+	{
+		"number": "586",
+		"slug": "sawsbuck",
+		"name": "Sawsbuck",
+		"id": 586
+	},
+	{
+		"number": "586",
+		"slug": "sawsbuck",
+		"name": "Sawsbuck",
+		"id": 586
+	},
+	{
+		"number": "586",
+		"slug": "sawsbuck",
+		"name": "Sawsbuck",
+		"id": 586
+	},
+	{
+		"number": "586",
+		"slug": "sawsbuck",
+		"name": "Sawsbuck",
+		"id": 586
+	},
+	{
+		"number": "587",
+		"slug": "emolga",
+		"name": "Emolga",
+		"id": 587
+	},
+	{
+		"number": "588",
+		"slug": "karrablast",
+		"name": "Karrablast",
+		"id": 588
+	},
+	{
+		"number": "589",
+		"slug": "escavalier",
+		"name": "Escavalier",
+		"id": 589
+	},
+	{
+		"number": "590",
+		"slug": "foongus",
+		"name": "Foongus",
+		"id": 590
+	},
+	{
+		"number": "591",
+		"slug": "amoonguss",
+		"name": "Amoonguss",
+		"id": 591
+	},
+	{
+		"number": "592",
+		"slug": "frillish",
+		"name": "Frillish",
+		"id": 592
+	},
+	{
+		"number": "593",
+		"slug": "jellicent",
+		"name": "Jellicent",
+		"id": 593
+	},
+	{
+		"number": "594",
+		"slug": "alomomola",
+		"name": "Alomomola",
+		"id": 594
+	},
+	{
+		"number": "595",
+		"slug": "joltik",
+		"name": "Joltik",
+		"id": 595
+	},
+	{
+		"number": "596",
+		"slug": "galvantula",
+		"name": "Galvantula",
+		"id": 596
+	},
+	{
+		"number": "597",
+		"slug": "ferroseed",
+		"name": "Ferroseed",
+		"id": 597
+	},
+	{
+		"number": "598",
+		"slug": "ferrothorn",
+		"name": "Ferrothorn",
+		"id": 598
+	},
+	{
+		"number": "599",
+		"slug": "klink",
+		"name": "Klink",
+		"id": 599
+	},
+	{
+		"number": "600",
+		"slug": "klang",
+		"name": "Klang",
+		"id": 600
+	},
+	{
+		"number": "601",
+		"slug": "klinklang",
+		"name": "Klinklang",
+		"id": 601
+	},
+	{
+		"number": "602",
+		"slug": "tynamo",
+		"name": "Tynamo",
+		"id": 602
+	},
+	{
+		"number": "603",
+		"slug": "eelektrik",
+		"name": "Eelektrik",
+		"id": 603
+	},
+	{
+		"number": "604",
+		"slug": "eelektross",
+		"name": "Eelektross",
+		"id": 604
+	},
+	{
+		"number": "605",
+		"slug": "elgyem",
+		"name": "Elgyem",
+		"id": 605
+	},
+	{
+		"number": "606",
+		"slug": "beheeyem",
+		"name": "Beheeyem",
+		"id": 606
+	},
+	{
+		"number": "607",
+		"slug": "litwick",
+		"name": "Litwick",
+		"id": 607
+	},
+	{
+		"number": "608",
+		"slug": "lampent",
+		"name": "Lampent",
+		"id": 608
+	},
+	{
+		"number": "609",
+		"slug": "chandelure",
+		"name": "Chandelure",
+		"id": 609
+	},
+	{
+		"number": "610",
+		"slug": "axew",
+		"name": "Axew",
+		"id": 610
+	},
+	{
+		"number": "611",
+		"slug": "fraxure",
+		"name": "Fraxure",
+		"id": 611
+	},
+	{
+		"number": "612",
+		"slug": "haxorus",
+		"name": "Haxorus",
+		"id": 612
+	},
+	{
+		"number": "613",
+		"slug": "cubchoo",
+		"name": "Cubchoo",
+		"id": 613
+	},
+	{
+		"number": "614",
+		"slug": "beartic",
+		"name": "Beartic",
+		"id": 614
+	},
+	{
+		"number": "615",
+		"slug": "cryogonal",
+		"name": "Cryogonal",
+		"id": 615
+	},
+	{
+		"number": "616",
+		"slug": "shelmet",
+		"name": "Shelmet",
+		"id": 616
+	},
+	{
+		"number": "617",
+		"slug": "accelgor",
+		"name": "Accelgor",
+		"id": 617
+	},
+	{
+		"number": "618",
+		"slug": "stunfisk",
+		"name": "Stunfisk",
+		"id": 618
+	},
+	{
+		"number": "619",
+		"slug": "mienfoo",
+		"name": "Mienfoo",
+		"id": 619
+	},
+	{
+		"number": "620",
+		"slug": "mienshao",
+		"name": "Mienshao",
+		"id": 620
+	},
+	{
+		"number": "621",
+		"slug": "druddigon",
+		"name": "Druddigon",
+		"id": 621
+	},
+	{
+		"number": "622",
+		"slug": "golett",
+		"name": "Golett",
+		"id": 622
+	},
+	{
+		"number": "623",
+		"slug": "golurk",
+		"name": "Golurk",
+		"id": 623
+	},
+	{
+		"number": "624",
+		"slug": "pawniard",
+		"name": "Pawniard",
+		"id": 624
+	},
+	{
+		"number": "625",
+		"slug": "bisharp",
+		"name": "Bisharp",
+		"id": 625
+	},
+	{
+		"number": "626",
+		"slug": "bouffalant",
+		"name": "Bouffalant",
+		"id": 626
+	},
+	{
+		"number": "627",
+		"slug": "rufflet",
+		"name": "Rufflet",
+		"id": 627
+	},
+	{
+		"number": "628",
+		"slug": "braviary",
+		"name": "Braviary",
+		"id": 628
+	},
+	{
+		"number": "629",
+		"slug": "vullaby",
+		"name": "Vullaby",
+		"id": 629
+	},
+	{
+		"number": "630",
+		"slug": "mandibuzz",
+		"name": "Mandibuzz",
+		"id": 630
+	},
+	{
+		"number": "631",
+		"slug": "heatmor",
+		"name": "Heatmor",
+		"id": 631
+	},
+	{
+		"number": "632",
+		"slug": "durant",
+		"name": "Durant",
+		"id": 632
+	},
+	{
+		"number": "633",
+		"slug": "deino",
+		"name": "Deino",
+		"id": 633
+	},
+	{
+		"number": "634",
+		"slug": "zweilous",
+		"name": "Zweilous",
+		"id": 634
+	},
+	{
+		"number": "635",
+		"slug": "hydreigon",
+		"name": "Hydreigon",
+		"id": 635
+	},
+	{
+		"number": "636",
+		"slug": "larvesta",
+		"name": "Larvesta",
+		"id": 636
+	},
+	{
+		"number": "637",
+		"slug": "volcarona",
+		"name": "Volcarona",
+		"id": 637
+	},
+	{
+		"number": "638",
+		"slug": "cobalion",
+		"name": "Cobalion",
+		"id": 638
+	},
+	{
+		"number": "639",
+		"slug": "terrakion",
+		"name": "Terrakion",
+		"id": 639
+	},
+	{
+		"number": "640",
+		"slug": "virizion",
+		"name": "Virizion",
+		"id": 640
+	},
+	{
+		"number": "641",
+		"slug": "tornadus",
+		"name": "Tornadus",
+		"id": 641
+	},
+	{
+		"number": "641",
+		"slug": "tornadus",
+		"name": "Tornadus",
+		"id": 641
+	},
+	{
+		"number": "642",
+		"slug": "thundurus",
+		"name": "Thundurus",
+		"id": 642
+	},
+	{
+		"number": "642",
+		"slug": "thundurus",
+		"name": "Thundurus",
+		"id": 642
+	},
+	{
+		"number": "643",
+		"slug": "reshiram",
+		"name": "Reshiram",
+		"id": 643
+	},
+	{
+		"number": "644",
+		"slug": "zekrom",
+		"name": "Zekrom",
+		"id": 644
+	},
+	{
+		"number": "645",
+		"slug": "landorus",
+		"name": "Landorus",
+		"id": 645
+	},
+	{
+		"number": "645",
+		"slug": "landorus",
+		"name": "Landorus",
+		"id": 645
+	},
+	{
+		"number": "646",
+		"slug": "kyurem",
+		"name": "Kyurem",
+		"id": 646
+	},
+	{
+		"number": "646",
+		"slug": "kyurem",
+		"name": "Kyurem",
+		"id": 646
+	},
+	{
+		"number": "646",
+		"slug": "kyurem",
+		"name": "Kyurem",
+		"id": 646
+	},
+	{
+		"number": "647",
+		"slug": "keldeo",
+		"name": "Keldeo",
+		"id": 647
+	},
+	{
+		"number": "647",
+		"slug": "keldeo",
+		"name": "Keldeo",
+		"id": 647
+	},
+	{
+		"number": "648",
+		"slug": "meloetta",
+		"name": "Meloetta",
+		"id": 648
+	},
+	{
+		"number": "648",
+		"slug": "meloetta",
+		"name": "Meloetta",
+		"id": 648
+	},
+	{
+		"number": "649",
+		"slug": "genesect",
+		"name": "Genesect",
+		"id": 649
+	},
+	{
+		"number": "650",
+		"slug": "chespin",
+		"name": "Chespin",
+		"id": 650
+	},
+	{
+		"number": "651",
+		"slug": "quilladin",
+		"name": "Quilladin",
+		"id": 651
+	},
+	{
+		"number": "652",
+		"slug": "chesnaught",
+		"name": "Chesnaught",
+		"id": 652
+	},
+	{
+		"number": "653",
+		"slug": "fennekin",
+		"name": "Fennekin",
+		"id": 653
+	},
+	{
+		"number": "654",
+		"slug": "braixen",
+		"name": "Braixen",
+		"id": 654
+	},
+	{
+		"number": "655",
+		"slug": "delphox",
+		"name": "Delphox",
+		"id": 655
+	},
+	{
+		"number": "656",
+		"slug": "froakie",
+		"name": "Froakie",
+		"id": 656
+	},
+	{
+		"number": "657",
+		"slug": "frogadier",
+		"name": "Frogadier",
+		"id": 657
+	},
+	{
+		"number": "658",
+		"slug": "greninja",
+		"name": "Greninja",
+		"id": 658
+	},
+	{
+		"number": "658",
+		"slug": "greninja",
+		"name": "Greninja",
+		"id": 658
+	},
+	{
+		"number": "659",
+		"slug": "bunnelby",
+		"name": "Bunnelby",
+		"id": 659
+	},
+	{
+		"number": "660",
+		"slug": "diggersby",
+		"name": "Diggersby",
+		"id": 660
+	},
+	{
+		"number": "661",
+		"slug": "fletchling",
+		"name": "Fletchling",
+		"id": 661
+	},
+	{
+		"number": "662",
+		"slug": "fletchinder",
+		"name": "Fletchinder",
+		"id": 662
+	},
+	{
+		"number": "663",
+		"slug": "talonflame",
+		"name": "Talonflame",
+		"id": 663
+	},
+	{
+		"number": "664",
+		"slug": "scatterbug",
+		"name": "Scatterbug",
+		"id": 664
+	},
+	{
+		"number": "665",
+		"slug": "spewpa",
+		"name": "Spewpa",
+		"id": 665
+	},
+	{
+		"number": "666",
+		"slug": "vivillon",
+		"name": "Vivillon",
+		"id": 666
+	},
+	{
+		"number": "667",
+		"slug": "litleo",
+		"name": "Litleo",
+		"id": 667
+	},
+	{
+		"number": "668",
+		"slug": "pyroar",
+		"name": "Pyroar",
+		"id": 668
+	},
+	{
+		"number": "668",
+		"slug": "pyroar",
+		"name": "Pyroar",
+		"id": 668
+	},
+	{
+		"number": "669",
+		"slug": "flabebe",
+		"name": "Flabébé",
+		"id": 669
+	},
+	{
+		"number": "670",
+		"slug": "floette",
+		"name": "Floette",
+		"id": 670
+	},
+	{
+		"number": "671",
+		"slug": "florges",
+		"name": "Florges",
+		"id": 671
+	},
+	{
+		"number": "672",
+		"slug": "skiddo",
+		"name": "Skiddo",
+		"id": 672
+	},
+	{
+		"number": "673",
+		"slug": "gogoat",
+		"name": "Gogoat",
+		"id": 673
+	},
+	{
+		"number": "674",
+		"slug": "pancham",
+		"name": "Pancham",
+		"id": 674
+	},
+	{
+		"number": "675",
+		"slug": "pangoro",
+		"name": "Pangoro",
+		"id": 675
+	},
+	{
+		"number": "676",
+		"slug": "furfrou",
+		"name": "Furfrou",
+		"id": 676
+	},
+	{
+		"number": "676",
+		"slug": "furfrou",
+		"name": "Furfrou",
+		"id": 676
+	},
+	{
+		"number": "676",
+		"slug": "furfrou",
+		"name": "Furfrou",
+		"id": 676
+	},
+	{
+		"number": "676",
+		"slug": "furfrou",
+		"name": "Furfrou",
+		"id": 676
+	},
+	{
+		"number": "677",
+		"slug": "espurr",
+		"name": "Espurr",
+		"id": 677
+	},
+	{
+		"number": "678",
+		"slug": "meowstic",
+		"name": "Meowstic",
+		"id": 678
+	},
+	{
+		"number": "678",
+		"slug": "meowstic",
+		"name": "Meowstic",
+		"id": 678
+	},
+	{
+		"number": "679",
+		"slug": "honedge",
+		"name": "Honedge",
+		"id": 679
+	},
+	{
+		"number": "680",
+		"slug": "doublade",
+		"name": "Doublade",
+		"id": 680
+	},
+	{
+		"number": "681",
+		"slug": "aegislash",
+		"name": "Aegislash",
+		"id": 681
+	},
+	{
+		"number": "681",
+		"slug": "aegislash",
+		"name": "Aegislash",
+		"id": 681
+	},
+	{
+		"number": "682",
+		"slug": "spritzee",
+		"name": "Spritzee",
+		"id": 682
+	},
+	{
+		"number": "683",
+		"slug": "aromatisse",
+		"name": "Aromatisse",
+		"id": 683
+	},
+	{
+		"number": "684",
+		"slug": "swirlix",
+		"name": "Swirlix",
+		"id": 684
+	},
+	{
+		"number": "685",
+		"slug": "slurpuff",
+		"name": "Slurpuff",
+		"id": 685
+	},
+	{
+		"number": "686",
+		"slug": "inkay",
+		"name": "Inkay",
+		"id": 686
+	},
+	{
+		"number": "687",
+		"slug": "malamar",
+		"name": "Malamar",
+		"id": 687
+	},
+	{
+		"number": "688",
+		"slug": "binacle",
+		"name": "Binacle",
+		"id": 688
+	},
+	{
+		"number": "689",
+		"slug": "barbaracle",
+		"name": "Barbaracle",
+		"id": 689
+	},
+	{
+		"number": "690",
+		"slug": "skrelp",
+		"name": "Skrelp",
+		"id": 690
+	},
+	{
+		"number": "691",
+		"slug": "dragalge",
+		"name": "Dragalge",
+		"id": 691
+	},
+	{
+		"number": "692",
+		"slug": "clauncher",
+		"name": "Clauncher",
+		"id": 692
+	},
+	{
+		"number": "693",
+		"slug": "clawitzer",
+		"name": "Clawitzer",
+		"id": 693
+	},
+	{
+		"number": "694",
+		"slug": "helioptile",
+		"name": "Helioptile",
+		"id": 694
+	},
+	{
+		"number": "695",
+		"slug": "heliolisk",
+		"name": "Heliolisk",
+		"id": 695
+	},
+	{
+		"number": "696",
+		"slug": "tyrunt",
+		"name": "Tyrunt",
+		"id": 696
+	},
+	{
+		"number": "697",
+		"slug": "tyrantrum",
+		"name": "Tyrantrum",
+		"id": 697
+	},
+	{
+		"number": "698",
+		"slug": "amaura",
+		"name": "Amaura",
+		"id": 698
+	},
+	{
+		"number": "699",
+		"slug": "aurorus",
+		"name": "Aurorus",
+		"id": 699
+	},
+	{
+		"number": "700",
+		"slug": "sylveon",
+		"name": "Sylveon",
+		"id": 700
+	},
+	{
+		"number": "701",
+		"slug": "hawlucha",
+		"name": "Hawlucha",
+		"id": 701
+	},
+	{
+		"number": "702",
+		"slug": "dedenne",
+		"name": "Dedenne",
+		"id": 702
+	},
+	{
+		"number": "703",
+		"slug": "carbink",
+		"name": "Carbink",
+		"id": 703
+	},
+	{
+		"number": "704",
+		"slug": "goomy",
+		"name": "Goomy",
+		"id": 704
+	},
+	{
+		"number": "705",
+		"slug": "sliggoo",
+		"name": "Sliggoo",
+		"id": 705
+	},
+	{
+		"number": "706",
+		"slug": "goodra",
+		"name": "Goodra",
+		"id": 706
+	},
+	{
+		"number": "707",
+		"slug": "klefki",
+		"name": "Klefki",
+		"id": 707
+	},
+	{
+		"number": "708",
+		"slug": "phantump",
+		"name": "Phantump",
+		"id": 708
+	},
+	{
+		"number": "709",
+		"slug": "trevenant",
+		"name": "Trevenant",
+		"id": 709
+	},
+	{
+		"number": "710",
+		"slug": "pumpkaboo",
+		"name": "Pumpkaboo",
+		"id": 710
+	},
+	{
+		"number": "710",
+		"slug": "pumpkaboo",
+		"name": "Pumpkaboo",
+		"id": 710
+	},
+	{
+		"number": "710",
+		"slug": "pumpkaboo",
+		"name": "Pumpkaboo",
+		"id": 710
+	},
+	{
+		"number": "710",
+		"slug": "pumpkaboo",
+		"name": "Pumpkaboo",
+		"id": 710
+	},
+	{
+		"number": "711",
+		"slug": "gourgeist",
+		"name": "Gourgeist",
+		"id": 711
+	},
+	{
+		"number": "711",
+		"slug": "gourgeist",
+		"name": "Gourgeist",
+		"id": 711
+	},
+	{
+		"number": "711",
+		"slug": "gourgeist",
+		"name": "Gourgeist",
+		"id": 711
+	},
+	{
+		"number": "711",
+		"slug": "gourgeist",
+		"name": "Gourgeist",
+		"id": 711
+	},
+	{
+		"number": "712",
+		"slug": "bergmite",
+		"name": "Bergmite",
+		"id": 712
+	},
+	{
+		"number": "713",
+		"slug": "avalugg",
+		"name": "Avalugg",
+		"id": 713
+	},
+	{
+		"number": "714",
+		"slug": "noibat",
+		"name": "Noibat",
+		"id": 714
+	},
+	{
+		"number": "715",
+		"slug": "noivern",
+		"name": "Noivern",
+		"id": 715
+	},
+	{
+		"number": "716",
+		"slug": "xerneas",
+		"name": "Xerneas",
+		"id": 716
+	},
+	{
+		"number": "717",
+		"slug": "yveltal",
+		"name": "Yveltal",
+		"id": 717
+	},
+	{
+		"number": "718",
+		"slug": "zygarde",
+		"name": "Zygarde",
+		"id": 718
+	},
+	{
+		"number": "718",
+		"slug": "zygarde",
+		"name": "Zygarde",
+		"id": 718
+	},
+	{
+		"number": "718",
+		"slug": "zygarde",
+		"name": "Zygarde",
+		"id": 718
+	},
+	{
+		"number": "719",
+		"slug": "diancie",
+		"name": "Diancie",
+		"id": 719
+	},
+	{
+		"number": "719",
+		"slug": "diancie",
+		"name": "Diancie",
+		"id": 719
+	},
+	{
+		"number": "720",
+		"slug": "hoopa",
+		"name": "Hoopa",
+		"id": 720
+	},
+	{
+		"number": "720",
+		"slug": "hoopa",
+		"name": "Hoopa",
+		"id": 720
+	},
+	{
+		"number": "721",
+		"slug": "volcanion",
+		"name": "Volcanion",
+		"id": 721
+	},
+	{
+		"number": "722",
+		"slug": "rowlet",
+		"name": "Rowlet",
+		"id": 722
+	},
+	{
+		"number": "723",
+		"slug": "dartrix",
+		"name": "Dartrix",
+		"id": 723
+	},
+	{
+		"number": "724",
+		"slug": "decidueye",
+		"name": "Decidueye",
+		"id": 724
+	},
+	{
+		"number": "725",
+		"slug": "litten",
+		"name": "Litten",
+		"id": 725
+	},
+	{
+		"number": "726",
+		"slug": "torracat",
+		"name": "Torracat",
+		"id": 726
+	},
+	{
+		"number": "727",
+		"slug": "incineroar",
+		"name": "Incineroar",
+		"id": 727
+	},
+	{
+		"number": "728",
+		"slug": "popplio",
+		"name": "Popplio",
+		"id": 728
+	},
+	{
+		"number": "729",
+		"slug": "brionne",
+		"name": "Brionne",
+		"id": 729
+	},
+	{
+		"number": "730",
+		"slug": "primarina",
+		"name": "Primarina",
+		"id": 730
+	},
+	{
+		"number": "731",
+		"slug": "pikipek",
+		"name": "Pikipek",
+		"id": 731
+	},
+	{
+		"number": "732",
+		"slug": "trumbeak",
+		"name": "Trumbeak",
+		"id": 732
+	},
+	{
+		"number": "733",
+		"slug": "toucannon",
+		"name": "Toucannon",
+		"id": 733
+	},
+	{
+		"number": "734",
+		"slug": "yungoos",
+		"name": "Yungoos",
+		"id": 734
+	},
+	{
+		"number": "735",
+		"slug": "gumshoos",
+		"name": "Gumshoos",
+		"id": 735
+	},
+	{
+		"number": "736",
+		"slug": "grubbin",
+		"name": "Grubbin",
+		"id": 736
+	},
+	{
+		"number": "737",
+		"slug": "charjabug",
+		"name": "Charjabug",
+		"id": 737
+	},
+	{
+		"number": "738",
+		"slug": "vikavolt",
+		"name": "Vikavolt",
+		"id": 738
+	},
+	{
+		"number": "739",
+		"slug": "crabrawler",
+		"name": "Crabrawler",
+		"id": 739
+	},
+	{
+		"number": "740",
+		"slug": "crabominable",
+		"name": "Crabominable",
+		"id": 740
+	},
+	{
+		"number": "741",
+		"slug": "oricorio",
+		"name": "Oricorio",
+		"id": 741
+	},
+	{
+		"number": "741",
+		"slug": "oricorio",
+		"name": "Oricorio",
+		"id": 741
+	},
+	{
+		"number": "741",
+		"slug": "oricorio",
+		"name": "Oricorio",
+		"id": 741
+	},
+	{
+		"number": "741",
+		"slug": "oricorio",
+		"name": "Oricorio",
+		"id": 741
+	},
+	{
+		"number": "742",
+		"slug": "cutiefly",
+		"name": "Cutiefly",
+		"id": 742
+	},
+	{
+		"number": "743",
+		"slug": "ribombee",
+		"name": "Ribombee",
+		"id": 743
+	},
+	{
+		"number": "744",
+		"slug": "rockruff",
+		"name": "Rockruff",
+		"id": 744
+	},
+	{
+		"number": "745",
+		"slug": "lycanroc",
+		"name": "Lycanroc",
+		"id": 745
+	},
+	{
+		"number": "745",
+		"slug": "lycanroc",
+		"name": "Lycanroc",
+		"id": 745
+	},
+	{
+		"number": "746",
+		"slug": "wishiwashi",
+		"name": "Wishiwashi",
+		"id": 746
+	},
+	{
+		"number": "746",
+		"slug": "wishiwashi",
+		"name": "Wishiwashi",
+		"id": 746
+	},
+	{
+		"number": "747",
+		"slug": "mareanie",
+		"name": "Mareanie",
+		"id": 747
+	},
+	{
+		"number": "748",
+		"slug": "toxapex",
+		"name": "Toxapex",
+		"id": 748
+	},
+	{
+		"number": "749",
+		"slug": "mudbray",
+		"name": "Mudbray",
+		"id": 749
+	},
+	{
+		"number": "750",
+		"slug": "mudsdale",
+		"name": "Mudsdale",
+		"id": 750
+	},
+	{
+		"number": "751",
+		"slug": "dewpider",
+		"name": "Dewpider",
+		"id": 751
+	},
+	{
+		"number": "752",
+		"slug": "araquanid",
+		"name": "Araquanid",
+		"id": 752
+	},
+	{
+		"number": "753",
+		"slug": "fomantis",
+		"name": "Fomantis",
+		"id": 753
+	},
+	{
+		"number": "754",
+		"slug": "lurantis",
+		"name": "Lurantis",
+		"id": 754
+	},
+	{
+		"number": "755",
+		"slug": "morelull",
+		"name": "Morelull",
+		"id": 755
+	},
+	{
+		"number": "756",
+		"slug": "shiinotic",
+		"name": "Shiinotic",
+		"id": 756
+	},
+	{
+		"number": "757",
+		"slug": "salandit",
+		"name": "Salandit",
+		"id": 757
+	},
+	{
+		"number": "758",
+		"slug": "salazzle",
+		"name": "Salazzle",
+		"id": 758
+	},
+	{
+		"number": "759",
+		"slug": "stufful",
+		"name": "Stufful",
+		"id": 759
+	},
+	{
+		"number": "760",
+		"slug": "bewear",
+		"name": "Bewear",
+		"id": 760
+	},
+	{
+		"number": "761",
+		"slug": "bounsweet",
+		"name": "Bounsweet",
+		"id": 761
+	},
+	{
+		"number": "762",
+		"slug": "steenee",
+		"name": "Steenee",
+		"id": 762
+	},
+	{
+		"number": "763",
+		"slug": "tsareena",
+		"name": "Tsareena",
+		"id": 763
+	},
+	{
+		"number": "764",
+		"slug": "comfey",
+		"name": "Comfey",
+		"id": 764
+	},
+	{
+		"number": "765",
+		"slug": "oranguru",
+		"name": "Oranguru",
+		"id": 765
+	},
+	{
+		"number": "766",
+		"slug": "passimian",
+		"name": "Passimian",
+		"id": 766
+	},
+	{
+		"number": "767",
+		"slug": "wimpod",
+		"name": "Wimpod",
+		"id": 767
+	},
+	{
+		"number": "768",
+		"slug": "golisopod",
+		"name": "Golisopod",
+		"id": 768
+	},
+	{
+		"number": "769",
+		"slug": "sandygast",
+		"name": "Sandygast",
+		"id": 769
+	},
+	{
+		"number": "770",
+		"slug": "palossand",
+		"name": "Palossand",
+		"id": 770
+	},
+	{
+		"number": "771",
+		"slug": "pyukumuku",
+		"name": "Pyukumuku",
+		"id": 771
+	},
+	{
+		"number": "772",
+		"slug": "type-null",
+		"name": "Type: Null",
+		"id": 772
+	},
+	{
+		"number": "773",
+		"slug": "silvally",
+		"name": "Silvally",
+		"id": 773
+	},
+	{
+		"number": "774",
+		"slug": "minior",
+		"name": "Minior",
+		"id": 774
+	},
+	{
+		"number": "774",
+		"slug": "minior",
+		"name": "Minior",
+		"id": 774
+	},
+	{
+		"number": "775",
+		"slug": "komala",
+		"name": "Komala",
+		"id": 775
+	},
+	{
+		"number": "776",
+		"slug": "turtonator",
+		"name": "Turtonator",
+		"id": 776
+	},
+	{
+		"number": "777",
+		"slug": "togedemaru",
+		"name": "Togedemaru",
+		"id": 777
+	},
+	{
+		"number": "778",
+		"slug": "mimikyu",
+		"name": "Mimikyu",
+		"id": 778
+	},
+	{
+		"number": "779",
+		"slug": "bruxish",
+		"name": "Bruxish",
+		"id": 779
+	},
+	{
+		"number": "780",
+		"slug": "drampa",
+		"name": "Drampa",
+		"id": 780
+	},
+	{
+		"number": "781",
+		"slug": "dhelmise",
+		"name": "Dhelmise",
+		"id": 781
+	},
+	{
+		"number": "782",
+		"slug": "jangmo-o",
+		"name": "Jangmo-o",
+		"id": 782
+	},
+	{
+		"number": "783",
+		"slug": "hakamo-o",
+		"name": "Hakamo-o",
+		"id": 783
+	},
+	{
+		"number": "784",
+		"slug": "kommo-o",
+		"name": "Kommo-o",
+		"id": 784
+	},
+	{
+		"number": "785",
+		"slug": "tapu-koko",
+		"name": "Tapu Koko",
+		"id": 785
+	},
+	{
+		"number": "786",
+		"slug": "tapu-lele",
+		"name": "Tapu Lele",
+		"id": 786
+	},
+	{
+		"number": "787",
+		"slug": "tapu-bulu",
+		"name": "Tapu Bulu",
+		"id": 787
+	},
+	{
+		"number": "788",
+		"slug": "tapu-fini",
+		"name": "Tapu Fini",
+		"id": 788
+	},
+	{
+		"number": "789",
+		"slug": "cosmog",
+		"name": "Cosmog",
+		"id": 789
+	},
+	{
+		"number": "790",
+		"slug": "cosmoem",
+		"name": "Cosmoem",
+		"id": 790
+	},
+	{
+		"number": "791",
+		"slug": "solgaleo",
+		"name": "Solgaleo",
+		"id": 791
+	},
+	{
+		"number": "792",
+		"slug": "lunala",
+		"name": "Lunala",
+		"id": 792
+	},
+	{
+		"number": "793",
+		"slug": "nihilego",
+		"name": "Nihilego",
+		"id": 793
+	},
+	{
+		"number": "794",
+		"slug": "buzzwole",
+		"name": "Buzzwole",
+		"id": 794
+	},
+	{
+		"number": "795",
+		"slug": "pheromosa",
+		"name": "Pheromosa",
+		"id": 795
+	},
+	{
+		"number": "796",
+		"slug": "xurkitree",
+		"name": "Xurkitree",
+		"id": 796
+	},
+	{
+		"number": "797",
+		"slug": "celesteela",
+		"name": "Celesteela",
+		"id": 797
+	},
+	{
+		"number": "798",
+		"slug": "kartana",
+		"name": "Kartana",
+		"id": 798
+	},
+	{
+		"number": "799",
+		"slug": "guzzlord",
+		"name": "Guzzlord",
+		"id": 799
+	},
+	{
+		"number": "800",
+		"slug": "necrozma",
+		"name": "Necrozma",
+		"id": 800
+	},
+	{
+		"number": "801",
+		"slug": "magearna",
+		"name": "Magearna",
+		"id": 801
+	}
+]

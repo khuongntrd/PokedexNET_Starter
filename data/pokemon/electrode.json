@@ -1,0 +1,401 @@
+{
+  "names": {
+    "fr": "Électrode",
+    "de": "Lektrobal",
+    "it": "Electrode",
+    "en": "Electrode"
+  },
+  "national_id": 101,
+  "types": [
+    "Electric"
+  ],
+  "abilities": [
+    {
+      "name": "Soundproof"
+    },
+    {
+      "name": "Aftermath",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 60,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "146.8 lbs.",
+  "weight_eu": "66.6 kg",
+  "base_exp_yield": 168,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 70,
+    "sp_atk": 80,
+    "sp_def": 80,
+    "speed": 140
+  },
+  "learnset": [
+    {
+      "level": 1,
+      "move": "Magnetic Flux"
+    },
+    {
+      "level": 1,
+      "move": "Charge"
+    },
+    {
+      "level": 1,
+      "move": "Tackle"
+    },
+    {
+      "level": 1,
+      "move": "Sonic Boom"
+    },
+    {
+      "level": 1,
+      "move": "Spark"
+    },
+    {
+      "level": 4,
+      "move": "Sonic Boom"
+    },
+    {
+      "level": 6,
+      "move": "Eerie Impulse"
+    },
+    {
+      "level": 9,
+      "move": "Spark"
+    },
+    {
+      "level": 11,
+      "move": "Rollout"
+    },
+    {
+      "level": 13,
+      "move": "Screech"
+    },
+    {
+      "level": 16,
+      "move": "Charge Beam"
+    },
+    {
+      "level": 20,
+      "move": "Swift"
+    },
+    {
+      "level": 22,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 26,
+      "move": "Self-Destruct"
+    },
+    {
+      "level": 29,
+      "move": "Light Screen"
+    },
+    {
+      "level": 36,
+      "move": "Magnet Rise"
+    },
+    {
+      "level": 41,
+      "move": "Discharge"
+    },
+    {
+      "level": 47,
+      "move": "Explosion"
+    },
+    {
+      "level": 54,
+      "move": "Gyro Ball"
+    },
+    {
+      "level": 58,
+      "move": "Mirror Coat"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "evolution_from": "Voltorb",
+  "categories": {
+    "en": "Ball Pokémon",
+    "de": "Ball"
+  },
+  "kanto_id": 101,
+  "johto_id": 122,
+  "hoenn_id": 88,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 73,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+      "de": "Dieses Pokémon speichert große Mengen Strom. Es explodiert oftmals ohne äußeren Einfluss."
+    },
+    "Blue": {
+      "en": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+      "de": "Dieses Pokémon speichert große Mengen Strom. Es explodiert oftmals ohne äußeren Einfluss."
+    },
+    "Yellow": {
+      "en": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+      "de": "Dieses Pokémon speichert Energie in seinem Körper. Die geringste Erschütterung lässt es explodieren."
+    },
+    "Gold": {
+      "en": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+      "de": "Es ist gefährlich. Besitzt es zu viel Elektrizität und Freizeit, amüsiert es sich, in dem es explodiert."
+    },
+    "Silver": {
+      "en": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+      "de": "Es speichert eine riesige Menge Elektrizität in seinem Körper. Es explodiert beim kleinsten Ruck."
+    },
+    "Crystal": {
+      "en": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+      "de": "Je länger es sich auflädt, desto schneller ist es. Dadurch steigt das Risiko, frühzeitig zu explodieren."
+    },
+    "Ruby": {
+      "en": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
+      "de": "Lektrobal ernährt sich von Elektrizität aus der Atmosphäre. An Tagen, an denen es blitzt, explodiert dieses Pokémon dauernd, da es zu viel Elektrizität zu sich nimmt."
+    },
+    "Sapphire": {
+      "en": "One of Electrode's characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+      "de": "Typisch für Lektrobal ist seine große Faszination für Elektrizität. Es ist ein problematisches Pokémon, das sich meistens in Kraftwerken niederlässt, wo es sich von frisch erzeugtem Strom ernähren kann."
+    },
+    "Emerald": {
+      "en": "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
+      "de": "In der Umgebung von Kraftwerken kann man sie sehr häufig antreffen. Da sie sich von Elektrizität ernähren, können sie Stromausfälle in Städten verursachen."
+    },
+    "FireRed": {
+      "en": "It explodes in response to even minor stimuli. It is feared, with the nickname of \"The Bomb Ball.\"",
+      "de": "Es explodiert schon bei kleinsten Reizen. Sein Spitzname \"Die Bombenkugel\" spiegelt die Furcht der Menschen wider."
+    },
+    "LeafGreen": {
+      "en": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+      "de": "Dieses Pokémon speichert große Mengen Strom. Es explodiert oftmals ohne äußeren Einfluss."
+    },
+    "Diamond": {
+      "en": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+      "de": "Es lässt sich vom Wind treiben, wenn es so voller Elektrizität ist, dass es fast explodiert."
+    },
+    "Pearl": {
+      "en": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+      "de": "Es lässt sich vom Wind treiben, wenn es so voller Elektrizität ist, dass es fast explodiert."
+    },
+    "Platinum": {
+      "en": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+      "de": "Es lässt sich vom Wind treiben, wenn es so voller Elektrizität ist, dass es fast explodiert."
+    },
+    "HeartGold": {
+      "en": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+      "de": "Es lässt sich vom Wind treiben, wenn es so voller Elektrizität ist, dass es fast explodiert."
+    },
+    "SoulSilver": {
+      "en": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+      "de": "Es lässt sich vom Wind treiben, wenn es so voller Elektrizität ist, dass es fast explodiert."
+    },
+    "Black": {
+      "en": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+      "de": "Es lässt sich vom Wind treiben, wenn es so voller Elektrizität ist, dass es fast explodiert."
+    },
+    "White": {
+      "en": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+      "de": "Es lässt sich vom Wind treiben, wenn es so voller Elektrizität ist, dass es fast explodiert."
+    },
+    "Black 2": {
+      "en": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+      "de": "Es lässt sich vom Wind treiben, wenn es so voller Elektrizität ist, dass es fast explodiert."
+    },
+    "White 2": {
+      "en": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+      "de": "Es lässt sich vom Wind treiben, wenn es so voller Elektrizität ist, dass es fast explodiert."
+    },
+    "X": {
+      "en": "It explodes in response to even minor stimuli. It is feared, with the nickname of \"The Bomb Ball.\"",
+      "de": "Es explodiert schon bei kleinsten Reizen. Sein Spitzname „Die Bombenkugel“ spiegelt die Furcht der Menschen wider."
+    },
+    "Y": {
+      "en": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+      "de": "Es speichert eine riesige Menge Elektrizität in seinem Körper. Es explodiert beim kleinsten Ruck."
+    },
+    "Omega Ruby": {
+      "en": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
+      "de": "Lektrobal ernährt sich von Elektrizität aus der Atmosphäre. An Tagen, an denen es blitzt, explodiert dieses Pokémon dauernd, da es zu viel Elektrizität zu sich nimmt."
+    },
+    "Alpha Sapphire": {
+      "en": "One of Electrode's characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+      "de": "Typisch für Lektrobal ist seine große Faszination für Elektrizität. Es ist ein problematisches Pokémon, das sich meistens in Kraftwerken niederlässt, wo es sich von frisch erzeugtem Strom ernähren kann."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      5,
+      5
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      2,
+      4
+    ]
+  }
+}

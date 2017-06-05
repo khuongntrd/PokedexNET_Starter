@@ -1,0 +1,741 @@
+{
+  "names": {
+    "fr": "Nostenfer",
+    "de": "Iksbat",
+    "it": "Crobat",
+    "en": "Crobat"
+  },
+  "national_id": 169,
+  "types": [
+    "Poison",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Inner Focus"
+    },
+    {
+      "name": "Infiltrator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 90,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "5'11\"",
+  "height_eu": "1.8 m",
+  "weight_us": "165.3 lbs.",
+  "weight_eu": "75.0 kg",
+  "base_exp_yield": 241,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 3
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 85,
+    "atk": 90,
+    "def": 80,
+    "sp_atk": 70,
+    "sp_def": 80,
+    "speed": 130
+  },
+  "learnset": [
+    {
+      "level": 1,
+      "move": "Cross Poison"
+    },
+    {
+      "level": 1,
+      "move": "Screech"
+    },
+    {
+      "level": 1,
+      "move": "Leech Life"
+    },
+    {
+      "level": 1,
+      "move": "Supersonic"
+    },
+    {
+      "level": 1,
+      "move": "Astonish"
+    },
+    {
+      "level": 1,
+      "move": "Bite"
+    },
+    {
+      "level": 5,
+      "move": "Supersonic"
+    },
+    {
+      "level": 7,
+      "move": "Astonish"
+    },
+    {
+      "level": 11,
+      "move": "Bite"
+    },
+    {
+      "level": 13,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 17,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 19,
+      "move": "Air Cutter"
+    },
+    {
+      "level": 24,
+      "move": "Swift"
+    },
+    {
+      "level": 27,
+      "move": "Poison Fang"
+    },
+    {
+      "level": 32,
+      "move": "Mean Look"
+    },
+    {
+      "level": 35,
+      "move": "Acrobatics"
+    },
+    {
+      "level": 40,
+      "move": "Haze"
+    },
+    {
+      "level": 43,
+      "move": "Venoshock"
+    },
+    {
+      "level": 48,
+      "move": "Air Slash"
+    },
+    {
+      "level": 51,
+      "move": "Quick Guard"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Starly",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Defog"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Defog"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Defog"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Defog"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Natu",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Gust"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Gust"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Gust"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Gust"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Gust"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Taillow",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Swellow",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Starly",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Archen",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Venom Drench"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Starly",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Zen Headbutt"
+    }
+  ],
+  "evolution_from": "Golbat",
+  "alola_id": 70,
+  "categories": {
+    "en": "Bat Pokémon",
+    "de": "Fledermaus"
+  },
+  "kanto_id": null,
+  "johto_id": 39,
+  "hoenn_id": 67,
+  "sinnoh_id": 30,
+  "unova_id": null,
+  "kalos_id": 147,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+      "de": "Mit seinen vier Flügeln fliegt es so geräuschlos durch die Nacht, dass man es nicht bemerkt."
+    },
+    "Silver": {
+      "en": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+      "de": "Durch die Bildung von Flügeln an seinen Beinen fliegt es schnell, aber hat Probleme bei der Landung."
+    },
+    "Crystal": {
+      "en": "As a result of its pursuit of faster, yet more silent flight, a new set of wings grew on its hind legs.",
+      "de": "Aufgrund seines Strebens noch schneller und leiser zu fliegen, wuchsen ihm zwei neue Flügel."
+    },
+    "Ruby": {
+      "en": "If this Pokémon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",
+      "de": "Wenn Iksbat fliegt, indem es nur ein Paar Flügel, entweder an seinen Vorderoder Hinterbeinen bewegt, ist dies ein Anzeichen dafür, dass dieses Pokémon bereits eine lange Strecke hinter sich hat. Dann wechselt es die Flügel häufig."
+    },
+    "Sapphire": {
+      "en": "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pokémon rests by hanging on a tree branch with its rear legs that serve as wings.",
+      "de": "Iksbats Flügelschlag ist so leise, dass die Beute lautlos überrascht wird. Dieses Pokémon ruht sich aus, indem es sich mit seinen Hinterbeinen, die ihm als Flügel dienen, an einen Ast hängt."
+    },
+    "Emerald": {
+      "en": "Over the course of evolution, its hind legs turned into wings. By alternately resting its front and rear wings, it can fly all day without having to stop.",
+      "de": "Im Laufe der Evolution wurden aus seinen Hinterbeinen Flügel. Da es die Flügelpaare abwechselnd einsetzt, kann es den ganzen Tag ohne Pause fliegen."
+    },
+    "FireRed": {
+      "en": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+      "de": "Durch die Bildung von Flügeln an seinen Beinen fliegt es schnell, hat aber Probleme bei der Landung."
+    },
+    "LeafGreen": {
+      "en": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+      "de": "Mit seinen vier Flügeln fliegt es so geräuschlos durch die Nacht, dass man es nicht bemerkt."
+    },
+    "Diamond": {
+      "en": "Having four wings enables it to fly faster and more quietly. It turns active when the night comes.",
+      "de": "Seine vier Flügel erlauben es dem PKMN, schneller und leiser zu fliegen. Es ist nachtaktiv."
+    },
+    "Pearl": {
+      "en": "A Pokémon that gained vastly enhanced flying performance by having its legs turn into wings.",
+      "de": "Da seine Beine sich im Laufe der Zeit zu Flügeln entwickelten, besitzt es ausgezeichnete Flugfähigkeiten."
+    },
+    "Platinum": {
+      "en": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
+      "de": "Die Umwandlung seiner Beine in Schwingen wirkte sich positiv auf´s Fliegen aus. Das Laufen litt eher."
+    },
+    "HeartGold": {
+      "en": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+      "de": "Seine vier Flügel erlauben es dem PKMN, schneller und leiser zu fliegen. Es ist nachtaktiv."
+    },
+    "SoulSilver": {
+      "en": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+      "de": "Seine vier Flügel erlauben es dem PKMN, schneller und leiser zu fliegen. Es ist nachtaktiv."
+    },
+    "Black": {
+      "en": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
+      "de": "Die Umwandlung seiner Beine in Schwingen wirkte sich positiv aufs Fliegen aus. Das Laufen litt eher."
+    },
+    "White": {
+      "en": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
+      "de": "Die Umwandlung seiner Beine in Schwingen wirkte sich positiv aufs Fliegen aus. Das Laufen litt eher."
+    },
+    "Black 2": {
+      "en": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
+      "de": "Dank seiner 4 Flügel kann es sich seiner Beute noch schneller und leiser nähern, ohne dabei bemerkt zu werden."
+    },
+    "White 2": {
+      "en": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
+      "de": "Dank seiner 4 Flügel kann es sich seiner Beute noch schneller und leiser nähern, ohne dabei bemerkt zu werden."
+    },
+    "X": {
+      "en": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+      "de": "Mit seinen vier Flügeln fliegt es so geräuschlos durch die Nacht, dass man es nicht bemerkt."
+    },
+    "Y": {
+      "en": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
+      "de": "Dank seiner vier Flügel kann es sich seiner Beute noch schneller und leiser nähern, ohne dabei bemerkt zu werden."
+    },
+    "Omega Ruby": {
+      "en": "If this Pokémon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",
+      "de": "Wenn Iksbat fliegt, indem es entweder das vordere oder das hintere Paar Flügel bewegt, ist dies ein Anzeichen dafür, dass dieses Pokémon bereits eine lange Strecke hinter sich hat. Dann wechselt es die Flügel häufig."
+    },
+    "Alpha Sapphire": {
+      "en": "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pokémon rests by hanging on a tree branch with its rear legs that serve as wings.",
+      "de": "Iksbats Flügelschlag ist so leise, dass die Beute lautlos überrascht wird. Dieses Pokémon ruht sich aus, indem es sich mit seinen Hinterbeinen, die ihm als Flügel dienen, an einen Ast hängt."
+    },
+    "Sun": {
+      "en": "Both its legs became wings, and as a result, it can't move well on the ground. All it can do is crawl around.",
+      "de": "Es kann sich nur schwer am Boden fortbewegen, da aus seinen zwei Beinen Flügel geworden sind. Daher ist es nur zu Kriechbewegungen fähig."
+    },
+    "Moon": {
+      "en": "Silent and swift in its four-winged flight, it bites down on its prey before they realize what's happening. In a heartbeat, it drains their blood.",
+      "de": "Mit seinen vier Flügeln kann es schnell und leise fliegen. Ehe seine Beute sich versieht, hat es sie schon gebissen und ihr alles Blut ausgesaugt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      5,
+      5
+    ],
+    "power": [
+      1,
+      3
+    ],
+    "stamina": [
+      2,
+      2
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

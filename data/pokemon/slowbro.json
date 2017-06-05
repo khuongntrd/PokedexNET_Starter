@@ -1,0 +1,705 @@
+{
+  "names": {
+    "fr": "Flagadoss",
+    "de": "Lahmus",
+    "it": "Slowbro",
+    "en": "Slowbro"
+  },
+  "national_id": 80,
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious"
+    },
+    {
+      "name": "Regenerator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Monster",
+    "Water 1"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "5'03\"",
+  "height_eu": "1.6 m",
+  "weight_us": "173.1 lbs.",
+  "weight_eu": "78.5 kg",
+  "base_exp_yield": 172,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 95,
+    "atk": 75,
+    "def": 110,
+    "sp_atk": 100,
+    "sp_def": 80,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Heal Pulse"
+    },
+    {
+      "level": 0,
+      "move": "Curse"
+    },
+    {
+      "level": 0,
+      "move": "Yawn"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 5,
+      "move": "Growl"
+    },
+    {
+      "level": 9,
+      "move": "Water Gun"
+    },
+    {
+      "level": 14,
+      "move": "Confusion"
+    },
+    {
+      "level": 19,
+      "move": "Disable"
+    },
+    {
+      "level": 23,
+      "move": "Headbutt"
+    },
+    {
+      "level": 28,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 32,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 36,
+      "move": "Slack Off"
+    },
+    {
+      "level": 37,
+      "move": "Withdraw"
+    },
+    {
+      "level": 43,
+      "move": "Amnesia"
+    },
+    {
+      "level": 49,
+      "move": "Psychic"
+    },
+    {
+      "level": 55,
+      "move": "Rain Dance"
+    },
+    {
+      "level": 62,
+      "move": "Psych Up"
+    },
+    {
+      "level": 68,
+      "move": "Heal Pulse"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Seel",
+      "move": "Belch"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Poliwrath",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Politoed",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Block"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Block"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Delibird",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Me First"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Me First"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Snore"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Snore"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Snore"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Snore"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Wonder Room"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Wonder Room"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Zen Headbutt"
+    }
+  ],
+  "evolution_from": "Slowpoke",
+  "alola_id": 38,
+  "categories": {
+    "en": "Hermit Crab Pokémon",
+    "de": "Symbiose"
+  },
+  "kanto_id": 80,
+  "johto_id": 81,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 134,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Shell Armor",
+      "mega_stone": "Slowbronite",
+      "height_us": "6'07\"",
+      "height_eu": "2.0 m",
+      "weight_us": "264.6 lbs.",
+      "weight_eu": "120.0 kg",
+      "base_stats": {
+        "hp": 95,
+        "atk": 75,
+        "def": 180,
+        "sp_atk": 130,
+        "sp_def": 80,
+        "speed": 30
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "The Shellder that is latched onto Slowpoke's tail is said to feed on the host's left over scraps.",
+      "de": "Am Schwanz dieses Pokémon hat sich ein Muschas festgesaugt. Lahmus fungiert für ihn als Wirt."
+    },
+    "Blue": {
+      "en": "The Shellder that is latched onto Slowpoke's tail is said to feed on the host's left over scraps.",
+      "de": "Am Schwanz dieses Pokémon hat sich ein Muschas festgesaugt. Lahmus fungiert für ihn als Wirt."
+    },
+    "Yellow": {
+      "en": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again.",
+      "de": "Dieses faule und träge Pokémon lebt an der Küste. Ohne die Muschel am Schwanz wäre es ein Flegmon."
+    },
+    "Gold": {
+      "en": "If the tail-biting Shellder is thrown off in a harsh battle, it reverts to being an ordinary Slowpoke.",
+      "de": "Wenn das Muschas an seinem Schwanz in einem Kampf abgeschüttelt wird, entwickelt es sich in Flegmon zurück."
+    },
+    "Silver": {
+      "en": "Naturally dull to begin with, it lost its ability to feel pain due to Shellder's seeping poison.",
+      "de": "Von Natur aus lahm, hat es aufgrund von Muschas betäubendem Gift sein Scherzempfinden verloren."
+    },
+    "Crystal": {
+      "en": "An attached Shellder won't let go because of the tasty flavor that oozes out of its tail.",
+      "de": "Das Muschas an seiner Rute lässt nicht locker, da ein leckerer Geschmack aus seiner Rute strömt."
+    },
+    "Ruby": {
+      "en": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+      "de": "An Lahmus“ Rute hat sich ein Muschas festgebissen. Daher kann es ihn nicht mehr zum Angeln benutzen und es ist dazu gezwungen, umherzuschwimmen und nach Beute Ausschau zu halten."
+    },
+    "Sapphire": {
+      "en": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+      "de": "An Lahmus“ Schweif hat sich ein Muschas festgebissen. Daher kann es ihn nicht mehr zum Fischen benutzen und ist dazu gezwungen, umherzuschwimmen und Ausschau nach Beute zu halten."
+    },
+    "Emerald": {
+      "en": "Its tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.",
+      "de": "An LAHMUS Rute hat sich ein MUSCHAS fest gebissen, daher kann es damit nicht mehr Angeln. Es ist gezwungen, umherzuschwim men und Beute zu finden."
+    },
+    "FireRed": {
+      "en": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.",
+      "de": "Als Flegmon im Wasser jagen ging, biss ihn ein Muschas. Dadurch entwickelte es sich zu Lahmus."
+    },
+    "LeafGreen": {
+      "en": "The Shellder that latches onto Slowpoke's tail is said to feed on the host's leftover scraps.",
+      "de": "Am Schwanz dieses Pokémon hat sich ein Muschas festgesaugt. Flegmon fungiert für es als Wirt."
+    },
+    "Diamond": {
+      "en": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+      "de": "Ein begriffsstutziges Pokémon. Beißt das MUSCHAS am Schweif zu, scheint es Intelligenz zu gewinnen."
+    },
+    "Pearl": {
+      "en": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+      "de": "Ein begriffsstutziges Pokémon. Beißt das MUSCHAS am Schweif zu, scheint es Intelligenz zu gewinnen."
+    },
+    "Platinum": {
+      "en": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+      "de": "Ein begriffsstutziges Pokémon. Beißt das MUSCHAS am Schweif zu, scheint es Intelligenz zu gewinnen."
+    },
+    "HeartGold": {
+      "en": "If the tail-biting Shellder is thrown off in a harsh battle, it reverts to being an ordinary Slowpoke.",
+      "de": "Ein begriffsstutziges Pokémon. Beißt das MUSCHAS am Schweif zu, scheint es Intelligenz zu gewinnen."
+    },
+    "SoulSilver": {
+      "en": "Naturally dull to begin with, it lost its ability to feel pain due to Shellder's seeping poison.",
+      "de": "Ein begriffsstutziges Pokémon. Beißt das MUSCHAS am Schweif zu, scheint es Intelligenz zu gewinnen."
+    },
+    "Black": {
+      "en": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+      "de": "Ein begriffsstutziges Pokémon. Beißt das Muschas am Schweif zu, scheint es Intelligenz zu gewinnen."
+    },
+    "White": {
+      "en": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+      "de": "Ein begriffsstutziges Pokémon. Beißt das Muschas am Schweif zu, scheint es Intelligenz zu gewinnen."
+    },
+    "Black 2": {
+      "en": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+      "de": "Ein begriffsstutziges Pokémon. Beißt das Muschas am Schweif zu, scheint es Intelligenz zu gewinnen."
+    },
+    "White 2": {
+      "en": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+      "de": "Ein begriffsstutziges Pokémon. Beißt das Muschas am Schweif zu, scheint es Intelligenz zu gewinnen."
+    },
+    "X": {
+      "en": "An attached Shellder won't let go because of the tasty flavor that oozes out of its tail.",
+      "de": "Das Muschas an seiner Rute lässt nicht locker, da ein leckerer Geschmack aus seiner Rute strömt."
+    },
+    "Y": {
+      "en": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.",
+      "de": "Als Flegmon im Wasser jagen ging, wurde es von einem Muschas gebissen. Dadurch entwickelte es sich zu Lahmus."
+    },
+    "Omega Ruby": {
+      "en": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+      "de": "An Lahmus' Schweif hat sich ein Muschas festgebissen. Daher kann es ihn nicht mehr zum Fischen benutzen und ist dazu gezwungen, umherzuschwimmen und Ausschau nach Beute zu halten."
+    },
+    "Alpha Sapphire": {
+      "en": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+      "de": "An Lahmus' Schweif hat sich ein Muschas festgebissen. Daher kann es ihn nicht mehr zum Fischen benutzen und ist dazu gezwungen, umherzuschwimmen und Ausschau nach Beute zu halten."
+    },
+    "Sun": {
+      "en": "It spaces out while gazing at the sea. With Shellder's poison flowing through its body, it becomes even spacier.",
+      "de": "Es betrachtet oft mit leerem Blick das Meer. Das Gift, das Muschas in seinen Körper injiziert, erhöht seine Begriffsstutzigkeit noch weiter."
+    },
+    "Moon": {
+      "en": "Whenever Shellder bites down hard on its tail, it gives Slowbro a flash of inspiration...which it forgets a moment later.",
+      "de": "Beißt das Muschas an seinem Schweif beherzt zu, hat es eine geniale Idee, die es aber sofort wieder vergisst."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      1,
+      1
+    ],
+    "power": [
+      3,
+      3
+    ],
+    "stamina": [
+      5,
+      5
+    ],
+    "skill": [
+      2,
+      5
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

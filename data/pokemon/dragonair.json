@@ -1,0 +1,876 @@
+{
+  "names": {
+    "fr": "Draco",
+    "de": "Dragonir",
+    "it": "Dragonair",
+    "en": "Dragonair"
+  },
+  "national_id": 148,
+  "types": [
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin"
+    },
+    {
+      "name": "Marvel Scale",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "13'01\"",
+  "height_eu": "4.0 m",
+  "weight_us": "36.4 lbs.",
+  "weight_eu": "16.5 kg",
+  "base_exp_yield": 147,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 61,
+    "atk": 84,
+    "def": 65,
+    "sp_atk": 70,
+    "sp_def": 70,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Wrap"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 0,
+      "move": "Twister"
+    },
+    {
+      "level": 5,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 11,
+      "move": "Twister"
+    },
+    {
+      "level": 15,
+      "move": "Dragon Rage"
+    },
+    {
+      "level": 21,
+      "move": "Slam"
+    },
+    {
+      "level": 25,
+      "move": "Agility"
+    },
+    {
+      "level": 33,
+      "move": "Dragon Tail"
+    },
+    {
+      "level": 39,
+      "move": "Aqua Tail"
+    },
+    {
+      "level": 47,
+      "move": "Dragon Rush"
+    },
+    {
+      "level": 53,
+      "move": "Safeguard"
+    },
+    {
+      "level": 61,
+      "move": "Dragon Dance"
+    },
+    {
+      "level": 67,
+      "move": "Outrage"
+    },
+    {
+      "level": 75,
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gible",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gabite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Extreme Speed"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Extreme Speed"
+    },
+    {
+      "parent": "Ekans",
+      "move": "Haze"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Haze"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Haze"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Haze"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Haze"
+    },
+    {
+      "parent": "Gible",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Axew",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mist"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Mist"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Mist"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Mist"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Mist"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Mist"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Gorebyss",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Froakie",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Frogadier",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Water Pulse"
+    }
+  ],
+  "evolution_from": "Dratini",
+  "evolutions": [
+    {
+      "to": "Dragonite",
+      "level": 55
+    }
+  ],
+  "alola_id": 282,
+  "categories": {
+    "en": "Dragon Pokémon",
+    "de": "Drache"
+  },
+  "kanto_id": 148,
+  "johto_id": 247,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 146,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
+      "de": "Ein mysteriöses Pokémon mit einer sehr freundlichen Ausstrahlung. Es kann das Klima beeinflussen."
+    },
+    "Blue": {
+      "en": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
+      "de": "Ein mysteriöses Pokémon mit einer sehr freundlichen Ausstrahlung. Es kann das Klima beeinflussen."
+    },
+    "Yellow": {
+      "en": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
+      "de": "Nur wenige haben dieses Pokémon jemals gesehen. Es wird von einer mysteriösen Aura umgeben."
+    },
+    "Gold": {
+      "en": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+      "de": "Die Aura, die es umgibt, ist so stark, dass es in der Lage ist, das Wetter sofort zu verändern."
+    },
+    "Silver": {
+      "en": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
+      "de": "Seine kristallenen Bälle an seinem Schwanz ermöglichen es ihm, das Wetter zu beeinflussen."
+    },
+    "Crystal": {
+      "en": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.",
+      "de": "Man nennt es das göttliche Pokémon. Wenn sein gesamter Körper ein wenig leuchtet, ändert sich das Wetter."
+    },
+    "Ruby": {
+      "en": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+      "de": "Dragonir speichert eine enorme Menge an Energie in seinem Körper. Es kann die Witterung in seiner Umgebung ändern, indem es Energie aus den Kristallen an seinem Nacken und an seinem Schweif entlädt."
+    },
+    "Sapphire": {
+      "en": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+      "de": "Dragonir speichert eine enorme Menge an Energie in seinem Körper. Es kann die Witterung in seiner Umgebung ändern, indem es Energie aus den Kristallen an seinem Nacken und an seinem Schweif entlädt."
+    },
+    "Emerald": {
+      "en": "A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.",
+      "de": "DRAGONIR speichert viel Energie in seinem Körper. Es kann die Witterung in seiner Umgebung ändern, indem es Energie aus den Kristallen entlädt."
+    },
+    "FireRed": {
+      "en": "It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally.",
+      "de": "Man sagt, es lebe im Meer und in Seen. Auch wenn es keine Flügel hat, sah man es bereits fliegen."
+    },
+    "LeafGreen": {
+      "en": "A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.",
+      "de": "Ein mysteriöses Pokémon mit einer sehr freundlichen Ausstrahlung. Es kann das Klima beeinflussen."
+    },
+    "Diamond": {
+      "en": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "de": "Erscheint um seinen Körper eine Aura, gibt es einen Wetterwechsel. Es soll in Seen und Meeren leben."
+    },
+    "Pearl": {
+      "en": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "de": "Erscheint um seinen Körper eine Aura, gibt es einen Wetterwechsel. Es soll in Seen und Meeren leben."
+    },
+    "Platinum": {
+      "en": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "de": "Erscheint um seinen Körper eine Aura, gibt es einen Wetterwechsel. Es soll in Seen und Meeren leben."
+    },
+    "HeartGold": {
+      "en": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+      "de": "Erscheint um seinen Körper eine Aura, gibt es einen Wetterwechsel. Es soll in Seen und Meeren leben."
+    },
+    "SoulSilver": {
+      "en": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
+      "de": "Erscheint um seinen Körper eine Aura, gibt es einen Wetterwechsel. Es soll in Seen und Meeren leben."
+    },
+    "Black": {
+      "en": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "de": "Erscheint um seinen Körper eine Aura, gibt es einen Wetterwechsel. Es soll in Seen und Meeren leben."
+    },
+    "White": {
+      "en": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "de": "Erscheint um seinen Körper eine Aura, gibt es einen Wetterwechsel. Es soll in Seen und Meeren leben."
+    },
+    "Black 2": {
+      "en": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "de": "Erscheint um seinen Körper eine Aura, gibt es einen Wetterwechsel. Es soll in Seen und Meeren leben."
+    },
+    "White 2": {
+      "en": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "de": "Erscheint um seinen Körper eine Aura, gibt es einen Wetterwechsel. Es soll in Seen und Meeren leben."
+    },
+    "X": {
+      "en": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
+      "de": "Die kristallenen Bälle an seinem Schweif ermöglichen es ihm, das Wetter zu beeinflussen."
+    },
+    "Y": {
+      "en": "A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.",
+      "de": "Ein mysteriöses Pokémon mit einer sehr freundlichen Ausstrahlung. Es kann das Klima beeinflussen."
+    },
+    "Omega Ruby": {
+      "en": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
+      "de": "Dragonir speichert eine enorme Menge an Energie in seinem Körper. Es kann die Witterung in seiner Umgebung ändern, indem es Energie aus den Kristallen an seinem Hals und an seinem Schweif entlädt."
+    },
+    "Alpha Sapphire": {
+      "en": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
+      "de": "Dragonir speichert eine enorme Menge an Energie in seinem Körper. Es kann die Witterung in seiner Umgebung ändern, indem es Energie aus den Kristallen an seinem Hals und an seinem Schweif entlädt."
+    },
+    "Sun": {
+      "en": "It has long been thought that its crystalline orbs are imbued with the power to control the weather.",
+      "de": "Es heißt, es könne mit den kristallenen Bällen an seinem Schweif das Wetter beeinflussen."
+    },
+    "Moon": {
+      "en": "From time immemorial, it has been venerated by agricultural peoples as an entity able to control the weather.",
+      "de": "Bauern verehren es schon seit Urzeiten, da es die Fähigkeit besitzt, das Wetter zu beeinflussen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      3
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      4,
+      5
+    ]
+  }
+}

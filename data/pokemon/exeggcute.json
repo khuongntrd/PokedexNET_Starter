@@ -1,0 +1,844 @@
+{
+  "names": {
+    "fr": "Nœunœuf",
+    "de": "Owei",
+    "it": "Exeggcute",
+    "en": "Exeggcute"
+  },
+  "national_id": 102,
+  "types": [
+    "Grass",
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll"
+    },
+    {
+      "name": "Harvest",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 90,
+  "egg_groups": [
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "5.5 lbs.",
+  "weight_eu": "2.5 kg",
+  "base_exp_yield": 65,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 40,
+    "def": 80,
+    "sp_atk": 60,
+    "sp_def": 45,
+    "speed": 40
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Barrage"
+    },
+    {
+      "level": 0,
+      "move": "Uproar"
+    },
+    {
+      "level": 0,
+      "move": "Hypnosis"
+    },
+    {
+      "level": 7,
+      "move": "Reflect"
+    },
+    {
+      "level": 11,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 17,
+      "move": "Bullet Seed"
+    },
+    {
+      "level": 19,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 21,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 23,
+      "move": "Sleep Powder"
+    },
+    {
+      "level": 27,
+      "move": "Confusion"
+    },
+    {
+      "level": 33,
+      "move": "Worry Seed"
+    },
+    {
+      "level": 37,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 43,
+      "move": "Solar Beam"
+    },
+    {
+      "level": 47,
+      "move": "Extrasensory"
+    },
+    {
+      "level": 50,
+      "move": "Bestow"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Block"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Curse"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Paras",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Servine",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Snover",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Servine",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Moonlight"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Moonlight"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Power Swap"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Synthesis"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Exeggutor",
+      "item": "Leaf Stone"
+    }
+  ],
+  "alola_id": 269,
+  "categories": {
+    "en": "Egg Pokémon",
+    "de": "Ei"
+  },
+  "kanto_id": 102,
+  "johto_id": 105,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 136,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+      "de": "Diese Pokémon werden oftmals für Eier gehalten. Bei Gefahr bilden sie Rudel, die attackieren."
+    },
+    "Blue": {
+      "en": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+      "de": "Diese Pokémon werden oftmals für Eier gehalten. Bei Gefahr bilden sie Rudel, die attackieren."
+    },
+    "Yellow": {
+      "en": "The heads attract each other and spin around. There must be 6 heads for it to maintain balance.",
+      "de": "Oweis kleine Köpfe kreisen um den großen Kopf wie Planeten um die Sonne. Sie halten so die Balance."
+    },
+    "Gold": {
+      "en": "The shell is very durable. Even if it cracks, it can survive without spilling the contents.",
+      "de": "Seine Schale ist sehr hart. Selbst Risse schaden ihm nicht, da es sein Inneres nicht verschüttet."
+    },
+    "Silver": {
+      "en": "Using telepathy only they can receive, they always form a cluster of six Exeggcute.",
+      "de": "Mit Telepathie, die nur sie verstehen, bilden sie stets eine Gruppe von sechs Owei."
+    },
+    "Crystal": {
+      "en": "If even one is separated from the group, the energy bond between the six will make them rejoin instantly.",
+      "de": "Selbst wenn sie getrennt werden, kommen sie auf Grund ihres Energiebundes sofort wieder zusammen."
+    },
+    "Ruby": {
+      "en": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+      "de": "Dieses Pokémon besteht aus sechs Eiern, die ein engmaschiges Netz bilden. Die sechs Eier ziehen sich gegenseitig an und drehen sich. Wenn die Eier Risse bekommen, steht Owei kurz vor seiner Entwicklung."
+    },
+    "Sapphire": {
+      "en": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+      "de": "Dieses Pokémon besteht aus sechs Eiern, die ein engmaschiges Netz bilden. Die sechs Eier ziehen sich gegenseitig an und drehen sich. Wenn die Eier Risse bekommen, steht Owei kurz vor seiner Entwicklung."
+    },
+    "Emerald": {
+      "en": "It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.",
+      "de": "Es besteht aus 6 Eiern, die füreinander sorgen. Die Eier ziehen sich gegenseitig an und drehen sich. Bekommen sie Risse, steht OWEI kurz vor seiner Entwicklung."
+    },
+    "FireRed": {
+      "en": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
+      "de": "Auch wenn sein Erscheinungsbild eher Eiern ähnelt, wurde entdeckt, dass es mehr mit pflanzenähnlichen Wurzeln in Zusammenhang steht."
+    },
+    "LeafGreen": {
+      "en": "It is often mistaken for eggs. When disturbed, they gather quickly and attack in swarms.",
+      "de": "Diese Pokémon werden oftmals für Eier gehalten. Bei Gefahr bilden sie Rudel, die attackieren."
+    },
+    "Diamond": {
+      "en": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "Pearl": {
+      "en": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "Platinum": {
+      "en": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "HeartGold": {
+      "en": "The shell is very durable. Even if it cracks, it can survive without spilling the contents.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "SoulSilver": {
+      "en": "Using telepathy only they can employ, they always form a cluster of six Exeggcute.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "Black": {
+      "en": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "White": {
+      "en": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "Black 2": {
+      "en": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "White 2": {
+      "en": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "X": {
+      "en": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "de": "Die sechs Eier kommunizieren telepathisch. Werden sie getrennt, finden sie sich schnell wieder."
+    },
+    "Y": {
+      "en": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
+      "de": "Auch wenn sein Erscheinungsbild eher Eiern ähnelt, wurde entdeckt, dass es mehr mit pflanzenähnlichen Wurzeln in Zusammenhang steht."
+    },
+    "Omega Ruby": {
+      "en": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+      "de": "Dieses Pokémon besteht aus sechs Eiern, die ein engmaschiges Netz bilden. Die sechs Eier ziehen sich gegenseitig an und drehen sich. Wenn die Eier Risse bekommen, steht Owei kurz vor seiner Entwicklung."
+    },
+    "Alpha Sapphire": {
+      "en": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+      "de": "Dieses Pokémon besteht aus sechs Eiern, die ein engmaschiges Netz bilden. Die sechs Eier ziehen sich gegenseitig an und drehen sich. Wenn die Eier Risse bekommen, steht Owei kurz vor seiner Entwicklung."
+    },
+    "Sun": {
+      "en": "Its six eggs use telepathy to communicate among themselves. It is believed to carry plant genes and the genes of other species.",
+      "de": "Die sechs Eier kommunizieren telepathisch miteinander. Sie tragen das Erbgut von Pflanzen sowie Pokémon eines bestimmten Typs in sich."
+    },
+    "Moon": {
+      "en": "Six of them together form a full-fledged Pokémon. It's often hunted by Crabrawler, but uses psychokinesis to drive it off.",
+      "de": "Es besteht aus sechs Eiern. Krabbox versucht oft, es sich einzuverleiben, doch es wehrt sich tapfer mit seinen Psycho-Kräften."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      4,
+      4
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

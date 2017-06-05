@@ -1,0 +1,372 @@
+{
+  "names": {
+    "fr": "Apireine",
+    "de": "Honweisel",
+    "it": "Vespiquen",
+    "en": "Vespiquen"
+  },
+  "national_id": 416,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Pressure"
+    },
+    {
+      "name": "Unnerve",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "female": 100.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "84.9 lbs.",
+  "weight_eu": "38.5 kg",
+  "base_exp_yield": 166,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 70,
+    "atk": 80,
+    "def": 102,
+    "sp_atk": 80,
+    "sp_def": 102,
+    "speed": 40
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Fell Stinger"
+    },
+    {
+      "level": 0,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 0,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 0,
+      "move": "Poison Sting"
+    },
+    {
+      "level": 0,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 5,
+      "move": "Fury Cutter"
+    },
+    {
+      "level": 9,
+      "move": "Pursuit"
+    },
+    {
+      "level": 13,
+      "move": "Fury Swipes"
+    },
+    {
+      "level": 17,
+      "move": "Defend Order"
+    },
+    {
+      "level": 21,
+      "move": "Slash"
+    },
+    {
+      "level": 25,
+      "move": "Power Gem"
+    },
+    {
+      "level": 29,
+      "move": "Heal Order"
+    },
+    {
+      "level": 33,
+      "move": "Toxic"
+    },
+    {
+      "level": 37,
+      "move": "Air Slash"
+    },
+    {
+      "level": 41,
+      "move": "Captivate"
+    },
+    {
+      "level": 45,
+      "move": "Attack Order"
+    },
+    {
+      "level": 49,
+      "move": "Swagger"
+    },
+    {
+      "level": 53,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 57,
+      "move": "Fell Stinger"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM60",
+      "move": "Quash"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    }
+  ],
+  "evolution_from": "Combee",
+  "categories": {
+    "en": "Beehive Pokémon",
+    "de": "Bienenstock"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": 54,
+  "unova_id": null,
+  "kalos_id": 77,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+      "de": "Ihr Bauch ist die Wabe für die Larven. Sie füttert ihre Larven mit dem Honig, den WADRIBIE sammelt."
+    },
+    "Pearl": {
+      "en": "When endangered, grubs from its six-cell honeycomb strike back. There is only one in a colony.",
+      "de": "Wird es angegriffen, wehren sich ihre Larven im Bau. Es gibt nur eine pro Kolonie."
+    },
+    "Platinum": {
+      "en": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+      "de": "Um anzulocken, verströmt es unterschiedliche Botenstoffe, während es Gegner bekämpft."
+    },
+    "HeartGold": {
+      "en": "It raises grubs in the holes in its body. It secretes pheromones to control Combee.",
+      "de": "Ihr Bauch ist die Wabe für die Larven. Sie füttert ihre Larven mit dem Honig, den WADRIBIE sammelt."
+    },
+    "SoulSilver": {
+      "en": "It raises grubs in the holes in its body. It secretes pheromones to control Combee.",
+      "de": "Ihr Bauch ist die Wabe für die Larven. Sie füttert ihre Larven mit dem Honig, den WADRIBIE sammelt."
+    },
+    "Black": {
+      "en": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+      "de": "Um anzulocken, verströmt es unterschiedliche Botenstoffe, während es Gegner bekämpft."
+    },
+    "White": {
+      "en": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+      "de": "Um anzulocken, verströmt es unterschiedliche Botenstoffe, während es Gegner bekämpft."
+    },
+    "Black 2": {
+      "en": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+      "de": "Es beherbergt Jung-Pokémon in seinem Rumpf, die es mithilfe von verschiedenen Pheromonen frei herumkommandieren kann."
+    },
+    "White 2": {
+      "en": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+      "de": "Es beherbergt Jung-Pokémon in seinem Rumpf, die es mithilfe von verschiedenen Pheromonen frei herumkommandieren kann."
+    },
+    "X": {
+      "en": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+      "de": "Es beherbergt Jung-Pokémon in seinem Rumpf, die es mithilfe von verschiedenen Pheromonen frei herumkommandieren kann."
+    },
+    "Y": {
+      "en": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+      "de": "Sein Bauch ist die Wabe für die Larven. Es füttert seine Larven mit dem Honig, den Wadribie sammelt."
+    },
+    "Omega Ruby": {
+      "en": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+      "de": "Sein Bauch ist die Wabe für die Larven. Es füttert seine Larven mit dem Honig, den Wadribie sammelt."
+    },
+    "Alpha Sapphire": {
+      "en": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+      "de": "Sein Bauch ist die Wabe für die Larven. Es füttert seine Larven mit dem Honig, den Wadribie sammelt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      1,
+      3
+    ],
+    "stamina": [
+      3,
+      5
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

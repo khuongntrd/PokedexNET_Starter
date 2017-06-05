@@ -1,0 +1,419 @@
+{
+  "names": {
+    "fr": "Tauros",
+    "de": "Tauros",
+    "it": "Tauros",
+    "en": "Tauros"
+  },
+  "national_id": 128,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate"
+    },
+    {
+      "name": "Sheer Force",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 100.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'07\"",
+  "height_eu": "1.4 m",
+  "weight_us": "194.9 lbs.",
+  "weight_eu": "88.4 kg",
+  "base_exp_yield": 172,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "atk": 100,
+    "def": 95,
+    "sp_atk": 40,
+    "sp_def": 70,
+    "speed": 110
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 3,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 5,
+      "move": "Rage"
+    },
+    {
+      "level": 8,
+      "move": "Horn Attack"
+    },
+    {
+      "level": 11,
+      "move": "Scary Face"
+    },
+    {
+      "level": 15,
+      "move": "Pursuit"
+    },
+    {
+      "level": 19,
+      "move": "Rest"
+    },
+    {
+      "level": 24,
+      "move": "Payback"
+    },
+    {
+      "level": 29,
+      "move": "Work Up"
+    },
+    {
+      "level": 35,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 41,
+      "move": "Take Down"
+    },
+    {
+      "level": 48,
+      "move": "Swagger"
+    },
+    {
+      "level": 50,
+      "move": "Thrash"
+    },
+    {
+      "level": 63,
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ],
+  "alola_id": 137,
+  "categories": {
+    "en": "Wild Bull Pokémon",
+    "de": "Wildbulle"
+  },
+  "kanto_id": 128,
+  "johto_id": 150,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 125,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+      "de": "Sieht Tauros seinen Gegner, so stürmt er wutschnaubend los und benutzt seine Schweife als Peitschen."
+    },
+    "Blue": {
+      "en": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+      "de": "Sieht Tauros seinen Gegner, so stürmt er wutschnaubend los und benutzt seine Schweife als Peitschen."
+    },
+    "Yellow": {
+      "en": "A rowdy Pokémon with a lot of stamina. Once running, it won't stop until it hits something.",
+      "de": "Dieses Pokémon strotzt nur so vor Kraft. Läuft es erst einmal, dann kann es nur ein Hindernis stoppen."
+    },
+    "Gold": {
+      "en": "They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns.",
+      "de": "Sie kämpfen mit ihren Hörnern. Der Herdenführer ist stolz auf seine Hörner, die viele Kampfspuren haben."
+    },
+    "Silver": {
+      "en": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed.",
+      "de": "Es kämpft mit vollem Einsatz, nachdem es sich mit seinen 3 Schwänzen auspeitschte, um sich anzustacheln."
+    },
+    "Crystal": {
+      "en": "These violent Pokémon fight with other members of their herd in order to prove their strength.",
+      "de": "Diese aggressiven Pokémon kämpfen mit anderen aus ihrer Herde, um ihre Stärke zu beweisen."
+    },
+    "Ruby": {
+      "en": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+      "de": "Dieses Pokémon ist nur zufrieden, wenn es kämpfen kann. Wenn Tauros keinen Gegner findet, sucht es sich starke Bäume und lässt sich an ihnen aus, um sich abzureagieren."
+    },
+    "Sapphire": {
+      "en": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+      "de": "Dieses Pokémon ist nur zufrieden, wenn es kämpfen kann. Wenn Tauros keinen Gegner findet, sucht es sich robuste Bäume und haut sie um, um sich abzureagieren."
+    },
+    "Emerald": {
+      "en": "It is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+      "de": "Es ist nur zufrieden, wenn es kämpfen kann. Findet TAUROS keinen Gegner, sucht es sich starke Bäume und lässt sich an ihnen aus, um sich abzureagieren."
+    },
+    "FireRed": {
+      "en": "When it is about to Tackle, it whips its body repeatedly with its three long tails.",
+      "de": "Wenn es Tackle einsetzt, geißelt es mit seinen drei Schwänzen wiederholt seinen Körper."
+    },
+    "LeafGreen": {
+      "en": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+      "de": "Sieht Tauros einen Gegner, so stürmt er wutschnaubend los und benutzt seine Schweife als Peitschen."
+    },
+    "Diamond": {
+      "en": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+      "de": "Sobald es einen Gegner ins Visier genommen hat, rennt es mit dem Kopf voran auf ihn zu."
+    },
+    "Pearl": {
+      "en": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+      "de": "Sobald es einen Gegner ins Visier genommen hat, rennt es mit dem Kopf voran auf ihn zu."
+    },
+    "Platinum": {
+      "en": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+      "de": "Sobald es einen Gegner ins Visier genommen hat, rennt es mit dem Kopf voran auf ihn zu."
+    },
+    "HeartGold": {
+      "en": "They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns.",
+      "de": "Sobald es einen Gegner ins Visier genommen hat, rennt es mit dem Kopf voran auf ihn zu."
+    },
+    "SoulSilver": {
+      "en": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed.",
+      "de": "Sobald es einen Gegner ins Visier genommen hat, rennt es mit dem Kopf voran auf ihn zu."
+    },
+    "Black": {
+      "en": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+      "de": "Sobald es einen Gegner ins Visier genommen hat, rennt es mit dem Kopf voran auf ihn zu."
+    },
+    "White": {
+      "en": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+      "de": "Sobald es einen Gegner ins Visier genommen hat, rennt es mit dem Kopf voran auf ihn zu."
+    },
+    "Black 2": {
+      "en": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+      "de": "Sobald es einen Gegner ins Visier genommen hat, rennt es mit dem Kopf voran auf ihn zu."
+    },
+    "White 2": {
+      "en": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+      "de": "Sobald es einen Gegner ins Visier genommen hat, rennt es mit dem Kopf voran auf ihn zu."
+    },
+    "X": {
+      "en": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed.",
+      "de": "Es kämpft mit vollem Einsatz, nachdem es sich mit seinen drei Schweifen auspeitschte, um sich anzustacheln."
+    },
+    "Y": {
+      "en": "When it is about to tackle, it whips its body repeatedly with its three long tails.",
+      "de": "Wenn es Tackle einsetzt, geißelt es mit seinen drei Schwänzen wiederholt seinen Körper."
+    },
+    "Omega Ruby": {
+      "en": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+      "de": "Dieses Pokemon ist nur zufrieden, wenn es kämpfen kann. Wenn Tauros keinen Gegner findet, sucht es sich robuste Bäume und haut sie um, um sich abzureagieren."
+    },
+    "Alpha Sapphire": {
+      "en": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+      "de": "Dieses Pokemon ist nur zufrieden, wenn es kämpfen kann. Wenn Tauros keinen Gegner findet, sucht es sich robuste Bäume und haut sie um, um sich abzureagieren."
+    },
+    "Sun": {
+      "en": "Historically, people in areas all over the world have ridden Tauros, but the practice is said to have started in Alola.",
+      "de": "Schon seit vielen Jahren reiten Menschen überall auf der Welt auf Tauros. Diese Tradition hat angeblich in Alola ihren Ursprung genommen."
+    },
+    "Moon": {
+      "en": "Although it's known to be a fierce Pokémon, Tauros in the Alola region are said to possess a measure of calmness.",
+      "de": "Obwohl es sonst für seine ungestüme Art bekannt ist, gelten Exemplare aus Alola als vergleichsweise gelassen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      2,
+      5
+    ],
+    "skill": [
+      2,
+      2
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

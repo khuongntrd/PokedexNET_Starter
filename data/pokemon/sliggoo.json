@@ -1,0 +1,314 @@
+{
+  "names": {
+    "fr": "Colimucus",
+    "de": "Viscargot",
+    "it": "Sliggoo",
+    "en": "Sliggoo"
+  },
+  "national_id": 705,
+  "types": [
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Sap Sipper"
+    },
+    {
+      "name": "Gooey",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Dragon"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "2'07\"",
+  "height_eu": "0.8 m",
+  "weight_us": "38.6 lbs.",
+  "weight_eu": "17.5 kg",
+  "base_exp_yield": 158,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 68,
+    "atk": 75,
+    "def": 53,
+    "sp_atk": 83,
+    "sp_def": 113,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Bubble"
+    },
+    {
+      "level": 5,
+      "move": "Absorb"
+    },
+    {
+      "level": 9,
+      "move": "Protect"
+    },
+    {
+      "level": 13,
+      "move": "Bide"
+    },
+    {
+      "level": 18,
+      "move": "Dragon Breath"
+    },
+    {
+      "level": 25,
+      "move": "Rain Dance"
+    },
+    {
+      "level": 28,
+      "move": "Flail"
+    },
+    {
+      "level": 32,
+      "move": "Body Slam"
+    },
+    {
+      "level": 38,
+      "move": "Muddy Water"
+    },
+    {
+      "level": 47,
+      "move": "Dragon Pulse"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Counter"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Curse"
+    },
+    {
+      "parent": "Axew",
+      "move": "Endure"
+    },
+    {
+      "parent": "Gible",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Axew",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Poison Tail"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Poison Tail"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Poison Tail"
+    }
+  ],
+  "evolution_from": "Goomy",
+  "evolutions": [
+    {
+      "to": "Goodra",
+      "level": 55,
+      "conditions": [
+        "During rain"
+      ]
+    }
+  ],
+  "alola_id": 179,
+  "categories": {
+    "en": "Soft Tissue Pokémon",
+    "de": "Schneckedei"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 20,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.",
+      "de": "Es verjagt Gegner durch Absonderung eines alles zersetzenden Schleims. Die zurückgebildeten Augäpfel des Pokémon gewähren ihm keine Sicht."
+    },
+    "Y": {
+      "en": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
+      "de": "Seine vier Fühler fungieren als hochleistungsfähiges Radarsystem. Es setzt sie anstelle von Nase und Ohren zur Wahrnehmung von Gerüchen und Geräuschen ein."
+    },
+    "Omega Ruby": {
+      "en": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.",
+      "de": "Seine vier Fühler fungieren als hochleistungsfähiges Radarsystem. Es setzt sie anstelle von Nase und Ohren zur Wahrnehmung von Gerüchen und Geräuschen ein."
+    },
+    "Alpha Sapphire": {
+      "en": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
+      "de": "Seine vier Fühler fungieren als hochleistungsfähiges Radarsystem. Es setzt sie anstelle von Nase und Ohren zur Wahrnehmung von Gerüchen und Geräuschen ein."
+    },
+    "Sun": {
+      "en": "It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.",
+      "de": "Kein Eintrag vorhanden"
+    },
+    "Moon": {
+      "en": "This Pokémon's mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they're nicely dissolved, it slurps them up.",
+      "de": "Kein Eintrag vorhanden"
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

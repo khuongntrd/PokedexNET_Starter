@@ -1,0 +1,677 @@
+{
+  "names": {
+    "fr": "Mew",
+    "de": "Mew",
+    "it": "Mew",
+    "en": "Mew"
+  },
+  "national_id": 151,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize"
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 45,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    30855,
+    31109
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "8.8 lbs.",
+  "weight_eu": "4.0 kg",
+  "base_exp_yield": 270,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 3,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 100,
+  "base_stats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "sp_atk": 100,
+    "sp_def": 100,
+    "speed": 100
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 0,
+      "move": "Reflect Type"
+    },
+    {
+      "level": 0,
+      "move": "Transform"
+    },
+    {
+      "level": 10,
+      "move": "Mega Punch"
+    },
+    {
+      "level": 20,
+      "move": "Metronome"
+    },
+    {
+      "level": 30,
+      "move": "Psychic"
+    },
+    {
+      "level": 40,
+      "move": "Barrier"
+    },
+    {
+      "level": 50,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 60,
+      "move": "Amnesia"
+    },
+    {
+      "level": 70,
+      "move": "Me First"
+    },
+    {
+      "level": 80,
+      "move": "Baton Pass"
+    },
+    {
+      "level": 90,
+      "move": "Nasty Plot"
+    },
+    {
+      "level": 100,
+      "move": "Aura Sphere"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM47",
+      "move": "Low Sweep"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM58",
+      "move": "Sky Drop"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM60",
+      "move": "Quash"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM79",
+      "move": "Frost Breath"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM95",
+      "move": "Snarl"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    }
+  ],
+  "categories": {
+    "en": "New Species Pokémon",
+    "de": "Neue Art"
+  },
+  "kanto_id": 151,
+  "johto_id": 255,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "de": "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen."
+    },
+    "Blue": {
+      "en": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "de": "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen."
+    },
+    "Yellow": {
+      "en": "When viewed through a microscope, this Pokémon's short, fine, delicate hair can be seen.",
+      "de": "Betrachtet man Mews Haut in der Vergrößerung, so erkennt man ein Fell aus sehr feinen Härchen."
+    },
+    "Gold": {
+      "en": "Apparently, it appears only to those people who are pure of heart and have a strong desire to see it.",
+      "de": "Es scheint, dass es sich nur den Menschen zeigt, die reinen Herzens sind und es sehen wollen."
+    },
+    "Silver": {
+      "en": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+      "de": "Seine DNS soll den genetischen Code aller Pokémon beinhalten. Dadurch kann es alle Attacken erlernen."
+    },
+    "Crystal": {
+      "en": "Because it can learn any move, some people began research to see if it is the ancestor of all Pokémon.",
+      "de": "Da es jede Attacke erlernen kann, glauben manche Menschen, dass es der Urvater aller Pokémon ist."
+    },
+    "Ruby": {
+      "en": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "de": "Mew soll die genetische Zusammensetzung aller Pokémon besitzen. Es kann sich unsichtbar machen, so dass es sich auch Menschen nähern kann, ohne bemerkt zu werden."
+    },
+    "Sapphire": {
+      "en": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "de": "Mew soll die genetische Zusammensetzung aller Pokémon besitzen. Es kann sich unsichtbar machen, so dass es sich auch Menschen nähern kann, ohne bemerkt zu werden."
+    },
+    "Emerald": {
+      "en": "A Mew is said to possess the genes of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "de": "MEW soll die genetische Zusammensetzung aller PKMN besitzen. Es kann sich unsicht bar machen, so dass es sich auch Menschen nähern kann, ohne bemerkt zu werden."
+    },
+    "FireRed": {
+      "en": "A Pokémon of South America that was thought to have been extinct. It is very intelligent and learns any move.",
+      "de": "Ein Pokémon aus Südamerika, das als ausgestorben galt. Es ist sehr intelligent und kann jede Attacke lernen."
+    },
+    "LeafGreen": {
+      "en": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "de": "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen."
+    },
+    "Diamond": {
+      "en": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "Pearl": {
+      "en": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "Platinum": {
+      "en": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "HeartGold": {
+      "en": "Apparently, it appears only to those people who are pure of heart and have a strong desire to see it.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "SoulSilver": {
+      "en": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "Black": {
+      "en": "Because it is able to use every move, there are many scientists who believe that it is the ancestor of all Pokémon.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "White": {
+      "en": "Because it is able to use every move, there are many scientists who believe that it is the ancestor of all Pokémon.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "Black 2": {
+      "en": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "White 2": {
+      "en": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "X": {
+      "en": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "Y": {
+      "en": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+      "de": "Seine DNS soll den genetischen Code aller Pokémon beinhalten. Dadurch kann es alle Attacken erlernen."
+    },
+    "Omega Ruby": {
+      "en": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "de": "Mew soll die genetische Zusammensetzung aller Pokémon besitzen. Es kann sich in jedes Pokémon verwandeln (wie ein Ditto), so dass es sich auch Menschen nähern kann, ohne bemerkt zu werden."
+    },
+    "Alpha Sapphire": {
+      "en": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "de": "Mew soll die genetische Zusammensetzung aller Pokémon besitzen. Es kann sich in jedes Pokémon verwandeln (wie ein Ditto), so dass es sich auch Menschen nähern kann, ohne bemerkt zu werden."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      5,
+      5
+    ],
+    "power": [
+      3,
+      5
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      5,
+      5
+    ],
+    "jump": [
+      3,
+      4
+    ]
+  }
+}

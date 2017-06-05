@@ -1,0 +1,467 @@
+{
+  "names": {
+    "fr": "Stalgamin",
+    "de": "Schneppke",
+    "it": "Snorunt",
+    "en": "Snorunt"
+  },
+  "national_id": 361,
+  "types": [
+    "Ice"
+  ],
+  "abilities": [
+    {
+      "name": "Inner Focus"
+    },
+    {
+      "name": "Moody",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "37.0 lbs.",
+  "weight_eu": "16.8 kg",
+  "base_exp_yield": 60,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 50,
+    "sp_atk": 50,
+    "sp_def": 50,
+    "speed": 50
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Powder Snow"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 5,
+      "move": "Double Team"
+    },
+    {
+      "level": 10,
+      "move": "Ice Shard"
+    },
+    {
+      "level": 14,
+      "move": "Icy Wind"
+    },
+    {
+      "level": 19,
+      "move": "Bite"
+    },
+    {
+      "level": 23,
+      "move": "Ice Fang"
+    },
+    {
+      "level": 28,
+      "move": "Headbutt"
+    },
+    {
+      "level": 32,
+      "move": "Protect"
+    },
+    {
+      "level": 37,
+      "move": "Frost Breath"
+    },
+    {
+      "level": 41,
+      "move": "Crunch"
+    },
+    {
+      "level": 46,
+      "move": "Blizzard"
+    },
+    {
+      "level": 50,
+      "move": "Hail"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM79",
+      "move": "Frost Breath"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Vanillite",
+      "move": "Avalanche"
+    },
+    {
+      "parent": "Vanillish",
+      "move": "Avalanche"
+    },
+    {
+      "parent": "Vanilluxe",
+      "move": "Avalanche"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Bide"
+    },
+    {
+      "parent": "Sudowoodo",
+      "move": "Block"
+    },
+    {
+      "parent": "Nosepass",
+      "move": "Block"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Block"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Disable"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Hex"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Hex"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Minun",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Golem",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Marill",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Klefki",
+      "move": "Spikes"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Switcheroo"
+    },
+    {
+      "parent": "Castform",
+      "move": "Weather Ball"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Weather Ball"
+    },
+    {
+      "parent": "Vanilluxe",
+      "move": "Weather Ball"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Glalie",
+      "level": 42
+    },
+    {
+      "to": "Froslass",
+      "item": "Dawn Stone",
+      "conditions": [
+        "Female"
+      ]
+    }
+  ],
+  "alola_id": 246,
+  "categories": {
+    "en": "Snow Hat Pokémon",
+    "de": "Schneehut"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 179,
+  "sinnoh_id": 206,
+  "unova_id": null,
+  "kalos_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.",
+      "de": "Schneppke lebt in Gebieten mit heftigem Schneefall. In Jahreszeiten, in denen es nicht schneit, wie im Frühling oder im Sommer, nimmt das Pokémon Reißaus, um in einer Höhle ein ruhiges Leben unter Stalaktiten und Stalagmiten zu führen."
+    },
+    "Sapphire": {
+      "en": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.",
+      "de": "Schneppke kann überleben, indem es nur Schnee und Eis zu sich nimmt. Alte Überlieferungen besagen, dass ein Haus, welches von diesem Pokémon besucht wird, vielen kommenden Generationen Glück und Erfolg beschert."
+    },
+    "Emerald": {
+      "en": "They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.",
+      "de": "Normalerweise ziehen sie in Fünfergruppen umher. Wird ein SCHNEPPKE nachts in Schneegebieten gesehen, soll es am nächsten Morgen schneien."
+    },
+    "FireRed": {
+      "en": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of minus 150 degrees Fahrenheit..",
+      "de": "Man sagt, dass ein Haus, das von einem Schneppke besucht wurde, aufblüht. Es kann Kälte von bis zu minus 100 Grad Celsius überstehen."
+    },
+    "LeafGreen": {
+      "en": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of minus 150 degrees Fahrenheit..",
+      "de": "Man sagt, dass ein Haus, das von einem Schneppke besucht wurde, aufblüht. Es kann Kälte von bis zu minus 100 Grad Celsius überstehen."
+    },
+    "Diamond": {
+      "en": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
+      "de": "Im Land des Schnees sagt eine Legende, dass in ein Haus Wohl- stand einzieht, wenn es darin lebt."
+    },
+    "Pearl": {
+      "en": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
+      "de": "Im Land des Schnees sagt eine Legende, dass in ein Haus Wohl- stand einzieht, wenn es darin lebt."
+    },
+    "Platinum": {
+      "en": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+      "de": "Gerüchten zufolge sammeln sich SCHNEPPKE unter riesigen Blättern und leben dort friedlich zusammen."
+    },
+    "HeartGold": {
+      "en": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.",
+      "de": "Im Land des Schnees sagt eine Legende, dass in ein Haus Wohl- stand einzieht, wenn es darin lebt."
+    },
+    "SoulSilver": {
+      "en": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.",
+      "de": "Im Land des Schnees sagt eine Legende, dass in ein Haus Wohl- stand einzieht, wenn es darin lebt."
+    },
+    "Black": {
+      "en": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+      "de": "Gerüchten zufolge sammeln sich Schneppke unter riesigen Blättern und leben dort friedlich zusammen."
+    },
+    "White": {
+      "en": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+      "de": "Gerüchten zufolge sammeln sich Schneppke unter riesigen Blättern und leben dort friedlich zusammen."
+    },
+    "Black 2": {
+      "en": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+      "de": "Gerüchten zufolge sammeln sich Schneppke unter riesigen Blättern und leben dort friedlich zusammen."
+    },
+    "White 2": {
+      "en": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+      "de": "Gerüchten zufolge sammeln sich Schneppke unter riesigen Blättern und leben dort friedlich zusammen."
+    },
+    "X": {
+      "en": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+      "de": "Gerüchten zufolge sammeln sich Schneppke unter riesigen Blättern und leben dort friedlich zusammen."
+    },
+    "Y": {
+      "en": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
+      "de": "Im Land des Schnees sagt eine Legende, dass in ein Haus Wohlstand einzieht, wenn es darin lebt."
+    },
+    "Omega Ruby": {
+      "en": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.",
+      "de": "Schneppke lebt in Gebieten mit heftigem Schneefall. In Jahreszeiten, in denen es nicht schneit, wie im Frühling oder im Sommer, nimmt das Pokémon Reißaus, um in einer Höhle ein ruhiges Leben zwischen Stalaktiten und Stalagmiten zu führen."
+    },
+    "Alpha Sapphire": {
+      "en": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.",
+      "de": "Schneppke kann überleben, indem es nur Schnee und Eis zu sich nimmt. Alte Überlieferungen besagen, dass ein Haus, welches von diesem Pokémon besucht wird, vielen kommenden Generationen Glück und Erfolg beschert."
+    },
+    "Sun": {
+      "en": "Their numbers seem to have rapidly increased in Alola. Custom has it that houses where Snorunt live will be prosperous for generations to come.",
+      "de": "Schneppke hat sich rasant in Alola verbreitet. Es heißt, das Haus, in dem es lebt, werde über viele Generationen blühen und gedeihen."
+    },
+    "Moon": {
+      "en": "It can only survive in cold areas. It bounces happily around, even in environments as cold as -150 degrees Fahrenheit.",
+      "de": "Schneppke kann nur in besonders kalten Gebieten leben. Selbst bei -100 °C hopst es munter umher."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      4,
+      5
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

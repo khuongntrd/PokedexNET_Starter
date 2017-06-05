@@ -1,0 +1,363 @@
+{
+  "names": {
+    "fr": "Cresselia",
+    "de": "Cresselia",
+    "it": "Cresselia",
+    "en": "Cresselia"
+  },
+  "national_id": 488,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": {
+    "female": 100.0
+  },
+  "catch_rate": 3,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    30855,
+    31109
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "188.7 lbs.",
+  "weight_eu": "85.6 kg",
+  "base_exp_yield": 270,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 3,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 100,
+  "base_stats": {
+    "hp": 120,
+    "atk": 70,
+    "def": 120,
+    "sp_atk": 75,
+    "sp_def": 130,
+    "speed": 85
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Lunar Dance"
+    },
+    {
+      "level": 0,
+      "move": "Psycho Shift"
+    },
+    {
+      "level": 0,
+      "move": "Psycho Cut"
+    },
+    {
+      "level": 0,
+      "move": "Moonlight"
+    },
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 0,
+      "move": "Double Team"
+    },
+    {
+      "level": 11,
+      "move": "Safeguard"
+    },
+    {
+      "level": 20,
+      "move": "Mist"
+    },
+    {
+      "level": 29,
+      "move": "Aurora Beam"
+    },
+    {
+      "level": 38,
+      "move": "Future Sight"
+    },
+    {
+      "level": 47,
+      "move": "Slash"
+    },
+    {
+      "level": 57,
+      "move": "Moonlight"
+    },
+    {
+      "level": 66,
+      "move": "Psycho Cut"
+    },
+    {
+      "level": 75,
+      "move": "Psycho Shift"
+    },
+    {
+      "level": 84,
+      "move": "Lunar Dance"
+    },
+    {
+      "level": 93,
+      "move": "Psychic"
+    },
+    {
+      "level": 99,
+      "move": "Moonblast"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "categories": {
+    "en": "Lunar Pokémon",
+    "de": "Lunar"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+      "de": "Seine Flügel geben schimmernde Partikel ab, wie einen Schleier. Man sagt, es steht für die Mondsichel."
+    },
+    "Pearl": {
+      "en": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+      "de": "Seine Flügel geben schimmernde Partikel ab, wie einen Schleier. Man sagt, es steht für die Mondsichel."
+    },
+    "Platinum": {
+      "en": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+      "de": "In Nächten mit zunehmendem Mond streckt sich das Licht von seinem Schweif und wellt sich wunderschön."
+    },
+    "HeartGold": {
+      "en": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
+      "de": "Seine Flügel geben schimmernde Partikel ab, wie einen Schleier. Man sagt, es steht für die Mondsichel."
+    },
+    "SoulSilver": {
+      "en": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
+      "de": "Seine Flügel geben schimmernde Partikel ab, wie einen Schleier. Man sagt, es steht für die Mondsichel."
+    },
+    "Black": {
+      "en": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+      "de": "In Nächten mit zunehmendem Mond streckt sich das Licht von seinem Schweif und wellt sich wunderschön."
+    },
+    "White": {
+      "en": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+      "de": "In Nächten mit zunehmendem Mond streckt sich das Licht von seinem Schweif und wellt sich wunderschön."
+    },
+    "Black 2": {
+      "en": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+      "de": "In Nächten mit zunehmendem Mond streckt sich das Licht von seinem Schweif und wellt sich wunderschön."
+    },
+    "White 2": {
+      "en": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+      "de": "In Nächten mit zunehmendem Mond streckt sich das Licht von seinem Schweif und wellt sich wunderschön."
+    },
+    "X": {
+      "en": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+      "de": "Seine Flügel geben schimmernde Partikel ab, die wie ein Schleier herabrieseln. Man sagt, es verkörpere die Mondsichel."
+    },
+    "Y": {
+      "en": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
+      "de": "Hält man eine seiner Federn, träumt man süß. Manche glauben, es sei die Verkörperung der Mondsichel."
+    },
+    "Omega Ruby": {
+      "en": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+      "de": "Hält man eine seiner Federn, träumt man süß. Manche glauben, es sei die Verkörperung der Mondsichel."
+    },
+    "Alpha Sapphire": {
+      "en": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
+      "de": "Hält man eine seiner Federn, träumt man süß. Manche glauben, es sei die Verkörperung der Mondsichel."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      4
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      3,
+      5
+    ],
+    "jump": [
+      4,
+      5
+    ]
+  }
+}

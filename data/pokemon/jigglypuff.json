@@ -1,0 +1,724 @@
+{
+  "names": {
+    "fr": "Rondoudou",
+    "de": "Pummeluff",
+    "it": "Jigglypuff",
+    "en": "Jigglypuff"
+  },
+  "national_id": 39,
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Cute Charm"
+    },
+    {
+      "name": "Friend Guard",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 25.0,
+    "female": 75.0
+  },
+  "catch_rate": 170,
+  "egg_groups": [
+    "Fairy"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "12.1 lbs.",
+  "weight_eu": "5.5 kg",
+  "base_exp_yield": 95,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 115,
+    "atk": 45,
+    "def": 20,
+    "sp_atk": 45,
+    "sp_def": 25,
+    "speed": 20
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Sing"
+    },
+    {
+      "level": 3,
+      "move": "Defense Curl"
+    },
+    {
+      "level": 5,
+      "move": "Pound"
+    },
+    {
+      "level": 8,
+      "move": "Play Nice"
+    },
+    {
+      "level": 11,
+      "move": "Disarming Voice"
+    },
+    {
+      "level": 15,
+      "move": "Disable"
+    },
+    {
+      "level": 18,
+      "move": "Double Slap"
+    },
+    {
+      "level": 21,
+      "move": "Rollout"
+    },
+    {
+      "level": 24,
+      "move": "Round"
+    },
+    {
+      "level": 28,
+      "move": "Wake-Up Slap"
+    },
+    {
+      "level": 32,
+      "move": "Rest"
+    },
+    {
+      "level": 35,
+      "move": "Body Slam"
+    },
+    {
+      "level": 37,
+      "move": "Mimic"
+    },
+    {
+      "level": 40,
+      "move": "Gyro Ball"
+    },
+    {
+      "level": 44,
+      "move": "Hyper Voice"
+    },
+    {
+      "level": 49,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Covet"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Minun",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Gravity"
+    },
+    {
+      "parent": "Audino",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Audino",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Marill",
+      "move": "Perish Song"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Present"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Present"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Present"
+    },
+    {
+      "parent": "Marill",
+      "move": "Present"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Present"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Raichu",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Clefable",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Togekiss",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Marill",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Minun",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Castform",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Glalie",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Audino",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Whimsicott",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Wish"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Wish"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Wish"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Wigglytuff",
+      "item": "Moon Stone"
+    }
+  ],
+  "evolution_from": "Igglybuff",
+  "alola_id": 135,
+  "categories": {
+    "en": "Balloon Pokémon",
+    "de": "Ballon"
+  },
+  "kanto_id": 39,
+  "johto_id": 44,
+  "hoenn_id": 143,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 120,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+      "de": "Wenn seine Augen aufleuchten, dann singt dieses Pokémon ein Lied, das seine Gegner einschläfert."
+    },
+    "Blue": {
+      "en": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+      "de": "Wenn seine Augen aufleuchten, dann singt dieses Pokémon ein Lied, das seine Gegner einschläfert."
+    },
+    "Yellow": {
+      "en": "Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
+      "de": "Dieses Pokémon betört Gegner mit seinen großen Augen, bevor es sie in den Schlaf lullt."
+    },
+    "Gold": {
+      "en": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+      "de": "Wen es Gesang einsetzt, steigt seine Ausdauer und seine Zuhörer werden in Tiefschlaf versetzt."
+    },
+    "Silver": {
+      "en": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
+      "de": "Schaut man ihm in seine niedlichen Kulleraugen, beginnt es zu singen und seine Gegner schlafen ein."
+    },
+    "Crystal": {
+      "en": "It rolls its cute eyes as it sings a soothing lullaby. Its gentle song puts anyone who hears it to sleep.",
+      "de": "Während des ein Schlaflied singt, rollt es mit den Augen. Der zarte Gesang versetzt jeden in Schlaf."
+    },
+    "Ruby": {
+      "en": "Jigglypuff's vocal chords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+      "de": "Pummeluffs Stimmbänder können die Tonlage seiner Stimme beliebig variieren. Dieses Pokémon benutzt diese Fähigkeit, um seine Gegner mit monotonem Gesang in Tiefschlaf zu versetzen."
+    },
+    "Sapphire": {
+      "en": "When this Pokémon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life.",
+      "de": "Wenn dieses Pokémon singt, hört es nicht auf zu atmen. Im Kampf gegen einen Gegner, der nicht so leicht in Schlaf zu versetzen ist, kann Pummeluff nicht atmen. Leider gefährdet es sich dadurch selbst."
+    },
+    "Emerald": {
+      "en": "Nothing can avoid falling asleep hearing a Jigglypuff's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.",
+      "de": "Jeder fällt in tiefen Schlummer, wenn PUMMELUFF singt. Die Wellenlänge des Gesangs stimmt mit der Wellenlänge der Hirnströme eines Schlafenden überein."
+    },
+    "FireRed": {
+      "en": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
+      "de": "Es fesselt die Gegner mit seinen großen, runden Augen und versetzt sie in Schlaf, indem es eine beruhigende Melodie singt."
+    },
+    "LeafGreen": {
+      "en": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+      "de": "Wenn seine Augen aufleuchten, dann singt dieses Pokémon ein Lied, das seine Gegner in Schlaf versetzt."
+    },
+    "Diamond": {
+      "en": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+      "de": "Sobald es mit seinen großen, runden Augen rollt, fängt es an, ein Lied zu singen und jeder schläft ein."
+    },
+    "Pearl": {
+      "en": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+      "de": "Sobald es mit seinen großen, runden Augen rollt, fängt es an, ein Lied zu singen und jeder schläft ein."
+    },
+    "Platinum": {
+      "en": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+      "de": "Sobald es mit seinen großen, runden Augen rollt, fängt es an, ein Lied zu singen und jeder schläft ein."
+    },
+    "HeartGold": {
+      "en": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+      "de": "Sobald es mit seinen großen, runden Augen rollt, fängt es an, ein Lied zu singen und jeder schläft ein."
+    },
+    "SoulSilver": {
+      "en": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
+      "de": "Sobald es mit seinen großen, runden Augen rollt, fängt es an, ein Lied zu singen und jeder schläft ein."
+    },
+    "Black": {
+      "en": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+      "de": "Sobald es mit seinen großen, runden Augen rollt, fängt es an, ein Lied zu singen und jeder schläft ein."
+    },
+    "White": {
+      "en": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+      "de": "Sobald es mit seinen großen, runden Augen rollt, fängt es an, ein Lied zu singen und jeder schläft ein."
+    },
+    "Black 2": {
+      "en": "Looking into its cute, round eyes makes it start singing a song so pleasant listeners can't help but fall asleep.",
+      "de": "Blickt man in ihre Kulleraugen, singen sie ein beruhigendes Lied, das alle Zuhörer ins Reich der Träume entführt."
+    },
+    "White 2": {
+      "en": "Looking into its cute, round eyes makes it start singing a song so pleasant listeners can't help but fall asleep.",
+      "de": "Blickt man in ihre Kulleraugen, singen sie ein beruhigendes Lied, das alle Zuhörer ins Reich der Träume entführt."
+    },
+    "X": {
+      "en": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
+      "de": "Es fesselt die Gegner mit seinen großen, runden Augen und versetzt sie in Schlaf, indem es eine beruhigende Melodie singt."
+    },
+    "Y": {
+      "en": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+      "de": "Wenn es Gesang einsetzt, steigt seine Ausdauer und seine Zuhörer werden in Tiefschlaf versetzt."
+    },
+    "Omega Ruby": {
+      "en": "Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+      "de": "Pummeluffs Stimmbänder können die Tonlage seiner Stimme beliebig variieren. Dieses Pokémon benutzt diese Fähigkeit, um seine Gegner mit monotonem Gesang in Tiefschlaf zu versetzen."
+    },
+    "Alpha Sapphire": {
+      "en": "When this Pokémon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life.",
+      "de": "Während dieses Pokémon singt, holt es niemals Luft. Im Kampf gegen einen Gegner, der nicht so leicht in Schlaf zu versetzen ist, kann Pummeluff nicht atmen. Leider gefährdet es sich dadurch sich selbst."
+    },
+    "Sun": {
+      "en": "It hugely inflates its stomach and sings a mysterious melody. If you hear this melody, you'll become sleepy right away.",
+      "de": "Kein Eintrag vorhanden"
+    },
+    "Moon": {
+      "en": "Jigglypuff possess a vocal range that exceeds 12 octaves, but each individual's singing skill depends on its own effort.",
+      "de": "Kein Eintrag vorhanden"
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      5
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      5
+    ],
+    "skill": [
+      2,
+      4
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

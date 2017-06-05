@@ -1,0 +1,697 @@
+{
+  "names": {
+    "fr": "M. Mime",
+    "de": "Pantimos",
+    "it": "Mr. Mime",
+    "en": "Mr. Mime"
+  },
+  "national_id": 122,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Soundproof"
+    },
+    {
+      "name": "Technician",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Human-Like"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "120.1 lbs.",
+  "weight_eu": "54.5 kg",
+  "base_exp_yield": 161,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 65,
+    "sp_atk": 100,
+    "sp_def": 120,
+    "speed": 90
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Misty Terrain"
+    },
+    {
+      "level": 0,
+      "move": "Magical Leaf"
+    },
+    {
+      "level": 0,
+      "move": "Quick Guard"
+    },
+    {
+      "level": 0,
+      "move": "Wide Guard"
+    },
+    {
+      "level": 0,
+      "move": "Power Swap"
+    },
+    {
+      "level": 0,
+      "move": "Guard Swap"
+    },
+    {
+      "level": 0,
+      "move": "Barrier"
+    },
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 4,
+      "move": "Copycat"
+    },
+    {
+      "level": 8,
+      "move": "Meditate"
+    },
+    {
+      "level": 11,
+      "move": "Double Slap"
+    },
+    {
+      "level": 15,
+      "move": "Mimic"
+    },
+    {
+      "level": 15,
+      "move": "Psywave"
+    },
+    {
+      "level": 18,
+      "move": "Encore"
+    },
+    {
+      "level": 22,
+      "move": "Light Screen"
+    },
+    {
+      "level": 22,
+      "move": "Reflect"
+    },
+    {
+      "level": 25,
+      "move": "Psybeam"
+    },
+    {
+      "level": 29,
+      "move": "Substitute"
+    },
+    {
+      "level": 32,
+      "move": "Recycle"
+    },
+    {
+      "level": 36,
+      "move": "Trick"
+    },
+    {
+      "level": 39,
+      "move": "Psychic"
+    },
+    {
+      "level": 43,
+      "move": "Role Play"
+    },
+    {
+      "level": 46,
+      "move": "Baton Pass"
+    },
+    {
+      "level": 50,
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Charm"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Charm"
+    },
+    {
+      "parent": "Gothita",
+      "move": "Charm"
+    },
+    {
+      "parent": "Gothorita",
+      "move": "Charm"
+    },
+    {
+      "parent": "Gothitelle",
+      "move": "Charm"
+    },
+    {
+      "parent": "Magmar",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Magmortar",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Sableye",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Sableye",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Drowzee",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Hypno",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Gothita",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Gothorita",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Gothitelle",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Healing Wish"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Healing Wish"
+    },
+    {
+      "parent": "Drowzee",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Hypno",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Icy Wind"
+    },
+    {
+      "parent": "Gothita",
+      "move": "Magic Room"
+    },
+    {
+      "parent": "Gothorita",
+      "move": "Magic Room"
+    },
+    {
+      "parent": "Gothitelle",
+      "move": "Magic Room"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Mimic"
+    },
+    {
+      "parent": "Drowzee",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Hypno",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Croagunk",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Toxicroak",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Elgyem",
+      "move": "Power Split"
+    },
+    {
+      "parent": "Beheeyem",
+      "move": "Power Split"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Teeter Dance"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Trick"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Trick"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Trick"
+    },
+    {
+      "parent": "Machop",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Wake-Up Slap"
+    }
+  ],
+  "evolution_from": "Mime Jr.",
+  "categories": {
+    "en": "Barrier Pokémon",
+    "de": "Sperre"
+  },
+  "kanto_id": 122,
+  "johto_id": 158,
+  "hoenn_id": null,
+  "sinnoh_id": 95,
+  "unova_id": null,
+  "kalos_id": 114,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+      "de": "Stört man dieses Pokémon beim Mienenspiel, so schlägt es mit seinen großen Händen um sich."
+    },
+    "Blue": {
+      "en": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+      "de": "Stört man dieses Pokémon beim Mienenspiel, so schlägt es mit seinen großen Händen um sich."
+    },
+    "Yellow": {
+      "en": "Always practices its pantomime act. It makes enemies believe something exists that really doesn't.",
+      "de": "Pantimos verwirrt Gegner durch sein Mienenspiel. Sie glauben, Dinge zu sehen, die gar nicht existieren."
+    },
+    "Gold": {
+      "en": "A skilled mime from birth, it gains the ability to create invisible objects as it matures.",
+      "de": "Ein begabter Mime von Geburt an. Wird es älter, kann es unsichtbare Objekte generieren."
+    },
+    "Silver": {
+      "en": "Its fingertips emit a peculiar force field that hardens air to create an actual wall.",
+      "de": "Seien Fingerkuppen erzeugen ein spezielles Kraftfeld, das die Luft erhärtet und eine Wand generiert."
+    },
+    "Crystal": {
+      "en": "It uses the mysterious power it has in its fingers to solidify air into an invisible wall.",
+      "de": "Es setzt die mystische Kraft seiner Finger ein, um durch Kompression eine unsichtbare Wand zu errichten."
+    },
+    "Ruby": {
+      "en": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
+      "de": "Pantimos ist ein Meister der Pantomime. Seine Gesten und Bewegungen machen den Zuschauer glauben, dass etwas Unsichtbares tatsächlich existiert. Wenn ein Objekt für real gehalten wird, beginnt es wirklich zu existieren."
+    },
+    "Sapphire": {
+      "en": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
+      "de": "Pantimos ist ein Meister der Pantomime. Seine Gesten und Bewegungen machen den Zuschauer glauben, dass etwas Unsichtbares tatsächlich existiert. Wenn ein Objekt für real gehalten wird, beginnt es wirklich zu existieren."
+    },
+    "Emerald": {
+      "en": "A Mr. Mime is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.",
+      "de": "PANTIMOS ist ein Meister der Pantomime. Es kann den Zuschauer glauben machen, dass etwas Unsichtbares existiert. Das Objekt manifestiert sich dann auch."
+    },
+    "FireRed": {
+      "en": "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
+      "de": "Es ist geschickt darin, Menschen zu beeinflussen. Man sagt, es könne dünne Wände aus Luft nur durch Mimen entstehen lassen."
+    },
+    "LeafGreen": {
+      "en": "If interrupted while it is miming, it will suddenly DoubleSlap the offender with its broad hands.",
+      "de": "Stört man dieses Pokémon beim Mienenspiel, so setzt es mit seinen großen Händen Duplexhieb ein."
+    },
+    "Diamond": {
+      "en": "It is a pantomime expert that can create invisible but solid walls using miming gestures.",
+      "de": "Ein Experte der Pantomime. Es kann unsichtbare, aber solide Wände allein durch Gesten erzeugen."
+    },
+    "Pearl": {
+      "en": "Emanations from its fingertips solidify the air into invisible walls that repel even harsh attacks.",
+      "de": "Seine Fingerspitzen sondern etwas ab, das die Luft zu einer schützenden Wand werden lässt."
+    },
+    "Platinum": {
+      "en": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+      "de": "Formt eine unsichtbare Wand mitten in der Luft, indem es minutiös mit den Fingerspitzen vibriert."
+    },
+    "HeartGold": {
+      "en": "A skilled mime from birth, it gains the ability to create invisible objects as it matures.",
+      "de": "Ein Experte der Pantomime. Es kann unsichtbare, aber solide Wände allein durch Gesten erzeugen."
+    },
+    "SoulSilver": {
+      "en": "Its fingertips emit a peculiar force field that hardens air to create an actual wall.",
+      "de": "Ein Experte der Pantomime. Es kann unsichtbare, aber solide Wände allein durch Gesten erzeugen."
+    },
+    "Black": {
+      "en": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+      "de": "Formt eine unsichtbare Wand mitten in der Luft, indem es minutiös mit den Fingerspitzen vibriert."
+    },
+    "White": {
+      "en": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+      "de": "Formt eine unsichtbare Wand mitten in der Luft, indem es minutiös mit den Fingerspitzen vibriert."
+    },
+    "Black 2": {
+      "en": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+      "de": "Formt eine unsichtbare Wand mitten in der Luft, indem es minutiös mit den Fingerspitzen vibriert."
+    },
+    "White 2": {
+      "en": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+      "de": "Formt eine unsichtbare Wand mitten in der Luft, indem es minutiös mit den Fingerspitzen vibriert."
+    },
+    "X": {
+      "en": "Emanations from its fingertips solidify the air into invisible walls that repel even harsh attacks.",
+      "de": "Seine Fingerspitzen sondern etwas ab, das die Luft zu einer schützenden Wand werden lässt."
+    },
+    "Y": {
+      "en": "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
+      "de": "Es ist geschickt darin, Menschen zu beeinflussen. Man sagt, es könne dünne Wände aus Luft nur durch Mimen entstehen lassen."
+    },
+    "Omega Ruby": {
+      "en": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
+      "de": "Pantimos ist ein Meister der Pantomime. Seine Gesten und Bewegungen machen den Zuschauer glauben, dass etwas Unsichtbares tatsächlich existiert. Wenn ein Objekt für real gehalten wird, beginnt es wirklich zu existieren."
+    },
+    "Alpha Sapphire": {
+      "en": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
+      "de": "Pantimos ist ein Meister der Pantomime. Seine Gesten und Bewegungen machen den Zuschauer glauben, dass etwas Unsichtbares tatsächlich existiert. Wenn ein Objekt für real gehalten wird, beginnt es wirklich zu existieren."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      3
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

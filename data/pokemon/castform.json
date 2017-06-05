@@ -1,0 +1,665 @@
+{
+  "names": {
+    "fr": "Morphéo",
+    "de": "Formeo",
+    "it": "Castform",
+    "en": "Castform"
+  },
+  "national_id": 351,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    {
+      "name": "Forecast"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Fairy",
+    "Amorphous"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "1.8 lbs.",
+  "weight_eu": "0.8 kg",
+  "base_exp_yield": 147,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "White",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "sp_atk": 70,
+    "sp_def": 70,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 10,
+      "move": "Water Gun"
+    },
+    {
+      "level": 10,
+      "move": "Ember"
+    },
+    {
+      "level": 10,
+      "move": "Powder Snow"
+    },
+    {
+      "level": 15,
+      "move": "Headbutt"
+    },
+    {
+      "level": 20,
+      "move": "Rain Dance"
+    },
+    {
+      "level": 20,
+      "move": "Sunny Day"
+    },
+    {
+      "level": 20,
+      "move": "Hail"
+    },
+    {
+      "level": 25,
+      "move": "Weather Ball"
+    },
+    {
+      "level": 35,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 35,
+      "move": "Fire Blast"
+    },
+    {
+      "level": 35,
+      "move": "Blizzard"
+    },
+    {
+      "level": 45,
+      "move": "Hurricane"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Cosmic Power"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Disable"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Disable"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Disable"
+    },
+    {
+      "parent": "Muk",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Gallade",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Guard Swap"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Hex"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Hex"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Hex"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Hex"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Hex"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Hex"
+    },
+    {
+      "parent": "Banette",
+      "move": "Hex"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Hex"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Hex"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Hex"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Hex"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Hex"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Hex"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Hex"
+    },
+    {
+      "parent": "Frillish",
+      "move": "Hex"
+    },
+    {
+      "parent": "Jellicent",
+      "move": "Hex"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Hex"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Hex"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Hex"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Gallade",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Frillish",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Jellicent",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Reflect Type"
+    }
+  ],
+  "alola_id": 181,
+  "categories": {
+    "en": "Weather Pokémon",
+    "de": "Wetter"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 147,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Normal",
+    "de": "Normalform"
+  },
+  "variations": [
+    {
+      "condition": "harsh sunlight",
+      "image_suffix": "sunny",
+      "names": {
+        "en": "Sunny Form",
+        "de": "Sonnenform"
+      },
+      "types": [
+        "Fire"
+      ]
+    },
+    {
+      "condition": "rain",
+      "image_suffix": "rainy",
+      "names": {
+        "en": "Rainy Form",
+        "de": "Regenform"
+      },
+      "types": [
+        "Water"
+      ]
+    },
+    {
+      "condition": "hail",
+      "image_suffix": "snowy",
+      "names": {
+        "en": "Snowy Form",
+        "de": "Schneeform"
+      },
+      "types": [
+        "Ice"
+      ]
+    }
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Castform's appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body.",
+      "de": "Formeos Erscheinung ändert sich mit dem Wetter. Dieses Pokémon hat die Fähigkeit erworben, die mächtige Kraft der Natur zu nutzen, um seinen winzigen Körper zu schützen."
+    },
+    "Sapphire": {
+      "en": "Castform borrows the power of nature to transform itself into guises of the sun, rain clouds, and snow clouds. This Pokémon's feelings change with the weather.",
+      "de": "Formeo bedient sich der Kraft der Natur, um die Gestalt der Sonne, von Regen- oder Schneewolken anzunehmen. Die Gefühlslage dieses Pokémon verändert sich mit dem Wetter."
+    },
+    "Emerald": {
+      "en": "It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.",
+      "de": "Sein Äußeres hängt vom Wetter ab. Ändert sich das Klima in Punkto Temperatur oder Feuchtigkeit, so ändert sich scheinbar seine Zellstruktur."
+    },
+    "FireRed": {
+      "en": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
+      "de": "Es verfügt über die Eigenschaft, seinen Körper in die Sonne, den Regen oder eine Schneewolke, je nach Wetter, zu verändern."
+    },
+    "LeafGreen": {
+      "en": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
+      "de": "Es verfügt über die Eigenschaft, seinen Körper in die Sonne, den Regen oder eine Schneewolke, je nach Wetter, zu verändern."
+    },
+    "Diamond": {
+      "en": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+      "de": "Seine Gestalt ändert sich mit dem Wetter. Vor kurzem entdeckte man, dass seine Moleküle wie Wasser sind."
+    },
+    "Pearl": {
+      "en": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+      "de": "Seine Gestalt ändert sich mit dem Wetter. Vor kurzem entdeckte man, dass seine Moleküle wie Wasser sind."
+    },
+    "Platinum": {
+      "en": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+      "de": "Seine Gestalt ändert sich mit dem Wetter. Vor kurzem entdeckte man, dass seine Moleküle wie Wasser sind."
+    },
+    "HeartGold": {
+      "en": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
+      "de": "Seine Gestalt ändert sich mit dem Wetter. Vor kurzem entdeckte man, dass seine Moleküle wie Wasser sind."
+    },
+    "SoulSilver": {
+      "en": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
+      "de": "Seine Gestalt ändert sich mit dem Wetter. Vor kurzem entdeckte man, dass seine Moleküle wie Wasser sind."
+    },
+    "Black": {
+      "en": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+      "de": "Seine Gestalt ändert sich mit dem Wetter. Vor kurzem entdeckte man, dass seine Moleküle wie Wasser sind."
+    },
+    "White": {
+      "en": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+      "de": "Seine Gestalt ändert sich mit dem Wetter. Vor kurzem entdeckte man, dass seine Moleküle wie Wasser sind."
+    },
+    "Black 2": {
+      "en": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather.",
+      "de": "Dieses Pokémon ändert je nach Wetter die Gestalt, da seine Zellstruktur auf Temperatur und Feuchtigkeit reagiert."
+    },
+    "White 2": {
+      "en": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather.",
+      "de": "Dieses Pokémon ändert je nach Wetter die Gestalt, da seine Zellstruktur auf Temperatur und Feuchtigkeit reagiert."
+    },
+    "X": {
+      "en": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
+      "de": "Formeo kann seine Gestalt ändern. Seine Zellen reagieren auf Temperaturschwankungen und Feuchtigkeit."
+    },
+    "Y": {
+      "en": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
+      "de": "Es verfügt über die Eigenschaft, seinen Körper in die Sonne, den Regen oder eine Schneewolke, je nach Wetter, zu verändern."
+    },
+    "Omega Ruby": {
+      "en": "Castform’s appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body.",
+      "de": "Formeos Erscheinung ändert sich sich mit dem Wetter. Dieses Pokémon hat die Fähigkeit erworben, die mächtige Kraft der Natur zu nutzen, um seinen winzigen Körper zu schützen."
+    },
+    "Alpha Sapphire": {
+      "en": "Castform borrows the power of nature to transform itself into the guises of the sun, rain, and snow-clouds. This Pokémon’s feelings change with the weather.",
+      "de": "Formeo bedient sich der Kraft der Natur, um die Gestalt der Sonne, des Regens oder von Schneewolken anzunehmen. Die Gefühlslage dieses Pokémon verändert sich mit dem Wetter."
+    },
+    "Sun": {
+      "en": "It changes its form depending on the weather. Changes in the temperature or humidity appear to affect its cellular structure.",
+      "de": "Es ändert seine Erscheinung je nach Wetter. Seine Zellen reagieren anscheinend auf Temperatur- und Feuchtigkeitsschwankungen."
+    },
+    "Moon": {
+      "en": "Its form changes on its own, due to its cells' sensitive reactions to temperature and humidity.",
+      "de": "Seine Zellen reagieren empfindlich auf Temperatur und Feuchtigkeit, wodurch sich unweigerlich seine Gestalt verändert."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      4,
+      4
+    ],
+    "power": [
+      2,
+      4
+    ],
+    "stamina": [
+      2,
+      4
+    ],
+    "skill": [
+      2,
+      4
+    ],
+    "jump": [
+      4,
+      4
+    ]
+  }
+}

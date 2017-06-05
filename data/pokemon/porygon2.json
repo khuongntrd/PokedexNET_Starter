@@ -1,0 +1,405 @@
+{
+  "names": {
+    "fr": "Porygon2",
+    "de": "Porygon2",
+    "it": "Porygon2",
+    "en": "Porygon2"
+  },
+  "national_id": 233,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    {
+      "name": "Trace"
+    },
+    {
+      "name": "Analytic",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 45,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "71.6 lbs.",
+  "weight_eu": "32.5 kg",
+  "base_exp_yield": 180,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 2,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 85,
+    "atk": 80,
+    "def": 90,
+    "sp_atk": 105,
+    "sp_def": 95,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Zap Cannon"
+    },
+    {
+      "level": 0,
+      "move": "Magic Coat"
+    },
+    {
+      "level": 0,
+      "move": "Conversion 2"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Conversion"
+    },
+    {
+      "level": 0,
+      "move": "Defense Curl"
+    },
+    {
+      "level": 7,
+      "move": "Psybeam"
+    },
+    {
+      "level": 12,
+      "move": "Agility"
+    },
+    {
+      "level": 18,
+      "move": "Recover"
+    },
+    {
+      "level": 23,
+      "move": "Magnet Rise"
+    },
+    {
+      "level": 29,
+      "move": "Signal Beam"
+    },
+    {
+      "level": 34,
+      "move": "Recycle"
+    },
+    {
+      "level": 40,
+      "move": "Discharge"
+    },
+    {
+      "level": 45,
+      "move": "Lock-On"
+    },
+    {
+      "level": 50,
+      "move": "Tri Attack"
+    },
+    {
+      "level": 56,
+      "move": "Magic Coat"
+    },
+    {
+      "level": 62,
+      "move": "Zap Cannon"
+    },
+    {
+      "level": 67,
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "evolution_from": "Porygon",
+  "evolutions": [
+    {
+      "to": "Porygon-Z",
+      "trade": true,
+      "hold_item": "Dubious Disc"
+    }
+  ],
+  "alola_id": 218,
+  "categories": {
+    "en": "Virtual Pokémon",
+    "de": "Virtuell"
+  },
+  "kanto_id": null,
+  "johto_id": 221,
+  "hoenn_id": null,
+  "sinnoh_id": 193,
+  "unova_id": null,
+  "kalos_id": null,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "This upgraded version of Porygon is designed for space exploration. It can't fly, though.",
+      "de": "Diese verbesserte Porygon-Version, wurde für den Einsatz im Weltall gebaut. Es kann aber nicht fliegen."
+    },
+    "Silver": {
+      "en": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
+      "de": "Seine Fähigkeiten wurden verbessert. Es zeigt manchmal sogar Handlungen, die nicht einprogrammiert sind."
+    },
+    "Crystal": {
+      "en": "This manmade Pokémon evolved from the latest technology. It may have unprogrammed reactions.",
+      "de": "Dieses Pokémon ist das Ergebnis neuester Technologie. Es könnte unprogrammierte Reaktionen zeigen."
+    },
+    "Ruby": {
+      "en": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+      "de": "Porygon2 wurde in einem wissenschaftlichen Experiment von Menschen erzeugt. Es verfügt über künstliche Intelligenz, wodurch es selbstständig neue Gesten und Gefühle erlernen kann."
+    },
+    "Sapphire": {
+      "en": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+      "de": "Porygon2 wurde in einem wissenschaftlichen Experiment von Menschen erzeugt. Es verfügt über künstliche Intelligenz, wodurch es selbstständig neue Gesten und Gefühle erlernen kann."
+    },
+    "Emerald": {
+      "en": "It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.",
+      "de": "PORYGON2 wurde in einem wissenschaft lichen Experiment von Menschen erzeugt. Es verfügt über künstliche Intelligenz und kann so Gesten und Gefühle erlernen."
+    },
+    "FireRed": {
+      "en": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
+      "de": "Seine Fähigkeiten wurden verbessert. Es zeigt manchmal sogar Handlungen, die nicht einprogrammiert sind."
+    },
+    "LeafGreen": {
+      "en": "This upgraded version of Porygon is designed for space exploration. However, it can't even fly.",
+      "de": "Diese verbesserte Porygon-Version wurde für den Einsatz im Weltall gebaut. Es kann aber nicht fliegen."
+    },
+    "Diamond": {
+      "en": "With planetary development software installed, it became capable of working in space.",
+      "de": "Interstellare Software wurde installiert, so dass dieses PKMN sich auch im All bewegen kann."
+    },
+    "Pearl": {
+      "en": "With planetary development software installed, it became capable of working in space.",
+      "de": "Interstellare Software wurde installiert, so dass dieses PKMN sich auch im All bewegen kann."
+    },
+    "Platinum": {
+      "en": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+      "de": "Wurde zur Erforschung anderer Planeten weiterentwickelt. Diesem Anspruch wurde es nicht gerecht."
+    },
+    "HeartGold": {
+      "en": "This upgraded version of Porygon is designed for space exploration. It can't fly, though.",
+      "de": "Interstellare Software wurde installiert, so dass dieses PKMN sich auch im All bewegen kann."
+    },
+    "SoulSilver": {
+      "en": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
+      "de": "Interstellare Software wurde installiert, so dass dieses PKMN sich auch im All bewegen kann."
+    },
+    "Black": {
+      "en": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+      "de": "Wurde zur Erforschung anderer Planeten weiterentwickelt. Diesem Anspruch wurde es nicht gerecht."
+    },
+    "White": {
+      "en": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+      "de": "Wurde zur Erforschung anderer Planeten weiterentwickelt. Diesem Anspruch wurde es nicht gerecht."
+    },
+    "Black 2": {
+      "en": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+      "de": "Wurde zur Erforschung anderer Planeten weiterentwickelt. Diesem Anspruch wurde es nicht gerecht."
+    },
+    "White 2": {
+      "en": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+      "de": "Wurde zur Erforschung anderer Planeten weiterentwickelt. Diesem Anspruch wurde es nicht gerecht."
+    },
+    "X": {
+      "en": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
+      "de": "Seine Fähigkeiten wurden verbessert. Es zeigt manchmal sogar Handlungen, die nicht einprogrammiert sind."
+    },
+    "Y": {
+      "en": "With planetary development software installed, it became capable of working in space.",
+      "de": "Interstellare Software wurde installiert, sodass dieses Pokémon sich auch im All bewegen kann."
+    },
+    "Omega Ruby": {
+      "en": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+      "de": "Porygon2 wurde in einem wissenschaftlichen Experiment von Menschen erzeugt. Es verfügt über künstliche Intelligenz, wodurch es selbstständig neue Gesten und Gefühle erlernen kann."
+    },
+    "Alpha Sapphire": {
+      "en": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+      "de": "Porygon2 wurde in einem wissenschaftlichen Experiment von Menschen erzeugt. Es verfügt über künstliche Intelligenz, wodurch es selbstständig neue Gesten und Gefühle erlernen kann."
+    },
+    "Sun": {
+      "en": "For the purposes of planetary development, Porygon was updated with the most cutting-edge technology available.",
+      "de": "In der Absicht, andere Planeten zu erforschen, verpasste man Porygon ein Upgrade auf dem höchsten Stand der damaligen Technologie."
+    },
+    "Moon": {
+      "en": "Porygon was updated to a new version in readiness for planetary development. But that dream remains unrealized as yet.",
+      "de": "Porygon erfuhr ein Upgrade auf diese Version mit dem Ziel, andere Planeten zu erschließen. Bislang bleibt diese Vision unverwirklicht."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      3,
+      4
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      4,
+      4
+    ],
+    "jump": [
+      3,
+      4
+    ]
+  }
+}

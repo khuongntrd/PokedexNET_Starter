@@ -1,0 +1,687 @@
+{
+  "names": {
+    "fr": "Kraknoix",
+    "de": "Knacklion",
+    "it": "Trapinch",
+    "en": "Trapinch"
+  },
+  "national_id": 328,
+  "types": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter"
+    },
+    {
+      "name": "Sheer Force",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "33.1 lbs.",
+  "weight_eu": "15.0 kg",
+  "base_exp_yield": 58,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "atk": 100,
+    "def": 45,
+    "sp_atk": 45,
+    "sp_def": 45,
+    "speed": 10
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Fissure"
+    },
+    {
+      "level": 0,
+      "move": "Superpower"
+    },
+    {
+      "level": 0,
+      "move": "Feint"
+    },
+    {
+      "level": 0,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 0,
+      "move": "Bite"
+    },
+    {
+      "level": 0,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 0,
+      "move": "Bide"
+    },
+    {
+      "level": 5,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 8,
+      "move": "Bulldoze"
+    },
+    {
+      "level": 12,
+      "move": "Sand Tomb"
+    },
+    {
+      "level": 15,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 19,
+      "move": "Dig"
+    },
+    {
+      "level": 22,
+      "move": "Crunch"
+    },
+    {
+      "level": 26,
+      "move": "Earth Power"
+    },
+    {
+      "level": 29,
+      "move": "Feint"
+    },
+    {
+      "level": 33,
+      "move": "Earthquake"
+    },
+    {
+      "level": 36,
+      "move": "Sandstorm"
+    },
+    {
+      "level": 40,
+      "move": "Superpower"
+    },
+    {
+      "level": 43,
+      "move": "Hyper Beam"
+    },
+    {
+      "level": 47,
+      "move": "Fissure"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Caterpie",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Weedle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Wurmple",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Kricketot",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Burmy",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Combee",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Durant",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Scatterbug",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Endure"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Endure"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Endure"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Flail"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Flail"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Durant",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Gust"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Gust"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Gust"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Gust"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Gust"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Gust"
+    },
+    {
+      "parent": "Combee",
+      "move": "Gust"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Gust"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Signal Beam"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Vibrava",
+      "level": 35
+    }
+  ],
+  "alola_id": 235,
+  "categories": {
+    "en": "Ant Pit Pokémon",
+    "de": "Ameisenlöwe"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 121,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 3,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Trapinch's nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
+      "de": "Knacklions Bau ist eine Art in den Sand gegrabener Kessel. Dieses Pokémon wartet geduldig auf Beute, um sie in seinen Bau zu werfen. Seine gigantischen Kiefer verfügen über genügend Kraft, um einen Felsen zu zerquetschen."
+    },
+    "Sapphire": {
+      "en": "Trapinch is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This Pokémon can go a whole week without access to any water.",
+      "de": "Knacklion ist ein geduldiger Jäger. Es gräbt in einer Wüste eine tiefe Grube und wartet auf Beute, die hineinfällt. Dieses Pokémon kommt eine ganze Woche ohne Wasser aus."
+    },
+    "Emerald": {
+      "en": "Its big jaws crunch through boulders. Because its head is so big, it has a hard time getting back upright if it tips over onto its back.",
+      "de": "Seine kräftigen Kiefer zermalmen selbst Felsen. Da sein Kopf so groß ist, fällt es ihm schwer sich aufzurichten, wenn es umgefallen ist."
+    },
+    "FireRed": {
+      "en": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
+      "de": "Es lebt in trockenen Wüstengebieten, wo es eine Trichterfalle baut und seelenruhig darauf wartet, dass Beute hinabrutscht."
+    },
+    "LeafGreen": {
+      "en": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
+      "de": "Es lebt in trockenen Wüstengebieten, wo es eine Trichterfalle baut und seelenruhig darauf wartet, dass Beute hinabrutscht."
+    },
+    "Diamond": {
+      "en": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+      "de": "Es baut im Wüstensand eine Fallgrube, setzt sich in ihr auf den Boden und wartet auf Beute."
+    },
+    "Pearl": {
+      "en": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+      "de": "Es baut im Wüstensand eine Fallgrube, setzt sich in ihr auf den Boden und wartet auf Beute."
+    },
+    "Platinum": {
+      "en": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+      "de": "Es baut im Wüstensand eine Fallgrube, setzt sich in ihr auf den Boden und wartet auf Beute."
+    },
+    "HeartGold": {
+      "en": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
+      "de": "Es baut im Wüstensand eine Fallgrube, setzt sich in ihr auf den Boden und wartet auf Beute."
+    },
+    "SoulSilver": {
+      "en": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
+      "de": "Es baut im Wüstensand eine Fallgrube, setzt sich in ihr auf den Boden und wartet auf Beute."
+    },
+    "Black": {
+      "en": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+      "de": "Es baut im Wüstensand eine Fallgrube, setzt sich in ihr auf den Boden und wartet auf Beute."
+    },
+    "White": {
+      "en": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+      "de": "Es baut im Wüstensand eine Fallgrube, setzt sich in ihr auf den Boden und wartet auf Beute."
+    },
+    "Black 2": {
+      "en": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+      "de": "Es baut sich ein trichterförmiges Loch, aus dem es kein Entrinnen gibt, und wartet, bis Beute hineinfällt."
+    },
+    "White 2": {
+      "en": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+      "de": "Es baut sich ein trichterförmiges Loch, aus dem es kein Entrinnen gibt, und wartet, bis Beute hineinfällt."
+    },
+    "X": {
+      "en": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
+      "de": "Es lebt in trockenen Wüstengebieten, wo es eine Trichterfalle baut und seelenruhig darauf wartet, dass Beute hinabrutscht."
+    },
+    "Y": {
+      "en": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+      "de": "Es baut sich ein trichterförmiges Loch, aus dem es kein Entrinnen gibt, und wartet, bis Beute hineinfällt."
+    },
+    "Omega Ruby": {
+      "en": "Trapinch’s nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
+      "de": "Knacklions Bau ist eine Art in den Sand gegrabener Kessel. Dieses Pokémon wartet geduldig darauf, dass Beute in seinen Bau hineinfällt. Seine gigantischen Kiefer verfügen über genügend Kraft, um einen Felsen zu zerquetschen."
+    },
+    "Alpha Sapphire": {
+      "en": "Trapinch is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This Pokémon can go a whole week without access to any water.",
+      "de": "Knacklion ist ein geduldiger Jäger. Es gräbt in einer Wüste eine tiefe Grube und wartet auf Beute, die hineinfällt. Dieses Pokémon kommt eine ganze Woche ohne Wasser aus."
+    },
+    "Sun": {
+      "en": "It can live for a week without eating a thing. It waits patiently at the bottom of its nest for prey to appear.",
+      "de": "Knacklion kann eine Woche überleben, ohne zu essen. Es wartet geduldig in seinem Bau darauf, dass seine Beute zu ihm kommt."
+    },
+    "Moon": {
+      "en": "As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest.",
+      "de": "Es gräbt im Sand und zerquetscht dabei mit seinem gigantischen Kiefer störende Felsen. Sein Bau hat die Form eines Trichters."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      1,
+      2
+    ],
+    "power": [
+      3,
+      5
+    ],
+    "stamina": [
+      3,
+      5
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

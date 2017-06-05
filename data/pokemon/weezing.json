@@ -1,0 +1,696 @@
+{
+  "names": {
+    "fr": "Smogogo",
+    "de": "Smogmog",
+    "it": "Weezing",
+    "en": "Weezing"
+  },
+  "national_id": 110,
+  "types": [
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "20.9 lbs.",
+  "weight_eu": "9.5 kg",
+  "base_exp_yield": 172,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "atk": 90,
+    "def": 120,
+    "sp_atk": 85,
+    "sp_def": 70,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 1,
+      "move": "Poison Gas"
+    },
+    {
+      "level": 1,
+      "move": "Tackle"
+    },
+    {
+      "level": 1,
+      "move": "Smog"
+    },
+    {
+      "level": 1,
+      "move": "Smokescreen"
+    },
+    {
+      "level": 4,
+      "move": "Smog"
+    },
+    {
+      "level": 7,
+      "move": "Smokescreen"
+    },
+    {
+      "level": 12,
+      "move": "Assurance"
+    },
+    {
+      "level": 15,
+      "move": "Clear Smog"
+    },
+    {
+      "level": 18,
+      "move": "Sludge"
+    },
+    {
+      "level": 23,
+      "move": "Self-Destruct"
+    },
+    {
+      "level": 26,
+      "move": "Haze"
+    },
+    {
+      "level": 29,
+      "move": "Double Hit"
+    },
+    {
+      "level": 34,
+      "move": "Sludge Bomb"
+    },
+    {
+      "level": 40,
+      "move": "Explosion"
+    },
+    {
+      "level": 46,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 51,
+      "move": "Belch"
+    },
+    {
+      "level": 57,
+      "move": "Memento"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Curse"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Curse"
+    },
+    {
+      "parent": "Banette",
+      "move": "Curse"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Curse"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Curse"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Curse"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Curse"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Wobbuffet",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Banette",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Chimecho",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Screech"
+    },
+    {
+      "parent": "Muk",
+      "move": "Screech"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Screech"
+    },
+    {
+      "parent": "Banette",
+      "move": "Screech"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Spite"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Spite"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Spite"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Spite"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Spite"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Spite"
+    },
+    {
+      "parent": "Banette",
+      "move": "Spite"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Spite"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Toxic Spikes"
+    }
+  ],
+  "evolution_from": "Koffing",
+  "categories": {
+    "en": "Poison Gas Pokémon",
+    "de": "Giftwolke"
+  },
+  "kanto_id": 110,
+  "johto_id": 116,
+  "hoenn_id": 114,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",
+      "de": "Dieses Pokémon entwickelt sich im Lauf der Jahre, wenn sich zwei Smogon vermischen."
+    },
+    "Blue": {
+      "en": "Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",
+      "de": "Dieses Pokémon entwickelt sich im Lauf der Jahre, wenn sich zwei Smogon vermischen."
+    },
+    "Yellow": {
+      "en": "It lives and grows by absorbing dust, germs, and poison gases that are contained in toxic waste and garbage.",
+      "de": "Smogmog ernährt sich an Gasen, Dreck und anderen Köstlichkeiten, die man auf Müllkippen findet."
+    },
+    "Gold": {
+      "en": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+      "de": "Pumpt sich eines der zwei Smogon auf, lässt eines Luft ab. So findet ein Giftgasaustausch statt."
+    },
+    "Silver": {
+      "en": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+      "de": "Aus seinem Gift wird ein edles Parfum gewonnen, indem man es auf das Äußerste verdünnt."
+    },
+    "Crystal": {
+      "en": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.",
+      "de": "Atmet es Giftgase von Abfällen ein, bläht es sich auf und seine Innereien riechen noch schlimmer."
+    },
+    "Ruby": {
+      "en": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+      "de": "Smogmog liebt die Gase verrottender, fauler Küchenabfälle. Dieses Pokémon sucht sich ein vernachlässigtes, schmutziges Gebäude und richtet sich dort häuslich ein. Nachts, wenn die Menschen schlafen, wühlt es im Müll."
+    },
+    "Sapphire": {
+      "en": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
+      "de": "Smogmog bläst seine beiden Körper abwechselnd auf und lässt sie wieder zusammenschrumpfen, um die giftigen Gase darin zu vermischen. Je mehr Gase vermischt werden, desto stärker werden die Toxine."
+    },
+    "Emerald": {
+      "en": "By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To Weezing, gases emanating from garbage are the ultimate feast.",
+      "de": "Die Veredelung seiner Giftgase in einem Spezialverfahren dient der Parfümher stellung. SMOGMOG liebt die Dämpfe, die einem verrottenden Müllberg entweichen."
+    },
+    "FireRed": {
+      "en": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
+      "de": "Sehr selten führt eine plötzliche Mutation eines Zwillings-Smogon zu einer Verbindung zu Smogmog."
+    },
+    "LeafGreen": {
+      "en": "Where two kinds of poison gases meet, two Koffings can fuse into a Weezing over many years.",
+      "de": "Dieses Pokémon entwickelt sich im Lauf der Jahre, wenn sich zwei Smogon vermischen."
+    },
+    "Diamond": {
+      "en": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+      "de": "Es wächst, indem es Gase aufnimmt, die aus dem Müll aufsteigen. Selten kann man Drillinge von ihnen finden."
+    },
+    "Pearl": {
+      "en": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+      "de": "Es wächst, indem es Gase aufnimmt, die aus dem Müll aufsteigen. Selten kann man Drillinge von ihnen finden."
+    },
+    "Platinum": {
+      "en": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+      "de": "Es wächst, indem es Gase aufnimmt, die aus dem Müll aufsteigen. Selten kann man Drillinge von ihnen finden."
+    },
+    "HeartGold": {
+      "en": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+      "de": "Es wächst, indem es Gase aufnimmt, die aus dem Müll aufsteigen. Selten kann man Drillinge von ihnen finden."
+    },
+    "SoulSilver": {
+      "en": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+      "de": "Es wächst, indem es Gase aufnimmt, die aus dem Müll aufsteigen. Selten kann man Drillinge von ihnen finden."
+    },
+    "Black": {
+      "en": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+      "de": "Es wächst, indem es Gase aufnimmt, die aus dem Müll aufsteigen. Selten kann man Drillinge von ihnen finden."
+    },
+    "White": {
+      "en": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+      "de": "Es wächst, indem es Gase aufnimmt, die aus dem Müll aufsteigen. Selten kann man Drillinge von ihnen finden."
+    },
+    "Black 2": {
+      "en": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
+      "de": "Es saugt giftige Abgase aus dem Müll auf, die sich in seinem Körper zu einem noch übleren Gestank vermischen."
+    },
+    "White 2": {
+      "en": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
+      "de": "Es saugt giftige Abgase aus dem Müll auf, die sich in seinem Körper zu einem noch übleren Gestank vermischen."
+    },
+    "X": {
+      "en": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+      "de": "Pumpt sich eines der zwei Smogon auf, lässt das andere Luft ab. So findet ein Giftgasaustausch statt."
+    },
+    "Y": {
+      "en": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
+      "de": "Sehr selten führt eine plötzliche Mutation eines Zwillings-Smogon zu einer Verbindung zu Smogmog."
+    },
+    "Omega Ruby": {
+      "en": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+      "de": "Smogmog liebt die Gase verrottender, fauler Küchenabfälle. Dieses Pokémon sucht sich ein vernachlässigtes, schmutziges Gebäude und richtet sich dort häuslich ein. Nachts, wenn die Menschen schlafen, wühlt es im Müll."
+    },
+    "Alpha Sapphire": {
+      "en": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
+      "de": "Smogmog bläst seine beiden Körper abwechselnd auf und lässt sie wieder zusammenschrumpfen, um die giftigen Gase darin zu vermischen. Je mehr Gase vermischt werden, desto stärker werden die Toxine."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      2
+    ],
+    "power": [
+      3,
+      4
+    ],
+    "stamina": [
+      4,
+      4
+    ],
+    "skill": [
+      2,
+      3
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

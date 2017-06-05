@@ -1,0 +1,505 @@
+{
+  "names": {
+    "fr": "Armaldo",
+    "de": "Armaldo",
+    "it": "Armaldo",
+    "en": "Armaldo"
+  },
+  "national_id": 348,
+  "types": [
+    "Rock",
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Battle Armor"
+    },
+    {
+      "name": "Swift Swim",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 3"
+  ],
+  "hatch_time": [
+    7905,
+    8159
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "150.4 lbs.",
+  "weight_eu": "68.2 kg",
+  "base_exp_yield": 173,
+  "leveling_rate": "Erratic",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "atk": 125,
+    "def": 100,
+    "sp_atk": 70,
+    "sp_def": 80,
+    "speed": 45
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Crush Claw"
+    },
+    {
+      "level": 0,
+      "move": "Scratch"
+    },
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 0,
+      "move": "Mud Sport"
+    },
+    {
+      "level": 0,
+      "move": "Water Gun"
+    },
+    {
+      "level": 4,
+      "move": "Mud Sport"
+    },
+    {
+      "level": 7,
+      "move": "Water Gun"
+    },
+    {
+      "level": 10,
+      "move": "Fury Cutter"
+    },
+    {
+      "level": 13,
+      "move": "Smack Down"
+    },
+    {
+      "level": 17,
+      "move": "Metal Claw"
+    },
+    {
+      "level": 21,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 25,
+      "move": "Slash"
+    },
+    {
+      "level": 29,
+      "move": "Brine"
+    },
+    {
+      "level": 29,
+      "move": "Slash"
+    },
+    {
+      "level": 39,
+      "move": "Crush Claw"
+    },
+    {
+      "level": 46,
+      "move": "X-Scissor"
+    },
+    {
+      "level": 53,
+      "move": "Protect"
+    },
+    {
+      "level": 61,
+      "move": "Rock Blast"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Cross Poison"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Cross Poison"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Curse"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shellder",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Corphish",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Binacle",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Barbaracle",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Tentacool",
+      "move": "Screech"
+    },
+    {
+      "parent": "Tentacruel",
+      "move": "Screech"
+    },
+    {
+      "parent": "Tentacool",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Tentacruel",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Water Pulse"
+    }
+  ],
+  "evolution_from": "Anorith",
+  "categories": {
+    "en": "Plate Pokémon",
+    "de": "Schild"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 141,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Armaldo's tough armor makes all attacks bounce off. This Pokémon's two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+      "de": "Von Armaldos hartem Panzer prallen alle Angriffe ab. Dieses Pokémon hat zwei mächtige Klauen, die es ausfahren oder einziehen kann. Es hat so viel Kraft, dass es damit eine Stahlplatte pulverisieren kann."
+    },
+    "Sapphire": {
+      "en": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.",
+      "de": "Armaldo ist eine Pokémon-Spezies, die vor vielen Jahren ausgestorben ist. Dieses Pokémon soll sich auf seinen Hinterbeinen fortbewegt haben, da dies für das Leben an Land bequemer war."
+    },
+    "Emerald": {
+      "en": "Armaldo usually lives on land. However, when it hunts for prey, it dives beneath the ocean. It swims around using its two large wings.",
+      "de": "Früher hat ARMALDO an Land gelebt. Wenn es jetzt jedoch nach Beute jagt, taucht es tief in den Ozean. Mittels seiner zwei großen Schwingen schwimmt es."
+    },
+    "FireRed": {
+      "en": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+      "de": "Sein robuster Körper wird von einem harten Panzer geschützt. Es spießt die Beute mit seinen Scheren auf, ehe es sie verspeist."
+    },
+    "LeafGreen": {
+      "en": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+      "de": "Sein robuster Körper wird von einem harten Panzer geschützt. Es spießt die Beute mit seinen Scheren auf, ehe es sie verspeist."
+    },
+    "Diamond": {
+      "en": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+      "de": "Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben."
+    },
+    "Pearl": {
+      "en": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+      "de": "Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben."
+    },
+    "Platinum": {
+      "en": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+      "de": "Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben."
+    },
+    "HeartGold": {
+      "en": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
+      "de": "Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben."
+    },
+    "SoulSilver": {
+      "en": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
+      "de": "Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben."
+    },
+    "Black": {
+      "en": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+      "de": "Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben."
+    },
+    "White": {
+      "en": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+      "de": "Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben."
+    },
+    "Black 2": {
+      "en": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+      "de": "Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben."
+    },
+    "White 2": {
+      "en": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+      "de": "Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben."
+    },
+    "X": {
+      "en": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
+      "de": "Es spießt die Beute mit seinen Scheren auf, ehe es sie verspeist. Den Körper umgibt ein robuster Panzer."
+    },
+    "Y": {
+      "en": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+      "de": "Sein robuster Körper wird von einem harten Panzer geschützt. Es spießt die Beute mit seinen Scheren auf, ehe es sie verspeist."
+    },
+    "Omega Ruby": {
+      "en": "Armaldo’s tough armor makes all attacks bounce off. This Pokémon’s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+      "de": "Von Armaldo hartem Panzer prallen alle Angriffe ab. Dieses Pokémon hat zwei mächtige Klauen, die es ausfahren oder einziehen kann. Es hat soviel Kraft, dass es damit eine Stahlplatte pulverisieren kann."
+    },
+    "Alpha Sapphire": {
+      "en": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.",
+      "de": "Armaldo ist eine Pokémon-Art, die vor vielen Jahren ausgestorben ist. Dieses Pokémon soll sich auf seinen Hinterbeinen fortbewegt haben, da dies für das Leben an Land bequemer war."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      2
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

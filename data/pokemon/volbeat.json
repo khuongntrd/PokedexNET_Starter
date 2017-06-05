@@ -1,0 +1,616 @@
+{
+  "names": {
+    "fr": "Muciole",
+    "de": "Volbeat",
+    "it": "Volbeat",
+    "en": "Volbeat"
+  },
+  "national_id": 313,
+  "types": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Illuminate"
+    },
+    {
+      "name": "Prankster",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 100.0
+  },
+  "catch_rate": 150,
+  "egg_groups": [
+    "Bug",
+    "Human-Like"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "39.0 lbs.",
+  "weight_eu": "17.7 kg",
+  "base_exp_yield": 140,
+  "leveling_rate": "Erratic",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "atk": 73,
+    "def": 55,
+    "sp_atk": 47,
+    "sp_def": 75,
+    "speed": 85
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Flash"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 5,
+      "move": "Double Team"
+    },
+    {
+      "level": 8,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 12,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 15,
+      "move": "Struggle Bug"
+    },
+    {
+      "level": 19,
+      "move": "Moonlight"
+    },
+    {
+      "level": 22,
+      "move": "Tail Glow"
+    },
+    {
+      "level": 26,
+      "move": "Signal Beam"
+    },
+    {
+      "level": 29,
+      "move": "Protect"
+    },
+    {
+      "level": 33,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 36,
+      "move": "Helping Hand"
+    },
+    {
+      "level": 40,
+      "move": "Bug Buzz"
+    },
+    {
+      "level": 43,
+      "move": "Play Rough"
+    },
+    {
+      "level": 47,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Illumise",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Shelmet",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Dizzy Punch"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Dizzy Punch"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Dizzy Punch"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Encore"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Encore"
+    },
+    {
+      "parent": "Illumise",
+      "move": "Encore"
+    },
+    {
+      "parent": "Hawlucha",
+      "move": "Encore"
+    },
+    {
+      "parent": "Machop",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Throh",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Trick"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Trick"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Trick"
+    }
+  ],
+  "categories": {
+    "en": "Firefly Pokémon",
+    "de": "Glühwürmchen (Libelle vor der 7. Gen.)"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 89,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 133,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pokémon is attracted by the sweet aroma of Illumise.",
+      "de": "Wenn es Nacht wird, beginnt Volbeats Schweif zu leuchten. Es kommuniziert mit anderen, indem es die Helligkeit und das Blinken dieses Lichts reguliert. Dieses Pokémon wird vom süßen Duft der Illumise angezogen."
+    },
+    "Sapphire": {
+      "en": "Volbeat's tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
+      "de": "Volbeats Schweif leuchtet wie eine Glühbirne. Zusammen mit anderen Volbeat malt es mit seinem Schweif geometrische Figuren an den Nachthimmel. Dieses Pokémon liebt den von Illumise verströmten Duft."
+    },
+    "Emerald": {
+      "en": "With their taillights lit, Volbeat fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.",
+      "de": "Mit leuchtenden Schwanzenden fliegt VOLBEAT durch den Nachthimmel und zeichnet dabei geometrische Muster."
+    },
+    "FireRed": {
+      "en": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+      "de": "Es lebt in der Nähe von reinen Teichen. Nachts leuchtet sein Hinterteil und es kommuniziert durch dessen Blinken mit Artgenossen."
+    },
+    "LeafGreen": {
+      "en": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+      "de": "Es lebt in der Nähe von reinen Teichen. Nachts leuchtet sein Hinterteil und es kommuniziert durch dessen Blinken mit Artgenossen."
+    },
+    "Diamond": {
+      "en": "It communicates with others by lighting up its rear at night. It loves Illumise's sweet aroma.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt ILLUMISEs Duft."
+    },
+    "Pearl": {
+      "en": "It communicates with others by lighting up its rear at night. It loves Illumise's sweet aroma.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt ILLUMISEs Duft."
+    },
+    "Platinum": {
+      "en": "It communicates with others by lighting up its rear at night. It loves Illumise's sweet aroma.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt ILLUMISEs Duft."
+    },
+    "HeartGold": {
+      "en": "It emits light from its tail to communicate. It loves the sweet aroma given off by Illumise.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt ILLUMISEs Duft."
+    },
+    "SoulSilver": {
+      "en": "It emits light from its tail to communicate. It loves the sweet aroma given off by Illumise.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt ILLUMISEs Duft."
+    },
+    "Black": {
+      "en": "It communicates with others by lighting up its rear at night. It loves Illumise's sweet aroma.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt Illumises Duft."
+    },
+    "White": {
+      "en": "It communicates with others by lighting up its rear at night. It loves Illumise's sweet aroma.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt Illumises Duft."
+    },
+    "Black 2": {
+      "en": "It communicates with others by lighting up its rear at night. It loves Illumise's sweet aroma.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt Illumises Duft."
+    },
+    "White 2": {
+      "en": "It communicates with others by lighting up its rear at night. It loves Illumise's sweet aroma.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt Illumises Duft."
+    },
+    "X": {
+      "en": "It communicates with others by lighting up its rear at night. It loves Illumise's sweet aroma.",
+      "de": "Es kommuniziert mit anderen, indem es sein Hinterteil zum Leuchten bringt. Es liebt Illumises Duft."
+    },
+    "Y": {
+      "en": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+      "de": "Es lebt in der Nähe von reinen Teichen. Nachts leuchtet sein Hinterteil und es kommuniziert durch dessen Blinken mit Artgenossen."
+    },
+    "Omega Ruby": {
+      "en": "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pokémon is attracted by the sweet aroma of Illumise.",
+      "de": "Wenn es Nacht wird, beginnt Volbeats Schweif zu leuchten. Es kommuniziert mit anderen, indem es die Helligkeit und das Blinken dieses Lichts reguliert. Dieses Pokémon wird vom süßen Duft der Illumise angezogen."
+    },
+    "Alpha Sapphire": {
+      "en": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
+      "de": "Volbeats Schweif leuchtet wie eine Glühbirne. Zusammen mit anderen Volbeat malt es mit seinem Schweif geometrische Figuren an den Nachthimmel. Dieses Pokémon liebt den von Illumise verströmten Duft."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      3,
+      3
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      2,
+      2
+    ],
+    "jump": [
+      5,
+      5
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "names": {
+    "fr": "Clic",
+    "de": "Kliklak",
+    "it": "Klang",
+    "en": "Klang"
+  },
+  "national_id": 600,
+  "types": [
+    "Steel"
+  ],
+  "abilities": [
+    {
+      "name": "Plus"
+    },
+    {
+      "name": "Clear Body",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 60,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "112.4 lbs.",
+  "weight_eu": "51.0 kg",
+  "base_exp_yield": 154,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 80,
+    "def": 95,
+    "sp_atk": 70,
+    "sp_def": 85,
+    "speed": 50
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Vice Grip"
+    },
+    {
+      "level": 0,
+      "move": "Charge"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 0,
+      "move": "Gear Grind"
+    },
+    {
+      "level": 6,
+      "move": "Charge"
+    },
+    {
+      "level": 11,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 16,
+      "move": "Gear Grind"
+    },
+    {
+      "level": 21,
+      "move": "Bind"
+    },
+    {
+      "level": 26,
+      "move": "Charge Beam"
+    },
+    {
+      "level": 31,
+      "move": "Autotomize"
+    },
+    {
+      "level": 36,
+      "move": "Mirror Shot"
+    },
+    {
+      "level": 40,
+      "move": "Screech"
+    },
+    {
+      "level": 44,
+      "move": "Discharge"
+    },
+    {
+      "level": 48,
+      "move": "Metal Sound"
+    },
+    {
+      "level": 52,
+      "move": "Shift Gear"
+    },
+    {
+      "level": 56,
+      "move": "Lock-On"
+    },
+    {
+      "level": 60,
+      "move": "Zap Cannon"
+    },
+    {
+      "level": 64,
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "evolution_from": "Klink",
+  "evolutions": [
+    {
+      "to": "Klinklang",
+      "level": 49
+    }
+  ],
+  "categories": {
+    "en": "Gear Pokémon",
+    "de": "Getriebe"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": 106,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+      "de": "Teilt Artgenossen seine Gefühlslage mit, indem es die Umlaufrichtung ändert. Wenn es wütend ist, dreht es sich schneller."
+    },
+    "White": {
+      "en": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
+      "de": "Lässt seine Einzelteile rapide rotieren und feuert sie auf Gegner ab. Kehren sie nicht zurück, wird es brenzlig."
+    },
+    "Black 2": {
+      "en": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+      "de": "Besteht aus kleinen und großen Rädern. Kehrt ein kleines Rad, das es abgefeuert hat, nicht zurück, wird es brenzlig."
+    },
+    "White 2": {
+      "en": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+      "de": "Besteht aus kleinen und großen Rädern. Kehrt ein kleines Rad, das es abgefeuert hat, nicht zurück, wird es brenzlig."
+    },
+    "X": {
+      "en": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+      "de": "Teilt Artgenossen seine Gefühlslage mit, indem es die Umlaufrichtung ändert. Wenn es wütend ist, dreht es sich schneller."
+    },
+    "Y": {
+      "en": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+      "de": "Besteht aus kleinen und großen Rädern. Kehrt ein kleines Rad, das es abgefeuert hat, nicht zurück, wird es brenzlig."
+    },
+    "Omega Ruby": {
+      "en": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+      "de": "Besteht aus kleinen und großen Rädern. Kehrt ein kleines Rad, das es abgefeuert hat, nicht zurück, wird es brenzlig."
+    },
+    "Alpha Sapphire": {
+      "en": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+      "de": "Besteht aus kleinen und großen Rädern. Kehrt ein kleines Rad, das es abgefeuert hat, nicht zurück, wird es brenzlig."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

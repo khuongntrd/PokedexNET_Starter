@@ -1,0 +1,336 @@
+{
+  "names": {
+    "fr": "Ohmassacre",
+    "de": "Zapplarang",
+    "it": "Eelektross",
+    "en": "Eelektross"
+  },
+  "national_id": 604,
+  "types": [
+    "Electric"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 30,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "6'11\"",
+  "height_eu": "2.1 m",
+  "weight_us": "177.5 lbs.",
+  "weight_eu": "80.5 kg",
+  "base_exp_yield": 232,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 85,
+    "atk": 115,
+    "def": 80,
+    "sp_atk": 105,
+    "sp_def": 80,
+    "speed": 50
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Thrash"
+    },
+    {
+      "level": 0,
+      "move": "Zap Cannon"
+    },
+    {
+      "level": 0,
+      "move": "Gastro Acid"
+    },
+    {
+      "level": 0,
+      "move": "Coil"
+    },
+    {
+      "level": 0,
+      "move": "Ion Deluge"
+    },
+    {
+      "level": 0,
+      "move": "Crush Claw"
+    },
+    {
+      "level": 0,
+      "move": "Headbutt"
+    },
+    {
+      "level": 0,
+      "move": "Acid"
+    },
+    {
+      "level": 0,
+      "move": "Discharge"
+    },
+    {
+      "level": 0,
+      "move": "Crunch"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    }
+  ],
+  "evolution_from": "Eelektrik",
+  "categories": {
+    "en": "EleFish Pokémon",
+    "de": "Stromfisch"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": 110,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+      "de": "Es schleppt sich mithilfe seiner Arme an Land, schnappt nach seiner Beute und zerrt sie augenblicklich ins Meer."
+    },
+    "White": {
+      "en": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+      "de": "Mit dem Saugnapf an seinem Maul hakt es sich an seiner Beute fest und versetzt ihr über seine Fangzähne Stromschläge."
+    },
+    "Black 2": {
+      "en": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+      "de": "Es hakt sich mit dem Saugnapf an seinem Maul am Gegner fest und verpasst ihm mit seinen Fangzähnen starke Stromschläge."
+    },
+    "White 2": {
+      "en": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+      "de": "Es hakt sich mit dem Saugnapf an seinem Maul am Gegner fest und verpasst ihm mit seinen Fangzähnen starke Stromschläge."
+    },
+    "X": {
+      "en": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+      "de": "Mit dem Saugnapf an seinem Maul hakt es sich an seiner Beute fest und versetzt ihr über seine Fangzähne Stromschläge."
+    },
+    "Y": {
+      "en": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+      "de": "Es schleppt sich mithilfe seiner Arme an Land, schnappt nach seiner Beute und zerrt sie augenblicklich ins Meer."
+    },
+    "Omega Ruby": {
+      "en": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+      "de": "Es schleppt sich mithilfe seiner Arme an Land, schnappt nach seiner Beute und zerrt sie augenblicklich ins Meer."
+    },
+    "Alpha Sapphire": {
+      "en": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+      "de": "Es schleppt sich mithilfe seiner Arme an Land, schnappt nach seiner Beute und zerrt sie augenblicklich ins Meer."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,672 @@
+{
+  "names": {
+    "fr": "Scarhino",
+    "de": "Skaraborn",
+    "it": "Heracross",
+    "en": "Heracross"
+  },
+  "national_id": 214,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm"
+    },
+    {
+      "name": "Moxie",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "119.0 lbs.",
+  "weight_eu": "54.0 kg",
+  "base_exp_yield": 175,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "atk": 125,
+    "def": 75,
+    "sp_atk": 40,
+    "sp_def": 95,
+    "speed": 85
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Arm Thrust"
+    },
+    {
+      "level": 0,
+      "move": "Bullet Seed"
+    },
+    {
+      "level": 0,
+      "move": "Night Slash"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Horn Attack"
+    },
+    {
+      "level": 0,
+      "move": "Endure"
+    },
+    {
+      "level": 7,
+      "move": "Feint"
+    },
+    {
+      "level": 10,
+      "move": "Aerial Ace"
+    },
+    {
+      "level": 16,
+      "move": "Chip Away"
+    },
+    {
+      "level": 19,
+      "move": "Counter"
+    },
+    {
+      "level": 25,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 28,
+      "move": "Brick Break"
+    },
+    {
+      "level": 31,
+      "move": "Pin Missile"
+    },
+    {
+      "level": 34,
+      "move": "Take Down"
+    },
+    {
+      "level": 37,
+      "move": "Megahorn"
+    },
+    {
+      "level": 43,
+      "move": "Close Combat"
+    },
+    {
+      "level": 46,
+      "move": "Reversal"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Bide"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Bide"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Bide"
+    },
+    {
+      "parent": "Kricketot",
+      "move": "Bide"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Bide"
+    },
+    {
+      "parent": "Shelmet",
+      "move": "Bide"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Bide"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "Flail"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Flail"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Flail"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Flail"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Metapod",
+      "move": "Harden"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Harden"
+    },
+    {
+      "parent": "Kakuna",
+      "move": "Harden"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Harden"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Harden"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Harden"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Harden"
+    },
+    {
+      "parent": "Silcoon",
+      "move": "Harden"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Harden"
+    },
+    {
+      "parent": "Cascoon",
+      "move": "Harden"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Harden"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Harden"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Harden"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Megahorn"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Megahorn"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Seismic Toss"
+    }
+  ],
+  "categories": {
+    "en": "Single Horn Pokémon",
+    "de": "Einzelhorn"
+  },
+  "kanto_id": null,
+  "johto_id": 114,
+  "hoenn_id": 175,
+  "sinnoh_id": 62,
+  "unova_id": null,
+  "kalos_id": 131,
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Skill Link",
+      "mega_stone": "Heracronite",
+      "height_us": "5'07\"",
+      "height_eu": "1.7 m",
+      "weight_us": "137.8 lbs.",
+      "weight_eu": "62.5 kg",
+      "base_stats": {
+        "hp": 80,
+        "atk": 185,
+        "def": 115,
+        "sp_atk": 40,
+        "sp_def": 105,
+        "speed": 75
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "This powerful Pokémon thrusts its prized horn under its enemies' bellies then lifts and throws them.",
+      "de": "Dieses kräftige Pokémon rammt sein prämiertes Horn unter den Rumpf des Gegners und wirft ihn um."
+    },
+    "Silver": {
+      "en": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
+      "de": "Es ist ruhig. Wird es aber beim Honignaschen gestört, verjagt es den Störenfried mit seinem Horn."
+    },
+    "Crystal": {
+      "en": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
+      "de": "Mit seiner herkulischen Kraft kann es Objekte, die 100-mal sein Körpergewicht haben, mühelos umwerfen."
+    },
+    "Ruby": {
+      "en": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
+      "de": "Skaraborn geht direkt auf seinen Gegner los, rutscht auf ihn zu, um ihn auszuhebeln und mit seinem mächtigen Horn wegzuschleudern. Dieses Pokémon hat genug Kraft, um einen massigen Baum umzustoßen."
+    },
+    "Sapphire": {
+      "en": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.",
+      "de": "Skaraborn hat scharfe Krallen an den Füßen. Diese bohren sich fest in den Boden oder in die Rinde eines Baumes und geben diesem Pokémon einen sicheren Halt. So kann es seine Gegner mit seinem imposanten Horn wegschleudern."
+    },
+    "Emerald": {
+      "en": "They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.",
+      "de": "Es versammelt sich mit seinen Artgenossen im Wald, um nach Baumharz zu suchen. SKARABORN ist stolz auf sein Horn, mit dem es Gegner herumwirft."
+    },
+    "FireRed": {
+      "en": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
+      "de": "Es ist ruhig. Wird es aber beim Honignaschen gestört, verjagt es den Störenfried mit seinem Horn."
+    },
+    "LeafGreen": {
+      "en": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
+      "de": "Dieses kräftige Pokémon rammt sein prämiertes Horn unter den Rumpf des Gegners und wirft ihn um."
+    },
+    "Diamond": {
+      "en": "It gathers in forests to search for tree sap, its favorite food. It's strong enough to hurl foes.",
+      "de": "Auf der Suche nach Baumsaft durch- streift es die Wälder. Es ist stark genug, um Gegner wegzuschleudern."
+    },
+    "Pearl": {
+      "en": "With powerful legs and claws, it generates enough power to hurl foes over great distances.",
+      "de": "Mit kräftigen Beinen und Krallen kann es seine Gegner über große Entfernungen schleudern."
+    },
+    "Platinum": {
+      "en": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+      "de": "Es liebt süßen Honig. Um den ganzen Honig für sich zu haben, schleudert es Rivalen mit seinem Horn davon."
+    },
+    "HeartGold": {
+      "en": "This powerful Pokémon thrusts its prized horn under the enemies' bellies then lifts and throws them.",
+      "de": "Auf der Suche nach Baumsaft durch- streift es die Wälder. Es ist stark genug, um Gegner wegzuschleudern."
+    },
+    "SoulSilver": {
+      "en": "It is usually docile, but if it is disturbed while sipping honey, it chases off the intruder with its horn.",
+      "de": "Auf der Suche nach Baumsaft durch- streift es die Wälder. Es ist stark genug, um Gegner wegzuschleudern."
+    },
+    "Black": {
+      "en": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+      "de": "Es liebt süßen Honig. Um den ganzen Honig für sich zu haben, schleudert es Rivalen mit seinem Horn davon."
+    },
+    "White": {
+      "en": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+      "de": "Es liebt süßen Honig. Um den ganzen Honig für sich zu haben, schleudert es Rivalen mit seinem Horn davon."
+    },
+    "Black 2": {
+      "en": "No matter how heavy its opponents, it flings them far away with its prized horn.",
+      "de": "Mit seinem prämierten Horn schleudert es jeden noch so schweren Gegner bis in weite Ferne."
+    },
+    "White 2": {
+      "en": "No matter how heavy its opponents, it flings them far away with its prized horn.",
+      "de": "Mit seinem prämierten Horn schleudert es jeden noch so schweren Gegner bis in weite Ferne."
+    },
+    "X": {
+      "en": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
+      "de": "Dieses kräftige Pokémon rammt sein stolzes Horn unter den Rumpf des Gegners und wirft ihn um."
+    },
+    "Y": {
+      "en": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
+      "de": "Mit seiner herkulischen Kraft kann es Objekte, die hundertmal sein Körpergewicht haben, mühelos umwerfen."
+    },
+    "Omega Ruby": {
+      "en": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
+      "de": "Skaraborn geht direkt auf seinen Gegner los, rutscht auf ihn zu, um ihn auszuhebeln und mit seinem mächtigen Horn wegzuschleudern. Dieses Pokémon hat genug Kraft, um einen massigen Baum umzustoßen."
+    },
+    "Alpha Sapphire": {
+      "en": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.",
+      "de": "Skaraborn hat scharfe Krallen an den Füßen. Diese bohren sich fest in den Boden oder in die Rinde eines Baumes und geben diesem Pokémon einen sicheren Halt. So kann es seine Gegner mit seinem imposanten Horn wegschleudern."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

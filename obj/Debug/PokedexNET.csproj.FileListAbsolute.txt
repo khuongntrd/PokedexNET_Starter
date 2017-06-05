@@ -1,0 +1,7 @@
+C:\Users\Khuong\Desktop\Demo\PokedexNET\obj\Debug\PokedexNET.csprojResolveAssemblyReference.cache
+C:\Users\Khuong\Desktop\Demo\PokedexNET\bin\Debug\PokedexNET.dll
+C:\Users\Khuong\Desktop\Demo\PokedexNET\bin\Debug\PokedexNET.pdb
+C:\Users\Khuong\Desktop\Demo\PokedexNET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Khuong\Desktop\Demo\PokedexNET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Khuong\Desktop\Demo\PokedexNET\obj\Debug\PokedexNET.dll
+C:\Users\Khuong\Desktop\Demo\PokedexNET\obj\Debug\PokedexNET.pdb

@@ -1,0 +1,445 @@
+{
+  "names": {
+    "fr": "Métalosse",
+    "de": "Metagross",
+    "it": "Metagross",
+    "en": "Metagross"
+  },
+  "national_id": 376,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Clear Body"
+    },
+    {
+      "name": "Light Metal",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 3,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "5'03\"",
+  "height_eu": "1.6 m",
+  "weight_us": "1212.5 lbs.",
+  "weight_eu": "550.0 kg",
+  "base_exp_yield": 270,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 3,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 80,
+    "atk": 135,
+    "def": 130,
+    "sp_atk": 95,
+    "sp_def": 90,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Magnet Rise"
+    },
+    {
+      "level": 0,
+      "move": "Take Down"
+    },
+    {
+      "level": 0,
+      "move": "Metal Claw"
+    },
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 20,
+      "move": "Confusion"
+    },
+    {
+      "level": 20,
+      "move": "Metal Claw"
+    },
+    {
+      "level": 23,
+      "move": "Pursuit"
+    },
+    {
+      "level": 26,
+      "move": "Bullet Punch"
+    },
+    {
+      "level": 29,
+      "move": "Miracle Eye"
+    },
+    {
+      "level": 32,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 35,
+      "move": "Scary Face"
+    },
+    {
+      "level": 38,
+      "move": "Psychic"
+    },
+    {
+      "level": 41,
+      "move": "Agility"
+    },
+    {
+      "level": 44,
+      "move": "Meteor Mash"
+    },
+    {
+      "level": 45,
+      "move": "Hammer Arm"
+    },
+    {
+      "level": 52,
+      "move": "Iron Defense"
+    },
+    {
+      "level": 60,
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ],
+  "evolution_from": "Metang",
+  "alola_id": 216,
+  "categories": {
+    "en": "Iron Leg Pokémon",
+    "de": "Eisenfuß"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 201,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Tough Claws",
+      "mega_stone": "Metagrossite",
+      "height_us": "8'02\"",
+      "height_eu": "2.5 m",
+      "weight_us": "2078.7 lbs.",
+      "weight_eu": "942.9 kg",
+      "base_stats": {
+        "hp": 80,
+        "atk": 145,
+        "def": 150,
+        "sp_atk": 105,
+        "sp_def": 110,
+        "speed": 110
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs.",
+      "de": "Metagross hat insgesamt vier Gehirne. Diese können schwierige Berechnungen schneller lösen als ein Supercomputer. Dieses Pokémon kann durch die Lüfte schweben, indem es seine vier Beine einklappt."
+    },
+    "Sapphire": {
+      "en": "Metagross is the result of two Metang achieving fusion. When hunting, this Pokémon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
+      "de": "Metagross ist aus der Verschmelzung zweier Metang hervorgegangen. Auf der Jagd drückt es seine Beute mit seinem massigen Körper zu Boden. Dann frisst es sein hilfloses Opfer auf."
+    },
+    "Emerald": {
+      "en": "Metagross has four brains that are joined by a complex neural network. As a result of integration, this Pokémon is smarter than a supercomputer.",
+      "de": "METAGROSS hat vier Gehirne, die über ein neurales Netzwerk miteinander verbunden sind. Das Ergebnis der Integrierung ist, dass es schlauer als ein Superrechner ist."
+    },
+    "FireRed": {
+      "en": "It is formed by two Metang fusing. Its four brains are said to be superior to a supercomputer.",
+      "de": "Es entsteht, wenn zwei Metang verschmelzen. Man sagt, dass es mit seinen vier Gehirnen sogar einem Supercomputer überlegen wäre."
+    },
+    "LeafGreen": {
+      "en": "It is formed by two Metang fusing. Its four brains are said to be superior to a supercomputer.",
+      "de": "Es entsteht, wenn zwei Metang verschmelzen. Man sagt, dass es mit seinen vier Gehirnen sogar einem Supercomputer überlegen wäre."
+    },
+    "Diamond": {
+      "en": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+      "de": "Mehrere METANG bilden dieses PKMN. Mit seinen 4 Gehirnen besitzt es die Intelligenz eines Supercomputers."
+    },
+    "Pearl": {
+      "en": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+      "de": "Mehrere METANG bilden dieses PKMN. Mit seinen 4 Gehirnen besitzt es die Intelligenz eines Supercomputers."
+    },
+    "Platinum": {
+      "en": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+      "de": "Mehrere METANG bilden dieses PKMN. Mit seinen 4 Gehirnen besitzt es die Intelligenz eines Supercomputers."
+    },
+    "HeartGold": {
+      "en": "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.",
+      "de": "Mehrere METANG bilden dieses PKMN. Mit seinen 4 Gehirnen besitzt es die Intelligenz eines Supercomputers."
+    },
+    "SoulSilver": {
+      "en": "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.",
+      "de": "Mehrere METANG bilden dieses PKMN. Mit seinen 4 Gehirnen besitzt es die Intelligenz eines Supercomputers."
+    },
+    "Black": {
+      "en": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+      "de": "Mehrere Metang bilden dieses Pokémon. Mit seinen vier Gehirnen besitzt es die Intelligenz eines Supercomputers."
+    },
+    "White": {
+      "en": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+      "de": "Mehrere Metang bilden dieses Pokémon. Mit seinen vier Gehirnen besitzt es die Intelligenz eines Supercomputers."
+    },
+    "Black 2": {
+      "en": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
+      "de": "Dank seiner vier vernetzten Hirne kann es Gegner besser als ein Supercomputer mit komplizierten Formeln analysieren."
+    },
+    "White 2": {
+      "en": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
+      "de": "Dank seiner vier vernetzten Hirne kann es Gegner besser als ein Supercomputer mit komplizierten Formeln analysieren."
+    },
+    "X": {
+      "en": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
+      "de": "Dank seiner vier vernetzten Hirne kann es Gegner besser als ein Supercomputer mit komplizierten Formeln analysieren."
+    },
+    "Y": {
+      "en": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+      "de": "Mehrere Metang bilden dieses Pokémon. Mit seinen vier Gehirnen besitzt es die Intelligenz eines Supercomputers."
+    },
+    "Omega Ruby": {
+      "en": "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs.",
+      "de": "Metagross hat insgesamt vier Gehirne. Diese können schwierige Berechnungen schneller durchführen als ein Supercomputer. Dieses Pokémon kann durch die Lüfte schweben, indem es seine vier Beine einklappt."
+    },
+    "Alpha Sapphire": {
+      "en": "Metagross is the result of two Metang achieving fusion. When hunting, this Pokémon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
+      "de": "Metagross ist aus der Verschmelzung zweier Metang hervorgegangen. Auf der Jagd drückt es seine Beute mit seinem massigen Körper zu Boden. Dann frisst es sein hilfloses Opfer mit seinem großen Maul auf."
+    },
+    "Sun": {
+      "en": "It firmly pins its prey using its four claws and large body. Then the teeth in the mouth on its stomach chew the prey to bits.",
+      "de": "Es liebt Mineralien, die Magnetfelder erzeugen. Kein Wunder, dass es Nasgnet mit 100 km/h hinterherjagt."
+    },
+    "Moon": {
+      "en": "A linkage of two Metang, this Pokémon can perform any calculation in a flash by utilizing parallel processing in its four brains.",
+      "de": "Es ging aus der Verschmelzung zweier Metang hervor. Dank vier Gehirnen und paralleler Datenverarbeitung sind Berechnungen im Nu gelöst."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      1,
+      2
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      4,
+      4
+    ],
+    "jump": [
+      2,
+      2
+    ]
+  }
+}

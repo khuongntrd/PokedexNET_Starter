@@ -1,0 +1,667 @@
+{
+  "names": {
+    "fr": "Osselait",
+    "de": "Tragosso",
+    "it": "Cubone",
+    "en": "Cubone"
+  },
+  "national_id": 104,
+  "types": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head"
+    },
+    {
+      "name": "Battle Armor",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Monster"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "14.3 lbs.",
+  "weight_eu": "6.5 kg",
+  "base_exp_yield": 64,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 95,
+    "sp_atk": 40,
+    "sp_def": 50,
+    "speed": 35
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 3,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 7,
+      "move": "Bone Club"
+    },
+    {
+      "level": 11,
+      "move": "Headbutt"
+    },
+    {
+      "level": 13,
+      "move": "Leer"
+    },
+    {
+      "level": 17,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 21,
+      "move": "Bonemerang"
+    },
+    {
+      "level": 23,
+      "move": "Rage"
+    },
+    {
+      "level": 27,
+      "move": "False Swipe"
+    },
+    {
+      "level": 31,
+      "move": "Thrash"
+    },
+    {
+      "level": 33,
+      "move": "Fling"
+    },
+    {
+      "level": 37,
+      "move": "Bone Rush"
+    },
+    {
+      "level": 41,
+      "move": "Endeavor"
+    },
+    {
+      "level": 43,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 47,
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Amaura",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Aurorus",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Treecko",
+      "move": "Detect"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Detect"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Detect"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Endure"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Endure"
+    },
+    {
+      "parent": "Aron",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Perish Song"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Screech"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Screech"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Screech"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Screech"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Screech"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Treecko",
+      "move": "Screech"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Screech"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Screech"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Screech"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Screech"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Screech"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Screech"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Screech"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Skull Bash"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Marowak",
+      "level": 28
+    }
+  ],
+  "alola_id": 163,
+  "categories": {
+    "en": "Lonely Pokémon",
+    "de": "Einsam"
+  },
+  "kanto_id": 104,
+  "johto_id": 208,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 60,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+      "de": "Dieses Pokémon trägt immer eine Schädelmaske. Niemand hat bisher sein wahres Gesicht gesehen."
+    },
+    "Blue": {
+      "en": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+      "de": "Dieses Pokémon trägt immer eine Schädelmaske. Niemand hat bisher sein wahres Gesicht gesehen."
+    },
+    "Yellow": {
+      "en": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+      "de": "Tragosso trägt den Schädel seiner Mutter als Maske. Sein trauriges Weinen hallt darin wider."
+    },
+    "Gold": {
+      "en": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
+      "de": "Ist es einsam oder traurig, wackelt der Schädel den es trägt und man hört es jammern und wimmern."
+    },
+    "Silver": {
+      "en": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+      "de": "Es trägt immer den Schädel seiner verstorbenen Mutter. Darum weiß niemand, wie sein Gesicht aussieht."
+    },
+    "Crystal": {
+      "en": "It lost its mother after its birth. It wears its mother's skull, never revealing its true face.",
+      "de": "Es hat seine Mutter bei der Geburt verloren. Seitdem trägt es ihren Schädel und zeigt nie sein Gesicht."
+    },
+    "Ruby": {
+      "en": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+      "de": "Tragosso sehnt sich nach seiner Mutter, die nicht mehr da ist. Wenn es im Vollmond das Ebenbild seiner Mutter erblickt, muss es weinen. Die Flecken auf dem Totenkopf, den es trägt, stammen von vergossenen Tränen."
+    },
+    "Sapphire": {
+      "en": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+      "de": "Tragosso sehnt sich nach seiner Mutter, die nicht mehr da ist. Wenn es im Vollmond das Ebenbild seiner Mutter erblickt, muss es weinen. Die Flecken auf dem Totenkopf, den es trägt, stammen von vergossenen Tränen."
+    },
+    "Emerald": {
+      "en": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
+      "de": "TRAGOSSO vermisst seine tote Mutter. Sieht es im Vollmond das Ebenbild seiner Mutter, weint es. Die Flecken auf dem Totenkopf stammen von Tränen."
+    },
+    "FireRed": {
+      "en": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+      "de": "Es trägt den Schädel seiner verstorbenen Mutter auf seinem Kopf. Fühlt es sich einsam, soll es laut weinen."
+    },
+    "LeafGreen": {
+      "en": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+      "de": "Dieses Pokémon trägt immer eine Schädelmaske. Niemand hat bisher sein wahres Gesicht gesehen."
+    },
+    "Diamond": {
+      "en": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es, wobei der Schädel auf seinem Kopf hohl klingt."
+    },
+    "Pearl": {
+      "en": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es, wobei der Schädel auf seinem Kopf hohl klingt."
+    },
+    "Platinum": {
+      "en": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es, wobei der Schädel auf seinem Kopf hohl klingt."
+    },
+    "HeartGold": {
+      "en": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es, wobei der Schädel auf seinem Kopf hohl klingt."
+    },
+    "SoulSilver": {
+      "en": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es, wobei der Schädel auf seinem Kopf hohl klingt."
+    },
+    "Black": {
+      "en": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es, wobei der Schädel auf seinem Kopf hohl klingt."
+    },
+    "White": {
+      "en": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es, wobei der Schädel auf seinem Kopf hohl klingt."
+    },
+    "Black 2": {
+      "en": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es, wobei der Schädel auf seinem Kopf hohl klingt."
+    },
+    "White 2": {
+      "en": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es, wobei der Schädel auf seinem Kopf hohl klingt."
+    },
+    "X": {
+      "en": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+      "de": "Es trägt den Schädel seiner verstorbenen Mutter auf seinem Kopf. Fühlt es sich einsam, soll es laut weinen."
+    },
+    "Y": {
+      "en": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+      "de": "Es trägt immer den Schädel seiner verstorbenen Mutter. Darum weiß niemand, wie sein Gesicht aussieht."
+    },
+    "Omega Ruby": {
+      "en": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+      "de": "Tragosso sehnt sich nach seiner Mutter, die nicht mehr da ist. Wenn es im Vollmond das Ebenbild seiner Mutter erblickt, muss es weinen. Die Flecken auf dem Totenkopf, den es trägt, stammen von vergossenen Tränen."
+    },
+    "Alpha Sapphire": {
+      "en": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+      "de": "Tragosso sehnt sich nach seiner Mutter, die nicht mehr da ist. Wenn es im Vollmond das Ebenbild seiner Mutter erblickt, muss es weinen. Die Flecken auf dem Totenkopf, den es trägt, stammen von vergossenen Tränen."
+    },
+    "Sun": {
+      "en": "When it thinks of its deceased mother, it weeps loudly. Mandibuzz that hear its cries will attack it from the air.",
+      "de": "Denkt es an seine verstorbene Mutter, weint es laut. Hört dies ein Grypheldis, nutzt dieses die Gelegenheit, um es aus der Luft anzugreifen."
+    },
+    "Moon": {
+      "en": "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
+      "de": "Der Schädel auf seinem Kopf gehörte seiner verstorbenen Mutter. Überwindet es diesen Verlust, setzt angeblich die Entwicklung ein."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      4,
+      4
+    ],
+    "power": [
+      2,
+      5
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}

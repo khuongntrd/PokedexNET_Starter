@@ -1,0 +1,420 @@
+{
+  "names": {
+    "fr": "Braisillon",
+    "de": "Dartignis",
+    "it": "Fletchinder",
+    "en": "Fletchinder"
+  },
+  "national_id": 662,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Flame Body"
+    },
+    {
+      "name": "Gale Wings",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 120,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "35.3 lbs.",
+  "weight_eu": "16.0 kg",
+  "base_exp_yield": 134,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 62,
+    "atk": 73,
+    "def": 55,
+    "sp_atk": 56,
+    "sp_def": 52,
+    "speed": 84
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 6,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 10,
+      "move": "Peck"
+    },
+    {
+      "level": 13,
+      "move": "Agility"
+    },
+    {
+      "level": 16,
+      "move": "Flail"
+    },
+    {
+      "level": 17,
+      "move": "Ember"
+    },
+    {
+      "level": 25,
+      "move": "Roost"
+    },
+    {
+      "level": 27,
+      "move": "Razor Wind"
+    },
+    {
+      "level": 31,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 38,
+      "move": "Flame Charge"
+    },
+    {
+      "level": 42,
+      "move": "Acrobatics"
+    },
+    {
+      "level": 46,
+      "move": "Me First"
+    },
+    {
+      "level": 51,
+      "move": "Tailwind"
+    },
+    {
+      "level": 55,
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Archen",
+      "move": "Quick Guard"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Quick Guard"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Tailwind"
+    }
+  ],
+  "evolution_from": "Fletchling",
+  "evolutions": [
+    {
+      "to": "Talonflame",
+      "level": 35
+    }
+  ],
+  "alola_id": 159,
+  "categories": {
+    "en": "Ember Pokémon",
+    "de": "Funkenregen"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 15,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+      "de": "Es speit Funken aus seinem Schnabel und fängt die Beute, die überrascht aus dem angesengten Gras hervorspringt."
+    },
+    "Y": {
+      "en": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
+      "de": "Je heißer die Flammen im Feuersack seines Bauches lodern, desto schneller kann es fliegen. Es dauert jedoch eine Weile, bis es zur Zündung kommt."
+    },
+    "Omega Ruby": {
+      "en": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+      "de": "Je heißer die Flammen im Feuersack seines Bauches lodern, desto schneller kann es fliegen. Es dauert jedoch eine Weile, bis es zur Zündung kommt."
+    },
+    "Alpha Sapphire": {
+      "en": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
+      "de": "Je heißer die Flammen im Feuersack seines Bauches lodern, desto schneller kann es fliegen. Es dauert jedoch eine Weile, bis es zur Zündung kommt."
+    },
+    "Sun": {
+      "en": "From its beak, it fires embers at its prey. Once it has caught them, it grills them at high heat before feasting upon them.",
+      "de": "Es speit Funken aus seinem Schnabel und schreckt so die Beute auf. Einmal gefangen, wird sie geröstet und dann verspeist."
+    },
+    "Moon": {
+      "en": "It will not tolerate other Fletchinder entering its territory, which has a radius of several miles.",
+      "de": "Sein Revier hat einen Radius von mehreren Kilometern. Das Eindringen anderer Dartignis wird nicht geduldet."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

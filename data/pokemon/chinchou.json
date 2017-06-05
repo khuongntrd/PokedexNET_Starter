@@ -1,0 +1,604 @@
+{
+  "names": {
+    "fr": "Loupio",
+    "de": "Lampi",
+    "it": "Chinchou",
+    "en": "Chinchou"
+  },
+  "national_id": 170,
+  "types": [
+    "Water",
+    "Electric"
+  ],
+  "abilities": [
+    {
+      "name": "Volt Absorb"
+    },
+    {
+      "name": "Water Absorb",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "26.5 lbs.",
+  "weight_eu": "12.0 kg",
+  "base_exp_yield": 66,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "atk": 38,
+    "def": 38,
+    "sp_atk": 56,
+    "sp_def": 56,
+    "speed": 67
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Bubble"
+    },
+    {
+      "level": 0,
+      "move": "Supersonic"
+    },
+    {
+      "level": 6,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 9,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 12,
+      "move": "Water Gun"
+    },
+    {
+      "level": 17,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 20,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 23,
+      "move": "Spark"
+    },
+    {
+      "level": 28,
+      "move": "Signal Beam"
+    },
+    {
+      "level": 31,
+      "move": "Flail"
+    },
+    {
+      "level": 34,
+      "move": "Discharge"
+    },
+    {
+      "level": 39,
+      "move": "Take Down"
+    },
+    {
+      "level": 42,
+      "move": "Aqua Ring"
+    },
+    {
+      "level": 45,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 47,
+      "move": "Ion Deluge"
+    },
+    {
+      "level": 50,
+      "move": "Charge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Agility"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Agility"
+    },
+    {
+      "parent": "Carvanha",
+      "move": "Agility"
+    },
+    {
+      "parent": "Sharpedo",
+      "move": "Agility"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Agility"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Flail"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Magikarp",
+      "move": "Flail"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Flail"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Flail"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Flail"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Flail"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Mist"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Inkay",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Malamar",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Carvanha",
+      "move": "Screech"
+    },
+    {
+      "parent": "Sharpedo",
+      "move": "Screech"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Soak"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Soak"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Soak"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Soak"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Soak"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Soak"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Soak"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Soak"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Whirlpool"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Lanturn",
+      "level": 27
+    }
+  ],
+  "alola_id": 201,
+  "categories": {
+    "en": "Angler Pokémon",
+    "de": "Angler"
+  },
+  "kanto_id": null,
+  "johto_id": 176,
+  "hoenn_id": 190,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 147,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+      "de": "Es verschießt negative und positive Elektronen zwischen seinen Antennen, um seine Feinde zu erlegen."
+    },
+    "Silver": {
+      "en": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+      "de": "Am Meeresgrund kann es sich nur durch ständiges Flackern seiner Lichter der Umgebung kundtun."
+    },
+    "Crystal": {
+      "en": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+      "de": "Seine Antennen, die aus Flossen entstanden sind, sind sowohl positiv als auch negativ geladen."
+    },
+    "Ruby": {
+      "en": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
+      "de": "Lampi gibt positive und negative elektrische Ladungen durch seine Antennen ab, um seine Beute zu lähmen. Dieses Pokémon lässt seine Lichter aufflackern und tauscht Signale mit seinen Artgenossen aus."
+    },
+    "Sapphire": {
+      "en": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly.",
+      "de": "Lampis zwei Antennen sind mit Zellen gefüllt, die Elektrizität erzeugen. Die elektrische Ladung ist so stark, dass es sogar ein leichtes Kribbeln verspürt."
+    },
+    "Emerald": {
+      "en": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.",
+      "de": "Bei Gefahr entlädt es positive und negative Ladungen zwischen seinen Antennen. Es lebt so tief verborgen, dass es kein Sonnenlicht kennt."
+    },
+    "FireRed": {
+      "en": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+      "de": "Am Meeresgrund kann es sich nur durch ständiges Flackern seiner Lichter der Umgebung kundtun."
+    },
+    "LeafGreen": {
+      "en": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+      "de": "Es verfügt über negative und positive Ladungen zwischen seinen Antennen, um seine Feinde zu erlegen."
+    },
+    "Diamond": {
+      "en": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+      "de": "Über seine Antennen entlädt es Elektrizität, mit der es seinen Gegnern einen Schlag versetzt."
+    },
+    "Pearl": {
+      "en": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+      "de": "Über seine Antennen entlädt es Elektrizität, mit der es seinen Gegnern einen Schlag versetzt."
+    },
+    "Platinum": {
+      "en": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+      "de": "Über seine Antennen entlädt es Elektrizität, mit der es seinen Gegnern einen Schlag versetzt."
+    },
+    "HeartGold": {
+      "en": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+      "de": "Über seine Antennen entlädt es Elektrizität, mit der es seinen Gegnern einen Schlag versetzt."
+    },
+    "SoulSilver": {
+      "en": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+      "de": "Über seine Antennen entlädt es Elektrizität, mit der es seinen Gegnern einen Schlag versetzt."
+    },
+    "Black": {
+      "en": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+      "de": "Über seine Antennen entlädt es Elektrizität, mit der es seinen Gegnern einen Schlag versetzt."
+    },
+    "White": {
+      "en": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+      "de": "Über seine Antennen entlädt es Elektrizität, mit der es seinen Gegnern einen Schlag versetzt."
+    },
+    "Black 2": {
+      "en": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+      "de": "Über seine Antennen entlädt es Elektrizität, mit der es seinen Gegnern einen Schlag versetzt."
+    },
+    "White 2": {
+      "en": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+      "de": "Über seine Antennen entlädt es Elektrizität, mit der es seinen Gegnern einen Schlag versetzt."
+    },
+    "X": {
+      "en": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+      "de": "Am Meeresgrund kann es sich nur durch ständiges Flackern seiner Lichter der Umgebung kundtun."
+    },
+    "Y": {
+      "en": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+      "de": "Es verschießt negative und positive Elektronen zwischen seinen Antennen, um seine Feinde zu erlegen."
+    },
+    "Omega Ruby": {
+      "en": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
+      "de": "Lampi gibt positive und negative elektrische Ladungen durch seine Antennen ab, um seine Beute zu lähmen. Dieses Pokémon lässt seine Lichter aufflackern und tauscht Signale mit seinen Artgenossen aus."
+    },
+    "Alpha Sapphire": {
+      "en": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly.",
+      "de": "Lampis zwei Antennen sind mit Zellen gefüllt, die Elektrizität erzeugen. Die elektrische Ladung ist so stark, dass es sogar ein leichtes Kribbeln verspürt."
+    },
+    "Sun": {
+      "en": "Its two antennae were originally fins. It discharges electricity to stun its prey before attacking.",
+      "de": "Seine zwei Antennen waren ursprünglich Flossen. Es greift seine Beute an, indem es sie mit Strom lähmt."
+    },
+    "Moon": {
+      "en": "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
+      "de": "Es lebt in den Tiefen des Meeres, zu denen kein Licht durchdringt. Es kommuniziert mit anderen Lampi, indem es seine Antennen aufblitzen lässt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      2,
+      4
+    ],
+    "skill": [
+      3,
+      5
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

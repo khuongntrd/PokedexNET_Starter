@@ -1,0 +1,873 @@
+{
+  "names": {
+    "fr": "Raichu",
+    "de": "Raichu",
+    "it": "Raichu",
+    "en": "Raichu"
+  },
+  "national_id": 26,
+  "types": [
+    "Electric"
+  ],
+  "abilities": [
+    {
+      "name": "Static"
+    },
+    {
+      "name": "Lightning Rod",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Field",
+    "Fairy"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'07\"",
+  "height_eu": "0.8 m",
+  "weight_us": "66.1 lbs.",
+  "weight_eu": "30.0 kg",
+  "base_exp_yield": 214,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 3
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 90,
+    "def": 55,
+    "sp_atk": 90,
+    "sp_def": 80,
+    "speed": 100
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 0,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 0,
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Bestow"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Bestow"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Bestow"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Bestow"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Bide"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Bide"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Bide"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Bide"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Bide"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Bide"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Bide"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Bide"
+    },
+    {
+      "parent": "Mareep",
+      "move": "Charge"
+    },
+    {
+      "parent": "Flaaffy",
+      "move": "Charge"
+    },
+    {
+      "parent": "Ampharos",
+      "move": "Charge"
+    },
+    {
+      "parent": "Electrike",
+      "move": "Charge"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Charge"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Charge"
+    },
+    {
+      "parent": "Minun",
+      "move": "Charge"
+    },
+    {
+      "parent": "Shinx",
+      "move": "Charge"
+    },
+    {
+      "parent": "Luxio",
+      "move": "Charge"
+    },
+    {
+      "parent": "Luxray",
+      "move": "Charge"
+    },
+    {
+      "parent": "Blitzle",
+      "move": "Charge"
+    },
+    {
+      "parent": "Zebstrika",
+      "move": "Charge"
+    },
+    {
+      "parent": "Emolga",
+      "move": "Charge"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Charge"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Clefable",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Florges",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Espurr",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Clefable",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Audino",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Bunnelby",
+      "move": "Double Slap"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Encore"
+    },
+    {
+      "parent": "Seel",
+      "move": "Encore"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Encore"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Encore"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Encore"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Encore"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Encore"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Encore"
+    },
+    {
+      "parent": "Minun",
+      "move": "Encore"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Encore"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Encore"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Encore"
+    },
+    {
+      "parent": "Oshawott",
+      "move": "Encore"
+    },
+    {
+      "parent": "Dewott",
+      "move": "Encore"
+    },
+    {
+      "parent": "Samurott",
+      "move": "Encore"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Encore"
+    },
+    {
+      "parent": "Emolga",
+      "move": "Encore"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Endure"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Endure"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Endure"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Endure"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Endure"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Endure"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Endure"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Endure"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Endure"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Persian",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Espurr",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Flail"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Flail"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Flail"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Flail"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Flail"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Flail"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Flail"
+    },
+    {
+      "parent": "Bunnelby",
+      "move": "Flail"
+    },
+    {
+      "parent": "Diggersby",
+      "move": "Flail"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Flail"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Flail"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Munna",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Musharna",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Fennekin",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Braixen",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Delphox",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Delibird",
+      "move": "Present"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Bouffalant",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Ampharos",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Wish"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Wish"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Wish"
+    }
+  ],
+  "evolution_from": "Pikachu",
+  "alola_id": 26,
+  "categories": {
+    "en": "Mouse Pokémon",
+    "de": "Maus"
+  },
+  "kanto_id": 26,
+  "johto_id": 23,
+  "hoenn_id": 164,
+  "sinnoh_id": 105,
+  "unova_id": null,
+  "kalos_id": 37,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+      "de": "Der lange Schweif dieses Pokémon dient als Erdung zum Schutz vor der körpereigenen Hochspannung."
+    },
+    "Blue": {
+      "en": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+      "de": "Der lange Schweif dieses Pokémon dient als Erdung zum Schutz vor der körpereigenen Hochspannung."
+    },
+    "Yellow": {
+      "en": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
+      "de": "Dieses lebhafte Pokémon erzeugt in seinem Körper Elektrizität. Es leuchtet auch im Dunkeln."
+    },
+    "Gold": {
+      "en": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+      "de": "Wenn es sich auflädt, zucken seine Muskeln und es wird aggressiver und kampflustiger."
+    },
+    "Silver": {
+      "en": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+      "de": "Wenn seine Backentaschen voll geladen sind, stehen seine beiden Ohren senkrecht nach oben."
+    },
+    "Crystal": {
+      "en": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+      "de": "Lässt die Elektrizität in den Backentaschen nach, stellt es seinen Schweif auf, um sich aufzuladen."
+    },
+    "Ruby": {
+      "en": "If the electrical sacks become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
+      "de": "Wenn seine elektrische Ladung zu groß wird, entlädt Raichu seine Energie ins Erdreich. Neben dem Nest dieses Pokémon findet man häufig versengtes Erdreich."
+    },
+    "Sapphire": {
+      "en": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu searches for electricity by planting its tail in the ground.",
+      "de": "Dieses Pokémon gibt eine schwache elektrische Ladung ab. Dadurch glüht es bei Dunkelheit leicht. Raichu entlädt Elektrizität, indem es sein Hinterteil in den Boden gräbt."
+    },
+    "Emerald": {
+      "en": "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.",
+      "de": "Speichert es zu viel Elektrizität, wird es aggressiv. Um dies zu vermeiden, entlädt es gelegentlich überschüssige Energie, um sich abzuregen."
+    },
+    "FireRed": {
+      "en": "Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint.",
+      "de": "Seine elektrischen Ladungen können bis zu 100 000 Volt erreichen. Unvorsichtiger Kontakt kann sogar einem indischen Elefanten das Bewusstsein nehmen."
+    },
+    "LeafGreen": {
+      "en": "Its long tail serves as ground to protect itself from its own high-voltage power.",
+      "de": "Der lange Schweif dieses Pokémon dient als Erdung zum Schutz vor der körpereigenen Hochspannung."
+    },
+    "Diamond": {
+      "en": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+      "de": "Bei zu viel Elektrizität im Körper wird es aggressiv. Es entlädt sich über seinen Schweif."
+    },
+    "Pearl": {
+      "en": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+      "de": "Es kann 100 000 Volt mit einem Schlag freisetzen und so viel größere Gegner besiegen."
+    },
+    "Platinum": {
+      "en": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+      "de": "Es entlädt Elektrizität in den Boden, um sich auf diese Weise vor elektrischen Schlägen zu schützen."
+    },
+    "HeartGold": {
+      "en": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+      "de": "Bei zu viel Elektrizität im Körper wird es aggressiv. Es entlädt sich über seinen Schweif."
+    },
+    "SoulSilver": {
+      "en": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+      "de": "Bei zu viel Elektrizität im Körper wird es aggressiv. Es entlädt sich über seinen Schweif."
+    },
+    "Black": {
+      "en": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+      "de": "Es entlädt Elektrizität in den Boden, um sich auf diese Weise vor elektrischen Schlägen zu schützen."
+    },
+    "White": {
+      "en": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+      "de": "Es entlädt Elektrizität in den Boden, um sich auf diese Weise vor elektrischen Schlägen zu schützen."
+    },
+    "Black 2": {
+      "en": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+      "de": "Es entlädt Elektrizität in den Boden, um sich auf diese Weise vor elektrischen Schlägen zu schützen."
+    },
+    "White 2": {
+      "en": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+      "de": "Es entlädt Elektrizität in den Boden, um sich auf diese Weise vor elektrischen Schlägen zu schützen."
+    },
+    "X": {
+      "en": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+      "de": "Wenn es sich auflädt, zucken seine Muskeln und es wird aggressiver und kampflustiger."
+    },
+    "Y": {
+      "en": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+      "de": "Es kann 100 000 V mit einem Schlag freisetzen und so viel größere Gegner besiegen."
+    },
+    "Omega Ruby": {
+      "en": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
+      "de": "Wenn seine elektrische Ladung zu groß wird, entläd Raichu seine Energie ins Erdreich. Neben dem Nest dieses Pokémon findet man häufig versengtes Erdreich."
+    },
+    "Alpha Sapphire": {
+      "en": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu plants its tail in the ground to discharge electricity.",
+      "de": "Dieses Pokémon gibt eine schwache elektrische Ladung ab. Dadurch glüht es bei Dunkelheit leicht. Raichu entädt Elektrizität, indem es sein Hinterteil in den Boden gräbt."
+    },
+    "Sun": {
+      "en": "It unleashes electric shocks that can reach 100,000 volts. When agitated, it can knock out even an Indian elephant.",
+      "de": "Kein Eintrag vorhanden"
+    },
+    "Moon": {
+      "en": "It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked.",
+      "de": "Kein Eintrag vorhanden"
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      3
+    ],
+    "power": [
+      4,
+      5
+    ],
+    "stamina": [
+      4,
+      5
+    ],
+    "skill": [
+      4,
+      5
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

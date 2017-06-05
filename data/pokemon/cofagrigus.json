@@ -1,0 +1,461 @@
+{
+  "names": {
+    "fr": "Tutankafer",
+    "de": "Echnatoll",
+    "it": "Cofagrigus",
+    "en": "Cofagrigus"
+  },
+  "national_id": 563,
+  "types": [
+    "Ghost"
+  ],
+  "abilities": [
+    {
+      "name": "Mummy"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 90,
+  "egg_groups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "5'07\"",
+  "height_eu": "1.7 m",
+  "weight_us": "168.7 lbs.",
+  "weight_eu": "76.5 kg",
+  "base_exp_yield": 169,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 58,
+    "atk": 50,
+    "def": 145,
+    "sp_atk": 95,
+    "sp_def": 105,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Protect"
+    },
+    {
+      "level": 0,
+      "move": "Disable"
+    },
+    {
+      "level": 0,
+      "move": "Haze"
+    },
+    {
+      "level": 5,
+      "move": "Disable"
+    },
+    {
+      "level": 9,
+      "move": "Haze"
+    },
+    {
+      "level": 13,
+      "move": "Night Shade"
+    },
+    {
+      "level": 17,
+      "move": "Hex"
+    },
+    {
+      "level": 21,
+      "move": "Will-O-Wisp"
+    },
+    {
+      "level": 25,
+      "move": "Ominous Wind"
+    },
+    {
+      "level": 29,
+      "move": "Curse"
+    },
+    {
+      "level": 33,
+      "move": "Power Split"
+    },
+    {
+      "level": 33,
+      "move": "Guard Split"
+    },
+    {
+      "level": 34,
+      "move": "Scary Face"
+    },
+    {
+      "level": 39,
+      "move": "Shadow Ball"
+    },
+    {
+      "level": 45,
+      "move": "Grudge"
+    },
+    {
+      "level": 51,
+      "move": "Mean Look"
+    },
+    {
+      "level": 57,
+      "move": "Destiny Bond"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Disable"
+    },
+    {
+      "parent": "Muk",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Endure"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Heal Block"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Heal Block"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Heal Block"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Memento"
+    },
+    {
+      "parent": "Muk",
+      "move": "Memento"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Memento"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Memento"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Memento"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Nightmare"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Nightmare"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Nightmare"
+    },
+    {
+      "parent": "Trubbish",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Garbodor",
+      "move": "Toxic Spikes"
+    }
+  ],
+  "evolution_from": "Yamask",
+  "categories": {
+    "en": "Coffin Pokémon",
+    "de": "Sarkophag"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": 69,
+  "kalos_id": null,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+      "de": "Angeblich verschlingt es jeden, der sich ihm auch nur nähert. Besonders gern frisst es Klumpen aus reinem Gold."
+    },
+    "White": {
+      "en": "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.",
+      "de": "Es tarnt sich als prächtiger Sarkophag und zieht Grabräubern die Ohren lang. Sein Körper ist mit Gold überzogen."
+    },
+    "Black 2": {
+      "en": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+      "de": "Grabräuber, die es mit einem echten Sarg verwechseln und ihm zu nahe kommen, hält es im Inneren seines Körpers gefangen."
+    },
+    "White 2": {
+      "en": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+      "de": "Grabräuber, die es mit einem echten Sarg verwechseln und ihm zu nahe kommen, hält es im Inneren seines Körpers gefangen."
+    },
+    "X": {
+      "en": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+      "de": "Angeblich verschlingt es jeden, der sich ihm auch nur nähert. Besonders gern frisst es Klumpen aus reinem Gold."
+    },
+    "Y": {
+      "en": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+      "de": "Grabräuber, die es mit einem echten Sarg verwechseln und ihm zu nahe kommen, hält es im Inneren seines Körpers gefangen."
+    },
+    "Omega Ruby": {
+      "en": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+      "de": "Grabräuber, die es mit einem echten Sarg verwechseln und ihm zu nahe kommen, hält es im Inneren seines Körpers gefangen."
+    },
+    "Alpha Sapphire": {
+      "en": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+      "de": "Grabräuber, die es mit einem echten Sarg verwechseln und ihm zu nahe kommen, hält es im Inneren seines Körpers gefangen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      0,
+      0
+    ],
+    "power": [
+      0,
+      0
+    ],
+    "stamina": [
+      0,
+      0
+    ],
+    "skill": [
+      0,
+      0
+    ],
+    "jump": [
+      0,
+      0
+    ]
+  }
+}

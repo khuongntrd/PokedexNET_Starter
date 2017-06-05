@@ -1,0 +1,452 @@
+{
+  "names": {
+    "fr": "Carvanha",
+    "de": "Kanivanha",
+    "it": "Carvanha",
+    "en": "Carvanha"
+  },
+  "national_id": 318,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "abilities": [
+    {
+      "name": "Rough Skin"
+    },
+    {
+      "name": "Speed Boost",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 225,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'07\"",
+  "height_eu": "0.8 m",
+  "weight_us": "45.9 lbs.",
+  "weight_eu": "20.8 kg",
+  "base_exp_yield": 61,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 45,
+    "atk": 90,
+    "def": 20,
+    "sp_atk": 65,
+    "sp_def": 20,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Bite"
+    },
+    {
+      "level": 4,
+      "move": "Rage"
+    },
+    {
+      "level": 8,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 11,
+      "move": "Aqua Jet"
+    },
+    {
+      "level": 15,
+      "move": "Assurance"
+    },
+    {
+      "level": 18,
+      "move": "Screech"
+    },
+    {
+      "level": 22,
+      "move": "Swagger"
+    },
+    {
+      "level": 25,
+      "move": "Ice Fang"
+    },
+    {
+      "level": 29,
+      "move": "Scary Face"
+    },
+    {
+      "level": 32,
+      "move": "Poison Fang"
+    },
+    {
+      "level": 36,
+      "move": "Crunch"
+    },
+    {
+      "level": 39,
+      "move": "Agility"
+    },
+    {
+      "level": 43,
+      "move": "Take Down"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM95",
+      "move": "Snarl"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Swift"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Thrash"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Sharpedo",
+      "level": 30
+    }
+  ],
+  "alola_id": 264,
+  "categories": {
+    "en": "Savage Pokémon",
+    "de": "Gnadenlos"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": 102,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 55,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Carvanha's strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this Pokémon.",
+      "de": "Kanivanhas starke Kiefer und seine spitzen Zähne verfügen über die zerstörerische Kraft, Bootsrümpfe verschlingen zu können. Dieses Pokémon hat schon viele Boote versenkt."
+    },
+    "Sapphire": {
+      "en": "If anything invades Carvanha's territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this Pokémon turns suddenly timid.",
+      "de": "Wenn jemand Kanivanhas Revier betritt, schwärmt es aus und schnappt mit seinen spitzen Zähnen nach dem Eindringling. Wenn es allein ist, ist dieses Pokémon sehr scheu."
+    },
+    "Emerald": {
+      "en": "Carvanha attack ships in swarms, making them sink. Although it is said to be a very vicious Pokémon, it timidly flees as soon as it finds itself alone.",
+      "de": "Schiffe werden von KANIVANHA in Schwär men angegriffen und versenkt. Obwohl es ein sehr brutales POKÉMON sein soll, ergreift es die Flucht, wenn es allein ist."
+    },
+    "FireRed": {
+      "en": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
+      "de": "Es lebt in reißenden Flüssen, die sich ihren Weg durch den Dschungel bahnen. Es fängt Beute, die sich in sein Gebiet wagt."
+    },
+    "LeafGreen": {
+      "en": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
+      "de": "Es lebt in reißenden Flüssen, die sich ihren Weg durch den Dschungel bahnen. Es fängt Beute, die sich in sein Gebiet wagt."
+    },
+    "Diamond": {
+      "en": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "de": "Sie begegnen jedem Gegner, der in ihr Revier eindringt, im Schwarm. Ihre Zähne durchdringen alles."
+    },
+    "Pearl": {
+      "en": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "de": "Sie begegnen jedem Gegner, der in ihr Revier eindringt, im Schwarm. Ihre Zähne durchdringen alles."
+    },
+    "Platinum": {
+      "en": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "de": "Sie begegnen jedem Gegner, der in ihr Revier eindringt, im Schwarm. Ihre Zähne durchdringen alles."
+    },
+    "HeartGold": {
+      "en": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
+      "de": "Sie begegnen jedem Gegner, der in ihr Revier eindringt, im Schwarm. Ihre Zähne durchdringen alles."
+    },
+    "SoulSilver": {
+      "en": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
+      "de": "Sie begegnen jedem Gegner, der in ihr Revier eindringt, im Schwarm. Ihre Zähne durchdringen alles."
+    },
+    "Black": {
+      "en": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "de": "Sie begegnen jedem Gegner, der in ihr Revier eindringt, im Schwarm. Ihre Zähne durchdringen alles."
+    },
+    "White": {
+      "en": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "de": "Sie begegnen jedem Gegner, der in ihr Revier eindringt, im Schwarm. Ihre Zähne durchdringen alles."
+    },
+    "Black 2": {
+      "en": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "de": "Sie begegnen jedem Gegner, der in ihr Revier eindringt, im Schwarm. Ihre Zähne durchdringen alles."
+    },
+    "White 2": {
+      "en": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "de": "Sie begegnen jedem Gegner, der in ihr Revier eindringt, im Schwarm. Ihre Zähne durchdringen alles."
+    },
+    "X": {
+      "en": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
+      "de": "Schwärme von Kanivanha haben in Dschungelflüssen schon so manches Boot zerbissen und versenkt."
+    },
+    "Y": {
+      "en": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
+      "de": "Es lebt in reißenden Flüssen, die sich ihren Weg durch den Dschungel bahnen. Es fängt Beute, die sich in sein Gebiet wagt."
+    },
+    "Omega Ruby": {
+      "en": "Carvanha’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this Pokémon.",
+      "de": "Kanivanhas starke Kiefer und seine spitzen Zähne verfügen über die zerstörerische Kraft, Bootsrümpfe verschlingen zu können. Dieses Pokémon hat schon viele Boote versenkt."
+    },
+    "Alpha Sapphire": {
+      "en": "If anything invades Carvanha’s territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this Pokémon turns suddenly timid.",
+      "de": "Wenn jemand Kanivanhas Revier betritt, schwärmt es aus und schnappt mit seinen spitzen Zähnen nach dem Eindringling. Wenn es allein ist, ist dieses Pokémon sehr scheu."
+    },
+    "Sun": {
+      "en": "Each school has its own territory. Any intruders are mercilessly attacked with fangs bared.",
+      "de": "Schwärme von Kanivanha schützen ihr Revier, indem sie sich mit gefletschten Zähnen gnadenlos auf Eindringlinge stürzen."
+    },
+    "Moon": {
+      "en": "If they scent the faintest trace of blood, they rush to attack en masse. When alone, they're rather cowardly.",
+      "de": "Wittert es auch nur einen Hauch von Blut, greift es im Schwarm seine Beute an. Alleine ist es hingegen ziemlich furchtsam."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      4
+    ],
+    "power": [
+      3,
+      4
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      2,
+      4
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "names": {
+    "fr": "Magby",
+    "de": "Magby",
+    "it": "Magby",
+    "en": "Magby"
+  },
+  "national_id": 240,
+  "types": [
+    "Fire"
+  ],
+  "abilities": [
+    {
+      "name": "Flame Body"
+    },
+    {
+      "name": "Vital Spirit",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 75.0,
+    "female": 25.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "47.2 lbs.",
+  "weight_eu": "21.4 kg",
+  "base_exp_yield": 73,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "atk": 75,
+    "def": 37,
+    "sp_atk": 70,
+    "sp_def": 55,
+    "speed": 83
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Smog"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 5,
+      "move": "Ember"
+    },
+    {
+      "level": 8,
+      "move": "Smokescreen"
+    },
+    {
+      "level": 12,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 15,
+      "move": "Fire Spin"
+    },
+    {
+      "level": 19,
+      "move": "Clear Smog"
+    },
+    {
+      "level": 22,
+      "move": "Flame Burst"
+    },
+    {
+      "level": 26,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 29,
+      "move": "Fire Punch"
+    },
+    {
+      "level": 33,
+      "move": "Lava Plume"
+    },
+    {
+      "level": 36,
+      "move": "Sunny Day"
+    },
+    {
+      "level": 40,
+      "move": "Flamethrower"
+    },
+    {
+      "level": 43,
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM60",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM66",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM69",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Barrier"
+    },
+    {
+      "parent": "Croagunk",
+      "move": "Belch"
+    },
+    {
+      "parent": "Toxicroak",
+      "move": "Belch"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Machop",
+      "move": "Cross Chop"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Cross Chop"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Cross Chop"
+    },
+    {
+      "parent": "Machop",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Machop",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Throh",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Sawk",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Abra",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Electabuzz",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Electivire",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Magmar",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Magmortar",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Machop",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Sawk",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Pancham",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Pangoro",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Hawlucha",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Mach Punch"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Mach Punch"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Mach Punch"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Mega Punch"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Power Swap"
+    },
+    {
+      "parent": "Electabuzz",
+      "move": "Screech"
+    },
+    {
+      "parent": "Electivire",
+      "move": "Screech"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Electabuzz",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Electivire",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Thunder Punch"
+    },
+    {
+      "parent": "Magmortar",
+      "move": "Thunder Punch"
+    }
+  ],
+  "evolutions": [
+    {
+      "to": "Magmar",
+      "level": 30
+    }
+  ],
+  "alola_id": 166,
+  "categories": {
+    "en": "Live Coal Pokémon",
+    "de": "Glutherd"
+  },
+  "kanto_id": null,
+  "johto_id": 152,
+  "hoenn_id": null,
+  "sinnoh_id": 200,
+  "unova_id": null,
+  "kalos_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
+      "de": "Bei jedem Atemzug springen glühende Kohlenstücke aus seinem Mund und aus seinen Nasenlöchern."
+    },
+    "Silver": {
+      "en": "It is found in volcanic craters. Its body temp. is over 1100 degrees, so don't under-estimate it.",
+      "de": "Zu finden ist es in Vulkankratern. Seine Körpertemperatur erreicht über 600 Grad. Vergiss das nicht!"
+    },
+    "Crystal": {
+      "en": "It naturally spits an 1100-degree flame. It is said when many appear, it heralds a volcanic eruption.",
+      "de": "Die Flamme, die es spuckt, hat 600 Grad C. Wo viele von ihnen sind, kommt es zu einem Vulkanausbruch."
+    },
+    "Ruby": {
+      "en": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+      "de": "Magbys Gesundheitszustand kann man am Feuer erkennen, das es ausatmet. Wenn es gelbe Flammen ausstößt, ist es in guter Verfassung. Ist es erschöpft, vermischen sich die Flammen mit schwarzem Rauch."
+    },
+    "Sapphire": {
+      "en": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+      "de": "Magbys Gesundheitszustand kann man am Feuer erkennen, das es ausatmet. Wenn es gelbe Flammen ausstößt, ist es in guter Verfassung. Ist es erschöpft, vermischen sich die Flammen mit schwarzem Rauch."
+    },
+    "Emerald": {
+      "en": "If a Magby is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+      "de": "MAGBYs Gesundheitszustand kann man am Feuer erkennen, das es ausatmet. Stößt es gelbe Flammen aus, ist es in guter Verfassung."
+    },
+    "FireRed": {
+      "en": "It is found in volcanic craters. Its body heat exceeds 1,100 degrees F, so don't underestimate it.",
+      "de": "Zu finden ist es in Vulkankratern. Seine Körpertemperatur erreicht über 600 Grad. Vergiss das nicht!"
+    },
+    "LeafGreen": {
+      "en": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
+      "de": "Bei jedem Atemzug springen glühende Kohlenstücke aus seinem Mund und aus seinen Nasenlöchern."
+    },
+    "Diamond": {
+      "en": "Its body temperature is around 1,100 degrees F. It is healthy if it is breathing yellow flames.",
+      "de": "Seine Körpertemperatur liegt bei etwa 600 Grad. Ist es gesund, atmet es gelbe Flammen aus."
+    },
+    "Pearl": {
+      "en": "Its body temperature is around 1,100 degrees F. It is healthy if it is breathing yellow flames.",
+      "de": "Seine Körpertemperatur liegt bei etwa 600 Grad. Ist es gesund, atmet es gelbe Flammen aus."
+    },
+    "Platinum": {
+      "en": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
+      "de": "Durch seinen Körper fließt magmaartiges Blut. Die Körpertemperatur kann auf ca. 600 Grad steigen."
+    },
+    "HeartGold": {
+      "en": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
+      "de": "Seine Körpertemperatur liegt bei etwa 600 Grad. Ist es gesund, atmet es gelbe Flammen aus."
+    },
+    "SoulSilver": {
+      "en": "It is found in volcanic craters. Its body temperature is over 1,100 degrees Fahrenheit, so don't underestimate it.",
+      "de": "Seine Körpertemperatur liegt bei etwa 600 Grad. Ist es gesund, atmet es gelbe Flammen aus."
+    },
+    "Black": {
+      "en": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
+      "de": "Durch seinen Körper fließt magmaartiges Blut. Die Körpertemperatur kann auf ca. 600 Grad steigen."
+    },
+    "White": {
+      "en": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
+      "de": "Durch seinen Körper fließt magmaartiges Blut. Die Körpertemperatur kann auf ca. 600 Grad steigen."
+    },
+    "Black 2": {
+      "en": "It's small, but its body temperature is over 1,100 degrees F. Embers escape its mouth and nose when it breathes.",
+      "de": "Seine Körpertemperatur misst 600 Grad. Beim Ein- und Ausatmen springen glühende Kohlenstücke aus seinem Mund."
+    },
+    "White 2": {
+      "en": "It's small, but its body temperature is over 1,100 degrees F. Embers escape its mouth and nose when it breathes.",
+      "de": "Seine Körpertemperatur misst 600 Grad. Beim Ein- und Ausatmen springen glühende Kohlenstücke aus seinem Mund."
+    },
+    "X": {
+      "en": "It's small, but its body temperature is over 1,100 degrees Fahrenheit. Embers escape its mouth and nose when it breathes.",
+      "de": "Seine Körpertemperatur misst 600 °C. Beim Ein- und Ausatmen springen glühende Kohlenstücke aus seinem Mund."
+    },
+    "Y": {
+      "en": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
+      "de": "Durch seinen Körper fließt magmaartiges Blut. Die Körpertemperatur kann auf ca. 600 °C steigen."
+    },
+    "Omega Ruby": {
+      "en": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+      "de": "Magbys Gesundheitszustand kann man am Feuer erkennen, das es ausatmet. Wenn es gelbe Flammen ausstößt, ist es in guter Verfassung. Ist es erschöpft, vermischen sich die Flammen mit schwarzem Rauch."
+    },
+    "Alpha Sapphire": {
+      "en": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+      "de": "Magbys Gesundheitszustand kann man am Feuer erkennen, das es ausatmet. Wenn es gelbe Flammen ausstößt, ist es in guter Verfassung. Ist es erschöpft, vermischen sich die Flammen mit schwarzem Rauch."
+    },
+    "Sun": {
+      "en": "Many of these Pokémon can be seen in areas with volcanic activity. Feeding can get them so excited, they exhale flames of 1,100 degrees F.",
+      "de": "Häufig in Vulkangebieten anzutreffen. Füttert man es, kann es sein, dass es vor lauter Freude 600 °C heißes Feuer ausstößt."
+    },
+    "Moon": {
+      "en": "A famous potter lives with a Magby. Apparently its soft flames produce fine works.",
+      "de": "Ein berühmter Kunstkeramiker hat ein Magby als Mitbewohner. Seine Kunstwerke profitieren von den sanften Flammen, die es ausstößt."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      3,
+      3
+    ],
+    "stamina": [
+      2,
+      3
+    ],
+    "skill": [
+      3,
+      3
+    ],
+    "jump": [
+      2,
+      3
+    ]
+  }
+}

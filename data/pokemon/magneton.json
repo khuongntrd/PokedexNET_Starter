@@ -1,0 +1,428 @@
+{
+  "names": {
+    "fr": "Magnéton",
+    "de": "Magneton",
+    "it": "Magneton",
+    "en": "Magneton"
+  },
+  "national_id": 82,
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "abilities": [
+    {
+      "name": "Magnet Pull"
+    },
+    {
+      "name": "Analytic",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 60,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "132.3 lbs.",
+  "weight_eu": "60.0 kg",
+  "base_exp_yield": 163,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 2,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 60,
+    "def": 95,
+    "sp_atk": 120,
+    "sp_def": 70,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 1,
+      "move": "Zap Cannon"
+    },
+    {
+      "level": 1,
+      "move": "Electric Terrain"
+    },
+    {
+      "level": 1,
+      "move": "Tackle"
+    },
+    {
+      "level": 1,
+      "move": "Supersonic"
+    },
+    {
+      "level": 1,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 1,
+      "move": "Sonic Boom"
+    },
+    {
+      "level": 5,
+      "move": "Supersonic"
+    },
+    {
+      "level": 7,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 11,
+      "move": "Sonic Boom"
+    },
+    {
+      "level": 13,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 17,
+      "move": "Magnet Bomb"
+    },
+    {
+      "level": 19,
+      "move": "Spark"
+    },
+    {
+      "level": 23,
+      "move": "Mirror Shot"
+    },
+    {
+      "level": 25,
+      "move": "Metal Sound"
+    },
+    {
+      "level": 29,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 30,
+      "move": "Tri Attack"
+    },
+    {
+      "level": 33,
+      "move": "Flash Cannon"
+    },
+    {
+      "level": 39,
+      "move": "Screech"
+    },
+    {
+      "level": 43,
+      "move": "Discharge"
+    },
+    {
+      "level": 49,
+      "move": "Lock-On"
+    },
+    {
+      "level": 53,
+      "move": "Magnet Rise"
+    },
+    {
+      "level": 59,
+      "move": "Gyro Ball"
+    },
+    {
+      "level": 63,
+      "move": "Zap Cannon"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    }
+  ],
+  "evolution_from": "Magnemite",
+  "evolutions": [
+    {
+      "to": "Magnezone",
+      "level_up": true,
+      "conditions": [
+        "In a Magnetic Field area"
+      ]
+    }
+  ],
+  "alola_id": 48,
+  "categories": {
+    "en": "Magnet Pokémon",
+    "de": "Magnet"
+  },
+  "kanto_id": 82,
+  "johto_id": 120,
+  "hoenn_id": 85,
+  "sinnoh_id": 179,
+  "unova_id": null,
+  "kalos_id": 70,
+  "mega_evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
+      "de": "Mehrere Magnetilo bilden dieses Pokémon. Es erscheint, wenn Sonnenflecken auflodern."
+    },
+    "Blue": {
+      "en": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
+      "de": "Mehrere Magnetilo bilden dieses Pokémon. Es erscheint, wenn Sonnenflecken auflodern."
+    },
+    "Yellow": {
+      "en": "Generates strange radio signals. It raises the temperature by 3.6F degrees within 3,300 feet.",
+      "de": "Dieses Pokémon erzeugt seltsame Radiowellen und kann die Lufttemperatur geringfügig anheben."
+    },
+    "Gold": {
+      "en": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+      "de": "Drei Magnetilo sind durch ein Magnetfeld verbunden. In seiner Nähe bekommt man Ohrenschmerzen."
+    },
+    "Silver": {
+      "en": "The Magnemite are united by a magnetism so powerful, it dries all moisture in its vicinities.",
+      "de": "Die Magnetilo werden von einem starken Magnetfeld zusammengehalten, das Feuchtigkeit aufsagt."
+    },
+    "Crystal": {
+      "en": "When many Magneton gather together, the resulting magnetic storm disrupts radio waves.",
+      "de": "Versammeln sich viele Magneton, entsteht ein starkes Magnetfeld, das Radiowellen zerstört."
+    },
+    "Ruby": {
+      "en": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
+      "de": "Magneton erzeugt ein sehr starkes Magnetfeld, das Maschinen zerstören kann. Deshalb hört man in großen Städten oft Sirenen, die die Bürger vor Scharen dieses Pokémon warnen sollen."
+    },
+    "Sapphire": {
+      "en": "Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball.",
+      "de": "Magneton strahlt eine starke magnetische Energie ab, die für elektronische Geräte und Präzisionsinstrumente sehr schädlich ist. In einigen Städten werden die Bewohner gebeten, dieses Pokémon in einem Pokéball zu halten."
+    },
+    "Emerald": {
+      "en": "It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.",
+      "de": "Es entsteht, wenn sich drei MAGNETILO zusammenschließen. Seine Radiowellen erhöhen die Temperatur im Umkreis von einem Kilometer um 2 Grad Celsius."
+    },
+    "FireRed": {
+      "en": "A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.",
+      "de": "Schließen sich mehrere Magnetilo zusammen, entsteht dieses Pokémon. Es entlädt kräftige Hochspannungsmagnetwellen."
+    },
+    "LeafGreen": {
+      "en": "Formed by several Magnemite linked together. They frequently appear when sunspots flare up.",
+      "de": "Mehrere Magnetilos bilden dieses Pokémon. Es erscheint, wenn Sonnenflecken auflodern."
+    },
+    "Diamond": {
+      "en": "It is actually three Magnemite linked by magnetism. A group can set off a magnetic storm.",
+      "de": "Eigentlich sind es drei MAGNETILO, die durch Magnetismus verbunden sind."
+    },
+    "Pearl": {
+      "en": "It is actually three Magnemite linked by magnetism. A group can set off a magnetic storm.",
+      "de": "Eigentlich sind es drei MAGNETILO, die durch Magnetismus verbunden sind."
+    },
+    "Platinum": {
+      "en": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
+      "de": "Erscheinen vermehrt, wenn Flecken auf der Sonne auftauchen. Zudem beeinträchtigen sie Fernsehbilder."
+    },
+    "HeartGold": {
+      "en": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+      "de": "Eigentlich sind es drei MAGNETILO, die durch Magnetismus verbunden sind."
+    },
+    "SoulSilver": {
+      "en": "The Magnemite are united by a magnetism so powerful, it dries all moisture in its vicinity.",
+      "de": "Eigentlich sind es drei MAGNETILO, die durch Magnetismus verbunden sind."
+    },
+    "Black": {
+      "en": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
+      "de": "Erscheinen vermehrt, wenn Flecken auf der Sonne auftauchen. Zudem beeinträchtigen sie Fernsehbilder."
+    },
+    "White": {
+      "en": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
+      "de": "Erscheinen vermehrt, wenn Flecken auf der Sonne auftauchen. Zudem beeinträchtigen sie Fernsehbilder."
+    },
+    "Black 2": {
+      "en": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",
+      "de": "Die vereinten elektromagnetischen Wellen von 3 Magnetilo bringen alles Wasser in der Umgebung zum Verdampfen."
+    },
+    "White 2": {
+      "en": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",
+      "de": "Die vereinten elektromagnetischen Wellen von 3 Magnetilo bringen alles Wasser in der Umgebung zum Verdampfen."
+    },
+    "X": {
+      "en": "A link cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.",
+      "de": "Schließen sich mehrere Magnetilo zusammen, entsteht dieses Pokémon. Es entlädt kräftige Hochspannungsmagnetwellen."
+    },
+    "Y": {
+      "en": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
+      "de": "Dieses Pokémon erzeugt seltsame Radiowellen und kann die Lufttemperatur geringfügig anheben."
+    },
+    "Omega Ruby": {
+      "en": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
+      "de": "Magneton erzeugt ein sehr starkes Magnetfeld, das Maschinen zerstören kann. Deshalb hört man in großen Städten oft Sirenen, die die Bürger vor Scharen dieser Pokémon warnen sollen."
+    },
+    "Alpha Sapphire": {
+      "en": "Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball.",
+      "de": "Magneton strahlt eine starke magnetische Energie ab, die für elektronische Geräte und Präzisionsinstrumente sehr schädlich ist. In einigen Städten werden die Bewohner gebeten, dieses Pokémon in einem Pokéball zu halten."
+    },
+    "Sun": {
+      "en": "When three Magnemite link together, their brains also become one. They do not become three times more intelligent.",
+      "de": "Drei Magnetilo schließen sich zusammen und vereinigen ihre Gehirne. Das heißt aber nicht, dass dieses Pokémon dreimal so schlau wird."
+    },
+    "Moon": {
+      "en": "It has about three times the electrical power of Magnemite. For some reason, outbreaks of this Pokémon happen when lots of sunspots appear.",
+      "de": "Seine Stromstärke ist fast dreimal so hoch wie die eines Magnetilos. Es erscheint vermehrt, wenn Flecken auf der Sonne auftauchen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      3,
+      3
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      4,
+      4
+    ],
+    "jump": [
+      3,
+      4
+    ]
+  }
+}

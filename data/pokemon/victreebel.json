@@ -1,0 +1,809 @@
+{
+  "names": {
+    "fr": "Empiflor",
+    "de": "Sarzenia",
+    "it": "Victreebel",
+    "en": "Victreebel"
+  },
+  "national_id": 71,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll"
+    },
+    {
+      "name": "Gluttony",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "5'07\"",
+  "height_eu": "1.7 m",
+  "weight_us": "34.2 lbs.",
+  "weight_eu": "15.5 kg",
+  "base_exp_yield": 216,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "atk": 105,
+    "def": 65,
+    "sp_atk": 100,
+    "sp_def": 60,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Stockpile"
+    },
+    {
+      "level": 0,
+      "move": "Swallow"
+    },
+    {
+      "level": 0,
+      "move": "Spit Up"
+    },
+    {
+      "level": 0,
+      "move": "Vine Whip"
+    },
+    {
+      "level": 0,
+      "move": "Sleep Powder"
+    },
+    {
+      "level": 0,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 0,
+      "move": "Razor Leaf"
+    },
+    {
+      "level": 27,
+      "move": "Leaf Tornado"
+    },
+    {
+      "level": 47,
+      "move": "Leaf Storm"
+    },
+    {
+      "level": 47,
+      "move": "Leaf Blade"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Acid Spray"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Belch"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Encore"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Encore"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Paras",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Servine",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Snover",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Paras",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Power Whip"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Weather Ball"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Worry Seed"
+    }
+  ],
+  "evolution_from": "Weepinbell",
+  "categories": {
+    "en": "Flycatcher Pokémon",
+    "de": "Fliegentod (Fliegentot vor der 5. Gen.)"
+  },
+  "kanto_id": 71,
+  "johto_id": 66,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": 28,
+  "alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+
+  ],
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Red": {
+      "en": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "de": "Dieses Pokémon soll in großen Kolonien tief im Dschungel leben, doch niemand kann dies bestätigen."
+    },
+    "Blue": {
+      "en": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "de": "Dieses Pokémon soll in großen Kolonien tief im Dschungel leben, doch niemand kann dies bestätigen."
+    },
+    "Yellow": {
+      "en": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all.",
+      "de": "Sarzenia ist unersättlich. Es lockt seine Beute mit süßen Düften an und verschlingt sie mit einem Biss."
+    },
+    "Gold": {
+      "en": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
+      "de": "Säure, in der bereits viele Insekten aufgelöst wurden, ist süßer und effektiver beim Beutefang."
+    },
+    "Silver": {
+      "en": "This horrifying plant Pokémon attracts prey with aromatic honey, then melts them in its mouth.",
+      "de": "Dieses grausame Pflanzen-Pokémon ködert Beute mit Honigaroma und zersetzt sie in seinem Maul."
+    },
+    "Crystal": {
+      "en": "Once ingested into this Pokémon's body, even the hardest object will melt into nothing.",
+      "de": "Selbst die härtesten Objekte schmelzen, wenn der Körper sie erst aufgenommen hat."
+    },
+    "Ruby": {
+      "en": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+      "de": "Aus Sarzenias Kopf ragt eine lange Ranke hervor. Diese schwingt hin und her, als ob sie etwas fangen möchte. Wenn sich ahnungslose Beute nähert, wird sie von diesem Pokémon im Ganzen verschlungen."
+    },
+    "Sapphire": {
+      "en": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+      "de": "Aus Sarzenias Kopf ragt eine lange Ranke hervor. Diese schwingt hin und her, als ob sie etwas fangen möchte. Wenn sich ahnungslose Beute nähert, wird sie von diesem Pokémon im Ganzen verschlungen."
+    },
+    "Emerald": {
+      "en": "The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.",
+      "de": "SARZENIA schwingt mit einer langen Ranke hin und her, als ob es etwas fangen möchte. Wenn sich ahnungslose Beute nähert, wird sie im Ganzen verschlungen."
+    },
+    "FireRed": {
+      "en": "Lures prey into its mouth with a honeylike aroma. The helpless prey is melted with a dissolving fluid.",
+      "de": "Es lockt Beute mit honigartigem Aroma in seinen Mund. Die hilflose Beute wird in seiner Flüssigkeit rückstandslos aufgelöst."
+    },
+    "LeafGreen": {
+      "en": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "de": "Dieses Pokémon soll in großen Kolonien tief im Dschungel leben, doch niemand kann dies bestätigen."
+    },
+    "Diamond": {
+      "en": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+      "de": "In seinem Maul sammelt sich eine Flüssigkeit, die nach Honig riecht, in Wahrheit aber ätzend ist."
+    },
+    "Pearl": {
+      "en": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+      "de": "In seinem Maul sammelt sich eine Flüssigkeit, die nach Honig riecht, in Wahrheit aber ätzend ist."
+    },
+    "Platinum": {
+      "en": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+      "de": "In seinem Maul sammelt sich eine Flüssigkeit, die nach Honig riecht, in Wahrheit aber ätzend ist."
+    },
+    "HeartGold": {
+      "en": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
+      "de": "In seinem Maul sammelt sich eine Flüssigkeit, die nach Honig riecht, in Wahrheit aber ätzend ist."
+    },
+    "SoulSilver": {
+      "en": "This horrifying plant Pokémon attracts prey with aromatic honey, then melts them in its mouth.",
+      "de": "In seinem Maul sammelt sich eine Flüssigkeit, die nach Honig riecht, in Wahrheit aber ätzend ist."
+    },
+    "Black": {
+      "en": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+      "de": "In seinem Maul sammelt sich eine Flüssigkeit, die nach Honig riecht, in Wahrheit aber ätzend ist."
+    },
+    "White": {
+      "en": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+      "de": "In seinem Maul sammelt sich eine Flüssigkeit, die nach Honig riecht, in Wahrheit aber ätzend ist."
+    },
+    "Black 2": {
+      "en": "It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything.",
+      "de": "In seinem Maul sammelt sich eine Flüssigkeit, die nach Honig riecht, in Wahrheit aber ätzend ist."
+    },
+    "White 2": {
+      "en": "It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything.",
+      "de": "In seinem Maul sammelt sich eine Flüssigkeit, die nach Honig riecht, in Wahrheit aber ätzend ist."
+    },
+    "X": {
+      "en": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "de": "Dieses Pokémon soll in großen Kolonien tief im Dschungel leben, doch niemand kann dies bestätigen."
+    },
+    "Y": {
+      "en": "Once ingested into this Pokémon's body, even the hardest object will melt into nothing.",
+      "de": "Selbst die härtesten Objekte werden zersetzt, wenn der Körper sie erst aufgenommen hat."
+    },
+    "Omega Ruby": {
+      "en": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+      "de": "Aus Sarzenias Kopf ragt eine lange Ranke hervor. Diese schwingt hin und her, als ob sie etwas fangen möchte. Wenn sich ahnungslose Beute nähert, wird sie von diesem Pokémon im Ganzen verschlungen."
+    },
+    "Alpha Sapphire": {
+      "en": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+      "de": "Aus Sarzenias Kopf ragt eine lange Ranke hervor. Diese schwingt hin und her, als ob sie etwas fangen möchte. Wenn sich ahnungslose Beute nähert, wird sie von diesem Pokémon im Ganzen verschlungen."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      1,
+      1
+    ],
+    "power": [
+      4,
+      4
+    ],
+    "stamina": [
+      4,
+      4
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  }
+}
