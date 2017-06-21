@@ -18,12 +18,6 @@
 		"id": 3
 	},
 	{
-		"number": "003",
-		"slug": "venusaur",
-		"name": "Venusaur",
-		"id": 3
-	},
-	{
 		"number": "004",
 		"slug": "charmander",
 		"name": "Charmander",
@@ -42,18 +36,6 @@
 		"id": 6
 	},
 	{
-		"number": "006",
-		"slug": "charizard",
-		"name": "Charizard",
-		"id": 6
-	},
-	{
-		"number": "006",
-		"slug": "charizard",
-		"name": "Charizard",
-		"id": 6
-	},
-	{
 		"number": "007",
 		"slug": "squirtle",
 		"name": "Squirtle",
@@ -64,12 +46,6 @@
 		"slug": "wartortle",
 		"name": "Wartortle",
 		"id": 8
-	},
-	{
-		"number": "009",
-		"slug": "blastoise",
-		"name": "Blastoise",
-		"id": 9
 	},
 	{
 		"number": "009",
@@ -114,12 +90,6 @@
 		"id": 15
 	},
 	{
-		"number": "015",
-		"slug": "beedrill",
-		"name": "Beedrill",
-		"id": 15
-	},
-	{
 		"number": "016",
 		"slug": "pidgey",
 		"name": "Pidgey",
@@ -138,28 +108,10 @@
 		"id": 18
 	},
 	{
-		"number": "018",
-		"slug": "pidgeot",
-		"name": "Pidgeot",
-		"id": 18
-	},
-	{
 		"number": "019",
 		"slug": "rattata",
 		"name": "Rattata",
 		"id": 19
-	},
-	{
-		"number": "019",
-		"slug": "rattata",
-		"name": "Rattata",
-		"id": 19
-	},
-	{
-		"number": "020",
-		"slug": "raticate",
-		"name": "Raticate",
-		"id": 20
 	},
 	{
 		"number": "020",
@@ -204,28 +156,10 @@
 		"id": 26
 	},
 	{
-		"number": "026",
-		"slug": "raichu",
-		"name": "Raichu",
-		"id": 26
-	},
-	{
 		"number": "027",
 		"slug": "sandshrew",
 		"name": "Sandshrew",
 		"id": 27
-	},
-	{
-		"number": "027",
-		"slug": "sandshrew",
-		"name": "Sandshrew",
-		"id": 27
-	},
-	{
-		"number": "028",
-		"slug": "sandslash",
-		"name": "Sandslash",
-		"id": 28
 	},
 	{
 		"number": "028",
@@ -286,18 +220,6 @@
 		"slug": "vulpix",
 		"name": "Vulpix",
 		"id": 37
-	},
-	{
-		"number": "037",
-		"slug": "vulpix",
-		"name": "Vulpix",
-		"id": 37
-	},
-	{
-		"number": "038",
-		"slug": "ninetales",
-		"name": "Ninetales",
-		"id": 38
 	},
 	{
 		"number": "038",
@@ -378,18 +300,6 @@
 		"id": 50
 	},
 	{
-		"number": "050",
-		"slug": "diglett",
-		"name": "Diglett",
-		"id": 50
-	},
-	{
-		"number": "051",
-		"slug": "dugtrio",
-		"name": "Dugtrio",
-		"id": 51
-	},
-	{
 		"number": "051",
 		"slug": "dugtrio",
 		"name": "Dugtrio",
@@ -400,18 +310,6 @@
 		"slug": "meowth",
 		"name": "Meowth",
 		"id": 52
-	},
-	{
-		"number": "052",
-		"slug": "meowth",
-		"name": "Meowth",
-		"id": 52
-	},
-	{
-		"number": "053",
-		"slug": "persian",
-		"name": "Persian",
-		"id": 53
 	},
 	{
 		"number": "053",
@@ -492,12 +390,6 @@
 		"id": 65
 	},
 	{
-		"number": "065",
-		"slug": "alakazam",
-		"name": "Alakazam",
-		"id": 65
-	},
-	{
 		"number": "066",
 		"slug": "machop",
 		"name": "Machop",
@@ -552,28 +444,10 @@
 		"id": 74
 	},
 	{
-		"number": "074",
-		"slug": "geodude",
-		"name": "Geodude",
-		"id": 74
-	},
-	{
 		"number": "075",
 		"slug": "graveler",
 		"name": "Graveler",
 		"id": 75
-	},
-	{
-		"number": "075",
-		"slug": "graveler",
-		"name": "Graveler",
-		"id": 75
-	},
-	{
-		"number": "076",
-		"slug": "golem",
-		"name": "Golem",
-		"id": 76
 	},
 	{
 		"number": "076",
@@ -598,12 +472,6 @@
 		"slug": "slowpoke",
 		"name": "Slowpoke",
 		"id": 79
-	},
-	{
-		"number": "080",
-		"slug": "slowbro",
-		"name": "Slowbro",
-		"id": 80
 	},
 	{
 		"number": "080",
@@ -660,18 +528,6 @@
 		"id": 88
 	},
 	{
-		"number": "088",
-		"slug": "grimer",
-		"name": "Grimer",
-		"id": 88
-	},
-	{
-		"number": "089",
-		"slug": "muk",
-		"name": "Muk",
-		"id": 89
-	},
-	{
 		"number": "089",
 		"slug": "muk",
 		"name": "Muk",
@@ -700,12 +556,6 @@
 		"slug": "haunter",
 		"name": "Haunter",
 		"id": 93
-	},
-	{
-		"number": "094",
-		"slug": "gengar",
-		"name": "Gengar",
-		"id": 94
 	},
 	{
 		"number": "094",
@@ -768,22 +618,10 @@
 		"id": 103
 	},
 	{
-		"number": "103",
-		"slug": "exeggutor",
-		"name": "Exeggutor",
-		"id": 103
-	},
-	{
 		"number": "104",
 		"slug": "cubone",
 		"name": "Cubone",
 		"id": 104
-	},
-	{
-		"number": "105",
-		"slug": "marowak",
-		"name": "Marowak",
-		"id": 105
 	},
 	{
 		"number": "105",
@@ -844,12 +682,6 @@
 		"slug": "tangela",
 		"name": "Tangela",
 		"id": 114
-	},
-	{
-		"number": "115",
-		"slug": "kangaskhan",
-		"name": "Kangaskhan",
-		"id": 115
 	},
 	{
 		"number": "115",
@@ -930,12 +762,6 @@
 		"id": 127
 	},
 	{
-		"number": "127",
-		"slug": "pinsir",
-		"name": "Pinsir",
-		"id": 127
-	},
-	{
 		"number": "128",
 		"slug": "tauros",
 		"name": "Tauros",
@@ -946,12 +772,6 @@
 		"slug": "magikarp",
 		"name": "Magikarp",
 		"id": 129
-	},
-	{
-		"number": "130",
-		"slug": "gyarados",
-		"name": "Gyarados",
-		"id": 130
 	},
 	{
 		"number": "130",
@@ -1032,12 +852,6 @@
 		"id": 142
 	},
 	{
-		"number": "142",
-		"slug": "aerodactyl",
-		"name": "Aerodactyl",
-		"id": 142
-	},
-	{
 		"number": "143",
 		"slug": "snorlax",
 		"name": "Snorlax",
@@ -1078,18 +892,6 @@
 		"slug": "dragonite",
 		"name": "Dragonite",
 		"id": 149
-	},
-	{
-		"number": "150",
-		"slug": "mewtwo",
-		"name": "Mewtwo",
-		"id": 150
-	},
-	{
-		"number": "150",
-		"slug": "mewtwo",
-		"name": "Mewtwo",
-		"id": 150
 	},
 	{
 		"number": "150",
@@ -1284,12 +1086,6 @@
 		"id": 181
 	},
 	{
-		"number": "181",
-		"slug": "ampharos",
-		"name": "Ampharos",
-		"id": 181
-	},
-	{
 		"number": "182",
 		"slug": "bellossom",
 		"name": "Bellossom",
@@ -1452,12 +1248,6 @@
 		"id": 208
 	},
 	{
-		"number": "208",
-		"slug": "steelix",
-		"name": "Steelix",
-		"id": 208
-	},
-	{
 		"number": "209",
 		"slug": "snubbull",
 		"name": "Snubbull",
@@ -1482,22 +1272,10 @@
 		"id": 212
 	},
 	{
-		"number": "212",
-		"slug": "scizor",
-		"name": "Scizor",
-		"id": 212
-	},
-	{
 		"number": "213",
 		"slug": "shuckle",
 		"name": "Shuckle",
 		"id": 213
-	},
-	{
-		"number": "214",
-		"slug": "heracross",
-		"name": "Heracross",
-		"id": 214
 	},
 	{
 		"number": "214",
@@ -1588,12 +1366,6 @@
 		"slug": "houndour",
 		"name": "Houndour",
 		"id": 228
-	},
-	{
-		"number": "229",
-		"slug": "houndoom",
-		"name": "Houndoom",
-		"id": 229
 	},
 	{
 		"number": "229",
@@ -1716,12 +1488,6 @@
 		"id": 248
 	},
 	{
-		"number": "248",
-		"slug": "tyranitar",
-		"name": "Tyranitar",
-		"id": 248
-	},
-	{
 		"number": "249",
 		"slug": "lugia",
 		"name": "Lugia",
@@ -1758,12 +1524,6 @@
 		"id": 254
 	},
 	{
-		"number": "254",
-		"slug": "sceptile",
-		"name": "Sceptile",
-		"id": 254
-	},
-	{
 		"number": "255",
 		"slug": "torchic",
 		"name": "Torchic",
@@ -1782,12 +1542,6 @@
 		"id": 257
 	},
 	{
-		"number": "257",
-		"slug": "blaziken",
-		"name": "Blaziken",
-		"id": 257
-	},
-	{
 		"number": "258",
 		"slug": "mudkip",
 		"name": "Mudkip",
@@ -1798,12 +1552,6 @@
 		"slug": "marshtomp",
 		"name": "Marshtomp",
 		"id": 259
-	},
-	{
-		"number": "260",
-		"slug": "swampert",
-		"name": "Swampert",
-		"id": 260
 	},
 	{
 		"number": "260",
@@ -1944,12 +1692,6 @@
 		"id": 282
 	},
 	{
-		"number": "282",
-		"slug": "gardevoir",
-		"name": "Gardevoir",
-		"id": 282
-	},
-	{
 		"number": "283",
 		"slug": "surskit",
 		"name": "Surskit",
@@ -2070,18 +1812,6 @@
 		"id": 302
 	},
 	{
-		"number": "302",
-		"slug": "sableye",
-		"name": "Sableye",
-		"id": 302
-	},
-	{
-		"number": "303",
-		"slug": "mawile",
-		"name": "Mawile",
-		"id": 303
-	},
-	{
 		"number": "303",
 		"slug": "mawile",
 		"name": "Mawile",
@@ -2106,12 +1836,6 @@
 		"id": 306
 	},
 	{
-		"number": "306",
-		"slug": "aggron",
-		"name": "Aggron",
-		"id": 306
-	},
-	{
 		"number": "307",
 		"slug": "meditite",
 		"name": "Meditite",
@@ -2124,22 +1848,10 @@
 		"id": 308
 	},
 	{
-		"number": "308",
-		"slug": "medicham",
-		"name": "Medicham",
-		"id": 308
-	},
-	{
 		"number": "309",
 		"slug": "electrike",
 		"name": "Electrike",
 		"id": 309
-	},
-	{
-		"number": "310",
-		"slug": "manectric",
-		"name": "Manectric",
-		"id": 310
 	},
 	{
 		"number": "310",
@@ -2202,12 +1914,6 @@
 		"id": 319
 	},
 	{
-		"number": "319",
-		"slug": "sharpedo",
-		"name": "Sharpedo",
-		"id": 319
-	},
-	{
 		"number": "320",
 		"slug": "wailmer",
 		"name": "Wailmer",
@@ -2224,12 +1930,6 @@
 		"slug": "numel",
 		"name": "Numel",
 		"id": 322
-	},
-	{
-		"number": "323",
-		"slug": "camerupt",
-		"name": "Camerupt",
-		"id": 323
 	},
 	{
 		"number": "323",
@@ -2296,12 +1996,6 @@
 		"slug": "swablu",
 		"name": "Swablu",
 		"id": 333
-	},
-	{
-		"number": "334",
-		"slug": "altaria",
-		"name": "Altaria",
-		"id": 334
 	},
 	{
 		"number": "334",
@@ -2412,24 +2106,6 @@
 		"id": 351
 	},
 	{
-		"number": "351",
-		"slug": "castform",
-		"name": "Castform",
-		"id": 351
-	},
-	{
-		"number": "351",
-		"slug": "castform",
-		"name": "Castform",
-		"id": 351
-	},
-	{
-		"number": "351",
-		"slug": "castform",
-		"name": "Castform",
-		"id": 351
-	},
-	{
 		"number": "352",
 		"slug": "kecleon",
 		"name": "Kecleon",
@@ -2440,12 +2116,6 @@
 		"slug": "shuppet",
 		"name": "Shuppet",
 		"id": 353
-	},
-	{
-		"number": "354",
-		"slug": "banette",
-		"name": "Banette",
-		"id": 354
 	},
 	{
 		"number": "354",
@@ -2484,12 +2154,6 @@
 		"id": 359
 	},
 	{
-		"number": "359",
-		"slug": "absol",
-		"name": "Absol",
-		"id": 359
-	},
-	{
 		"number": "360",
 		"slug": "wynaut",
 		"name": "Wynaut",
@@ -2500,12 +2164,6 @@
 		"slug": "snorunt",
 		"name": "Snorunt",
 		"id": 361
-	},
-	{
-		"number": "362",
-		"slug": "glalie",
-		"name": "Glalie",
-		"id": 362
 	},
 	{
 		"number": "362",
@@ -2580,12 +2238,6 @@
 		"id": 373
 	},
 	{
-		"number": "373",
-		"slug": "salamence",
-		"name": "Salamence",
-		"id": 373
-	},
-	{
 		"number": "374",
 		"slug": "beldum",
 		"name": "Beldum",
@@ -2596,12 +2248,6 @@
 		"slug": "metang",
 		"name": "Metang",
 		"id": 375
-	},
-	{
-		"number": "376",
-		"slug": "metagross",
-		"name": "Metagross",
-		"id": 376
 	},
 	{
 		"number": "376",
@@ -2634,18 +2280,6 @@
 		"id": 380
 	},
 	{
-		"number": "380",
-		"slug": "latias",
-		"name": "Latias",
-		"id": 380
-	},
-	{
-		"number": "381",
-		"slug": "latios",
-		"name": "Latios",
-		"id": 381
-	},
-	{
 		"number": "381",
 		"slug": "latios",
 		"name": "Latios",
@@ -2658,28 +2292,10 @@
 		"id": 382
 	},
 	{
-		"number": "382",
-		"slug": "kyogre",
-		"name": "Kyogre",
-		"id": 382
-	},
-	{
 		"number": "383",
 		"slug": "groudon",
 		"name": "Groudon",
 		"id": 383
-	},
-	{
-		"number": "383",
-		"slug": "groudon",
-		"name": "Groudon",
-		"id": 383
-	},
-	{
-		"number": "384",
-		"slug": "rayquaza",
-		"name": "Rayquaza",
-		"id": 384
 	},
 	{
 		"number": "384",
@@ -2692,24 +2308,6 @@
 		"slug": "jirachi",
 		"name": "Jirachi",
 		"id": 385
-	},
-	{
-		"number": "386",
-		"slug": "deoxys",
-		"name": "Deoxys",
-		"id": 386
-	},
-	{
-		"number": "386",
-		"slug": "deoxys",
-		"name": "Deoxys",
-		"id": 386
-	},
-	{
-		"number": "386",
-		"slug": "deoxys",
-		"name": "Deoxys",
-		"id": 386
 	},
 	{
 		"number": "386",
@@ -2874,30 +2472,6 @@
 		"id": 412
 	},
 	{
-		"number": "412",
-		"slug": "burmy",
-		"name": "Burmy",
-		"id": 412
-	},
-	{
-		"number": "412",
-		"slug": "burmy",
-		"name": "Burmy",
-		"id": 412
-	},
-	{
-		"number": "413",
-		"slug": "wormadam",
-		"name": "Wormadam",
-		"id": 413
-	},
-	{
-		"number": "413",
-		"slug": "wormadam",
-		"name": "Wormadam",
-		"id": 413
-	},
-	{
 		"number": "413",
 		"slug": "wormadam",
 		"name": "Wormadam",
@@ -2952,28 +2526,10 @@
 		"id": 421
 	},
 	{
-		"number": "421",
-		"slug": "cherrim",
-		"name": "Cherrim",
-		"id": 421
-	},
-	{
 		"number": "422",
 		"slug": "shellos",
 		"name": "Shellos",
 		"id": 422
-	},
-	{
-		"number": "422",
-		"slug": "shellos",
-		"name": "Shellos",
-		"id": 422
-	},
-	{
-		"number": "423",
-		"slug": "gastrodon",
-		"name": "Gastrodon",
-		"id": 423
 	},
 	{
 		"number": "423",
@@ -3004,12 +2560,6 @@
 		"slug": "buneary",
 		"name": "Buneary",
 		"id": 427
-	},
-	{
-		"number": "428",
-		"slug": "lopunny",
-		"name": "Lopunny",
-		"id": 428
 	},
 	{
 		"number": "428",
@@ -3120,12 +2670,6 @@
 		"id": 445
 	},
 	{
-		"number": "445",
-		"slug": "garchomp",
-		"name": "Garchomp",
-		"id": 445
-	},
-	{
 		"number": "446",
 		"slug": "munchlax",
 		"name": "Munchlax",
@@ -3136,12 +2680,6 @@
 		"slug": "riolu",
 		"name": "Riolu",
 		"id": 447
-	},
-	{
-		"number": "448",
-		"slug": "lucario",
-		"name": "Lucario",
-		"id": 448
 	},
 	{
 		"number": "448",
@@ -3214,12 +2752,6 @@
 		"slug": "snover",
 		"name": "Snover",
 		"id": 459
-	},
-	{
-		"number": "460",
-		"slug": "abomasnow",
-		"name": "Abomasnow",
-		"id": 460
 	},
 	{
 		"number": "460",
@@ -3318,12 +2850,6 @@
 		"id": 475
 	},
 	{
-		"number": "475",
-		"slug": "gallade",
-		"name": "Gallade",
-		"id": 475
-	},
-	{
 		"number": "476",
 		"slug": "probopass",
 		"name": "Probopass",
@@ -3340,36 +2866,6 @@
 		"slug": "froslass",
 		"name": "Froslass",
 		"id": 478
-	},
-	{
-		"number": "479",
-		"slug": "rotom",
-		"name": "Rotom",
-		"id": 479
-	},
-	{
-		"number": "479",
-		"slug": "rotom",
-		"name": "Rotom",
-		"id": 479
-	},
-	{
-		"number": "479",
-		"slug": "rotom",
-		"name": "Rotom",
-		"id": 479
-	},
-	{
-		"number": "479",
-		"slug": "rotom",
-		"name": "Rotom",
-		"id": 479
-	},
-	{
-		"number": "479",
-		"slug": "rotom",
-		"name": "Rotom",
-		"id": 479
 	},
 	{
 		"number": "479",
@@ -3426,12 +2922,6 @@
 		"id": 487
 	},
 	{
-		"number": "487",
-		"slug": "giratina",
-		"name": "Giratina",
-		"id": 487
-	},
-	{
 		"number": "488",
 		"slug": "cresselia",
 		"name": "Cresselia",
@@ -3460,114 +2950,6 @@
 		"slug": "shaymin",
 		"name": "Shaymin",
 		"id": 492
-	},
-	{
-		"number": "492",
-		"slug": "shaymin",
-		"name": "Shaymin",
-		"id": 492
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
-	},
-	{
-		"number": "493",
-		"slug": "arceus",
-		"name": "Arceus",
-		"id": 493
 	},
 	{
 		"number": "493",
@@ -3804,12 +3186,6 @@
 		"id": 531
 	},
 	{
-		"number": "531",
-		"slug": "audino",
-		"name": "Audino",
-		"id": 531
-	},
-	{
 		"number": "532",
 		"slug": "timburr",
 		"name": "Timburr",
@@ -3924,12 +3300,6 @@
 		"id": 550
 	},
 	{
-		"number": "550",
-		"slug": "basculin",
-		"name": "Basculin",
-		"id": 550
-	},
-	{
 		"number": "551",
 		"slug": "sandile",
 		"name": "Sandile",
@@ -3952,12 +3322,6 @@
 		"slug": "darumaka",
 		"name": "Darumaka",
 		"id": 554
-	},
-	{
-		"number": "555",
-		"slug": "darmanitan",
-		"name": "Darmanitan",
-		"id": 555
 	},
 	{
 		"number": "555",
@@ -4144,42 +3508,6 @@
 		"slug": "deerling",
 		"name": "Deerling",
 		"id": 585
-	},
-	{
-		"number": "585",
-		"slug": "deerling",
-		"name": "Deerling",
-		"id": 585
-	},
-	{
-		"number": "585",
-		"slug": "deerling",
-		"name": "Deerling",
-		"id": 585
-	},
-	{
-		"number": "585",
-		"slug": "deerling",
-		"name": "Deerling",
-		"id": 585
-	},
-	{
-		"number": "586",
-		"slug": "sawsbuck",
-		"name": "Sawsbuck",
-		"id": 586
-	},
-	{
-		"number": "586",
-		"slug": "sawsbuck",
-		"name": "Sawsbuck",
-		"id": 586
-	},
-	{
-		"number": "586",
-		"slug": "sawsbuck",
-		"name": "Sawsbuck",
-		"id": 586
 	},
 	{
 		"number": "586",
@@ -4518,18 +3846,6 @@
 		"id": 641
 	},
 	{
-		"number": "641",
-		"slug": "tornadus",
-		"name": "Tornadus",
-		"id": 641
-	},
-	{
-		"number": "642",
-		"slug": "thundurus",
-		"name": "Thundurus",
-		"id": 642
-	},
-	{
 		"number": "642",
 		"slug": "thundurus",
 		"name": "Thundurus",
@@ -4554,24 +3870,6 @@
 		"id": 645
 	},
 	{
-		"number": "645",
-		"slug": "landorus",
-		"name": "Landorus",
-		"id": 645
-	},
-	{
-		"number": "646",
-		"slug": "kyurem",
-		"name": "Kyurem",
-		"id": 646
-	},
-	{
-		"number": "646",
-		"slug": "kyurem",
-		"name": "Kyurem",
-		"id": 646
-	},
-	{
 		"number": "646",
 		"slug": "kyurem",
 		"name": "Kyurem",
@@ -4582,18 +3880,6 @@
 		"slug": "keldeo",
 		"name": "Keldeo",
 		"id": 647
-	},
-	{
-		"number": "647",
-		"slug": "keldeo",
-		"name": "Keldeo",
-		"id": 647
-	},
-	{
-		"number": "648",
-		"slug": "meloetta",
-		"name": "Meloetta",
-		"id": 648
 	},
 	{
 		"number": "648",
@@ -4662,12 +3948,6 @@
 		"id": 658
 	},
 	{
-		"number": "658",
-		"slug": "greninja",
-		"name": "Greninja",
-		"id": 658
-	},
-	{
 		"number": "659",
 		"slug": "bunnelby",
 		"name": "Bunnelby",
@@ -4728,12 +4008,6 @@
 		"id": 668
 	},
 	{
-		"number": "668",
-		"slug": "pyroar",
-		"name": "Pyroar",
-		"id": 668
-	},
-	{
 		"number": "669",
 		"slug": "flabebe",
 		"name": "Flabébé",
@@ -4782,34 +4056,10 @@
 		"id": 676
 	},
 	{
-		"number": "676",
-		"slug": "furfrou",
-		"name": "Furfrou",
-		"id": 676
-	},
-	{
-		"number": "676",
-		"slug": "furfrou",
-		"name": "Furfrou",
-		"id": 676
-	},
-	{
-		"number": "676",
-		"slug": "furfrou",
-		"name": "Furfrou",
-		"id": 676
-	},
-	{
 		"number": "677",
 		"slug": "espurr",
 		"name": "Espurr",
 		"id": 677
-	},
-	{
-		"number": "678",
-		"slug": "meowstic",
-		"name": "Meowstic",
-		"id": 678
 	},
 	{
 		"number": "678",
@@ -4828,12 +4078,6 @@
 		"slug": "doublade",
 		"name": "Doublade",
 		"id": 680
-	},
-	{
-		"number": "681",
-		"slug": "aegislash",
-		"name": "Aegislash",
-		"id": 681
 	},
 	{
 		"number": "681",
@@ -5016,42 +4260,6 @@
 		"id": 710
 	},
 	{
-		"number": "710",
-		"slug": "pumpkaboo",
-		"name": "Pumpkaboo",
-		"id": 710
-	},
-	{
-		"number": "710",
-		"slug": "pumpkaboo",
-		"name": "Pumpkaboo",
-		"id": 710
-	},
-	{
-		"number": "710",
-		"slug": "pumpkaboo",
-		"name": "Pumpkaboo",
-		"id": 710
-	},
-	{
-		"number": "711",
-		"slug": "gourgeist",
-		"name": "Gourgeist",
-		"id": 711
-	},
-	{
-		"number": "711",
-		"slug": "gourgeist",
-		"name": "Gourgeist",
-		"id": 711
-	},
-	{
-		"number": "711",
-		"slug": "gourgeist",
-		"name": "Gourgeist",
-		"id": 711
-	},
-	{
 		"number": "711",
 		"slug": "gourgeist",
 		"name": "Gourgeist",
@@ -5100,34 +4308,10 @@
 		"id": 718
 	},
 	{
-		"number": "718",
-		"slug": "zygarde",
-		"name": "Zygarde",
-		"id": 718
-	},
-	{
-		"number": "718",
-		"slug": "zygarde",
-		"name": "Zygarde",
-		"id": 718
-	},
-	{
 		"number": "719",
 		"slug": "diancie",
 		"name": "Diancie",
 		"id": 719
-	},
-	{
-		"number": "719",
-		"slug": "diancie",
-		"name": "Diancie",
-		"id": 719
-	},
-	{
-		"number": "720",
-		"slug": "hoopa",
-		"name": "Hoopa",
-		"id": 720
 	},
 	{
 		"number": "720",
@@ -5262,24 +4446,6 @@
 		"id": 741
 	},
 	{
-		"number": "741",
-		"slug": "oricorio",
-		"name": "Oricorio",
-		"id": 741
-	},
-	{
-		"number": "741",
-		"slug": "oricorio",
-		"name": "Oricorio",
-		"id": 741
-	},
-	{
-		"number": "741",
-		"slug": "oricorio",
-		"name": "Oricorio",
-		"id": 741
-	},
-	{
 		"number": "742",
 		"slug": "cutiefly",
 		"name": "Cutiefly",
@@ -5302,18 +4468,6 @@
 		"slug": "lycanroc",
 		"name": "Lycanroc",
 		"id": 745
-	},
-	{
-		"number": "745",
-		"slug": "lycanroc",
-		"name": "Lycanroc",
-		"id": 745
-	},
-	{
-		"number": "746",
-		"slug": "wishiwashi",
-		"name": "Wishiwashi",
-		"id": 746
 	},
 	{
 		"number": "746",
@@ -5482,12 +4636,6 @@
 		"slug": "silvally",
 		"name": "Silvally",
 		"id": 773
-	},
-	{
-		"number": "774",
-		"slug": "minior",
-		"name": "Minior",
-		"id": 774
 	},
 	{
 		"number": "774",
